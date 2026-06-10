@@ -56,7 +56,7 @@ INPUT STATUS (as of last check)
   #    name. BUMP $ver every build (the existing versioned zip is the old one).
   #    Also keeps a timestamped copy in out\_archive\ (never overwritten) and a
   #    convenience "latest" pointer at out\patch-switch.zip.
-  $ver = "0.02"                                   # <-- BUMP every build
+  $ver = "0.03"                                   # <-- BUMP every build
   $ts  = Get-Date -Format "yyyyMMdd-HHmmss"
   New-Item -ItemType Directory -Force out\_archive | Out-Null
   Compress-Archive -Path "out\01005940182ec000\" -Destination "out\_archive\patch-en-$ts.zip" -Force

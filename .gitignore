@@ -1,3 +1,6 @@
+# Local-only Claude Code context (not published with the repo)
+CLAUDE.md
+
 __pycache__/
 *.py[cod]
 *$py.class

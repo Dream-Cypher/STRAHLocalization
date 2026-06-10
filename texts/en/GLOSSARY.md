@@ -51,7 +51,7 @@ script CSVs). Top ~10 cover the large majority of all dialogue.
 
 菱形窓 = Sou Hishigata                         [843]
 
-小弓場かおり = Kaori Koyumiba                   [734]
+小弓場かおり = Kaori Koyuba                     [734]
 
 凸村哲 = Tetsu Totsumura                        [581]
 
@@ -78,8 +78,8 @@ script CSVs). Top ~10 cover the large majority of all dialogue.
 
 ハイネ = Haine
 トキコ = Tokiko
-小舟アラン = Alan Kofune
-  小舟アラン（影アラン） = Alan Kofune (Shadow Alan)
+小舟アラン = Alain Kofune
+  小舟アラン（影アラン） = Alain Kofune (Shadow Alain)
 南方波稲 = Hoine Minakata
   波稲 = Hoine
 小早川朝子 = Asako Kobayakawa
@@ -173,8 +173,11 @@ since these exact terms recur throughout the dialogue.
   - ハイネ → **Haine** (was "Heine" — corrected everywhere, incl. the
     `talker_013` name plate). Confirmed by both the official wiki *and* the subs.
   - エリカ → **Erika** (was "Erica" — minor; unified across all lines).
-  - 小舟アラン → still **Alan** for now; the official release uses the French
-    spelling *Alain* (UNDECIDED — left as Alan pending a call).
+  - 小舟アラン → **Alain** (French spelling; was "Alan" — corrected everywhere,
+    incl. the `talker_012` / `talker_012s` name plates). Confirmed by both
+    en.wikipedia *and* VNDB's entry for this game.
+  - 小弓場かおり → **Kaori Koyuba** (was "Koyumiba"; 弓 read as "yu", not
+    "yumi"). Per VNDB, user-confirmed; `talker_020` plate regenerated.
 
 These are now baked into section 1's formatting — you don't need to do
 anything further with them other than tell the AI to follow the same

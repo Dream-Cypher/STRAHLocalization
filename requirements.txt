@@ -1,1 +1,6 @@
-openpyxl>=3.1
+# Build dependencies (scripts/).
+# The core pipeline (convert_csv_to_json.py) is pure Python stdlib — nothing to
+# install for a plain text build. These two are only needed to regenerate the
+# image-form text assets (scripts/make_overlays.py, scripts/make_sprites.py).
+UnityPy>=1.20
+Pillow>=10

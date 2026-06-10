@@ -120,9 +120,11 @@ MOVING TO ANOTHER PC
   NOT needed for the default build: network, Ollama, or any pip install.
   Optional extras and their deps:
     - Re-translate dialogue : an Ollama server. NOTE the scripts target
-      10.219.72.133 (a specific LAN). Elsewhere, run Ollama and edit OLLAMA_HOST
-      in scripts\translate_files.py.  (Python stdlib only.)
-    - Regenerate sprites     : pip install Pillow  (for scripts\make_sprites.py)
+      10.219.72.133 (a specific LAN). Elsewhere, run Ollama and set the OLLAMA_IP
+      env var. The translation/QA tooling lives in local-scripts\ (gitignored,
+      not part of the repo) — e.g. local-scripts\translate_files.py. (Stdlib only.)
+    - Regenerate sprites     : pip install -r requirements.txt (UnityPy + Pillow)
+                               for scripts\make_overlays.py / scripts\make_sprites.py
     - Recompile the helper   : .NET 8 SDK
 
   PATHS ARE RELATIVE (helper is a sibling repo, ..\STRAHLocalizationHelper):

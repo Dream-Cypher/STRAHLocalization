@@ -25,6 +25,12 @@ out/
 # python venv (deps live in requirements.txt; not committed)
 .venv/
 
+# local-scripts/ = translation grunt-work + QA tooling (LLM calls, cleanup
+# passes, the review/audit/sheet pipeline). NOT needed to build the patch and
+# changes frequently, so kept local-only. The repo ships only the build
+# scripts in scripts/. See local-scripts/requirements.txt for its deps.
+local-scripts/
+
 # issues/ is a local working area for the translation-review pipeline. None of
 # it is the source of truth (apply_review_fixes.py writes fixes into texts/en/,
 # and git history of texts/en/ is the authoritative change record):

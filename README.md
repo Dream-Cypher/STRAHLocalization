@@ -1,4 +1,4 @@
-# Summertime Render: Another Horizon — English Localization
+# Summer Time Rendering: Another Horizon — English Localization
 
 [![CC-BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
@@ -21,7 +21,7 @@ Unlike the original (which left some image-based text in Japanese), this fork al
 - **QTE / action prompts** (the `adv_action_*` images)
 - The in-game **manual** pages
 
-Character-name spellings follow the official *Summertime Render* romanizations
+Character-name spellings follow the official *Summer Time Rendering* romanizations
 (e.g. Kofune, Minakata, Sou Hishigata). The full glossary is in
 [`texts/en/GLOSSARY.md`](texts/en/GLOSSARY.md).
 

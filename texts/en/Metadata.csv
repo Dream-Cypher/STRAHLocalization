@@ -1,0 +1,188 @@
+source,target,id,developer_comments
+metadata#0x0000efbb+10,Delete,metadata#0x0000efbb+10,
+metadata#0x00028382+35,Steam is not running.,metadata#0x00028382+35,
+metadata#0x0003b4a5+245,"■ Copyright Notice ■
+
+This software uses ""CRIWARE (TM)"" by CRI Middleware Co., Ltd. 
+
+Supported by Fontworks Co., Ltd.",metadata#0x0003b4a5+245,
+metadata#0x0003b5fa+88,"Cancel checking the save data for ""%TITLE_NAME%""?",metadata#0x0003b5fa+88,
+metadata#0x0003b652+72,"Checking save data for ""%TITLE_NAME%"".",metadata#0x0003b652+72,
+metadata#0x0003b72d+18,Kaori Route,metadata#0x0003b72d+18,
+metadata#0x0003b73f+51,Save your progress so far?,metadata#0x0003b73f+51,
+metadata#0x0003b772+36,Return to this scene?,metadata#0x0003b772+36,
+metadata#0x0003b796+51,Load this save data?,metadata#0x0003b796+51,
+metadata#0x0003b7c9+48,Delete this save data?,metadata#0x0003b7c9+48,
+metadata#0x0003b7f9+48,Erase this save data?,metadata#0x0003b7f9+48,
+metadata#0x0003b829+73,"This action cannot be undone.
+Are you sure?",metadata#0x0003b829+73,
+metadata#0x0003b872+33,Is this okay?,metadata#0x0003b872+33,
+metadata#0x0003b893+36,Please wait a moment.,metadata#0x0003b893+36,
+metadata#0x0003b8b7+122,"Please wait a moment.
+
+Do not turn off the console or exit the game.",metadata#0x0003b8b7+122,
+metadata#0x0003b931+6,Yes,metadata#0x0003b931+6,
+metadata#0x0003b937+16,"Yes, No",metadata#0x0003b937+16,
+metadata#0x0003b947+18,Hizuru Route,metadata#0x0003b947+18,
+metadata#0x0003b95f+15,Epilogue,metadata#0x0003b95f+15,
+metadata#0x0003b96e+42,Epilogue has been unlocked.,metadata#0x0003b96e+42,
+metadata#0x0003b998+27,Epilogue · Kaori,metadata#0x0003b998+27,
+metadata#0x0003b9b3+27,Epilogue · Hizuru,metadata#0x0003b9b3+27,
+metadata#0x0003b9ce+21,Epilogue · Ushio,metadata#0x0003b9ce+21,
+metadata#0x0003b9e3+21,Epilogue · Mio,metadata#0x0003b9e3+21,
+metadata#0x0003b9f8+60,Cannot save here as it is an auto-save point.,metadata#0x0003b9f8+60,
+metadata#0x0003ba34+54,Reset key configuration settings?,metadata#0x0003ba34+54,
+metadata#0x0003ba6a+36,Quick save completed.,metadata#0x0003ba6a+36,
+metadata#0x0003ba8e+36,Quick save?,metadata#0x0003ba8e+36,
+metadata#0x0003bab2+63,Cannot save here as it is a quick save point.,metadata#0x0003bab2+63,
+metadata#0x0003baf1+21,Quick Load,metadata#0x0003baf1+21,
+metadata#0x0003bb06+36,Quick load completed.,metadata#0x0003bb06+36,
+metadata#0x0003bb2a+36,Quick load?,metadata#0x0003bb2a+36,
+metadata#0x0003bb4e+33,End the game?,metadata#0x0003bb4e+33,
+metadata#0x0003bb6f+45,Reset sound settings?,metadata#0x0003bb6f+45,
+metadata#0x0003bb9c+48,System data is damaged.,metadata#0x0003bb9c+48,
+metadata#0x0003bbcc+147,"System data is damaged.
+
+Delete the damaged system data and
+create new system data.",metadata#0x0003bbcc+147,
+metadata#0x0003bc5f+119,"System data is damaged.
+
+All unreadable system data will be deleted.",metadata#0x0003bc5f+119,
+metadata#0x0003bcd6+54,Failed to create system data.,metadata#0x0003bcd6+54,
+metadata#0x0003bd0c+137,"Saving system data.
+
+Do not turn off the console or exit the game.",metadata#0x0003bd0c+137,
+metadata#0x0003bd95+48,Loaded system data.,metadata#0x0003bd95+48,
+metadata#0x0003bdc5+134,"Creating system data.
+
+Do not turn off the console or exit the game.",metadata#0x0003bdc5+134,
+metadata#0x0003be4b+45,Created system data.,metadata#0x0003be4b+45,
+metadata#0x0003be78+45,Reset system settings?,metadata#0x0003be78+45,
+metadata#0x0003bea5+42,End scene playback?,metadata#0x0003bea5+42,
+metadata#0x0003becf+45,Scene data is damaged.,metadata#0x0003becf+45,
+metadata#0x0003befc+113,"Saving.
+
+Do not turn off the console or exit the game.",metadata#0x0003befc+113,
+metadata#0x0003bf6d+24,Saved.,metadata#0x0003bf6d+24,
+metadata#0x0003bf85+33,Save failed.,metadata#0x0003bf85+33,
+metadata#0x0003bfa6+42,Cancel save?,metadata#0x0003bfa6+42,
+metadata#0x0003bfd0+39,No save data.,metadata#0x0003bfd0+39,
+metadata#0x0003bff7+45,Save data is damaged.,metadata#0x0003bff7+45,
+metadata#0x0003c024+138,"Save data is damaged.
+
+Delete the damaged save data and
+create new save data.",metadata#0x0003c024+138,
+metadata#0x0003c0ae+113,"Save data is damaged.
+
+All unreadable save data will be deleted.",metadata#0x0003c0ae+113,
+metadata#0x0003c11f+51,Failed to create save data.,metadata#0x0003c11f+51,
+metadata#0x0003c152+51,Checking save data.,metadata#0x0003c152+51,
+metadata#0x0003c185+45,Load save data?,metadata#0x0003c185+45,
+metadata#0x0003c1b2+45,Overwrite save data?,metadata#0x0003c1b2+45,
+metadata#0x0003c1df+131,"Creating save data.
+
+Do not turn off the console or exit the game.",metadata#0x0003c1df+131,
+metadata#0x0003c262+42,Created save data.,metadata#0x0003c262+42,
+metadata#0x0003c28c+33,Return to title?,metadata#0x0003c28c+33,
+metadata#0x0003c2ad+92,"Return to title?
+
+Unsaved data will be lost.",metadata#0x0003c2ad+92,
+metadata#0x0003c309+163,"Return to title?
+
+Save before returning.
+Unsaved data will be
+lost when the game ends.",metadata#0x0003c309+163,
+metadata#0x0003c3ac+175,"Return to title?
+Save data will be saved.
+
+Do not turn off the console or exit the game
+while saving.",metadata#0x0003c3ac+175,
+metadata#0x0003c45b+36,Save the data?,metadata#0x0003c45b+36,
+metadata#0x0003c47f+9,Stage Dir,metadata#0x0003c47f+9,
+metadata#0x0003c488+42,Save the play results?,metadata#0x0003c488+42,
+metadata#0x0003c4b2+27,Project Specific 1,metadata#0x0003c4b2+27,
+metadata#0x0003c4cd+27,Project Specific 2,metadata#0x0003c4cd+27,
+metadata#0x0003c4e8+42,Reset voice settings?,metadata#0x0003c4e8+42,
+metadata#0x0003c512+48,Reset message settings?,metadata#0x0003c512+48,
+metadata#0x0003c542+24,Route: Tetsu Totsumura,metadata#0x0003c542+24,
+metadata#0x0003c55a+30,Route: Hizuru Minakata,metadata#0x0003c55a+30,
+metadata#0x0003c578+33,Route: Kaori Koyumiba,metadata#0x0003c578+33,
+metadata#0x0003c599+24,Route: Ushio Kofune,metadata#0x0003c599+24,
+metadata#0x0003c5b1+24,Route: Mio Kofune,metadata#0x0003c5b1+24,
+metadata#0x0003c5c9+30,Route: Tokiko Hishigata,metadata#0x0003c5c9+30,
+metadata#0x0003c5e7+9,Load,metadata#0x0003c5e7+9,
+metadata#0x0003c5f0+113,"Loading.
+
+Do not turn off the console or exit the game.",metadata#0x0003c5f0+113,
+metadata#0x0003c661+24,Loaded.,metadata#0x0003c661+24,
+metadata#0x0003c679+33,Load failed.,metadata#0x0003c679+33,
+metadata#0x0003c69a+42,Cancel load?,metadata#0x0003c69a+42,
+metadata#0x0003c768+9,Protag,metadata#0x0003c768+9,
+metadata#0x0003c771+6,Lead,metadata#0x0003c771+6,
+metadata#0x0003c777+73,"Allowed characters are hiragana, katakana, and kanji.",metadata#0x0003c777+73,
+metadata#0x0003c7c0+15,Common Route,metadata#0x0003c7c0+15,
+metadata#0x0003c7cf+15,Tetsu Route,metadata#0x0003c7cf+15,
+metadata#0x0003c7de+3,Min,metadata#0x0003c7de+3,
+metadata#0x0003c7e1+33,Reset to initial settings?,metadata#0x0003c7e1+33,
+metadata#0x0003c802+21,Deleted.,metadata#0x0003c802+21,
+metadata#0x0003c817+30,Delete failed.,metadata#0x0003c817+30,
+metadata#0x0003c835+39,Cancel deletion?,metadata#0x0003c835+39,
+metadata#0x0003c85c+9,Separator,metadata#0x0003c85c+9,
+metadata#0x0003c865+12,Separator ·,metadata#0x0003c865+12,
+metadata#0x0003c871+36,Enter a name.,metadata#0x0003c871+36,
+metadata#0x0003c895+42,Reset name to initial settings?,metadata#0x0003c895+42,
+metadata#0x0003c8bf+45,End without changing the name?,metadata#0x0003c8bf+45,
+metadata#0x0003c8ec+3,Big,metadata#0x0003c8ec+3,
+metadata#0x0003c8ef+6,Taisho,metadata#0x0003c8ef+6,
+metadata#0x0003c8f5+6,山下,metadata#0x0003c8f5+6,
+metadata#0x0003c8fb+12,Rewind,metadata#0x0003c8fb+12,
+metadata#0x0003c907+3,平,metadata#0x0003c907+3,
+metadata#0x0003c90a+6,Heisei,metadata#0x0003c90a+6,
+metadata#0x0003c910+3,年,metadata#0x0003c910+3,
+metadata#0x0003c913+18,Force Skip,metadata#0x0003c913+18,
+metadata#0x0003c925+64,"Start with new data.
+Okay?",metadata#0x0003c925+64,
+metadata#0x0003c965+39,Create new data?,metadata#0x0003c965+39,
+metadata#0x0003c98c+104,"Create new data?
+
+If data already exists, it will be overwritten.",metadata#0x0003c98c+104,
+metadata#0x0003c9f4+6,Narr,metadata#0x0003c9f4+6,
+metadata#0x0003c9fa+18,Read Skip,metadata#0x0003c9fa+18,
+metadata#0x0003ca0c+3,Day,metadata#0x0003ca0c+3,
+metadata#0x0003ca0f+3,时,metadata#0x0003ca0f+3,
+metadata#0x0003ca12+3,明,metadata#0x0003ca12+3,
+metadata#0x0003ca15+6,Meiji,metadata#0x0003ca15+6,
+metadata#0x0003ca1b+3,昭,metadata#0x0003ca1b+3,
+metadata#0x0003ca1e+6,Shouwa,metadata#0x0003ca1e+6,
+metadata#0x0003ca24+3,時,metadata#0x0003ca24+3,
+metadata#0x0003ca27+3,月,metadata#0x0003ca27+3,
+metadata#0x0003ca2a+18,Tokiko Route,metadata#0x0003ca2a+18,
+metadata#0x0003ca3c+21,Deleted.,metadata#0x0003ca3c+21,
+metadata#0x0003ca51+30,Delete failed.,metadata#0x0003ca51+30,
+metadata#0x0003ca6f+39,Cancel deletion?,metadata#0x0003ca6f+39,
+metadata#0x0003ca96+12,Ushio Route,metadata#0x0003ca96+12,
+metadata#0x0003caa2+12,Mio Route,metadata#0x0003caa2+12,
+metadata#0x0003caae+63,Delete current data and create new?,metadata#0x0003caae+63,
+metadata#0x0003caed+61,"Return to previous choices.
+Is this okay?",metadata#0x0003caed+61,
+metadata#0x0003cb2a+3,Sec,metadata#0x0003cb2a+3,
+metadata#0x0003cb2d+3,Ch,metadata#0x0003cb2d+3,
+metadata#0x0003cb30+6,View,metadata#0x0003cb30+6,
+metadata#0x0003cb36+57,No additional content found.,metadata#0x0003cb36+57,
+metadata#0x0003cb6f+60,Failed to load additional content.,metadata#0x0003cb6f+60,
+metadata#0x0003cbab+134,"Delete selected data?
+Game progress, tips, and album information will be lost.",metadata#0x0003cbab+134,
+metadata#0x0003cc31+140,"Start from selected location.
+Is this okay?
+※Progress data will reset to starting point.",metadata#0x0003cc31+140,
+metadata#0x0003ccbd+3,Pt,metadata#0x0003ccbd+3,
+metadata#0x0003ccc0+9,Close,metadata#0x0003ccc0+9,
+metadata#0x0003ccc9+101,"Select starting location.
+Can start from START or CHECK POINT blocks.",metadata#0x0003ccc9+101,
+metadata#0x0003cd2e+9,Hide,metadata#0x0003cd2e+9,
+metadata#0x0003ce3b+27,-Quick Load-,metadata#0x0003ce3b+27,
+metadata#0x0003ce56+15,-Load-,metadata#0x0003ce56+15,
+metadata#0x0003ce65+18,-Rewind-,metadata#0x0003ce65+18,
+metadata#0x0003d066+15,??/??,metadata#0x0003d066+15,
+metadata#0x0003d0d8+46,Is it okay to use [PLAYER_NAME]?,metadata#0x0003d0d8+46,
+metadata#0x0003d106+39,Is it okay to use [TEXT]?,metadata#0x0003d106+39,

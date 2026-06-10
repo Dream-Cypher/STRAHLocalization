@@ -1,0 +1,124 @@
+source,target,id,developer_comments
+XCHAPTITLE_0002,32. The Mystery Cipher,XCHAPTITLE_0002,
+XMESS_0000,"(But no one knows the contact info.
+How am I supposed to find them…?)",XMESS_0000,網代慎平
+XMESS_0001,"Hey, Shinpei.
+Can you check this for me?",XMESS_0001,小舟アラン
+XMESS_0002,What?,XMESS_0002,網代慎平
+XMESS_0003,"I forgot to mention it earlier…
+When I asked Hizuru for the contact info, this was given to me.
+I don't get it at all.",XMESS_0003,小舟アラン
+XMESS_0004,Huh…!,XMESS_0004,網代慎平
+XMESS_0005,"(Contact info!!!
+Nagumo-sensei's!!!)",XMESS_0005,網代慎平
+XMESS_0006,This… Nagumo-sensei gave this…,XMESS_0006,網代慎平
+XMESS_0007,"That's right, but
+this looks like a code to me.
+He's really strange…",XMESS_0007,小舟アラン
+XMESS_0008,"(This is the contact info?
+What's going on?
+Just like Alan said, it's clearly a code---)",XMESS_0008,網代慎平
+XMESS_0009,"(Oh!?
+A code…!!)",XMESS_0009,網代慎平
+XMESS_0010,"Sorry Shinpei.
+I need to go to the bathroom…",XMESS_0010,小舟アラン
+XMESS_0011,This… this code…!,XMESS_0011,網代慎平
+XMESS_0012,"(I've seen something like this before!!!
+In Nagumo-sensei's ""Drift,"" there's an
+<color=#GF_TIPS_096>unbreakable cipher</color>---""Tammu Shudd""!!!)",XMESS_0012,網代慎平
+XMESS_0013,"(Now, the solution to this cipher is---",XMESS_0013,網代慎平
+XMESS_0014,(…),XMESS_0014,網代慎平
+XMESS_0015,(Good! I managed to crack it…!),XMESS_0015,網代慎平
+XMESS_0016,"(This string of numbers…
+It's a phone number.
+I was right about the contact info!)",XMESS_0016,網代慎平
+XMESS_0017,I'll give it a try.,XMESS_0017,網代慎平
+XMESS_0018,…,XMESS_0018,網代慎平
+XMESS_0019,(Hi! Is this Nagumo-sensei!?),XMESS_0019,網代慎平
+XMESS_0020,…,XMESS_0020,男の声（根津銀次郎）
+XMESS_0021,…Who are you?,XMESS_0021,男の声（根津銀次郎）
+XMESS_0022,!?,XMESS_0022,網代慎平
+XMESS_0023,"(It's not Nagumo-sensei…
+A hoarse man's voice…
+I've heard it somewhere…)",XMESS_0023,網代慎平
+XMESS_0024,"If you're asking for someone's name, introduce yourself first.
+That's basic manners, isn't it…?",XMESS_0024,男の声（根津銀次郎）
+XMESS_0025,"Ah, um…",XMESS_0025,網代慎平
+XMESS_0026,"I'm Shinpei Ajiro…
+Who are you…?",XMESS_0026,網代慎平
+XMESS_0027,…,XMESS_0027,男の声（根津銀次郎）
+XMESS_0028,"So… you're here already.
+Faster than I expected.",XMESS_0028,男の声（根津銀次郎）
+XMESS_0029,"I'm Nezu.
+Ginjiro Nezu.",XMESS_0029,根津銀次郎
+XMESS_0030,"(…Nezu-san!
+The one who talked about the Shadow Sickness at Koba Mart before the first loop!)",XMESS_0030,網代慎平
+XMESS_0031,"I know Nagumo-sensei
+a little.",XMESS_0031,根津銀次郎
+XMESS_0032,"How did you find out?
+You… know this number?",XMESS_0032,根津銀次郎
+XMESS_0033,Nagumo-sensei gave this cipher to Alan…,XMESS_0033,網代慎平
+XMESS_0034,You cracked it?,XMESS_0034,根津銀次郎
+XMESS_0035,"Y-yes!!!
+There's a similar cipher in Nagumo-sensei's book…",XMESS_0035,網代慎平
+XMESS_0036,"In the story, the solution isn't revealed,
+but it's designed to be deduced logically…",XMESS_0036,網代慎平
+XMESS_0037,"When I tried applying that solution to convert the characters…
+It became an 11-digit number.
+So it's probably a phone number…",XMESS_0037,網代慎平
+XMESS_0038,Hm…,XMESS_0038,根津銀次郎
+XMESS_0039,You… are at the funeral hall now?,XMESS_0039,根津銀次郎
+XMESS_0040,Yes!,XMESS_0040,網代慎平
+XMESS_0041,Then get out to the front.,XMESS_0041,根津銀次郎
+XMESS_0042,Huh…?,XMESS_0042,網代慎平
+XMESS_0043,"Alone!
+I'll contact you again.",XMESS_0043,根津銀次郎
+XMESS_0044,"Wait!!!
+Hello?!",XMESS_0044,網代慎平
+XMESS_0045,…,XMESS_0045,網代慎平
+XMESS_0046,"(As he said, I came out alone…
+But there's no one here?)",XMESS_0046,網代慎平
+XMESS_0047,!!,XMESS_0047,網代慎平
+XMESS_0048,"Hello?!
+Nezu-san… I'm here!!!",XMESS_0048,網代慎平
+XMESS_0049,"Good…
+Alone?",XMESS_0049,根津銀次郎
+XMESS_0050,"Yes!
+Of course!",XMESS_0050,網代慎平
+XMESS_0051,…,XMESS_0051,根津銀次郎
+XMESS_0052,"Um…
+What should I do from here…!?",XMESS_0052,網代慎平
+XMESS_0053,Don't move.,XMESS_0053,根津銀次郎
+XMESS_0054,Huh!?,XMESS_0054,網代慎平
+XMESS_0055,"Like a scarecrow…
+Just stand there.",XMESS_0055,根津銀次郎
+XMESS_0056,(What is this…!?),XMESS_0056,網代慎平
+XMESS_0057,It'll be over soon…,XMESS_0057,根津銀次郎
+XMESS_0058,…!?,XMESS_0058,網代慎平
+XMESS_0059,…What…?,XMESS_0059,網代慎平
+XMESS_0060,"Wait…
+You're kidding me…!!!",XMESS_0060,網代慎平
+XMESS_0061,(There's a hole in the ground…!!!),XMESS_0061,網代慎平
+XMESS_0062,"Did you just shoot something?
+Nezu-san!?",XMESS_0062,網代慎平
+XMESS_0063,…,XMESS_0063,根津銀次郎
+XMESS_0064,"That was you, Nezu-san…!?",XMESS_0064,網代慎平
+XMESS_0065,It seems… like a human.,XMESS_0065,根津銀次郎
+XMESS_0066,!!,XMESS_0066,網代慎平
+XMESS_0067,"(He shot my shadow…
+To check if I was a Shadow…!?)",XMESS_0067,網代慎平
+XMESS_0068,"Hizuru wants to meet.
+Go to the Fourth Battery Site.",XMESS_0068,根津銀次郎
+XMESS_0069,"Hahaha…
+Even if it's my own shadow, being shot with a gun…
+That's quite an experience…",XMESS_0069,網代慎平
+XMESS_0070,"(Nagumo-sensei…
+I'm finally going to meet you…)",XMESS_0070,網代慎平
+XMESS_0071,"If you've truly returned, kid…",XMESS_0071,南雲竜之介（ひづる）
+XMESS_0072,"Tell me your name.
+I'll definitely save you.",XMESS_0072,南雲竜之介（ひづる）
+XMESS_0073,"(If I can work with Nagumo-sensei from day one…
+I can defeat Mio!!)",XMESS_0073,網代慎平
+XMESS_0074,"(And why does Nagumo-sensei know about Shadows…
+There's so much I need to ask…)",XMESS_0074,網代慎平
+XMESS_0075,"…To the Fourth Battery Site, then.",XMESS_0075,網代慎平

@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+DummyDll/
+maintenance/
+out/
+
+bin/*.xml
+bin/*.pdb
+
+files/normalized/
+texts/**/*.json
+
+# scratch review dumps (regenerable)
+files/_*_samples/
+files/_talker_ja.json
+
+# translation intermediates (regenerable; not needed to build)
+_translations/
+_chunks/
+
+out/
+
+# python venv (deps live in requirements.txt; not committed)
+.venv/
+
+# issues/ is a local working area for the translation-review pipeline. None of
+# it is the source of truth (apply_review_fixes.py writes fixes into texts/en/,
+# and git history of texts/en/ is the authoritative change record):
+#   - translation_review.xlsx : regenerable working doc / shared via OneDrive
+#   - gender_audit_*.csv       : regenerable analysis reports (audit_gender.py)
+#   - applied_fixes_*.csv      : per-run change logs (redundant with git diff)
+issues/*.xlsx
+issues/~$*
+issues/gender_audit_*.csv
+issues/applied_fixes_*.csv

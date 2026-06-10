@@ -1,0 +1,484 @@
+source,target,id,developer_comments
+XCHAPTITLE_0002,"65. Fake Loop, and Unity",XCHAPTITLE_0002,
+XMESS_0000,"Sensei, aren't you hungry?
+I made a sandwich.
+Would you like some…",XMESS_0000,網代慎平
+XMESS_0001,"…You're an unusual guy…
+Even in this situation, making food.",XMESS_0001,南方ひづる
+XMESS_0002,"(Incidentally, Sensei's been wearing gloves all along. Probably hiding those burn marks.)",XMESS_0002,網代慎平
+XMESS_0003,"(Fourteen years ago at Mt. Takanosu,
+the injury to Heine's right eye…)",XMESS_0003,網代慎平
+XMESS_0004,"That day, 
+Ryunosuke-san entered your body.",XMESS_0004,網代慎平
+XMESS_0005,"…Ah, you all saw it too. Our past…",XMESS_0005,南方ひづる
+XMESS_0006,"<Ryūnosuke> entered and I was shocked at first.
+But soon got used to it.",XMESS_0006,南方ひづる
+XMESS_0007,"Ryunosuke is strong like Ushio,
+and I've been saved so many times because of you…",XMESS_0007,網代慎平
+XMESS_0008,"…If I can do it, I want to fight myself.
+Honestly, I don't want to call Ryunosuke here.",XMESS_0008,南方ひづる
+XMESS_0009,"You really care about your siblings, huh, Sensei?",XMESS_0009,網代慎平
+XMESS_0010,Why would that be the case?,XMESS_0010,南方ひづる
+XMESS_0011,"I have an older sister too,
+so I kind of understand.",XMESS_0011,網代慎平
+XMESS_0012,"You don't want to make him fight that terrifying shadow 
+that killed his brother, do you?
+To prevent Ryunosuke from having another scary experience.",XMESS_0012,網代慎平
+XMESS_0013,…You're being way too naive.,XMESS_0013,南方ひづる
+XMESS_0014,Is that so…,XMESS_0014,網代慎平
+XMESS_0015,"It's just for myself. Ryunosuke uses a human body.
+If he fought seriously with his shadow-like reflexes,
+my body would be torn apart easily.",XMESS_0015,南方ひづる
+XMESS_0016,"Back then, my dislocated shoulder & sprained ankle left me immobilized for 4-5 days… Unbelievable.",XMESS_0016,南方ひづる
+XMESS_0017,"(Indeed… 
+You can't survive with a normal body.)",XMESS_0017,網代慎平
+XMESS_0018,"How do you read the shadow's movements tonight, Sensei?",XMESS_0018,網代慎平
+XMESS_0019,"Hmm…
+So far on July 22nd nights Mio came to Kofune,
+but this time I think she'll come here.",XMESS_0019,南方ひづる
+XMESS_0020,"  Mio is mostly ignoring her own self.
+  Mio clearly acts under orders.",XMESS_0020,南方ひづる
+XMESS_0021,"The shadow's instinct to kill the real one is secondary 
+to the command from above…
+That means Heine's order.",XMESS_0021,南方ひづる
+XMESS_0022,"You're turning it to your advantage, huh?",XMESS_0022,網代慎平
+XMESS_0023,Hmph.,XMESS_0023,南方ひづる
+XMESS_0024,"(That strategy for Mio…
+Hopefully it'll work. 
+Yeah, Ushio can do it!)",XMESS_0024,網代慎平
+XMESS_0025,"With this mark on my arm,
+will Heine know where I am?",XMESS_0025,網代慎平
+XMESS_0026,We'll find out soon enough.,XMESS_0026,南方ひづる
+XMESS_0027,"(The enemy is also looping…
+If my location's known…)",XMESS_0027,網代慎平
+XMESS_0028,"It's even more important to act first, then.",XMESS_0028,網代慎平
+XMESS_0029,"Ah. 
+We'll meet them head-on with maximum force from the start!",XMESS_0029,南方ひづる
+XMESS_0030,"Hohoho! It's really him!!!
+It's Kaori Koyumiba!! 
+Real one is way cuter than I thought!!",XMESS_0030,凸村哲
+XMESS_0031,"Ah, ahaha, thank you.",XMESS_0031,小弓場かおり
+XMESS_0032,"Shinpei-kun! Why didn't you tell me first!?!
+If I knew Kaori-chan was coming,
+I would've prepared mentally!!",XMESS_0032,凸村哲
+XMESS_0033,"You're too loud, Totsumura!
+Your voice is way too big.",XMESS_0033,ウシオ
+XMESS_0034,Then there's Ushio…,XMESS_0034,凸村哲
+XMESS_0035,"…Eh?
+Ushi-o-chan…?!",XMESS_0035,凸村哲
+XMESS_0036,EEEEEEEEE!!,XMESS_0036,凸村哲
+XMESS_0037,"In the end, you called Kaori-chan too.",XMESS_0037,ウシオ
+XMESS_0038,"After thinking about it,
+this seems like the best option to me.",XMESS_0038,網代慎平
+XMESS_0039,"Still, I plan to avoid any actions 
+that might let shadows see my form.",XMESS_0039,網代慎平
+XMESS_0040,"Yeah, that's probably fine.",XMESS_0040,ウシオ
+XMESS_0041,"(If Kaori is alone,
+the risk of being scanned and copied increases)",XMESS_0041,網代慎平
+XMESS_0042,"(Honestly, that's still within an acceptable range.)",XMESS_0042,網代慎平
+XMESS_0043,"(The worst part is,
+not being able to know when she dies--)",XMESS_0043,網代慎平
+XMESS_0044,(Which would mean her death becomes certain),XMESS_0044,網代慎平
+XMESS_0045,"(It's not just Kaori, if anyone here dies,
+we can probably save them quickly with the loop)",XMESS_0045,網代慎平
+XMESS_0046,…,XMESS_0046,網代慎平
+XMESS_0047,(Being prepared to die is something I can't tell Kaori…),XMESS_0047,網代慎平
+XMESS_0048,"Shinpei, I finished showing everyone my memories!",XMESS_0048,ウシオ
+XMESS_0049,"Totsumura looked really pale.
+I'll check on him a bit later.",XMESS_0049,網代慎平
+XMESS_0050,"Haha, go ahead then.",XMESS_0050,ウシオ
+XMESS_0051,"Um… it's not a big deal,
+but I've been thinking since returning to my room…",XMESS_0051,小弓場かおり
+XMESS_0052,"You and Shinpei-kun… 
+you went through such a tough battle together.",XMESS_0052,ウシオ
+XMESS_0053,"Haha, sorry about that.  
+My memories were rough, weren't they?
+Maybe you're still feeling…",XMESS_0053,小弓場かおり
+XMESS_0054,No… it's not that.,XMESS_0054,小弓場かおり
+XMESS_0055,Huh?,XMESS_0055,ウシオ
+XMESS_0056,"I…
+Even though I can't be you,",XMESS_0056,小弓場かおり
+XMESS_0057,"I've decided to fight 
+to save someone important with my own strength and abilities.",XMESS_0057,ウシオ
+XMESS_0058,"That's all I wanted to say!
+Don't take it too seriously, okay??",XMESS_0058,小弓場かおり
+XMESS_0059,"Kaori-chan, that…",XMESS_0059,小弓場かおり
+XMESS_0060,…,XMESS_0060,小弓場かおり
+XMESS_0061,"That's super cool!
+Kaori-chan, you're strong!!",XMESS_0061,ウシオ
+XMESS_0062,"Me… being strong?
+Do I really seem like that?",XMESS_0062,小弓場かおり
+XMESS_0063,"You can rely on me!
+It's great you became our ally, Kaori-chan!!",XMESS_0063,ウシオ
+XMESS_0064,"Ushio, come here.
+I need to check your weapon.",XMESS_0064,小弓場かおり
+XMESS_0065,Yes! I'm coming right away!,XMESS_0065,ウシオ
+XMESS_0066,Cool…,XMESS_0066,南方ひづる
+XMESS_0067,…,XMESS_0067,ウシオ
+XMESS_0068,"No way…
+No way…!",XMESS_0068,小弓場かおり
+XCOMMENTVIEW_0230,Tetsu Totsumura,XCOMMENTVIEW_0230,
+XMESS_0069,"It's impossible!!!
+Fighting that monster??
+We should tell everyone to evacuate!!",XMESS_0069,凸村哲
+XMESS_0070,"Everyone?
+There are 700 islanders alone!
+It'll just cause chaos.",XMESS_0070,凸村哲
+XMESS_0071,"Call for reinforcements from the mainland… but even officers were killed…
+What are we supposed to say 
+to get help?!",XMESS_0071,凸村哲
+XMESS_0072,And why was I the one who died in that cave?,XMESS_0072,根津銀次郎
+XMESS_0073,How should I know?!,XMESS_0073,凸村哲
+XMESS_0074,Because you only saw what Ushio witnessed…,XMESS_0074,凸村哲
+XMESS_0075,"But it's certain that 
+because of you and Hizuru,
+Shinpei was able to loop.",XMESS_0075,根津銀次郎
+XMESS_0076,"You were scared, but 
+you're a guy who can do it when needed!",XMESS_0076,根津銀次郎
+XMESS_0077,Eh??,XMESS_0077,根津銀次郎
+XMESS_0078,"So… that's right!!
+I'm a guy who can do it when needed!!!",XMESS_0078,根津銀次郎
+XMESS_0079,…,XMESS_0079,凸村哲
+XMESS_0080,…,XMESS_0080,凸村哲
+XCOMMENTVIEW_0276,Sou Hishigata,XCOMMENTVIEW_0276,
+XMESS_0081,"Tokiko…
+I…",XMESS_0081,菱形窓
+XMESS_0082,"Idiot.
+I told you not to get into weird situations,
+but now you're trying to protect me…",XMESS_0082,菱形朱鷺子
+XMESS_0083,You really are an idiot…!,XMESS_0083,菱形窓
+XMESS_0084,"Shinpei…
+He's trying to save everyone on the island.
+Even us two.",XMESS_0084,菱形朱鷺子
+XMESS_0085,"Because he saw you being used by shadows 
+and now is trying to save you…",XMESS_0085,菱形朱鷺子
+XMESS_0086,We have no choice but to help his strength!,XMESS_0086,菱形窓
+XMESS_0087,…Tokiko.,XMESS_0087,菱形窓
+XMESS_0088,"! 
+Sorry, Mio… about Ushio's body…
+I'm sorry…!",XMESS_0088,菱形窓
+XMESS_0089,…,XMESS_0089,小舟澪
+XMESS_0090,I forgive you…,XMESS_0090,菱形朱鷺子
+XMESS_0091,"But… I'm angry.
+Really, really angry!",XMESS_0091,菱形窓
+XMESS_0092,…Sorry…,XMESS_0092,小舟澪
+XMESS_0093,"But with Shinpei's strength, I was able to come back.
+So we can still fix it.",XMESS_0093,菱形朱鷺子
+XMESS_0094,I'll make things right again.,XMESS_0094,小舟澪
+XMESS_0095,…,XMESS_0095,小舟澪
+XMESS_0096,"Come on, Shinpei's calling.",XMESS_0096,小舟澪
+XMESS_0097,"(…After that, Nezu went to the nearby mountain 
+with a rifle for reconnaissance)",XMESS_0097,菱形朱鷺子
+XMESS_0098,"(Kaori was told to hide and prepare for the strategy,
+so she wouldn't be connected with us)",XMESS_0098,小舟澪
+XMESS_0099,(She's also been told not to let shadows see her form.),XMESS_0099,小舟澪
+XMESS_0100,(The feeling of impending battle is growing…),XMESS_0100,菱形朱鷺子
+XMESS_0101,…,XMESS_0101,小舟澪
+XCOMMENTVIEW_0349,Shinpei Ajiro,XCOMMENTVIEW_0349,
+XMESS_0102,"(He's not coming… 
+Usually he'd be back by now…)",XMESS_0102,網代慎平
+XMESS_0103,(I wanted to confirm his safety before the battle started.),XMESS_0103,網代慎平
+XMESS_0104,…!,XMESS_0104,網代慎平
+XMESS_0105,(What is this feeling…!?),XMESS_0105,網代慎平
+XMESS_0106,"(My eyes are hurting…
+That cliff, maybe it's…)",XMESS_0106,網代慎平
+XMESS_0107,Shinpei?,XMESS_0107,網代慎平
+XMESS_0108,…,XMESS_0108,網代慎平
+XMESS_0109,Are you okay?,XMESS_0109,網代慎平
+XMESS_0110,"Ah, yeah…
+</think>",XMESS_0110,網代慎平
+XMESS_0111,"(The back of my eyes hurt…
+That cliff… could it be---)",XMESS_0111,網代慎平
+XMESS_0112,Shinpei?,XMESS_0112,ウシオ
+XMESS_0113,…,XMESS_0113,網代慎平
+XMESS_0114,You okay?,XMESS_0114,ウシオ
+XMESS_0115,"Ah, yeah…",XMESS_0115,網代慎平
+XMESS_0116,"That, I'm a little nervous…
+Are you really going to do it?
+In this kind of place… on the stage…",XMESS_0116,網代慎平
+XMESS_0117,"We need a leader for the strategy.
+Everyone wants to hear what you have to say.",XMESS_0117,南方ひづる
+XMESS_0118,"But I really can't be a leader…
+It'd probably be better if Sensei handled it…",XMESS_0118,網代慎平
+XMESS_0119,"What are you talking about, Shinpei's the only one here!!
+If it wasn't for Shinpei's strength,
+none of us would be gathered like this!!!",XMESS_0119,ウシオ
+XMESS_0120,"That's right, Shinpei!",XMESS_0120,菱形窓
+XMESS_0121,Shin-chan.,XMESS_0121,小舟澪
+XMESS_0122,…,XMESS_0122,南方ひづる
+XMESS_0123,…!,XMESS_0123,ウシオ
+XMESS_0124,"…Ji…
+Then…
+That, ummm…",XMESS_0124,網代慎平
+XMESS_0125,I've always had a habit of being careless.,XMESS_0125,網代慎平
+XMESS_0126,"It's like another version of myself is watching me from high up,
+thinking about things for me.",XMESS_0126,網代慎平
+XMESS_0127,Then I can see my position and the situation around me clearly.,XMESS_0127,網代慎平
+XMESS_0128,"It's like everything is right from my perspective,
+no mistakes happen, 
+and even if there are failures they feel distant…",XMESS_0128,網代慎平
+XMESS_0129,That's how I thought I was living well.,XMESS_0129,網代慎平
+XMESS_0130,"…But now, all I have is regret because of Shio's death.",XMESS_0130,網代慎平
+XMESS_0131,…,XMESS_0131,ウシオ
+XMESS_0132,Why didn't I just call her once… or maybe it would've been better if she came back for New Year…,XMESS_0132,網代慎平
+XMESS_0133,"And I should have made that curry she asked me to make.
+Even though I thought it was fine, 
+it wasn't…",XMESS_0133,網代慎平
+XMESS_0134,"I'm always making mistakes,
+and now that it's too late to do anything about it, 
+it really hurts…",XMESS_0134,網代慎平
+XMESS_0135,"Even though I know it's impossible,
+I don't want to regret anything again.",XMESS_0135,網代慎平
+XMESS_0136,"So, even if there's a chance of regrets…
+If I think it might go wrong,
+I'll try to avoid that.",XMESS_0136,網代慎平
+XMESS_0137,"That's why, with all my strength I've decided…
+to run away from it!",XMESS_0137,網代慎平
+XMESS_0138,"…But then,
+there's not much choice in just doing nothing.",XMESS_0138,網代慎平
+XMESS_0139,"Even if it wasn't something I wanted to do, 
+it would've been better…",XMESS_0139,網代慎平
+XMESS_0140,"If that's how you feel after the fact,
+then I think it'd be best to just try.",XMESS_0140,網代慎平
+XMESS_0141,"Right now… yeah, that's how I feel…
+So… umm…",XMESS_0141,網代慎平
+XMESS_0142,"Even if it ends in failure,
+and even if I die, 
+I want to use my life completely.",XMESS_0142,網代慎平
+XMESS_0143,…,XMESS_0143,網代慎平
+XMESS_0144,"You probably saw it, but before his death,
+Shio was fighting the Shadow in secret.
+He lost his life trying to save Shiori-chan.",XMESS_0144,南方ひづる
+XMESS_0145,…,XMESS_0145,網代慎平
+XMESS_0146,"Because it was him, I think he must have felt angry.
+Truly… that's how it should've been.",XMESS_0146,小舟澪
+XMESS_0147,…,XMESS_0147,網代慎平
+XMESS_0148,"I'll carry on his legacy.
+I won't let that summer festival's end repeat again!",XMESS_0148,ウシオ
+XMESS_0149,I believe we can do it if everyone is here.,XMESS_0149,網代慎平
+XMESS_0150,…Shinpei…,XMESS_0150,網代慎平
+XMESS_0151,But I won't say that.,XMESS_0151,菱形窓
+XMESS_0152,You're not going to say it?!,XMESS_0152,網代慎平
+XMESS_0153,"Because I can't guarantee anyone's lives.
+We don't know if we'll win the fight either.",XMESS_0153,菱形窓
+XMESS_0154,"But I won't force people to stay against their will,
+it's all just my selfishness so that I don't regret it.",XMESS_0154,網代慎平
+XMESS_0155,"If I let you go, 
+then later on I'll probably think,
+""I should've forced them to stay.""
+So that's why I'm forcing it.",XMESS_0155,網代慎平
+XMESS_0156,"Take up a weapon,
+and fight with me!",XMESS_0156,網代慎平
+XMESS_0157,"Ah… you're crazy, right?!!
+You telling us to die for Shinpei-kun's sake!?
+We aren't your pawns!",XMESS_0157,網代慎平
+XMESS_0158,I don't think of you as a pawn at all.,XMESS_0158,凸村哲
+XMESS_0159,"Because… even though he could've run away alone first,
+Shinpei kept fighting!",XMESS_0159,ウシオ
+XMESS_0160,"That's because he wants to help everyone, right?
+Because he cares about all of you!!",XMESS_0160,ウシオ
+XMESS_0161,"Sure his words are rough,
+but Shinpei is on our side!!!",XMESS_0161,ウシオ
+XMESS_0162,"If you're defending someone you like, 
+what's the problem with that?!!",XMESS_0162,ウシオ
+XMESS_0163,Me too!!!,XMESS_0163,ウシオ
+XMESS_0164,Mii… Mio-chan??,XMESS_0164,小舟澪
+XMESS_0165,"Me too!
+For Shin-chan…",XMESS_0165,凸村哲
+XMESS_0166,…,XMESS_0166,小舟澪
+XMESS_0167,…,XMESS_0167,ウシオ
+XMESS_0168,…I believe in you…,XMESS_0168,菱形朱鷺子
+XMESS_0169,"Me too, Shinpei! I'll be your ally for life!
+No matter what happens from now on,
+that won't change!!!",XMESS_0169,小舟澪
+XMESS_0170,"…Everyone, do you know how many Shadows are here?
+There's no chance of winning right now.",XMESS_0170,菱形窓
+XMESS_0171,"That's right!
+Say more!!",XMESS_0171,菱形朱鷺子
+XMESS_0172,"But…
+Even if we're going to die once,
+I'll entrust it to Shinpei.",XMESS_0172,凸村哲
+XMESS_0173,What??,XMESS_0173,菱形朱鷺子
+XMESS_0174,"Everyone, what are you doing?! Anyone who wants to run can just go! Even if it's only me and the key people, we'll catch tomorrow's ferries!",XMESS_0174,凸村哲
+XMESS_0175,"The ferry is dangerous. There's a Shadow among the crew members.
+That was already true when I arrived this morning.",XMESS_0175,凸村哲
+XMESS_0176,…,XMESS_0176,凸村哲
+XMESS_0177,There's no other way but to eliminate them.,XMESS_0177,南方ひづる
+XMESS_0178,"C…curses!
+That kind of thing…
+Damn it!!!",XMESS_0178,凸村哲
+XMESS_0179,"Understood!! 
+Let's do this!!
+You bastard!!!",XMESS_0179,南方ひづる
+XMESS_0180,"…Thank you, everyone…",XMESS_0180,凸村哲
+XMESS_0181,"It's not because of Shinpei-kun!!
+Because I want to protect the idol Kaori-chan!
+Also, I'm fighting for Erika-chann!!!",XMESS_0181,凸村哲
+XMESS_0182,Erika-chan?,XMESS_0182,網代慎平
+XMESS_0183,"Ah, you know that Snack Miyako's…",XMESS_0183,凸村哲
+XMESS_0184,  Erika-chan?,XMESS_0184,網代慎平
+XMESS_0185,The loop's limit is getting close…!?,XMESS_0185,小舟澪
+XMESS_0186,"Yes, every time I die,
+it takes me back to the ""limit"" of time.",XMESS_0186,（ト書き）
+XMESS_0187,"Since it's not possible to go before that limit,
+consider this as my starting point.",XMESS_0187,根津銀次郎
+XMESS_0188,"The last time I died was around 7:55 AM. 
+This time, the starting point is at 7:00 AM.",XMESS_0188,網代慎平
+XMESS_0189,"From there on,
+time has been moving forward… now it's 7:20 AM. 
+It feels like I'm walking ""forward"" at a steady pace.",XMESS_0189,網代慎平
+XMESS_0190,"And this limit is also moving forward,
+and so far it's slower than my walking speed…",XMESS_0190,網代慎平
+XMESS_0191,"So if I just live normally, 
+it won't catch up to me… but…",XMESS_0191,網代慎平
+XMESS_0192,The speed increases every time I die.,XMESS_0192,網代慎平
+XMESS_0193,"If Shinpei dies now, what will the next starting point be!?",XMESS_0193,網代慎平
+XMESS_0194,"That's right… from how it feels,
+probably around 7 o'clock…",XMESS_0194,網代慎平
+XMESS_0195,"Wait, that was just a while ago!",XMESS_0195,菱形窓
+XMESS_0196,"And if I'm killed again at the same time as before,
+or even earlier, 
+there won't be a next one.",XMESS_0196,網代慎平
+XMESS_0197,"While I'm standing still,
+the limit is moving ""forward"".",XMESS_0197,菱形窓
+XMESS_0198,"If you go back, there's no ground to stand on…",XMESS_0198,網代慎平
+XMESS_0199,Yes… I'm falling into a dark cliff.,XMESS_0199,網代慎平
+XMESS_0200,"Hey, is that really true!?
+You're just thinking it yourself!",XMESS_0200,南方ひづる
+XMESS_0201,"The observer saw this.
+It's a fact.",XMESS_0201,網代慎平
+XMESS_0202,"That cliff is the observation limit, 'Event Horizon'.",XMESS_0202,凸村哲
+XMESS_0203,Event horizon…,XMESS_0203,南方ひづる
+XMESS_0204,"If you fall, your death is certain,
+and the world after that will be what Heine saw as reality.",XMESS_0204,南方ひづる
+XMESS_0205,Heine came to kill Shinpei-san because he noticed that.,XMESS_0205,小弓場かおり
+XMESS_0206,The worst…,XMESS_0206,南方ひづる
+XMESS_0207,…Why did I get found?,XMESS_0207,菱形朱鷺子
+XMESS_0208,"When Shio and I were attacked by Shadow Mio in our room before, we defeated them via Nezu's rifle—Heine probably knew the strategy.",XMESS_0208,小舟澪
+XMESS_0209,"Only me, Shio,
+Nagumo and Nezu know about that…",XMESS_0209,根津銀次郎
+XMESS_0210,"Probably I did it.
+You guys weren't scanned, 
+and Nezu-san has immunity.",XMESS_0210,網代慎平
+XMESS_0211,"In that last scene,
+I was injured fatally…",XMESS_0211,網代慎平
+XMESS_0212,"We must have fought before reaching there, 
+and my memories were read.",XMESS_0212,南方ひづる
+XMESS_0213,"Ushio, how do the Shadows exchange information?
+Do you show your memory to others like that?",XMESS_0213,南方ひづる
+XMESS_0214,"Yeah. I think everyone does it.
+It's just normal conversation or writing…
+But Heine uses telepathy too!",XMESS_0214,南方ひづる
+XMESS_0215,"Heine can use telepathy to give simple commands 
+to the ""children""…
+But Shio is fine!
+It doesn't seem to affect him.",XMESS_0215,根津銀次郎
+XMESS_0216,"…Shadows that have contacted Heine 
+should be able to do a fake loop like us. Shide definitely is looping.",XMESS_0216,ウシオ
+XMESS_0217,"Hey, wait!
+Can data carry over through loops?",XMESS_0217,網代慎平
+XMESS_0218,"There's a possibility that Heine copied my rifle! 
+If they did, this place is dangerous!",XMESS_0218,網代慎平
+XMESS_0219,"That's okay.
+The copy will disappear naturally if it gets too far from the Shadow that printed it.",XMESS_0219,南方ひづる
+XMESS_0220,"After testing, I found out.
+It can only exist within about 50 meters!",XMESS_0220,根津銀次郎
+XMESS_0221,"So even if Heine copies a long-range rifle,
+it can only shoot up to 50 meters…",XMESS_0221,根津銀次郎
+XMESS_0222,"Even with infinite bullets, 
+that would be pointless.",XMESS_0222,ウシオ
+XMESS_0223,"Although the enemy was good last time,
+we did get some benefits.",XMESS_0223,ウシオ
+XMESS_0224,"This mark means Heine can also know my location.
+So he'll come, 
+he definitely will…",XMESS_0224,根津銀次郎
+XMESS_0225,"Now I'm sure of it. Tonight,
+we're ending this here.",XMESS_0225,根津銀次郎
+XMESS_0226,"What's the plan?
+We can't do the same as last time.",XMESS_0226,網代慎平
+XMESS_0227,"Yes, I think this way…",XMESS_0227,網代慎平
+XMESS_0228,"The rifle is the key.
+Probably, it's the most powerful weapon here. 
+We'll copy that.",XMESS_0228,網代慎平
+XMESS_0229,What?!,XMESS_0229,網代慎平
+XMESS_0230,"Plan?
+We can't do the same thing again.",XMESS_0230,根津銀次郎
+XMESS_0231,"Yes, here's what I'm thinking---",XMESS_0231,網代慎平
+MSTD_0824-0,"""The rifle is the key.""",MSTD_0824-0,
+MSTD_0824-1,"""Can we use fire?""",MSTD_0824-1,
+XMESS_0232,"Nezu's rifle is the key.
+That's probably our most powerful weapon in this place.
+We need to copy it.",XMESS_0232,網代慎平
+XMESS_0233,"What?!
+/ think",XMESS_0233,根津銀次郎
+XMESS_0234,"The range has dropped to 50 meters!?
+Even if bullets were infinite, that's still…!",XMESS_0234,ウシオ
+XMESS_0235,"Ah, I can't rely on Nezu's long-range shooting anymore…",XMESS_0235,網代慎平
+XMESS_0236,That would mean obtaining even greater effectiveness.,XMESS_0236,南方ひづる
+XMESS_0237,"In my view, that's correct.",XMESS_0237,網代慎平
+XMESS_0238,"…Well copying is fine, but there's something worrying…",XMESS_0238,根津銀次郎
+XMESS_0239,"Heine has that Shide shadow attached to him,
+but 'Shadow Sewing' didn't work on it.",XMESS_0239,根津銀次郎
+XMESS_0240,"Shide's plane is different from other shadows…
+It might be pointless no matter how much we shoot!",XMESS_0240,根津銀次郎
+XMESS_0241,"When the Nagumo teacher shot me in Hiluko Cave,
+they used manholes to stop it.",XMESS_0241,網代慎平
+XMESS_0242,I think that was a scan meant for shielding.,XMESS_0242,網代慎平
+XMESS_0243,"Considering they could materialize it on the spot during combat,
+it's hard to believe it was just an improvised tactic…",XMESS_0243,網代慎平
+XMESS_0244,"In other words, either Shide or Heine -
+or both - must have some physical weakness.",XMESS_0244,網代慎平
+XMESS_0245,"First we'll target Shide's 3D form,
+then go for Heine once it's weakened.",XMESS_0245,網代慎平
+XMESS_0246,"Even if a single shot can't be fatal, 
+since the opponent is made of physical matter,
+a rifle should deliver powerful impact.",XMESS_0246,網代慎平
+XMESS_0247,"If we keep attacking its 3D form, maybe
+we'll discover Shide's weakness in time.",XMESS_0247,網代慎平
+XMESS_0248,"…Weakening Shide…
+Then ultimately targeting Heine?",XMESS_0248,菱形朱鷺子
+XMESS_0249,That's right.,XMESS_0249,網代慎平
+XMESS_0250,"As Tokiko said, our ultimate target is Heine.",XMESS_0250,網代慎平
+XMESS_0251,"Even though we let her escape once,
+we know 'Shadow Sewing' works on Heine.",XMESS_0251,網代慎平
+XMESS_0252,"It makes sense to think the manhole scan
+was meant to protect Heine's shadow.",XMESS_0252,南方ひづる
+XMESS_0253,"…I agree.
+Shide has some uncertainty too,
+but Heine isn't invincible. That's our main target.",XMESS_0253,網代慎平
+XMESS_0254,"But Shinpei, what's the point in copying a rifle?
+It's more important than ammo depletion…",XMESS_0254,菱形窓
+XMESS_0255,"Sou, it's not just about avoiding ammunition.
+There's another big advantage -
+being able to use 'traps'.",XMESS_0255,網代慎平
+XMESS_0256,"…Can we use fire?
+Based on our previous battles,
+shadows are probably vulnerable to flames.",XMESS_0256,網代慎平
+XMESS_0257,"True, when we went underground from the old infirmary
+the flamethrower worked well enough.",XMESS_0257,菱形窓
+XMESS_0258,"But how do you know fire works on all shadows?
+It's not certain at all!",XMESS_0258,菱形窓
+XMESS_0259,That's a gamble…!,XMESS_0259,網代慎平
+XMESS_0260,"OI OI OI!! 
+The loop is about to hit its limit!?
+This isn't the time for gambles!!",XMESS_0260,凸村哲
+XMESS_0261,"What I used underground was a makeshift spray can.
+Compared to real fire, it had the power of a grain,
+but still managed to repel that many stray shadows.",XMESS_0261,網代慎平
+XMESS_0262,"So I think this hypothesis - 'shadows are weak against flames' -
+is on pretty solid ground, don't you?",XMESS_0262,網代慎平
+XMESS_0263,…!,XMESS_0263,凸村哲
+XMESS_0264,"Shide wasn't affected by 'Shadow Sewing'.
+If attacks on the shadow plane don't work,
+I think we need to try other possibilities.",XMESS_0264,網代慎平
+XMESS_0265,"Tetsu, do you have any better ideas?
+It's a huge responsibility though.",XMESS_0265,小舟澪
+XMESS_0266,"Guh…! 
+I get it I get it!!
+Do whatever you want already!!!",XMESS_0266,凸村哲
+XMESS_0267,"If we're using fire…
+How exactly do you plan to use it?
+With a lighter and insect spray? I don't think that'd take them down.",XMESS_0267,南方ひづる
+XMESS_0268,Ah…!,XMESS_0268,小弓場かおり
+XMESS_0269,Hm?,XMESS_0269,南方ひづる
+XMESS_0270,<color=#GF_KEY_GASOLINE>Gasoline</color>… or something like that?,XMESS_0270,小弓場かおり

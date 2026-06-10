@@ -24,7 +24,7 @@ XMESS_0013,Did Ryunosuke have to be the sacrifice?,XMESS_0013,南方ひづる（
 XMESS_0014,"If I had more power,
 if I had the knowledge to break the deadlock,
 maybe I could have saved Ryunosuke.",XMESS_0014,南方ひづる（過去）
-XMESS_0015,And… Heine's situation too…,XMESS_0015,南方ひづる（過去）
+XMESS_0015,And… Haine's situation too…,XMESS_0015,南方ひづる（過去）
 XMESS_0016,Teacher…,XMESS_0016,網代慎平
 XMESS_0017,"If you say things like that…
 We'd be…",XMESS_0017,ウシオ
@@ -45,14 +45,14 @@ can you guide me?",XMESS_0027,南方ひづる（過去）
 XMESS_0028,To the best possible future.,XMESS_0028,南方ひづる（過去）
 XMESS_0029,Eh…?,XMESS_0029,網代慎平
 XMESS_0030,"Really… am I allowed to just go back to town?
-Leaving Ryunosuke and Heine behind?",XMESS_0030,南方ひづる（過去）
+Leaving Ryunosuke and Haine behind?",XMESS_0030,南方ひづる（過去）
 XMESS_0031,I know that's what Ryunosuke wanted…,XMESS_0031,南方ひづる（過去）
 XMESS_0032,"But is this the future you knew?
 Can we really end it like this?",XMESS_0032,南方ひづる（過去）
 XMESS_0033,Wouldn't that just bring worse futures?,XMESS_0033,南方ひづる（過去）
 XMESS_0034,Hizuru-san…,XMESS_0034,ウシオ
 XMESS_0035,"The last words of Ryunosuke,
-and Heine's cries of pain…
+and Haine's cries of pain…
 They're still in my ears.",XMESS_0035,南方ひづる（過去）
 XMESS_0036,"Ryunosuke's thoughts weren't in vain.
 But if there's any chance to create a better future…",XMESS_0036,南方ひづる（過去）
@@ -66,19 +66,19 @@ What kind of future is that?)",XMESS_0041,網代慎平
 XMESS_0042,"(Ryunosuke-san probably won't be saved.
 And this incident will make the teacher and Nezu get involved with the Shadow…)",XMESS_0042,網代慎平
 XMESS_0043,"(In 14 years, we'll fight the Shadow again on this island)",XMESS_0043,網代慎平
-XMESS_0044,"If we defeat Heine now…
+XMESS_0044,"If we defeat Haine now…
 Maybe we can avoid that future.",XMESS_0044,網代慎平
 XMESS_0045,"Wait… Shinpei.
-You said to defeat Heine?",XMESS_0045,ウシオ
+You said to defeat Haine?",XMESS_0045,ウシオ
 XMESS_0046,"Yeah, I don't know why,
-but Heine seems to regret attacking Ryunosuke-san
+but Haine seems to regret attacking Ryunosuke-san
 and is in a state of confusion.",XMESS_0046,網代慎平
 XMESS_0047,"Either way, now is the chance
-to defeat Heine while she's confused.",XMESS_0047,網代慎平
+to defeat Haine while she's confused.",XMESS_0047,網代慎平
 XMESS_0048,"That might be true…
-But we can't defeat Heine.",XMESS_0048,ウシオ
+But we can't defeat Haine.",XMESS_0048,ウシオ
 XMESS_0049,"In the end, it might just send Hizuru-san and Nezu-san
-back to Heine again.",XMESS_0049,ウシオ
+back to Haine again.",XMESS_0049,ウシオ
 XMESS_0050,"I know that.
 And if we do that, we don't know
 what will happen to our future.",XMESS_0050,網代慎平
@@ -98,21 +98,21 @@ as something you truly need…)",XMESS_0058,網代慎平
 XMESS_0059,(Then I'll…),XMESS_0059,網代慎平
 XMESS_0060,Teacher Nagumo…,XMESS_0060,網代慎平
 MSTD_0183-0,"""Please think about surviving.""",MSTD_0183-0,
-MSTD_0183-1,"""Let's defeat Heine.""",MSTD_0183-1,
+MSTD_0183-1,"""Let's defeat Haine.""",MSTD_0183-1,
 XMESS_0061,"Right now, please think about surviving.
 For the sake of Ryunosuke-san who sacrificed himself.",XMESS_0061,網代慎平
 XMESS_0062,"That's surely the choice
 that will lead to the best future.",XMESS_0062,網代慎平
 XMESS_0063,So… that's it.,XMESS_0063,南方ひづる（過去）
 XMESS_0064,"(Even if this is the perfect opportunity
-to defeat Heine…)",XMESS_0064,網代慎平
-XMESS_0065,(We don't have a plan to definitely defeat Heine),XMESS_0065,網代慎平
+to defeat Haine…)",XMESS_0064,網代慎平
+XMESS_0065,(We don't have a plan to definitely defeat Haine),XMESS_0065,網代慎平
 XMESS_0066,"(Moreover, I can't put the teacher
 in any more danger)",XMESS_0066,網代慎平
-XMESS_0067,Let's defeat Heine.,XMESS_0067,網代慎平
-XMESS_0068,The Heine now isn't the Heine who was your friend.,XMESS_0068,網代慎平
+XMESS_0067,Let's defeat Haine.,XMESS_0067,網代慎平
+XMESS_0068,The Haine now isn't the Haine who was your friend.,XMESS_0068,網代慎平
 XMESS_0069,"Moreover… in the future we know,
-Heine will bring tragedy to the entire island.",XMESS_0069,網代慎平
+Haine will bring tragedy to the entire island.",XMESS_0069,網代慎平
 XMESS_0070,So…,XMESS_0070,網代慎平
 XMESS_0071,"End the cause while you still can…
 That's what you mean, right?",XMESS_0071,南方ひづる（過去）

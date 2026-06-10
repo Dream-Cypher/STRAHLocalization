@@ -7,7 +7,7 @@ XMESS_0001,"…You're an unusual guy…
 Even in this situation, making food.",XMESS_0001,南方ひづる
 XMESS_0002,"(Incidentally, Sensei's been wearing gloves all along. Probably hiding those burn marks.)",XMESS_0002,網代慎平
 XMESS_0003,"(Fourteen years ago at Mt. Takanosu,
-the injury to Heine's right eye…)",XMESS_0003,網代慎平
+the injury to Haine's right eye…)",XMESS_0003,網代慎平
 XMESS_0004,"That day, 
 Ryunosuke-san entered your body.",XMESS_0004,網代慎平
 XMESS_0005,"…Ah, you all saw it too. Our past…",XMESS_0005,南方ひづる
@@ -40,14 +40,14 @@ XMESS_0020,"  Mio is mostly ignoring her own self.
   Mio clearly acts under orders.",XMESS_0020,南方ひづる
 XMESS_0021,"The shadow's instinct to kill the real one is secondary 
 to the command from above…
-That means Heine's order.",XMESS_0021,南方ひづる
+That means Haine's order.",XMESS_0021,南方ひづる
 XMESS_0022,"You're turning it to your advantage, huh?",XMESS_0022,網代慎平
 XMESS_0023,Hmph.,XMESS_0023,南方ひづる
 XMESS_0024,"(That strategy for Mio…
 Hopefully it'll work. 
 Yeah, Ushio can do it!)",XMESS_0024,網代慎平
 XMESS_0025,"With this mark on my arm,
-will Heine know where I am?",XMESS_0025,網代慎平
+will Haine know where I am?",XMESS_0025,網代慎平
 XMESS_0026,We'll find out soon enough.,XMESS_0026,南方ひづる
 XMESS_0027,"(The enemy is also looping…
 If my location's known…)",XMESS_0027,網代慎平
@@ -350,11 +350,11 @@ It's a fact.",XMESS_0201,網代慎平
 XMESS_0202,"That cliff is the observation limit, 'Event Horizon'.",XMESS_0202,凸村哲
 XMESS_0203,Event horizon…,XMESS_0203,南方ひづる
 XMESS_0204,"If you fall, your death is certain,
-and the world after that will be what Heine saw as reality.",XMESS_0204,南方ひづる
-XMESS_0205,Heine came to kill Shinpei-san because he noticed that.,XMESS_0205,小弓場かおり
+and the world after that will be what Haine saw as reality.",XMESS_0204,南方ひづる
+XMESS_0205,Haine came to kill Shinpei-san because he noticed that.,XMESS_0205,小弓場かおり
 XMESS_0206,The worst…,XMESS_0206,南方ひづる
 XMESS_0207,…Why did I get found?,XMESS_0207,菱形朱鷺子
-XMESS_0208,"When Shio and I were attacked by Shadow Mio in our room before, we defeated them via Nezu's rifle—Heine probably knew the strategy.",XMESS_0208,小舟澪
+XMESS_0208,"When Shio and I were attacked by Shadow Mio in our room before, we defeated them via Nezu's rifle—Haine probably knew the strategy.",XMESS_0208,小舟澪
 XMESS_0209,"Only me, Shio,
 Nagumo and Nezu know about that…",XMESS_0209,根津銀次郎
 XMESS_0210,"Probably I did it.
@@ -368,28 +368,28 @@ XMESS_0213,"Ushio, how do the Shadows exchange information?
 Do you show your memory to others like that?",XMESS_0213,南方ひづる
 XMESS_0214,"Yeah. I think everyone does it.
 It's just normal conversation or writing…
-But Heine uses telepathy too!",XMESS_0214,南方ひづる
-XMESS_0215,"Heine can use telepathy to give simple commands 
+But Haine uses telepathy too!",XMESS_0214,南方ひづる
+XMESS_0215,"Haine can use telepathy to give simple commands 
 to the ""children""…
 But Shio is fine!
 It doesn't seem to affect him.",XMESS_0215,根津銀次郎
-XMESS_0216,"…Shadows that have contacted Heine 
+XMESS_0216,"…Shadows that have contacted Haine 
 should be able to do a fake loop like us. Shide definitely is looping.",XMESS_0216,ウシオ
 XMESS_0217,"Hey, wait!
 Can data carry over through loops?",XMESS_0217,網代慎平
-XMESS_0218,"There's a possibility that Heine copied my rifle! 
+XMESS_0218,"There's a possibility that Haine copied my rifle! 
 If they did, this place is dangerous!",XMESS_0218,網代慎平
 XMESS_0219,"That's okay.
 The copy will disappear naturally if it gets too far from the Shadow that printed it.",XMESS_0219,南方ひづる
 XMESS_0220,"After testing, I found out.
 It can only exist within about 50 meters!",XMESS_0220,根津銀次郎
-XMESS_0221,"So even if Heine copies a long-range rifle,
+XMESS_0221,"So even if Haine copies a long-range rifle,
 it can only shoot up to 50 meters…",XMESS_0221,根津銀次郎
 XMESS_0222,"Even with infinite bullets, 
 that would be pointless.",XMESS_0222,ウシオ
 XMESS_0223,"Although the enemy was good last time,
 we did get some benefits.",XMESS_0223,ウシオ
-XMESS_0224,"This mark means Heine can also know my location.
+XMESS_0224,"This mark means Haine can also know my location.
 So he'll come, 
 he definitely will…",XMESS_0224,根津銀次郎
 XMESS_0225,"Now I'm sure of it. Tonight,
@@ -417,7 +417,7 @@ XMESS_0235,"Ah, I can't rely on Nezu's long-range shooting anymore…",XMESS_023
 XMESS_0236,That would mean obtaining even greater effectiveness.,XMESS_0236,南方ひづる
 XMESS_0237,"In my view, that's correct.",XMESS_0237,網代慎平
 XMESS_0238,"…Well copying is fine, but there's something worrying…",XMESS_0238,根津銀次郎
-XMESS_0239,"Heine has that Shide shadow attached to him,
+XMESS_0239,"Haine has that Shide shadow attached to him,
 but 'Shadow Sewing' didn't work on it.",XMESS_0239,根津銀次郎
 XMESS_0240,"Shide's plane is different from other shadows…
 It might be pointless no matter how much we shoot!",XMESS_0240,根津銀次郎
@@ -426,26 +426,26 @@ they used manholes to stop it.",XMESS_0241,網代慎平
 XMESS_0242,I think that was a scan meant for shielding.,XMESS_0242,網代慎平
 XMESS_0243,"Considering they could materialize it on the spot during combat,
 it's hard to believe it was just an improvised tactic…",XMESS_0243,網代慎平
-XMESS_0244,"In other words, either Shide or Heine -
+XMESS_0244,"In other words, either Shide or Haine -
 or both - must have some physical weakness.",XMESS_0244,網代慎平
 XMESS_0245,"First we'll target Shide's 3D form,
-then go for Heine once it's weakened.",XMESS_0245,網代慎平
+then go for Haine once it's weakened.",XMESS_0245,網代慎平
 XMESS_0246,"Even if a single shot can't be fatal, 
 since the opponent is made of physical matter,
 a rifle should deliver powerful impact.",XMESS_0246,網代慎平
 XMESS_0247,"If we keep attacking its 3D form, maybe
 we'll discover Shide's weakness in time.",XMESS_0247,網代慎平
 XMESS_0248,"…Weakening Shide…
-Then ultimately targeting Heine?",XMESS_0248,菱形朱鷺子
+Then ultimately targeting Haine?",XMESS_0248,菱形朱鷺子
 XMESS_0249,That's right.,XMESS_0249,網代慎平
-XMESS_0250,"As Tokiko said, our ultimate target is Heine.",XMESS_0250,網代慎平
+XMESS_0250,"As Tokiko said, our ultimate target is Haine.",XMESS_0250,網代慎平
 XMESS_0251,"Even though we let her escape once,
-we know 'Shadow Sewing' works on Heine.",XMESS_0251,網代慎平
+we know 'Shadow Sewing' works on Haine.",XMESS_0251,網代慎平
 XMESS_0252,"It makes sense to think the manhole scan
-was meant to protect Heine's shadow.",XMESS_0252,南方ひづる
+was meant to protect Haine's shadow.",XMESS_0252,南方ひづる
 XMESS_0253,"…I agree.
 Shide has some uncertainty too,
-but Heine isn't invincible. That's our main target.",XMESS_0253,網代慎平
+but Haine isn't invincible. That's our main target.",XMESS_0253,網代慎平
 XMESS_0254,"But Shinpei, what's the point in copying a rifle?
 It's more important than ammo depletion…",XMESS_0254,菱形窓
 XMESS_0255,"Sou, it's not just about avoiding ammunition.

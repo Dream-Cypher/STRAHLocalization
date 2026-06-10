@@ -45,8 +45,11 @@ originals can be re-dumped from the bundle with UnityPy if you need to inspect t
 
 ## Official name readings (use these everywhere)
 小舟=Kofune (not Kobune) · 南方=Minakata (not Minamikata) · 菱形窓=Sou (not Mado) ·
-人渕=Hitobuchi (nickname Bucchi) · 凸村=Totsumura · 中村=Nakamura · 暁見=Akemi · エリカ=Erica.
-(Sources: ja.wikipedia Another Horizon + MyAnimeList Summertime Render. Full character
+人渕=Hitobuchi (nickname Bucchi) · 凸村=Totsumura · 中村=Nakamura · 暁見=Akemi · エリカ=Erika · ハイネ=Haine.
+Long vowels are romanized ASCII-only (no macrons): simplify (竜之介=Ryunosuke, 銀次郎=Ginjiro)
+unless that leaves an ugly/colliding name, then keep `ou`/`uu` (窓=Sou, 青銅=Seidou). See the
+"Long vowels" + "verified spellings" notes in `texts/en/GLOSSARY.md` (2026-06 official cross-check).
+(Sources: ja.wikipedia Another Horizon + en.wikipedia/Fandom Summer Time Rendering. Full character
 glossary in `texts/en/GLOSSARY.md`.)
 
 ## Gotchas / hard-won learnings

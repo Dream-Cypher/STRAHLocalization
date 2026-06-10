@@ -1,11 +1,11 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,2. A Drowning Man Grasps at Straw,XCHAPTITLE_0002,
 XMESS_0000,Shinpei!,XMESS_0000,ウシオ
-XMESS_0001,"Ushio, where's Heine?",XMESS_0001,網代慎平
+XMESS_0001,"Ushio, where's Haine?",XMESS_0001,網代慎平
 XMESS_0002,It's fine — she's not chasing us.,XMESS_0002,ウシオ
 XMESS_0003,Good.,XMESS_0003,網代慎平
 XMESS_0004,(Ryunosuke… His injuries seem worse than I thought.),XMESS_0004,網代慎平
-XMESS_0005,(It's convenient that Heine is chasing us…),XMESS_0005,網代慎平
+XMESS_0005,(It's convenient that Haine is chasing us…),XMESS_0005,網代慎平
 XMESS_0006,"Fight on, Ryunosuke.
 When you get down the mountain, have Sou check you.",XMESS_0006,南方ひづる（過去）
 XMESS_0007,"Zee… zee…
@@ -13,9 +13,9 @@ That girl… she…",XMESS_0007,南方竜之介
 XMESS_0008,"They're not chasing right now.
 You can relax.",XMESS_0008,南方ひづる（過去）
 XMESS_0009,I see…,XMESS_0009,南方竜之介
-XMESS_0010,"Heine…
+XMESS_0010,"Haine…
 Why did this happen…?",XMESS_0010,南方ひづる（過去）
-XMESS_0011,"Ushio, can you sense Heine?",XMESS_0011,網代慎平
+XMESS_0011,"Ushio, can you sense Haine?",XMESS_0011,網代慎平
 XMESS_0012,"I don't feel anything.
 If we can escape like this, it'll be fine--",XMESS_0012,ウシオ
 XMESS_0013,Ugh!!,XMESS_0013,南方竜之介
@@ -45,7 +45,7 @@ XMESS_0030,That's impossible!,XMESS_0030,南方ひづる（過去）
 XMESS_0031,"Your wounds are deep…
 It's definitely not the work of a human…",XMESS_0031,南方ひづる（過去）
 XMESS_0032,"I know it's hard to believe, but it's the truth.",XMESS_0032,南方竜之介
-XMESS_0033,Heine… why would she…,XMESS_0033,南方ひづる（過去）
+XMESS_0033,Haine… why would she…,XMESS_0033,南方ひづる（過去）
 XMESS_0034,Older sister…,XMESS_0034,南方竜之介
 XMESS_0035,…What?,XMESS_0035,南方ひづる（過去）
 XMESS_0036,That girl… she seemed to know you.,XMESS_0036,南方竜之介
@@ -53,7 +53,7 @@ XMESS_0037,…,XMESS_0037,南方ひづる（過去）
 XMESS_0038,"I guess that girl…
 Was the one you mentioned earlier… 'friend'?",XMESS_0038,南方竜之介
 XMESS_0039,…I'm sorry.,XMESS_0039,南方ひづる（過去）
-XMESS_0040,"I've never seen Heine like that.
+XMESS_0040,"I've never seen Haine like that.
 I hoped it was a mistake…
 But…",XMESS_0040,南方ひづる（過去）
 XMESS_0041,It's true that you were hurt…,XMESS_0041,南方ひづる（過去）
@@ -75,7 +75,7 @@ XMESS_0052,"I heard it too.
 Though it was fragmented, I think it said you were in danger.",XMESS_0052,南方ひづる（過去）
 XMESS_0053,That voice… was also a man's voice around our age.,XMESS_0053,南方ひづる（過去）
 XMESS_0054,"It felt like I was being guided by that voice…
-I found you being attacked by Heine.",XMESS_0054,南方ひづる（過去）
+I found you being attacked by Haine.",XMESS_0054,南方ひづる（過去）
 XMESS_0055,…What does that mean?,XMESS_0055,南方竜之介
 XMESS_0056,"I don't know.
 There was someone else in the forest besides us…",XMESS_0056,南方ひづる（過去）
@@ -89,7 +89,7 @@ Then maybe we can help again some other time.",XMESS_0060,網代慎平
 XMESS_0061,Wha…!?,XMESS_0061,ウシオ
 XMESS_0062,"Shinpei, I sense a Shadow!",XMESS_0062,ウシオ
 XMESS_0063,"Damn it, right after I say it…!
-Is Heine chasing us!?",XMESS_0063,網代慎平
+Is Haine chasing us!?",XMESS_0063,網代慎平
 XMESS_0064,No… it's similar to the feeling of the ones underground!,XMESS_0064,ウシオ
 XMESS_0065,I see…,XMESS_0065,網代慎平
 XMESS_0066,They're almost here!,XMESS_0066,ウシオ
@@ -119,9 +119,9 @@ There's something over there.",XMESS_0084,南方ひづる（過去）
 XMESS_0085,"Eh… what do you mean?
 Was that girl chasing us?",XMESS_0085,南方竜之介
 XMESS_0086,"No, it's completely different.
-A monster that looks nothing like Heine is approaching…",XMESS_0086,南方ひづる（過去）
+A monster that looks nothing like Haine is approaching…",XMESS_0086,南方ひづる（過去）
 XMESS_0087,"What are they?
-Heine… and that monster…",XMESS_0087,南方ひづる（過去）
+Haine… and that monster…",XMESS_0087,南方ひづる（過去）
 XMESS_0088,"If we stay like this, we'll be found eventually…",XMESS_0088,南方ひづる（過去）
 XMESS_0089,"Ryunosuke.
 Can you make it to the building?",XMESS_0089,南方ひづる（過去）

@@ -12,24 +12,24 @@ XMESS_0006,Wait!!,XMESS_0006,ウシオ
 XMESS_0007,Huh?,XMESS_0007,網代慎平
 XMESS_0008,Something's coming at us really fast!,XMESS_0008,ウシオ
 XMESS_0009,Could it be… that presence!?,XMESS_0009,ウシオ
-XMESS_0010,"H-Hey, Heine!?",XMESS_0010,網代慎平
+XMESS_0010,"H-Hey, Haine!?",XMESS_0010,網代慎平
 XMESS_0011,"Yeah!
 There was no presence at all before, but it caught up with us in a flash!",XMESS_0011,ウシオ
 XMESS_0012,But it doesn't seem to have our exact position yet.,XMESS_0012,ウシオ
 XMESS_0013,"I see…
 We need to get through somehow…",XMESS_0013,網代慎平
 XMESS_0014,"Teacher, be careful!
-Heine's approaching from behind!",XMESS_0014,網代慎平
-XMESS_0015,"Heine?
-What's wrong with Heine?",XMESS_0015,南方ひづる（過去）
+Haine's approaching from behind!",XMESS_0014,網代慎平
+XMESS_0015,"Haine?
+What's wrong with Haine?",XMESS_0015,南方ひづる（過去）
 XMESS_0016,"That's what I'm saying!
-Heine's approaching from behind!",XMESS_0016,網代慎平
+Haine's approaching from behind!",XMESS_0016,網代慎平
 XMESS_0017,Behind… the rear?,XMESS_0017,南方ひづる（過去）
-XMESS_0018,Heine… Heine's coming from behind…,XMESS_0018,南方ひづる（過去）
+XMESS_0018,Haine… Haine's coming from behind…,XMESS_0018,南方ひづる（過去）
 XMESS_0019,"Who are you talking to?
 Another straw again?",XMESS_0019,根津銀次郎（１４年前）
 XMESS_0020,The straw said that… the kid was approaching…,XMESS_0020,南方ひづる（過去）
-XMESS_0021,Heine… who's that?,XMESS_0021,根津銀次郎（１４年前）
+XMESS_0021,Haine… who's that?,XMESS_0021,根津銀次郎（１４年前）
 XMESS_0022,"A person in a red kimono…
 That's the one who did this to my legs.",XMESS_0022,南方竜之介
 XMESS_0023,"Red kimono?
@@ -43,33 +43,33 @@ XMESS_0028,But… that's the truth…,XMESS_0028,南方竜之介
 XMESS_0029,"Ryūnosuke, just stop talking.
 We need to save our energy now.",XMESS_0029,南方ひづる（過去）
 XMESS_0030,Hah… You're right.,XMESS_0030,南方竜之介
-XMESS_0031,"Shinpei, Heine's close!",XMESS_0031,ウシオ
-XMESS_0032,"Teacher, Heine is right behind us!
+XMESS_0031,"Shinpei, Haine's close!",XMESS_0031,ウシオ
+XMESS_0032,"Teacher, Haine is right behind us!
 Hide!",XMESS_0032,網代慎平
 XMESS_0033,Hide? Hide?,XMESS_0033,南方ひづる（過去）
 XMESS_0034,What's with the straw?,XMESS_0034,根津銀次郎（１４年前）
-XMESS_0035,"Heine is probably nearby.
+XMESS_0035,"Haine is probably nearby.
 Let's hide for now--",XMESS_0035,南方ひづる（過去）
 XMESS_0036,"!
-Heine's coming!",XMESS_0036,ウシオ
+Haine's coming!",XMESS_0036,ウシオ
 XMESS_0037,Huh?,XMESS_0037,網代慎平
 XMESS_0038,H-he's fast…,XMESS_0038,ウシオ
 XMESS_0039,I… I found you… Hizuru…,XMESS_0039,ハイネ
 XMESS_0040,!,XMESS_0040,南方ひづる（過去）
 XMESS_0041,"W-what was that speed?!
 It's not human!",XMESS_0041,根津銀次郎（１４年前）
-XMESS_0042,"H-Hey, Heine…",XMESS_0042,南方ひづる（過去）
+XMESS_0042,"H-Hey, Haine…",XMESS_0042,南方ひづる（過去）
 XMESS_0043,Hah… Hah… H-hizuru…,XMESS_0043,ハイネ
 XMESS_0044,His build's like a kid--,XMESS_0044,根津銀次郎（１４年前）
 XMESS_0045,"If that person had such an inhuman movement,
 it makes sense that they could injure the monk so badly.",XMESS_0045,根津銀次郎（１４年前）
 XMESS_0046,Hah… Phew… H-huh…,XMESS_0046,ハイネ
-XMESS_0047,…Heine.,XMESS_0047,南方ひづる（過去）
+XMESS_0047,…Haine.,XMESS_0047,南方ひづる（過去）
 XMESS_0048,Phew… Phew…,XMESS_0048,ハイネ
 XMESS_0049,Why… why did you attack Ryūnosuke?,XMESS_0049,南方ひづる（過去）
 XMESS_0050,"N-no… no…
 That wasn't me… I wasn't…",XMESS_0050,ハイネ
-XMESS_0051,But I saw it… Heine attacking Ryūnosuke.,XMESS_0051,南方ひづる（過去）
+XMESS_0051,But I saw it… Haine attacking Ryūnosuke.,XMESS_0051,南方ひづる（過去）
 XMESS_0052,Why… why!?,XMESS_0052,南方ひづる（過去）
 XMESS_0053,I don't… I don't know…,XMESS_0053,ハイネ
 XMESS_0054,Something's off…,XMESS_0054,ウシオ
@@ -88,19 +88,19 @@ XMESS_0064,"Ah, this is nothing.",XMESS_0064,根津銀次郎（１４年前）
 XMESS_0065,"Monk… If danger approaches, carry him and head to the hospital immediately.",XMESS_0065,根津銀次郎（１４年前）
 XMESS_0066,Y-yes…,XMESS_0066,南方竜之介
 XMESS_0067,"(If Ryūnosuke's in this condition…
-We can't provoke Heine now)",XMESS_0067,網代慎平
+We can't provoke Haine now)",XMESS_0067,網代慎平
 XMESS_0068,Hah… Hah…,XMESS_0068,ハイネ
-XMESS_0069,Heine…,XMESS_0069,南方ひづる（過去）
+XMESS_0069,Haine…,XMESS_0069,南方ひづる（過去）
 XMESS_0070,"(Stop it! If we don't do something,
 not only Ryūnosuke but the teachers will be in danger!)",XMESS_0070,網代慎平
 XMESS_0071,"But at this distance,
 we'll be caught no matter how we run.",XMESS_0071,網代慎平
-XMESS_0072,If we could just stop Heine's movements…,XMESS_0072,網代慎平
+XMESS_0072,If we could just stop Haine's movements…,XMESS_0072,網代慎平
 XMESS_0073,Maybe I should attack again?,XMESS_0073,ウシオ
 XMESS_0074,"No… better not.
 It might just provoke it more.",XMESS_0074,網代慎平
 XMESS_0075,"Right! If the teacher can hear us,
-maybe Heine can too!",XMESS_0075,網代慎平
+maybe Haine can too!",XMESS_0075,網代慎平
 XMESS_0076,We need to buy time with our voices!,XMESS_0076,網代慎平
 XMESS_0077,"That's probably the only way.
 Yeah, let's try!",XMESS_0077,ウシオ
@@ -111,7 +111,7 @@ XMESS_0081,"What are you doing!?
 Get away from that thing!",XMESS_0081,根津銀次郎（１４年前）
 XMESS_0082,Oh…!,XMESS_0082,南方ひづる（過去）
 XMESS_0083,It was going to eat the teacher!?,XMESS_0083,網代慎平
-XMESS_0084,"Heine!
+XMESS_0084,"Haine!
 Are you really going to do that!?",XMESS_0084,網代慎平
 XMESS_0085,…!?,XMESS_0085,ハイネ
 XMESS_0086,Is someone there…?,XMESS_0086,ハイネ
@@ -120,7 +120,7 @@ is that really what you want!?",XMESS_0087,網代慎平
 XMESS_0088,"Hizuru's your friend, right!",XMESS_0088,網代慎平
 XMESS_0089,F-friend…,XMESS_0089,ハイネ
 XMESS_0090,"It's working…!
-Our voices are reaching Heine!",XMESS_0090,網代慎平
+Our voices are reaching Haine!",XMESS_0090,網代慎平
 XMESS_0091,But… I'm so hungry…,XMESS_0091,ハイネ
 XMESS_0092,I… I don't know who I am…,XMESS_0092,ハイネ
 XMESS_0093,Huh…?,XMESS_0093,網代慎平

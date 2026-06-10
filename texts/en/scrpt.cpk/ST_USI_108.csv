@@ -48,7 +48,7 @@ XMESS_0030,"(He's seen through me!!
 Ushio's movements!)",XMESS_0030,網代慎平
 XMESS_0031,"(…No, I'm the one being watched!!)",XMESS_0031,網代慎平
 XMESS_0032,…,XMESS_0032,シンペイ（ハイネ）
-XMESS_0033,"(Heine!!
+XMESS_0033,"(Haine!!
 You're coming out from the shrine!!)",XMESS_0033,網代慎平
 XMESS_0034,"(…As long as I'm being watched by him,
 Ryunosuke's two-second foresight won't be a decisive blow…)",XMESS_0034,網代慎平
@@ -56,10 +56,10 @@ XMESS_0035,"(If I foresee and tell, it'll just get blocked by the observer!!)",X
 XMESS_0036,(…But that's fine!!),XMESS_0036,網代慎平
 XMESS_0037,"(Ushio's blade is terrifying. I should have known from the battle at sea.
 Even Shide would get a fatal wound if it hit!!)",XMESS_0037,網代慎平
-XMESS_0038,(That's why both Heine and Shide have no choice but to focus on our movements!!),XMESS_0038,網代慎平
+XMESS_0038,(That's why both Haine and Shide have no choice but to focus on our movements!!),XMESS_0038,網代慎平
 XMESS_0039,"(In that case, I'll subtly and naturally…
 without being noticed…)",XMESS_0039,網代慎平
-XMESS_0040,(Leading Heine into the kill zone!!),XMESS_0040,網代慎平
+XMESS_0040,(Leading Haine into the kill zone!!),XMESS_0040,網代慎平
 XMESS_0041,"There's a killing intent spilling out, Mio.",XMESS_0041,シンペイ（ハイネ）
 XMESS_0042,"Ugh, I dodged it…",XMESS_0042,ミオ
 XMESS_0043,I've already sensed all the shadows' positions.,XMESS_0043,シンペイ（ハイネ）
@@ -70,16 +70,16 @@ XMESS_0046,Behind…?!,XMESS_0046,シンペイ（ハイネ）
 XMESS_0047,This is the kill zone!!,XMESS_0047,菱形窓
 XMESS_0048,…!!,XMESS_0048,シンペイ（ハイネ）
 XMESS_0049,"It worked!! 
-I've woven the shadow around Heine!",XMESS_0049,網代慎平
-XMESS_0050,"(The presence of shadows that Heine sensed…
+I've woven the shadow around Haine!",XMESS_0049,網代慎平
+XMESS_0050,"(The presence of shadows that Haine sensed…
 It was a fake nail gun printed by Ushio!)",XMESS_0050,網代慎平
 XMESS_0051,"(Sou had the real, non-shadow nail gun!
-Heine didn't notice its presence at all!!)",XMESS_0051,網代慎平
+Haine didn't notice its presence at all!!)",XMESS_0051,網代慎平
 XMESS_0052,"(Up to this point, everything's gone according to plan!
 Now just…)",XMESS_0052,網代慎平
 XMESS_0053,Mio!!,XMESS_0053,網代慎平
 XMESS_0054,Ugh…!?,XMESS_0054,シンペイ（ハイネ）
-XMESS_0055,Heine!!!,XMESS_0055,シデ
+XMESS_0055,Haine!!!,XMESS_0055,シデ
 XMESS_0056,Now you can't tell us what we'll do two seconds from now!,XMESS_0056,網代慎平
 XMESS_0057,"I told ya…
 You think I'm gonna keep being careless forever?",XMESS_0057,網代慎平
@@ -88,7 +88,7 @@ This is fun!!",XMESS_0058,シデ
 XMESS_0059,Buh…,XMESS_0059,シデ
 XMESS_0060,We did it!!,XMESS_0060,菱形窓
 XMESS_0061,"Ushio!
-For Heine!!",XMESS_0061,網代慎平
+For Haine!!",XMESS_0061,網代慎平
 XMESS_0062,Got it!!,XMESS_0062,ウシオ
 XMESS_0063,…?!,XMESS_0063,網代慎平
 XMESS_0064,Nah…!?,XMESS_0064,網代慎平
@@ -96,10 +96,10 @@ XMESS_0065,"(A huge Shide?!
 Another one…)",XMESS_0065,網代慎平
 XMESS_0066,You did it!!,XMESS_0066,シデ
 XMESS_0067,"Ushio, run!!
-For Heine…!!!",XMESS_0067,網代慎平
+For Haine…!!!",XMESS_0067,網代慎平
 XMESS_0068,HAAAAAAINEEEEEE!!!!!,XMESS_0068,シデ
 XMESS_0069,…!!,XMESS_0069,ハイネ
-XMESS_0070,"Heine… you want to go back, don't ya?",XMESS_0070,ウシオ
+XMESS_0070,"Haine… you want to go back, don't ya?",XMESS_0070,ウシオ
 XMESS_0071,"If you return home,
 time won't flow for you.
 You'll be able to survive without dying…",XMESS_0071,ウシオ
@@ -113,7 +113,7 @@ XMESS_0076,We are---,XMESS_0076,ウシオ
 XMESS_0077,…!!,XMESS_0077,ウシオ
 XMESS_0078,!?!,XMESS_0078,シデ
 XMESS_0079,"It's disappearing…
-The mud… the armor that Heine gave me…",XMESS_0079,シデ
+The mud… the armor that Haine gave me…",XMESS_0079,シデ
 XMESS_0080,…Haa…Heineeeeee---,XMESS_0080,シデ
 XMESS_0081,!?!,XMESS_0081,シデ
 XMESS_0082,If Mother dies… the shadows will disappear…,XMESS_0082,ミオ
@@ -149,7 +149,7 @@ XMESS_0106,"Haha!
 I really thought I was done for, Shinpei-kun!",XMESS_0106,網代慎平
 XMESS_0107,Shi…de…,XMESS_0107,シデ
 XMESS_0108,(…What's in Shide's arms…),XMESS_0108,ヒルコ（赤ん坊）
-XMESS_0109,"Heine… no, Hilko.
+XMESS_0109,"Haine… no, Hilko.
 You're just trash now…",XMESS_0109,網代慎平
 XMESS_0110,What!?,XMESS_0110,シデ
 XMESS_0111,"Even with such a small body…
@@ -184,7 +184,7 @@ XMESS_0126,…Huh?,XMESS_0126,シデ
 XMESS_0127,"You're already useless, you know.",XMESS_0127,シデ
 XMESS_0128,Ah…,XMESS_0128,ヒルコ（赤ん坊）
 XMESS_0129,"What's that…?!
-Heine is your mother, right?",XMESS_0129,網代慎平
+Haine is your mother, right?",XMESS_0129,網代慎平
 XMESS_0130,"So what?
 I have no interest in the past.",XMESS_0130,シデ
 XMESS_0131,…!!!,XMESS_0131,ウシオ

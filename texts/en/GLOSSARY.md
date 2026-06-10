@@ -31,7 +31,7 @@ script CSVs). Top ~10 cover the large majority of all dialogue.
   網代慎平（収録） = Shinpei Ajiro (Recording)
   網代慎平（影シンペイ） = Shinpei Ajiro (Shadow Shinpei)
   シンペイ = Shinpei                            [nickname/short form, 83]
-  シンペイ（ハイネ） = Shinpei (Heine)
+  シンペイ（ハイネ） = Shinpei (Haine)
   網代慎平（影シンペイ） = Shinpei Ajiro (Shadow Shinpei)
 
 小舟澪 = Mio Kofune                            [1508 lines]
@@ -76,7 +76,7 @@ script CSVs). Top ~10 cover the large majority of all dialogue.
   四本腕の影（シデ） = Four-Armed Shadow (Shide)
   シデ（欠損素顔） = Shide (Damaged True Face)
 
-ハイネ = Heine
+ハイネ = Haine
 トキコ = Tokiko
 小舟アラン = Alan Kofune
   小舟アラン（影アラン） = Alan Kofune (Shadow Alan)
@@ -85,7 +85,7 @@ script CSVs). Top ~10 cover the large majority of all dialogue.
 小早川朝子 = Asako Kobayakawa
   小早川朝子（影アサコ） = Asako Kobayakawa (Shadow Asako)
 小早川しおり = Shiori Kobayakawa
-  シオリ（ハイネ） = Shiori (Heine)
+  シオリ（ハイネ） = Shiori (Haine)
   シオリ = Shiori
 ギルデンスターン = Guildenstern                  [likely Hamlet reference — keep as-is]
 菱形青銅 = Seidou Hishigata
@@ -160,6 +160,21 @@ since these exact terms recur throughout the dialogue.
   `developer_comments` (translator/AI context — not shown on screen), so
   consistency there just keeps the AI from confusing which "version" of a
   character is speaking in a given scene.
+
+- **Long vowels: ASCII only, no macrons.** Don't write *Ryūnosuke / Sō /
+  Seidō* (Wikipedia/Disney+ house style); they don't render reliably in the
+  game font/UI. The rule: **simplify the long vowel away** (竜之介 → *Ryunosuke*,
+  銀次郎 → *Ginjiro*) **unless** dropping it leaves an ugly/confusing 1–2-letter
+  name or collides with an English word — then keep the `ou`/`uu` form
+  (菱形窓 → *Sou*, not "So"; 青銅 → *Seidou*). Apply this consistently to any new
+  name with a long vowel.
+- **Name spellings verified against the official release** (Disney+ /
+  Wikipedia / Fandom, cross-checked with the anime subs, 2026-06):
+  - ハイネ → **Haine** (was "Heine" — corrected everywhere, incl. the
+    `talker_013` name plate). Confirmed by both the official wiki *and* the subs.
+  - エリカ → **Erika** (was "Erica" — minor; unified across all lines).
+  - 小舟アラン → still **Alan** for now; the official release uses the French
+    spelling *Alain* (UNDECIDED — left as Alan pending a call).
 
 These are now baked into section 1's formatting — you don't need to do
 anything further with them other than tell the AI to follow the same

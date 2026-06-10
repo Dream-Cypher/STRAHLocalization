@@ -48,8 +48,8 @@ XMESS_0027,…Is this also a copy?,XMESS_0027,トツムラ
 XMESS_0028,No…,XMESS_0028,ミオ
 XMESS_0029,"It's already… 
 Mom is copying me…",XMESS_0029,ミオ
-XMESS_0030,(It was Heine who copied me!!!),XMESS_0030,網代慎平
-XMESS_0031,(And Heine… came from the end of the third loop's festival…),XMESS_0031,網代慎平
+XMESS_0030,(It was Haine who copied me!!!),XMESS_0030,網代慎平
+XMESS_0031,(And Haine… came from the end of the third loop's festival…),XMESS_0031,網代慎平
 XMESS_0032,"(The copy of me at Koba Mart in the 3rd Loop,
 is being used now, in the 8th Loop!!!)",XMESS_0032,網代慎平
 XMESS_0033,"(But how did she call!?
@@ -89,7 +89,7 @@ XMESS_0056,"…I'm sorry.
 I couldn't protect Mio.",XMESS_0056,ミオ
 XMESS_0057,"I know there was a shadow of Shinchan,
 I saw it in the fake loop…",XMESS_0057,ミオ
-XMESS_0058,"That's Shiori… copied by Heine
+XMESS_0058,"That's Shiori… copied by Haine
 and born from him, according to you.",XMESS_0058,ミオ
 XMESS_0059,"Yeah… but I never thought…
 My phone exists in this world as ""two units""…""",XMESS_0059,網代慎平
@@ -97,15 +97,15 @@ XMESS_0060,I was careless.,XMESS_0060,網代慎平
 XMESS_0061,"Just now I remembered…
 When I met my shadow at the shrine in the third loop,
 it stole my real phone…",XMESS_0061,網代慎平
-XMESS_0062,"The last time, all of them were absorbed into Heine's body.",XMESS_0062,網代慎平
+XMESS_0062,"The last time, all of them were absorbed into Haine's body.",XMESS_0062,網代慎平
 XMESS_0063,I see…,XMESS_0063,ミオ
 XMESS_0064,"At that time, the original was erased,
 and with the copied phone available,
-it went into Heine's body.",XMESS_0064,ミオ
+it went into Haine's body.",XMESS_0064,ミオ
 XMESS_0065,"Using it at this timing…
 That's typical of Shinchan's shadow.",XMESS_0065,ミオ
 XMESS_0066,Now isn't the time to praise!,XMESS_0066,網代慎平
-XMESS_0067,"Heine is reading South-ni-sensei's memories…
+XMESS_0067,"Haine is reading South-ni-sensei's memories…
 It'll be bad… his contact info will leak too.",XMESS_0067,網代慎平
 XMESS_0068,Where are Mio and the others going!?,XMESS_0068,網代慎平
 XMESS_0069,"…!!!
@@ -117,7 +117,7 @@ XMESS_0072,!!!!!!,XMESS_0072,網代慎平
 XMESS_0073,(The voice…! My own!),XMESS_0073,網代慎平
 XMESS_0074,"How was it?
 The call from the shadow.",XMESS_0074,シンペイ
-XMESS_0075,"You're Heine, aren't you…
+XMESS_0075,"You're Haine, aren't you…
 Why is your phone using Sensei's number…
 What did you do to sensei!?",XMESS_0075,網代慎平
 XMESS_0076,"See for yourself, the observer.",XMESS_0076,シンペイ
@@ -133,14 +133,14 @@ Hello!?!",XMESS_0081,網代慎平
 XMESS_0082,"Stay calm, Shinchan.
 Think about all possibilities…",XMESS_0082,ミオ
 XMESS_0083,I know…,XMESS_0083,網代慎平
-XMESS_0084,"Heine is thinking with your personality now.
+XMESS_0084,"Haine is thinking with your personality now.
 We're both being manipulated.",XMESS_0084,ミオ
 XMESS_0085,Ugh…,XMESS_0085,網代慎平
 XMESS_0086,(Tiger Island and Alan's field are in opposite directions…),XMESS_0086,網代慎平
 XMESS_0087,(Which one I go to might mean the other can't be saved),XMESS_0087,網代慎平
 XMESS_0088,"(Don't get manipulated.
 Don't get manipulated…)",XMESS_0088,網代慎平
-XMESS_0089,"(Why is Heine doing this…
+XMESS_0089,"(Why is Haine doing this…
 So roundabout!)",XMESS_0089,網代慎平
 XMESS_0090,Mio or sensei…,XMESS_0090,網代慎平
 XMESS_0091,"Both could be lies.
@@ -158,7 +158,7 @@ XMESS_0098,(I'm back… I guess…),XMESS_0098,網代慎平
 XMESS_0099,"W-was the crisis over?
 I mean…",XMESS_0099,灯台照
 XMESS_0100,"(The mountain top…!
-Right after Heine left!)",XMESS_0100,網代慎平
+Right after Haine left!)",XMESS_0100,網代慎平
 XMESS_0101,"(The wild shadows around… 
 Good, they're gone)",XMESS_0101,網代慎平
 XMESS_0102,"(The surroundings haven't changed…
@@ -183,7 +183,7 @@ but it'll be faster if I go to Omoto Beach alone)",XMESS_0110,網代慎平
 XMESS_0111,"(Though there is a possibility
 the shadow might attack again…)",XMESS_0111,網代慎平
 XMESS_0112,"(It doesn't make sense for anyone else to retreat 
-other than Heine)",XMESS_0112,網代慎平
+other than Haine)",XMESS_0112,網代慎平
 XMESS_0113,"(In other words…
 There must be a reason behind this withdrawal…)",XMESS_0113,網代慎平
 XMESS_0114,"(If that's the case, 
@@ -202,7 +202,7 @@ XMESS_0121,"Sorry for being rough.
 But we can't waste a second.",XMESS_0121,網代慎平
 XMESS_0122,"…That phone call earlier…
 Could that be your Shadow?",XMESS_0122,ミオ
-XMESS_0123,"Yeah… It's Heine's trap.
+XMESS_0123,"Yeah… It's Haine's trap.
 That's why we need to stop those two.",XMESS_0123,網代慎平
 MSTD_0544-0,"""Let's hurry via the shortest route.""",MSTD_0544-0,
 MSTD_0544-1,"""We'll go through the sewers where no one will see us.""",MSTD_0544-1,

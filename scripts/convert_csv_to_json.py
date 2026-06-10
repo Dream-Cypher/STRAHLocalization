@@ -19,28 +19,54 @@ DIR_JSON_TRANSLATED = f"texts/{LANGUAGE}"
 DIR_CSV_TRANSLATED = f"texts/{LANGUAGE}"
 
 # Dialogue box width (chars). English lines wider than this clip at the right edge,
-# so re-wrap them at word boundaries. Existing (short-enough) line breaks are kept;
-# only over-long lines are split, and never mid-word.
+# so the whole entry is re-flowed (the source's own newlines are collapsed first)
+# to <= width VISIBLE chars, breaking only at spaces (never mid-word). Among wraps
+# that fit, breaks are preferred at sentence/clause boundaries -- but never at the
+# cost of an extra line (the box shows ~3 lines), so line counts match the plain
+# greedy wrap exactly.
 DIALOGUE_WIDTH = 48
 
 
 _RICH_TAG = re.compile(r"<[^>]+>")   # TextMeshPro tags (e.g. <color=#..>..</color>) are zero-width
+_SENT_ENDERS = ("。", "！", "？", "!", "?", ".")
+_CLAUSE_ENDERS = (",", "、", ";", ":")
+_OPEN = "\"'“‘「『（([ "
+_CLOSE = "\"'”’」』）)] "
 
 
 def _visible_len(s: str) -> int:
   return len(_RICH_TAG.sub("", s))
 
 
-def wrap_dialogue(text: str, width: int = DIALOGUE_WIDTH) -> list[str]:
-  """Re-flow the whole entry to lines of <= width VISIBLE chars, breaking only at
-  spaces (never mid-word) and treating rich-text tags as zero-width. The source's
-  own line breaks are collapsed and re-wrapped, which uses the box far more
-  efficiently than preserving them."""
+def _vis(word: str) -> str:
+  return _RICH_TAG.sub("", word)
+
+
+def _is_sentence_break(word: str, next_word: str | None) -> bool:
+  """True if `word` ends a sentence. Hard enders (. ! ? 。 ！ ？) always count;
+  an ellipsis (… or ..) only counts when the next word starts a NEW sentence
+  (capitalized / non-ASCII), so "I…/don't know" stays together."""
+  v = _vis(word).rstrip(_CLOSE)
+  if not v:
+    return False
+  if v.endswith("…") or v.endswith(".."):
+    if next_word is None:
+      return True
+    nv = _vis(next_word).lstrip(_OPEN)
+    return bool(nv) and (nv[0].isupper() or not nv[0].isascii())
+  return v[-1] in _SENT_ENDERS
+
+
+def _is_clause_break(word: str) -> bool:
+  v = _vis(word).rstrip(_CLOSE)
+  return bool(v) and v[-1] in _CLAUSE_ENDERS
+
+
+def _greedy_lines(words: list[str], width: int) -> list[str]:
+  """Minimal-line word wrap (the original behavior; also the fallback)."""
   out: list[str] = []
   cur = ""
-  for word in text.replace("\n", " ").split(" "):
-    if not word:
-      continue
+  for word in words:
     cand = word if not cur else f"{cur} {word}"
     if not cur or _visible_len(cand) <= width:
       cur = cand
@@ -50,6 +76,54 @@ def wrap_dialogue(text: str, width: int = DIALOGUE_WIDTH) -> list[str]:
   if cur:
     out.append(cur)
   return out or [""]
+
+
+def _boundary_lines(words: list[str], width: int) -> list[str]:
+  """Like greedy, but when a line must break, retract the break to the latest
+  sentence boundary in the line (else clause boundary, else the word boundary)."""
+  out: list[str] = []
+  n = len(words)
+  i = 0
+  while i < n:
+    # how many words greedily fit starting at i
+    j, cur = i, ""
+    while j < n:
+      cand = words[j] if not cur else f"{cur} {words[j]}"
+      if cur and _visible_len(cand) > width:
+        break
+      cur, j = cand, j + 1
+    if j >= n:
+      out.append(" ".join(words[i:j]))
+      break
+    # break is forced after word j-1; prefer the latest sentence, then clause, boundary
+    brk = None
+    for k in range(j - 1, i - 1, -1):
+      if _is_sentence_break(words[k], words[k + 1] if k + 1 < n else None):
+        brk = k + 1
+        break
+    if brk is None:
+      for k in range(j - 1, i - 1, -1):
+        if _is_clause_break(words[k]):
+          brk = k + 1
+          break
+    if brk is None or brk <= i:
+      brk = j   # no usable boundary -> greedy word break
+    out.append(" ".join(words[i:brk]))
+    i = brk
+  return out or [""]
+
+
+def wrap_dialogue(text: str, width: int = DIALOGUE_WIDTH) -> list[str]:
+  """Re-flow the whole entry to <= width VISIBLE chars per line (rich-text tags
+  zero-width, never breaking mid-word). Prefer breaking at sentence/clause
+  boundaries, but only when it doesn't add a line: the result never uses more
+  lines than the plain greedy wrap, preserving the 3-line dialogue box."""
+  words = [w for w in text.replace("\n", " ").split(" ") if w]
+  if not words:
+    return [""]
+  greedy = _greedy_lines(words, width)
+  nice = _boundary_lines(words, width)
+  return nice if len(nice) <= len(greedy) else greedy
 
 # Speaker-name map (JA name -> localized name) for the dialogue `name` field.
 # Built by scripts/build_speaker_names (saved to texts/<lang>/_speaker_names.json).
@@ -175,15 +249,21 @@ def metadata_handler(translations: dict[str, str], data: dict[str, dict[str, int
   return True
 
 
-os.makedirs(f"{DIR_JSON_TRANSLATED}/scrpt.cpk", exist_ok=True)
-for file_name in os.listdir(f"{DIR_JSON_ORIGINAL}/scrpt.cpk"):
-  if not file_name.endswith(".json"):
-    continue
+def main() -> None:
+  os.makedirs(f"{DIR_JSON_TRANSLATED}/scrpt.cpk", exist_ok=True)
+  for file_name in os.listdir(f"{DIR_JSON_ORIGINAL}/scrpt.cpk"):
+    if not file_name.endswith(".json"):
+      continue
 
-  handle_json(f"scrpt.cpk/{file_name.removesuffix('.json')}", scripts_handler)
+    handle_json(f"scrpt.cpk/{file_name.removesuffix('.json')}", scripts_handler)
 
-handle_json("AppGameDataTipsData", app_game_data_tips_data_handler)
-handle_json("FlowChartData", flow_chart_data_handler)
-handle_json("TextFlyMoveData", text_fly_move_data_handler)
-handle_json("Text", text_handler)
-handle_json("Metadata", metadata_handler)
+  handle_json("AppGameDataTipsData", app_game_data_tips_data_handler)
+  handle_json("FlowChartData", flow_chart_data_handler)
+  handle_json("TextFlyMoveData", text_fly_move_data_handler)
+  handle_json("Text", text_handler)
+  handle_json("Metadata", metadata_handler)
+
+
+# Importing this module (e.g. to reuse wrap_dialogue) must NOT run a build.
+if __name__ == "__main__":
+  main()

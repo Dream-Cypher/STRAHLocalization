@@ -36,12 +36,6 @@
 - GitHub：<https://github.com/Xzonn/STRAHChsLocalization/releases/latest/>
 - 百度网盘：<https://pan.baidu.com/s/1t87hTW1pUZLoo4ptffhvVw?pwd=stra>
 
-## 截图预览
-
-![截图](assets/images/screenshot-04.png)  
-![截图](assets/images/screenshot-01.png)  
-![截图](assets/images/screenshot-02.png)
-
 ## 相关链接
 
 - 补丁生成工具：<https://github.com/Xzonn/STRAHChsLocalizationHelper>

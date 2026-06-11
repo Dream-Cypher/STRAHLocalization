@@ -46,6 +46,9 @@ issues/gender_audit_*.csv
 issues/applied_fixes_*.csv
 issues/gemini_applied_*.csv
 issues/anchor_align_flags.csv
+issues/align_verdicts_*.csv
+issues/align_boundary_flags.csv
+issues/_align/
 #   - subs_fuzzy_candidates.csv : anime-sub phrasing candidates (DERIVED from the
 #     copyrighted anime subs via local-scripts/subs_fuzzy_poc.py; regenerable).
 issues/subs_fuzzy_candidates.csv

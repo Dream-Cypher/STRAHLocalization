@@ -18,13 +18,16 @@ DIR_JSON_ORIGINAL = "original_files/json"
 DIR_JSON_TRANSLATED = f"texts/{LANGUAGE}"
 DIR_CSV_TRANSLATED = f"texts/{LANGUAGE}"
 
-# Dialogue box width (chars). English lines wider than this clip at the right edge,
-# so the whole entry is re-flowed (the source's own newlines are collapsed first)
-# to <= width VISIBLE chars, breaking only at spaces (never mid-word). Among wraps
-# that fit, breaks are preferred at sentence/clause boundaries -- but never at the
-# cost of an extra line (the box shows ~3 lines), so line counts match the plain
-# greedy wrap exactly.
-DIALOGUE_WIDTH = 48
+# Dialogue box width (chars). The real ADV text box ("Text_Main", uGUI Text in
+# adv2.unity3d) is 1248x180px @1920x1080, font FOT-NewRodin Pro DB size 40, with
+# HorizontalOverflow=Overflow -- the engine does NOT word-wrap, it shows our
+# pre-wrapped lines and clips past 1248px. 51 chars wraps to a widest line of
+# ~1119px (comfortably under 1248) and keeps every entry to <=4 lines (the box
+# fits ~4.6). The whole entry is re-flowed (source newlines collapsed first) to
+# <= width VISIBLE chars, breaking only at spaces (never mid-word); among wraps
+# that fit, breaks prefer sentence/clause boundaries but never at the cost of an
+# extra line, so line counts match the plain greedy wrap exactly.
+DIALOGUE_WIDTH = 51
 
 
 _RICH_TAG = re.compile(r"<[^>]+>")   # TextMeshPro tags (e.g. <color=#..>..</color>) are zero-width

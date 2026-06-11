@@ -1,172 +1,127 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,8.Shide,XCHAPTITLE_0002,
-XMESS_0000,"Ugh…
-Cheating, huh? Shinpei-kun…
-It's just going in circles again.",XMESS_0000,雁切真砂人
-XMESS_0001,Returning home and coming this far already?,XMESS_0001,雁切真砂人
-XMESS_0002,"But well, calm down.
-Have some green tea. Sit for a while.
-Don't worry, there's no poison in it.",XMESS_0002,雁切真砂人
+XMESS_0000,"Good grief... That's unfair, Shinpei-kun... Looping like that...",XMESS_0000,雁切真砂人
+XMESS_0001,Ya can't possibly know so much in just one day...,XMESS_0001,雁切真砂人
+XMESS_0002,"But well, calm down. How about sitting down for a cup of barley tea? It's okay, there's no poison in it.",XMESS_0002,雁切真砂人
 XMESS_0003,You're admitting it!?,XMESS_0003,網代慎平
-XMESS_0004,Huh… It seems Hishigata-sensei told everything.,XMESS_0004,雁切真砂人
-XMESS_0005,…Ha?,XMESS_0005,雁切真砂人
+XMESS_0004,Heh... It seems Dr. Hishigata has spilled everything...,XMESS_0004,雁切真砂人
+XMESS_0005,...Haa.,XMESS_0005,雁切真砂人
 XMESS_0006,…,XMESS_0006,網代慎平
-XMESS_0007,"Back then… 
-I was forty years old.",XMESS_0007,雁切真砂人
-XMESS_0008,"It was the summer of 1732.  
-The year when ""the Great Famine of Kyoho"" occurred.",XMESS_0008,雁切真砂人
-XMESS_0009,"Do you know about it?
-It's in your Japanese history textbooks.",XMESS_0009,雁切真砂人
-XMESS_0010,"It was a terrible harvest…
-Many people died of starvation.",XMESS_0010,雁切真砂人
-XMESS_0011,"The adults who went fishing died,  
-and the fish also stopped coming. 
-That's when it became pure hell.",XMESS_0011,雁切真砂人
-XMESS_0012,…But Haine appeared then.,XMESS_0012,網代慎平
-XMESS_0013,"In this island, people believed that gods inhabited things washed ashore from the sea…",XMESS_0013,網代慎平
-XMESS_0014,Haine was literally a god.,XMESS_0014,網代慎平
-XMESS_0015,"And she ate people.  
-In return, it brought bountiful fishing…",XMESS_0015,網代慎平
-XMESS_0016,Ah… That legend is wrong.,XMESS_0016,雁切真砂人
-XMESS_0017,"I just turned a few hundred islanders into shadows.  
-If you're a shadow, even without fishing boats or nets,
-you can catch fish…",XMESS_0017,雁切真砂人
-XMESS_0018,It could save starving people.,XMESS_0018,雁切真砂人
+XMESS_0007,"At that time, you see... I was 40 years old, so...",XMESS_0007,雁切真砂人
+XMESS_0008,It was the summer of 1732. The year of what they call the 'Great Kyoho Famine'.,XMESS_0008,雁切真砂人
+XMESS_0009,It's in the Japanese history textbooks.,XMESS_0009,雁切真砂人
+XMESS_0010,It was a terrible crop failure... A lot of people died from starvation.,XMESS_0010,雁切真砂人
+XMESS_0011,"The adults who went out fishing died, and we couldn't even catch fish anymore. It was a living hell, I tell you.",XMESS_0011,雁切真砂人
+XMESS_0012,"...But then, Haine showed up.",XMESS_0012,網代慎平
+XMESS_0013,"To begin with, on this island, we believed that gods dwelled in things that washed ashore from the sea...",XMESS_0013,網代慎平
+XMESS_0014,Haine was truly a god itself.,XMESS_0014,網代慎平
+XMESS_0015,"And, she ate people. In exchange, she brought bountiful catches...",XMESS_0015,網代慎平
+XMESS_0016,Ah~~~~. That legend... that part is incorrect.,XMESS_0016,雁切真砂人
+XMESS_0017,"I just turned a few hundred islanders into shadows. If you're a shadow, even if you're not a fisherman, even without a boat or nets, you can catch fish...",XMESS_0017,雁切真砂人
+XMESS_0018,You can save starving people...,XMESS_0018,雁切真砂人
 XMESS_0019,…!,XMESS_0019,ウシオ
-XMESS_0020,This island exists because of me.,XMESS_0020,雁切真砂人
-XMESS_0021,"You bastard!  
-Thinking you're doing the right thing?!",XMESS_0021,ウシオ
-XMESS_0022,"Then why…!? 
-Why did you kill Shinpei's parents?!?",XMESS_0022,ウシオ
-XMESS_0023,"Because they were an obstacle, just like Ushio.",XMESS_0023,雁切真砂人
-XMESS_0024,"I discovered the Hiruko Cave… and tried to publicize it.  
-If I hadn't done those unnecessary things,
-I might have lived longer…",XMESS_0024,雁切真砂人
-XMESS_0025,"They were foolish people, but
-my mother enjoyed eating them.",XMESS_0025,雁切真砂人
+XMESS_0020,The reason Hitogashima exists today is thanks to me.,XMESS_0020,雁切真砂人
+XMESS_0021,"Don't screw with me, you bastard!! Do you think you're doing the right thing!!?",XMESS_0021,ウシオ
+XMESS_0022,"Then, why...! Why'd ya kill Shinpei's parents!!!",XMESS_0022,ウシオ
+XMESS_0023,"Well, just like Ushio-chan, because they were in the way, of course.",XMESS_0023,雁切真砂人
+XMESS_0024,"They discovered Hiruko Cave... and tried to make it public. Good grief, if they just hadn't done anything unnecessary, they could have lived a little longer...",XMESS_0024,雁切真砂人
+XMESS_0025,"They were a foolish couple, but Mother ate them deliciously...",XMESS_0025,雁切真砂人
 XMESS_0026,…!,XMESS_0026,ウシオ
-XMESS_0027,Ah…,XMESS_0027,雁切真砂人
-XMESS_0028,Maybe it would have been better if I had turned you into a shadow?,XMESS_0028,雁切真砂人
+XMESS_0027,Ah.,XMESS_0027,雁切真砂人
+XMESS_0028,Maybe you would have been happier if I had turned them into shadows?,XMESS_0028,雁切真砂人
 XMESS_0029,…!!,XMESS_0029,網代慎平
 XMESS_0030,…,XMESS_0030,雁切真砂人
-XMESS_0031,I… I'm different…,XMESS_0031,網代慎平
-XMESS_0032,"I don't want to kill anyone…
-You wouldn't want to die either, right?!",XMESS_0032,網代慎平
+XMESS_0031,I... I'm different from you...!!,XMESS_0031,網代慎平
+XMESS_0032,"I don't want to kill anyone... You don't want to die either, do you!!",XMESS_0032,網代慎平
 XMESS_0033,…,XMESS_0033,雁切真砂人
-XMESS_0034,Why?! Why are you protecting Haine so much!?,XMESS_0034,網代慎平
-XMESS_0035,"You're a human… You can't go back to where
-Haine came from…",XMESS_0035,網代慎平
+XMESS_0034,Why? Why go so far to protect Haine!?,XMESS_0034,網代慎平
+XMESS_0035,You're human... You shouldn't be able to go together to the hometown Haine is returning to...,XMESS_0035,網代慎平
 XMESS_0036,"Even if Haine dies,
 you won't die either!",XMESS_0036,網代慎平
-XMESS_0037,"Give me Haine…
-Then… we can end this.",XMESS_0037,網代慎平
-XMESS_0038,"That's not my ending.  
-It is my duty to fulfill mother's wish.",XMESS_0038,雁切真砂人
+XMESS_0037,Hand over Haine... Can't we... end it with that...?,XMESS_0037,網代慎平
+XMESS_0038,That is not my ending. Fulfilling my mother's wish is my mission.,XMESS_0038,雁切真砂人
 XMESS_0039,…!!,XMESS_0039,網代慎平
-XMESS_0040,"(You bastard!
-You damn bastard!!)",XMESS_0040,網代慎平
-XMESS_0041,"Also, I don't know.
-Maybe my shadow is here too.",XMESS_0041,雁切真砂人
+XMESS_0040,(Damn it! Damn it...!!),XMESS_0040,網代慎平
+XMESS_0041,"Besides, you never know. My shadow might be around.",XMESS_0041,雁切真砂人
 XMESS_0042,!!,XMESS_0042,網代慎平
 XMESS_0043,(…Something's wrong…),XMESS_0043,網代慎平
-XMESS_0044,"Pull the trigger!
-There's no shadow nearby!!!",XMESS_0044,ウシオ
-XMESS_0045,(Why? Why is this guy…),XMESS_0045,網代慎平
-XMESS_0046,"Shoot him, Shinpei!!  
-This is our only chance to defeat Shide!!",XMESS_0046,ウシオ
-XMESS_0047,I know what you're thinking right now.,XMESS_0047,雁切真砂人
-XMESS_0048,"""Why doesn't he have a burn on his left hand?""",XMESS_0048,雁切真砂人
-XMESS_0049,…That's it.,XMESS_0049,雁切真砂人
+XMESS_0044,Pull the trigger!! There's no shadow presence nearby!!,XMESS_0044,ウシオ
+XMESS_0045,(Why? Why is this guy--),XMESS_0045,網代慎平
+XMESS_0046,"Shoot, Shinpei!!! Now is the only time to defeat Shide!!",XMESS_0046,ウシオ
+XMESS_0047,I understand. You're thinking this right now...,XMESS_0047,雁切真砂人
+XMESS_0048,Why ain't his left hand burned?',XMESS_0048,雁切真砂人
+XMESS_0049,...Right.,XMESS_0049,雁切真砂人
 XMESS_0050,!!,XMESS_0050,網代慎平
-XMESS_0051,"By the way, Shinpei-kun.  
-Can I move now?",XMESS_0051,雁切真砂人
-XMESS_0052,"That's it! 
-I can't hold back anymore!!",XMESS_0052,ウシオ
+XMESS_0051,"By the way, Shinpei-kun. Is it okay if I move now?",XMESS_0051,雁切真砂人
+XMESS_0052,This is it! I can't hold back anymore!!,XMESS_0052,ウシオ
 XMESS_0053,"Ushio, wait--",XMESS_0053,網代慎平
 XMESS_0054,…!!,XMESS_0054,網代慎平
 XMESS_0055,…,XMESS_0055,雁切真砂人
 XMESS_0056,…,XMESS_0056,網代慎平
 XMESS_0057,…,XMESS_0057,ウシオ
-XMESS_0058,"He's dead…
-…Is this the end?",XMESS_0058,ウシオ
-XMESS_0059,"I'll do it.
-You know I said that, right?",XMESS_0059,網代慎平
-XMESS_0060,"I never wanted to let you…
-do this…",XMESS_0060,網代慎平
+XMESS_0058,He's dead... ...Is it over with this?,XMESS_0058,ウシオ
+XMESS_0059,"I said... I would do it, didn't I...",XMESS_0059,網代慎平
+XMESS_0060,I never intended... to make you do something like this...,XMESS_0060,網代慎平
 XMESS_0061,…,XMESS_0061,ウシオ
-XMESS_0062,Shinpei's definitely a murderer now.,XMESS_0062,ウシオ
-XMESS_0063,"Why!!?  
-He was mine…
-My enemy…!!!",XMESS_0063,網代慎平
-XMESS_0064,"Shinpei's kind, so he must be regretting it.",XMESS_0064,ウシオ
-XMESS_0065,"You see him as a human?
-Even me… even this guy…",XMESS_0065,ウシオ
+XMESS_0062,I can't let ya murder someone.,XMESS_0062,ウシオ
+XMESS_0063,Why!!! This guy is my!! Enemy...!!!!,XMESS_0063,網代慎平
+XMESS_0064,"Shinpei is kind, so I'm sure you would have regretted it.",XMESS_0064,ウシオ
+XMESS_0065,"You see us as human, right? Both me, and a guy like this...",XMESS_0065,ウシオ
 XMESS_0066,!!,XMESS_0066,網代慎平
-XMESS_0067,Let me take the dirty work!,XMESS_0067,ウシオ
+XMESS_0067,Leave all the dirty work from now on to me!!,XMESS_0067,ウシオ
 XMESS_0068,…,XMESS_0068,雁切真砂人
-XMESS_0069,"Hah… Hah…
-Ku… hah!!",XMESS_0069,網代慎平
+XMESS_0069,Hah... Hah...! Kuh... Hah...!!,XMESS_0069,網代慎平
 XMESS_0070,Shinpei!,XMESS_0070,ウシオ
-XMESS_0071,"U, Ushio… I…",XMESS_0071,網代慎平
-XMESS_0072,(…I shot someone…),XMESS_0072,網代慎平
-XMESS_0073,(…But why does he have no burn on his…,XMESS_0073,網代慎平
-XMESS_0074,(…He doesn't have a burn at all!?),XMESS_0074,網代慎平
-XMESS_0075,"Stay calm.
-Take slow, deep breaths…",XMESS_0075,ウシオ
-XMESS_0076,Ah… right…,XMESS_0076,網代慎平
-XMESS_0077,Suuu…,XMESS_0077,網代慎平
-XMESS_0078,Haaah…,XMESS_0078,網代慎平
+XMESS_0071,U-Ushio... I...,XMESS_0071,網代慎平
+XMESS_0072,(I... shot a person...!),XMESS_0072,網代慎平
+XMESS_0073,(But... why doesn't this guy have...),XMESS_0073,網代慎平
+XMESS_0074,(...a burn on his left hand...!?),XMESS_0074,網代慎平
+XMESS_0075,Calm down. Take a slow deep breath...,XMESS_0075,ウシオ
+XMESS_0076,Y-Yeah...,XMESS_0076,網代慎平
+XMESS_0077,*Inhale*...,XMESS_0077,網代慎平
+XMESS_0078,*Exhale*...,XMESS_0078,網代慎平
 XMESS_0079,…,XMESS_0079,網代慎平
-XMESS_0080,Are you calm now?,XMESS_0080,ウシオ
-XMESS_0081,"Yeah… sorry…
-I must've looked pathetic.",XMESS_0081,網代慎平
-XMESS_0082,…Maybe I should have done it instead.,XMESS_0082,ウシオ
-XMESS_0083,W-why…?,XMESS_0083,網代慎平
-XMESS_0084,"Because you're kind…
-You must be regretting it so much right now, huh?",XMESS_0084,ウシオ
+XMESS_0080,Have you calmed down?,XMESS_0080,ウシオ
+XMESS_0081,Yeah... sorry... I showed you a pathetic side of me...,XMESS_0081,網代慎平
+XMESS_0082,...I should have done it after all.,XMESS_0082,ウシオ
+XMESS_0083,Wh-Why...?,XMESS_0083,網代慎平
+XMESS_0084,"Because Shinpei is kind... You're regretting it a lot right now, aren't you...?",XMESS_0084,ウシオ
 XMESS_0085,That's…,XMESS_0085,網代慎平
-XMESS_0086,"It's because you see us as humans.
-Even me, even this guy…",XMESS_0086,ウシオ
+XMESS_0086,"That's because you see us as humans. Both me, and a guy like this...",XMESS_0086,ウシオ
 XMESS_0087,…,XMESS_0087,網代慎平
 XMESS_0088,So…,XMESS_0088,ウシオ
-XMESS_0089,"From now on, I'll take all the dirty work.",XMESS_0089,ウシオ
+XMESS_0089,Leave all the dirty work from now on to me!!,XMESS_0089,ウシオ
 XMESS_0090,Ushio…,XMESS_0090,網代慎平
-XMESS_0091,"Lend me!
-The phone's still connected, right?",XMESS_0091,ウシオ
-XMESS_0092,Hey everyone… I was listening.,XMESS_0092,ウシオ
-XMESS_0093,Shide killed…,XMESS_0093,ウシオ
+XMESS_0091,"Let me borrow that! The phone is still connected, right?",XMESS_0091,ウシオ
+XMESS_0092,"Hello, was everyone listening?",XMESS_0092,ウシオ
+XMESS_0093,We killed Shide--,XMESS_0093,ウシオ
 XMESS_0094,…,XMESS_0094,ウシオ
-XMESS_0095,…What?,XMESS_0095,網代慎平
-XMESS_0096,…Shinpei…,XMESS_0096,ウシオ
+XMESS_0095,...Eh?,XMESS_0095,網代慎平
+XMESS_0096,...Shin--,XMESS_0096,ウシオ
 XMESS_0097,!!,XMESS_0097,ウシオ
 XMESS_0098,"Yes, one down.",XMESS_0098,雁切真砂人
-XMESS_0099,Shi… De…,XMESS_0099,ウシオ
-XMESS_0100,"I'm sorry… Shinpei…
-I didn't notice…",XMESS_0100,ウシオ
+XMESS_0099,Shi... de...!!,XMESS_0099,ウシオ
+XMESS_0100,Sorry... Shinpei... Notice... it...,XMESS_0100,ウシオ
 XMESS_0101,…!!,XMESS_0101,ウシオ
 XMESS_0102,…,XMESS_0102,網代慎平
-XMESS_0103,…!!,XMESS_0103,網代慎平
+XMESS_0103,...!!!!,XMESS_0103,網代慎平
 XMESS_0104,!!,XMESS_0104,網代慎平
 XMESS_0105,…,XMESS_0105,雁切真砂人
-XMESS_0106,"That's too bad…
-Shinpei-kun.",XMESS_0106,雁切真砂人
-XMESS_0107,"Just a little…  
-You weren't careful enough--",XMESS_0107,雁切真砂人
-XMESS_0108,"That's not it, is it?",XMESS_0108,シデ
-XMESS_0109,(…How…),XMESS_0109,網代慎平
+XMESS_0106,That's too bad... Shinpei-kun...,XMESS_0106,雁切真砂人
+XMESS_0107,Just a tiny bit. You didn't look at the big picture enough--,XMESS_0107,雁切真砂人
+XMESS_0108,Don't you think?,XMESS_0108,シデ
+XMESS_0109,(...Wh... y...),XMESS_0109,網代慎平
 XMESS_0110,!!,XMESS_0110,南方ひづる
 XMESS_0111,…!,XMESS_0111,菱形朱鷺子
 XMESS_0112,Now.,XMESS_0112,シデ
 XMESS_0113,"How does it feel, Shinpei-kun?",XMESS_0113,シデ
-XMESS_0114,"Like the save data before the final boss,
-a little kid's feeling?",XMESS_0114,シデ
+XMESS_0114,Like an elementary schooler whose save data got erased right before the final boss...?,XMESS_0114,シデ
 XMESS_0115,Ushio is dead.,XMESS_0115,シデ
-XMESS_0116,Do you think those hungry ghosts can change my ending?,XMESS_0116,シデ
+XMESS_0116,Did you brats really think you could change my ending?,XMESS_0116,シデ
 XMESS_0117,"It's okay, Shinpei…",XMESS_0117,ウシオ
 XMESS_0118,No matter what…,XMESS_0118,ウシオ
-XMESS_0119,I'm following you…,XMESS_0119,ウシオ
-XMESS_0120,!!!!!!!!!,XMESS_0120,網代慎平
-XMESS_0121,"If we loop together,
-it's only despair and regret…",XMESS_0121,シデ
-XMESS_0122,Goodbye.,XMESS_0122,シデ
-XMESS_0123,KEY TIPS[<color=#GF_KEY_LOOPEND_07>7th END</color>] obtained.,XMESS_0123,（ト書き）
+XMESS_0119,I'm with you...,XMESS_0119,ウシオ
+XMESS_0120,...!!!!,XMESS_0120,網代慎平
+XMESS_0121,The only things looping with you are despair and regret...,XMESS_0121,シデ
+XMESS_0122,Take care now.,XMESS_0122,シデ
+XMESS_0123,Acquired Key TIP: [<color=#GF_KEY_LOOPEND_07>7th END</color>].,XMESS_0123,（ト書き）

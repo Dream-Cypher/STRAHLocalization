@@ -1,47 +1,30 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,6. A Table Without Tide,XCHAPTITLE_0002,
-XMESS_0000,"Something like this?
-Hey Mio, taste it a bit.",XMESS_0000,網代慎平
-XMESS_0001,"Got it!
-How much can I eat?",XMESS_0001,小舟澪
-XMESS_0002,"I said to taste it.
-One bite, one bite!",XMESS_0002,網代慎平
-XMESS_0003,"Huh?
-It's such a shame, since it's your cooking, Shinpei…",XMESS_0003,小舟澪
+XCHAPTITLE_0002,6. A Table Without Ushio,XCHAPTITLE_0002,
+XMESS_0000,"Is this about right? Hey Mio, give this a taste.",XMESS_0000,網代慎平
+XMESS_0001,Yay! How much can I eat?,XMESS_0001,小舟澪
+XMESS_0002,"I said it's a taste test. Just one bite, one bite!",XMESS_0002,網代慎平
+XMESS_0003,Ehhh? Even though it's Shin-chan's cooking...!,XMESS_0003,小舟澪
 XMESS_0004,…,XMESS_0004,網代慎平
-XMESS_0005,"…Shinpei, what's wrong?
-…You're sweating a lot?",XMESS_0005,小舟澪
-XMESS_0006,"S-so, is that right…?
-Maybe because I'm using fire.
-Hehe…",XMESS_0006,網代慎平
+XMESS_0005,"...Shin-chan, what's wrong? ...You're sweating a lot, you know?",XMESS_0005,小舟澪
+XMESS_0006,I-Is that so...? Maybe it's because I'm using the stove. Hahaha...,XMESS_0006,網代慎平
 XMESS_0007,…,XMESS_0007,小舟澪
-XMESS_0008,"Sorry, Shinpei, I'm late!
-Karikiri's talk was long…",XMESS_0008,小舟アラン
-XMESS_0009,"Welcome back, Alain.
-It's almost ready.",XMESS_0009,網代慎平
-XMESS_0010,"Dad, welcome back!",XMESS_0010,小舟澪
-XMESS_0011,"Oh, welcome back… Mio!
-You should help too, right?",XMESS_0011,小舟アラン
-XMESS_0012,I'm just the one who eats!!,XMESS_0012,小舟澪
-XMESS_0013,"Honestly…
-Hmm, great smell.
-It's a favorite of Ushio…",XMESS_0013,小舟アラン
-XMESS_0014,"Well, how was the taste?",XMESS_0014,網代慎平
-XMESS_0015,"Yeah, delicious!
-The usual Shinpei taste.",XMESS_0015,小舟澪
-XMESS_0016,"Then, bring the dishes.",XMESS_0016,網代慎平
+XMESS_0008,"Sorry Shinpei, I'm late! Karikiri-san's stories are so long...",XMESS_0008,小舟アラン
+XMESS_0009,"Welcome back, Alain. It'll be ready soon.",XMESS_0009,網代慎平
+XMESS_0010,"Welcome back, Dad!",XMESS_0010,小舟澪
+XMESS_0011,"Oh, I'm home... hey, Mio! You should be helping out with something too.",XMESS_0011,小舟アラン
+XMESS_0012,I specialize in eating!!,XMESS_0012,小舟澪
+XMESS_0013,"Good grief... Hm, smells good. It's Ushio's favorite...",XMESS_0013,小舟アラン
+XMESS_0014,"So, how was the taste?",XMESS_0014,網代慎平
+XMESS_0015,"Yeah, it's delicious! It tastes just like Shin-chan's usual.",XMESS_0015,小舟澪
+XMESS_0016,"Then I'll plate it, so carry them over.",XMESS_0016,網代慎平
 XMESS_0017,Ah…,XMESS_0017,小舟澪
 XMESS_0018,What's wrong?,XMESS_0018,網代慎平
-XMESS_0019,"There's also a portion for your sister, right?",XMESS_0019,小舟澪
-XMESS_0020,Ah…,XMESS_0020,網代慎平
-XMESS_0021,"Your sister also
-hasn't had Shinpei's curry in a while,
-she'll be happy…",XMESS_0021,小舟澪
-XMESS_0022,I hope so…,XMESS_0022,網代慎平
-XCOMMENTVIEW_0136,Mio,XCOMMENTVIEW_0136,
+XMESS_0019,There's a portion for Onee-chan too.,XMESS_0019,小舟澪
+XMESS_0020,Yeah...,XMESS_0020,網代慎平
+XMESS_0021,"Onee-chan must be happy too, since it's been a while since she had Shin-chan's curry...",XMESS_0021,小舟澪
+XMESS_0022,I hope so...,XMESS_0022,網代慎平
+XCOMMENTVIEW_0136,Mio Kofune,XCOMMENTVIEW_0136,
 XMESS_0023,…,XMESS_0023,小舟澪（ミオ）
-XMESS_0024,…What?!,XMESS_0024,凸村哲
-XMESS_0025,"What's wrong with you, Mio!?
-Staring blankly at your own house…
-Did you fight with someone?",XMESS_0025,凸村哲
+XMESS_0024,...Huh!?,XMESS_0024,凸村哲
+XMESS_0025,"What's wrong, Mio-chan! Staring blankly at your own house... Did you get into a fight with someone or something?",XMESS_0025,凸村哲
 XMESS_0026,…,XMESS_0026,小舟澪（ミオ）

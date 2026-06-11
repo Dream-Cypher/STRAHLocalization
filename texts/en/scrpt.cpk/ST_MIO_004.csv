@@ -1,178 +1,133 @@
 source,target,id,developer_comments
 XCHAPTITLE_0015,4. Returning Home,XCHAPTITLE_0015,
-XCOMMENTVIEW_0029,July 24,XCOMMENTVIEW_0029,
-XMESS_0000,Huh… I made it back safely…,XMESS_0000,小舟澪（ミオ）
-XMESS_0001,Ah…,XMESS_0001,網代慎平
-XMESS_0002,"(There was almost no sign of people when I came back here)
-(To be honest, I only heard a voice that might have been a Shadow)",XMESS_0002,網代慎平
-XMESS_0003,(But I heard a voice that might have been a Shadow…),XMESS_0003,網代慎平
-XMESS_0004,(What if everyone around here has already been turned into a Shadow?),XMESS_0004,網代慎平
-XMESS_0005,(…I hope that's not the case.),XMESS_0005,網代慎平
+XCOMMENTVIEW_0029,July 24th,XCOMMENTVIEW_0029,
+XMESS_0000,*Sigh*... We made it back safely...,XMESS_0000,小舟澪（ミオ）
+XMESS_0001,Yeah...,XMESS_0001,網代慎平
+XMESS_0002,"(Until we got back here, there was almost no sign of anyone.)",XMESS_0002,網代慎平
+XMESS_0003,(Though we did hear voices that seemed to be Shadows...),XMESS_0003,網代慎平
+XMESS_0004,(Could it be that the people around here have already all been turned into Shadows...),XMESS_0004,網代慎平
+XMESS_0005,"(...That can't be it, right?)",XMESS_0005,網代慎平
 XMESS_0006,"Dad, I'm home!",XMESS_0006,小舟澪（ミオ）
-XMESS_0007,"Ah, you're back.
-You came back earlier than expected, but
-how was the festival?",XMESS_0007,小舟アラン（影アラン）
-XMESS_0008,That's not even a concern!,XMESS_0008,小舟澪（ミオ）
-XMESS_0009,"Alain, you're safe!
-That's good…",XMESS_0009,網代慎平
+XMESS_0007,"Ah, welcome back. You're quite early, how was the festival?",XMESS_0007,小舟アラン（影アラン）
+XMESS_0008,We don't have time for that!,XMESS_0008,小舟澪（ミオ）
+XMESS_0009,"Alain, you're safe! Thank goodness...",XMESS_0009,網代慎平
 XMESS_0010,"Safe? What are you talking about?
 Did something happen?",XMESS_0010,小舟アラン（影アラン）
-XMESS_0011,"Dad, you don't even know what's going on outside!?",XMESS_0011,小舟澪（ミオ）
-XMESS_0012,"No, I was cleaning up the shop and preparing for tomorrow,
-so I haven't been paying attention to what's going on outside.",XMESS_0012,小舟アラン（影アラン）
-XMESS_0013,This isn't the time to be so laid back!,XMESS_0013,小舟澪（ミオ）
-XMESS_0014,"(Given the situation, there doesn't seem to have been any major commotion nearby.
-It's probably safe to think that way.)",XMESS_0014,網代慎平
-XMESS_0015,"(Regardless, I'm really glad Alain is safe…)",XMESS_0015,網代慎平
-XMESS_0016,"Shinpei, what's this commotion about?
-Did an accident happen at the festival?",XMESS_0016,小舟アラン（影アラン）
-XMESS_0017,"…Alain.
-I'll summarize quickly, so listen carefully.",XMESS_0017,網代慎平
-XMESS_0018,"Ah, right.",XMESS_0018,小舟アラン（影アラン）
-XMESS_0019,That's the situation.,XMESS_0019,網代慎平
+XMESS_0011,"Dad, you don't know anything about the commotion outside!?",XMESS_0011,小舟澪（ミオ）
+XMESS_0012,"No, I was busy cleaning up the shop and prepping for tomorrow, so I don't really know what's going on outside.",XMESS_0012,小舟アラン（影アラン）
+XMESS_0013,This is no time to be saying such carefree things!,XMESS_0013,小舟澪（ミオ）
+XMESS_0014,"(Judging from this, at the very least, there hasn't been a major commotion nearby. It's probably safe to assume that.)",XMESS_0014,網代慎平
+XMESS_0015,"(In any case, I'm really glad Alain is safe...)",XMESS_0015,網代慎平
+XMESS_0016,"Shinpei, what's this commotion? Did an accident happen at the festival or something?",XMESS_0016,小舟アラン（影アラン）
+XMESS_0017,"...Alain. I'll give you the short version, so stay calm and listen.",XMESS_0017,網代慎平
+XMESS_0018,Y-Yeah.,XMESS_0018,小舟アラン（影アラン）
+XMESS_0019,--And that's the situation.,XMESS_0019,網代慎平
 XMESS_0020,…,XMESS_0020,小舟アラン（影アラン）
-XMESS_0021,So… I guess I didn't really understand it.,XMESS_0021,小舟アラン（影アラン）
-XMESS_0022,"That there are terrifying monsters all over the island, so we need to escape?",XMESS_0022,小舟アラン（影アラン）
-XMESS_0023,"Yeah, that's it!",XMESS_0023,小舟澪（ミオ）
-XMESS_0024,"But…
-I can't really believe something like that.",XMESS_0024,小舟アラン（影アラン）
+XMESS_0021,"In other words, well... how do I put it. I didn't really understand it, but.",XMESS_0021,小舟アラン（影アラン）
+XMESS_0022,"There are terrifying monsters all over the island, so we have to escape off the island?",XMESS_0022,小舟アラン（影アラン）
+XMESS_0023,"Yeah, that's right!",XMESS_0023,小舟澪（ミオ）
+XMESS_0024,But still... I can't just suddenly believe a story like that.,XMESS_0024,小舟アラン（影アラン）
 MSTD_0120-0,"""It's not a joke!""",MSTD_0120-0,
-MSTD_0120-1,"""I'll have to drag you out by force!""",MSTD_0120-1,
+MSTD_0120-1,"""I'll take you with us even by force.""",MSTD_0120-1,
 XMESS_0025,"It's not a joke!
 I'm telling the truth!",XMESS_0025,網代慎平
-XMESS_0026,"No, Shinpei wouldn't lie about something like this, and I think it's probably true.",XMESS_0026,小舟アラン（影アラン）
-XMESS_0027,It's just so huge… I can't even begin to imagine the tragedy.,XMESS_0027,小舟アラン（影アラン）
-XMESS_0028,I never thought something like this would happen on this island…,XMESS_0028,小舟アラン（影アラン）
-XMESS_0029,"I'll have to drag you out by force!
-There's no time!",XMESS_0029,網代慎平
-XMESS_0030,"We can talk later, okay?",XMESS_0030,網代慎平
+XMESS_0026,"Well, there's no way Shinpei would tell a lie like that, so I do think it's probably true.",XMESS_0026,小舟アラン（影アラン）
+XMESS_0027,"It's just too big of a... no, too tragic of a story.",XMESS_0027,小舟アラン（影アラン）
+XMESS_0028,To think something like that is happening on this island...,XMESS_0028,小舟アラン（影アラン）
+XMESS_0029,I'll take you with us even by force. We don't have time.,XMESS_0029,網代慎平
+XMESS_0030,We can talk about it later.,XMESS_0030,網代慎平
 XMESS_0031,"Shin-chan, are you serious?",XMESS_0031,小舟澪（ミオ）
-XMESS_0032,"I am.
-Alain will understand later.",XMESS_0032,網代慎平
-XMESS_0033,"I see.
-If Shinpei says that, it must be an emergency.",XMESS_0033,小舟アラン（影アラン）
-XMESS_0034,"Then get ready immediately!
-We need to take the last ferry!",XMESS_0034,網代慎平
-XMESS_0035,"Well, don't get so worked up.",XMESS_0035,小舟アラン（影アラン）
-XMESS_0036,"First, let everyone calm down.
-Have something warm to drink.",XMESS_0036,小舟アラン（影アラン）
-XMESS_0037,"Alain!!!
-Did you even hear what I just said?!
-I've told you so many times that we don't have time---",XMESS_0037,網代慎平
+XMESS_0032,I'm serious. Even Alain should understand later.,XMESS_0032,網代慎平
+XMESS_0033,"I understand. If Shinpei is going that far, it really must be an emergency.",XMESS_0033,小舟アラン（影アラン）
+XMESS_0034,Then please get ready right away! We're taking the last ferry!,XMESS_0034,網代慎平
+XMESS_0035,"Well, don't panic so much.",XMESS_0035,小舟アラン（影アラン）
+XMESS_0036,Let's all just calm down for a second. Have something warm to drink.,XMESS_0036,小舟アラン（影アラン）
+XMESS_0037,Alain!! Did you not hear what I just said!? I've told you over and over that we need to hurry--,XMESS_0037,網代慎平
 XMESS_0038,"The last ferry today isn't for a while, right?",XMESS_0038,小舟アラン（影アラン）
 XMESS_0039,Huh…?,XMESS_0039,網代慎平
 XMESS_0040,"Oh, right!",XMESS_0040,小舟澪（ミオ）
-XMESS_0041,"Shin-chan, today's the festival.
-The ferry is running more frequently than usual.",XMESS_0041,小舟澪（ミオ）
+XMESS_0041,"Shin-chan, today's the festival. There are a lot more ferries running than usual.",XMESS_0041,小舟澪（ミオ）
 XMESS_0042,…Oh!,XMESS_0042,網代慎平
-XMESS_0043,"(Why did I forget…?
-Today's the festival, so there's a <color=#GF_TIPS_116>temporary schedule</color> for tourists!)",XMESS_0043,網代慎平
-XMESS_0044,"Normally we'd have to hurry, but since the last ferry isn't for a while,
-we still have some time.",XMESS_0044,小舟アラン（影アラン）
-XMESS_0045,"You must have been so scared you lost your head.
-Anyway, let's calm down.",XMESS_0045,小舟アラン（影アラン）
-XMESS_0046,"If we rush out, the monsters outside might find us.",XMESS_0046,小舟アラン（影アラン）
-XMESS_0047,"That might be true, but if we miss the ferry…",XMESS_0047,網代慎平
-XMESS_0048,"I understand how you feel.
-But ""haste makes waste.""
-Let's just calm down for now.",XMESS_0048,小舟アラン（影アラン）
-XMESS_0049,Well… if Alain says so.,XMESS_0049,網代慎平
-XMESS_0050,"Hahaha!
-I've never seen Shinpei so flustered before.",XMESS_0050,小舟アラン（影アラン）
-XMESS_0051,"You're so calm, Alain.
-But thanks to that, I've calmed down too.",XMESS_0051,網代慎平
-XMESS_0052,"While we wait for a call from the window,
-let's rest here for a while.",XMESS_0052,網代慎平
+XMESS_0043,"(Why did I forget... Because of the festival today, there's a <color=#GF_TIPS_116>temporary schedule</color> for tourists!)",XMESS_0043,網代慎平
+XMESS_0044,"Normally we'd have to hurry, but we still have some time before today's last ferry.",XMESS_0044,小舟アラン（影アラン）
+XMESS_0045,"You must be upset after going through something so terrible. Well, just calm down for now.",XMESS_0045,小舟アラン（影アラン）
+XMESS_0046,"There are monsters wandering around outside, right? If we act in a panic, we'll get found.",XMESS_0046,小舟アラン（影アラン）
+XMESS_0047,"That... might be true, but if we miss the ferry...!",XMESS_0047,網代慎平
+XMESS_0048,"I understand how you feel. But ""haste makes waste."" Let's calm down for now.",XMESS_0048,小舟アラン（影アラン）
+XMESS_0049,Well... if Alain insists.,XMESS_0049,網代慎平
+XMESS_0050,Hahaha! This might be the first time I've seen the usually calm Shinpei so flustered.,XMESS_0050,小舟アラン（影アラン）
+XMESS_0051,"You're so carefree, Alain. But thanks to that, I was able to calm down.",XMESS_0051,網代慎平
+XMESS_0052,Let's rest here for a while as we wait to hear from Sou and the others.,XMESS_0052,網代慎平
 XMESS_0053,"Yeah, I'm fine with that.",XMESS_0053,小舟澪（ミオ）
-XMESS_0054,"Then, let's have our last order.
-What will you two have?",XMESS_0054,小舟アラン（影アラン）
-XMESS_0055,Huh? You mean drinks?,XMESS_0055,網代慎平
-XMESS_0056,"Of course.
-A warm drink is the best for the soul.",XMESS_0056,小舟アラン（影アラン）
+XMESS_0054,"Then, let's take your last order again. What do you two want to drink?",XMESS_0054,小舟アラン（影アラン）
+XMESS_0055,Huh? You were serious about the drinks?,XMESS_0055,網代慎平
+XMESS_0056,Of course. A warm drink is the best thing for the soul.,XMESS_0056,小舟アラン（影アラン）
 XMESS_0057,Then I'll have milk tea.,XMESS_0057,小舟澪（ミオ）
-XMESS_0058,Then I'll put as much milk and sugar as I can.,XMESS_0058,小舟アラン（影アラン）
+XMESS_0058,"Alright, I'll put in as much milk and sugar as I can.",XMESS_0058,小舟アラン（影アラン）
 XMESS_0059,"What about you, Shinpei?",XMESS_0059,小舟アラン（影アラン）
-XMESS_0060,"Hmm, coffee.",XMESS_0060,網代慎平
-XMESS_0061,"Got it.
-I'll use my best beans.",XMESS_0061,小舟アラン（影アラン）
-XMESS_0062,You have that kind of stuff?,XMESS_0062,小舟澪（ミオ）
-XMESS_0063,"It's the usual beans.
-I always keep the best ones on hand.",XMESS_0063,小舟アラン（影アラン）
+XMESS_0060,"Um, I'll have coffee.",XMESS_0060,網代慎平
+XMESS_0061,Got it. I'll use my special beans.,XMESS_0061,小舟アラン（影アラン）
+XMESS_0062,You had something like that?,XMESS_0062,小舟澪（ミオ）
+XMESS_0063,It's the usual beans. I always serve my special ones.,XMESS_0063,小舟アラン（影アラン）
 XMESS_0064,It's all in how you say it.,XMESS_0064,小舟澪（ミオ）
 XMESS_0065,…,XMESS_0065,網代慎平
-XMESS_0066,"(At last… I feel like I've regained a little bit of composure.
-Thanks to Alain.)",XMESS_0066,網代慎平
-XMESS_0067,How's your calmness?,XMESS_0067,小舟アラン（影アラン）
+XMESS_0066,(Finally... I feel like I've regained just a little bit of composure. It's thanks to Alain.),XMESS_0066,網代慎平
+XMESS_0067,"How is it, have you calmed down?",XMESS_0067,小舟アラン（影アラン）
 XMESS_0068,"Yeah, thanks, Alain.",XMESS_0068,網代慎平
-XMESS_0069,"No call yet.
-…From Tokiko too, and from Sou.",XMESS_0069,小舟澪（ミオ）
+XMESS_0069,No messages. ...From Tokiko or from Sou-kun.,XMESS_0069,小舟澪（ミオ）
 XMESS_0070,Did you get separated from those two?,XMESS_0070,小舟アラン（影アラン）
-XMESS_0071,"Yeah…
-When we were running away, it got so chaotic.",XMESS_0071,小舟澪（ミオ）
-XMESS_0072,"Shin-chan, I'll email Tokiko too to tell them to come here.",XMESS_0072,小舟澪（ミオ）
-XMESS_0073,"No, since we plan to escape by ferry, you should tell them to head to the port.",XMESS_0073,網代慎平
-XMESS_0074,"If they're closer to the port than here, it'll be a waste of time.",XMESS_0074,網代慎平
-XMESS_0075,"Oh, right.",XMESS_0075,小舟澪（ミオ）
-XMESS_0076,"We can meet at the port, or even on the mainland.",XMESS_0076,網代慎平
-XMESS_0077,"Well, I'll go to the bathroom before we move.",XMESS_0077,小舟アラン（影アラン）
-XMESS_0078,"Dad, you're so calm in this situation.",XMESS_0078,小舟澪（ミオ）
+XMESS_0071,"Yeah... When we were running away, there were so many people and it got super chaotic.",XMESS_0071,小舟澪（ミオ）
+XMESS_0072,"Shin-chan, I'll email Tokiko and the others telling them to come here too.",XMESS_0072,小舟澪（ミオ）
+XMESS_0073,"No, since we're planning to escape by ferry, it's better to tell them to head to the port.",XMESS_0073,網代慎平
+XMESS_0074,"If they're closer to the port than here, coming here would just be unnecessary travel.",XMESS_0074,網代慎平
+XMESS_0075,"Ah, right.",XMESS_0075,小舟澪（ミオ）
+XMESS_0076,"We can meet up at the port, or even just meet up on the mainland.",XMESS_0076,網代慎平
+XMESS_0077,"Alright, I'll go to the restroom before we start moving.",XMESS_0077,小舟アラン（影アラン）
+XMESS_0078,"Dad, you're so laid back in this situation.",XMESS_0078,小舟澪（ミオ）
 XMESS_0079,Haha…,XMESS_0079,網代慎平
-XMESS_0080,My phone hasn't even received any calls…,XMESS_0080,網代慎平
-XMESS_0081,"(Where are you, Sou, Tokiko…)",XMESS_0081,網代慎平
+XMESS_0080,My phone hasn't gotten any calls either...,XMESS_0080,網代慎平
+XMESS_0081,"(Where are you guys, Sou, Toki-chan...)",XMESS_0081,網代慎平
 XMESS_0082,"…Hey, Shin-chan.",XMESS_0082,小舟澪（ミオ）
 XMESS_0083,What?,XMESS_0083,網代慎平
-XMESS_0084,I wonder what's going to happen to us?,XMESS_0084,小舟澪（ミオ）
-XMESS_0085,I don't want anyone else to become like my sister again.,XMESS_0085,小舟澪（ミオ）
-XMESS_0086,I wonder if Tokiko and Sou are okay…,XMESS_0086,小舟澪（ミオ）
+XMESS_0084,What on earth is going to happen to us?,XMESS_0084,小舟澪（ミオ）
+XMESS_0085,I don't want anyone else to end up like Onee-chan again.,XMESS_0085,小舟澪（ミオ）
+XMESS_0086,I wonder if they're safe. Tokiko... and Sou-kun...,XMESS_0086,小舟澪（ミオ）
 XMESS_0087,Maybe they're already…,XMESS_0087,小舟澪（ミオ）
 XMESS_0088,"Mio, you're overthinking.",XMESS_0088,網代慎平
-XMESS_0089,"Ah… sorry.
-I shouldn't have said that.",XMESS_0089,小舟澪（ミオ）
+XMESS_0089,Ah... sorry. I shouldn't be saying things like that.,XMESS_0089,小舟澪（ミオ）
 XMESS_0090,…,XMESS_0090,網代慎平
-XMESS_0091,"It'll be okay.
-I'll protect Mio.",XMESS_0091,網代慎平
-XMESS_0092,…Thank you.,XMESS_0092,小舟澪（ミオ）
-XMESS_0093,"Hey, Shin-chan.
-Can I ask you something weird?",XMESS_0093,小舟澪（ミオ）
-XMESS_0094,Weird?,XMESS_0094,網代慎平
-XMESS_0095,"Um, is it okay if I change clothes?",XMESS_0095,小舟澪（ミオ）
-XMESS_0096,Changing clothes?,XMESS_0096,網代慎平
-XMESS_0097,"This outfit is really hard to move in.
-I think I'd be better off in regular clothes.",XMESS_0097,小舟澪（ミオ）
-XMESS_0098,"Ah, you're right.",XMESS_0098,網代慎平
-XMESS_0099,But why ask me specifically?,XMESS_0099,網代慎平
+XMESS_0091,"It'll be okay. I'll protect you, Mio.",XMESS_0091,網代慎平
+XMESS_0092,...Thanks.,XMESS_0092,小舟澪（ミオ）
+XMESS_0093,"Um, Shin-chan. Can I... ask you something weird?",XMESS_0093,小舟澪（ミオ）
+XMESS_0094,Something weird?,XMESS_0094,網代慎平
+XMESS_0095,"Um, is it okay if I go change clothes?",XMESS_0095,小舟澪（ミオ）
+XMESS_0096,Change clothes...?,XMESS_0096,網代慎平
+XMESS_0097,This outfit is really hard to run in. I figured regular clothes would be better.,XMESS_0097,小舟澪（ミオ）
+XMESS_0098,"Ah, yeah, I guess so.",XMESS_0098,網代慎平
+XMESS_0099,But why go out of your way to ask me?,XMESS_0099,網代慎平
 XMESS_0100,Because…,XMESS_0100,小舟澪（ミオ）
-XMESS_0101,I think Shin-chan likes this kimono.,XMESS_0101,小舟澪（ミオ）
+XMESS_0101,"I thought you liked this yukata, Shin-chan.",XMESS_0101,小舟澪（ミオ）
 XMESS_0102,…What!?,XMESS_0102,網代慎平
-XMESS_0103,"Was it not obvious?
-I felt like you were looking at me more than usual during the festival.",XMESS_0103,小舟澪（ミオ）
-XMESS_0104,"S-so was that the case?
-I don't think I was paying special attention…",XMESS_0104,網代慎平
-XMESS_0105,"S-sorry! I shouldn't have said that!
-I'll go change right away!",XMESS_0105,小舟澪（ミオ）
-XMESS_0106,(Did I really look that much?),XMESS_0106,網代慎平
+XMESS_0103,"Was I wrong? I felt like you were staring at me more than usual during the festival, though.",XMESS_0103,小舟澪（ミオ）
+XMESS_0104,"W-Was I? I don't think I was consciously staring or anything, but...",XMESS_0104,網代慎平
+XMESS_0105,"S-Sorry, I said something weird! I'll go change real quick!",XMESS_0105,小舟澪（ミオ）
+XMESS_0106,(Was I really staring that much...),XMESS_0106,網代慎平
 XMESS_0107,…,XMESS_0107,網代慎平
-XMESS_0108,"(I feel kind of awkward.
-Maybe I should clean up the cups.)",XMESS_0108,網代慎平
-XMESS_0109,"(Even if we're escaping from here,
-leaving it like this doesn't feel right.)",XMESS_0109,網代慎平
+XMESS_0108,(I feel kind of restless. Maybe I should clean up the cups.),XMESS_0108,網代慎平
+XMESS_0109,"(Even if we're escaping from here, it doesn't feel right to just leave them...)",XMESS_0109,網代慎平
 XMESS_0110,…What!?,XMESS_0110,網代慎平
-XMESS_0111,(On the kitchen floor… a black stain in the shape of a person…),XMESS_0111,網代慎平
-XMESS_0112,No way…,XMESS_0112,網代慎平
-XMESS_0113,"(I can't believe it. I want to think it's a mistake, but it's definitely not.)",XMESS_0113,網代慎平
-XMESS_0114,(This is the mark left when a Shadow copies a person!),XMESS_0114,網代慎平
-XMESS_0115,(If someone was copied here… there's only one person I can think of.),XMESS_0115,網代慎平
-XMESS_0116,Damn…!,XMESS_0116,網代慎平
-XMESS_0117,Huh? Whoa! Who is it?!,XMESS_0117,小舟澪（ミオ）
+XMESS_0111,(On the kitchen floor... a black stain in the shape of a person...),XMESS_0111,網代慎平
+XMESS_0112,You've gotta be kidding me...,XMESS_0112,網代慎平
+XMESS_0113,"(No, it's not a joke. I want to believe my eyes are playing tricks on me, but there's no mistake!)",XMESS_0113,網代慎平
+XMESS_0114,(This is the mark left behind when a Shadow copies a person!),XMESS_0114,網代慎平
+XMESS_0115,(If someone was copied by a Shadow here... There's only one person it could be.),XMESS_0115,網代慎平
+XMESS_0116,Damn it...!,XMESS_0116,網代慎平
+XMESS_0117,Eek!? Wh-Who is it!?,XMESS_0117,小舟澪（ミオ）
 XMESS_0118,"It's me.
 Mio, have you changed yet?",XMESS_0118,網代慎平
-XMESS_0119,Not yet…,XMESS_0119,小舟澪（ミオ）
-XMESS_0120,"Shin-chan, something happened?
-Why are you looking so scared?",XMESS_0120,小舟澪（ミオ）
-XMESS_0121,"Shh… don't make a loud noise.
-Get out of here soon.",XMESS_0121,網代慎平
-XMESS_0122,"Huh, why?
-Why the sudden change?",XMESS_0122,小舟澪（ミオ）
-XMESS_0123,"The Alain earlier was a shadow.
-If we stay here, it's dangerous.",XMESS_0123,網代慎平
+XMESS_0119,"Not yet, but...",XMESS_0119,小舟澪（ミオ）
+XMESS_0120,"Shin-chan, did something happen? You have such a scary look on your face.",XMESS_0120,小舟澪（ミオ）
+XMESS_0121,Shh... don't speak so loudly. We're getting out of here right now.,XMESS_0121,網代慎平
+XMESS_0122,"Huh, why? What's with the sudden change?",XMESS_0122,小舟澪（ミオ）
+XMESS_0123,The Alain from earlier was a Shadow. It's dangerous if we stay here.,XMESS_0123,網代慎平
 XMESS_0124,…!,XMESS_0124,小舟澪（ミオ）

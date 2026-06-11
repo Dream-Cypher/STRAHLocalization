@@ -1,166 +1,94 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,3. Ushio's Proposal,XCHAPTITLE_0002,
-XMESS_0000,"…Ah, a nostalgic scene.
-Still the same, huh~",XMESS_0000,小弓場かおり
-XMESS_0001,You used to play around here often back then?,XMESS_0001,小舟澪
-XMESS_0002,"No, I wasn't really the type to play outside…",XMESS_0002,小弓場かおり
-XMESS_0003,"But when it rained, there were puddles over there,
-and lots of water striders. I remember that.",XMESS_0003,小弓場かおり
-XMESS_0004,"Speaking of which, in Tokyo,
-I don't get to see water striders much here.",XMESS_0004,網代慎平（収録）
+XMESS_0000,"...Ah, what a nostalgic scenery. It hasn't changed at all~.",XMESS_0000,小弓場かおり
+XMESS_0001,Did you use to play around here a lot in the past?,XMESS_0001,小舟澪
+XMESS_0002,"No, I wasn't really the type to play outside much...",XMESS_0002,小弓場かおり
+XMESS_0003,"But I remember that when it rained, a puddle would form around there, and there would be lots of water striders.",XMESS_0003,小弓場かおり
+XMESS_0004,"Come to think of it, when you're in Tokyo, you don't get the chance to see water striders as much as here, huh.",XMESS_0004,網代慎平（収録）
 XMESS_0005,"Oh, really?",XMESS_0005,小舟澪
-XMESS_0006,"People who come from the city to this island
-probably find the natural scenery attractive.",XMESS_0006,網代慎平（収録）
-XMESS_0007,"I see.
-But if we're promoting the island's natural scenery,
-isn't it important to highlight what's unique to this island?",XMESS_0007,小舟澪
-XMESS_0008,That's the tricky part.,XMESS_0008,網代慎平（収録）
-XMESS_0009,That's right…,XMESS_0009,小弓場かおり
-XMESS_0010,"Let's talk about school then.
-Did you attend the local elementary and middle school?",XMESS_0010,小舟澪
-XMESS_0011,"Yeah, um…
-I was on the library committee…",XMESS_0011,小弓場かおり
-XMESS_0012,"Mm, mm.",XMESS_0012,小舟澪
-XMESS_0013,"I spent all day
-reading books in the library…",XMESS_0013,小弓場かおり
+XMESS_0006,People who come to this island from the city might ultimately be attracted to that kind of natural scenery.,XMESS_0006,網代慎平（収録）
+XMESS_0007,"I see. But even if we're PRing the island's natural scenery, doesn't it have to be something unique to this island?",XMESS_0007,小舟澪
+XMESS_0008,"That's the difficult part, huh.",XMESS_0008,網代慎平（収録）
+XMESS_0009,"Yeah, it is...",XMESS_0009,小弓場かおり
+XMESS_0010,"Then, let's try making school the topic. You went to elementary and middle school here, right?",XMESS_0010,小舟澪
+XMESS_0011,"Yeah, um... I was a library committee member...",XMESS_0011,小弓場かおり
+XMESS_0012,"Yeah, yeah.",XMESS_0012,小舟澪
+XMESS_0013,"Every single day, I just read books in the library...",XMESS_0013,小弓場かおり
 XMESS_0014,…,XMESS_0014,小舟澪
-XMESS_0015,Uh… and that's it?,XMESS_0015,小舟澪
-XMESS_0016,"Ah, besides that…
-the small school building,
-and the small number of students…
-That's about it, I guess.",XMESS_0016,小弓場かおり
-XMESS_0017,"…Hey, anything else?",XMESS_0017,小舟澪
-XMESS_0018,"Other than that… hmm, what else was there?",XMESS_0018,小弓場かおり
-XMESS_0019,"Oh! Right!
-The festival in two days!",XMESS_0019,小舟澪
-XMESS_0020,"Didn't you enjoy the festival
-when you were a kid, Kaori?",XMESS_0020,小舟澪
-XMESS_0021,"Yeah, I went there lots!
-It was so fun~",XMESS_0021,小弓場かおり
-XMESS_0022,"We went with our families, ate takoyaki,
-caught goldfish… The Umi-okuri was beautiful too.",XMESS_0022,小弓場かおり
-XMESS_0023,"Mm, mm, anything else?",XMESS_0023,小舟澪
-XMESS_0024,"But… that's about it, I guess.",XMESS_0024,小弓場かおり
-XMESS_0025,S-so that's it…?,XMESS_0025,小舟澪
-XMESS_0026,"I'm sorry…
-It's just… normal,
-boring things, I guess.",XMESS_0026,小弓場かおり
-XMESS_0027,"Haha…
-You don't need to apologize to us.",XMESS_0027,網代慎平（収録）
-XMESS_0028,"Anyway, let's walk around the island a bit more.
-You might remember more things
-than you think.",XMESS_0028,網代慎平（収録）
+XMESS_0015,Ummm... is that the end?,XMESS_0015,小舟澪
+XMESS_0016,"Ah, besides that... it was a small school building, and there were very few students. That's about it, I guess?",XMESS_0016,小弓場かおり
+XMESS_0017,"...Um, anything else?",XMESS_0017,小舟澪
+XMESS_0018,"Anything else... hmmm, was there anything?",XMESS_0018,小弓場かおり
+XMESS_0019,"Ah, I know! The summer festival the day after tomorrow!",XMESS_0019,小舟澪
+XMESS_0020,"You enjoyed the festival when you were a kid too, didn't you, Kaori-chan?",XMESS_0020,小舟澪
+XMESS_0021,"Yeah, I went many times! It was so much fun~!",XMESS_0021,小弓場かおり
+XMESS_0022,"I went with my family, ate takoyaki, played goldfish scooping... The Umi-okuri was beautiful too.",XMESS_0022,小弓場かおり
+XMESS_0023,"Yeah, yeah, and then?",XMESS_0023,小舟澪
+XMESS_0024,But... that might be about it.,XMESS_0024,小弓場かおり
+XMESS_0025,I-Is that so...,XMESS_0025,小舟澪
+XMESS_0026,"I'm sorry... It's just kind of normal, or rather, plain and common things.",XMESS_0026,小弓場かおり
+XMESS_0027,Ahaha... You don't need to apologize to us.,XMESS_0027,網代慎平（収録）
+XMESS_0028,"Anyway, let's walk around the island a bit more. If we do, there might be more things you can remember.",XMESS_0028,網代慎平（収録）
 XMESS_0029,Found you!,XMESS_0029,小舟潮
 XMESS_0030,"Huh? Oh, Ushio!",XMESS_0030,網代慎平（収録）
-XMESS_0031,"I didn't expect to find you here, Shinpei!",XMESS_0031,小舟潮
-XMESS_0032,"Big sister?
-Why are you here?",XMESS_0032,小舟澪
-XMESS_0033,What's with the nonsense!,XMESS_0033,小舟潮
-XMESS_0034,"I've been waiting at the Kofune all this time,
-but you didn't come back at all,
-so I've been looking for you!",XMESS_0034,小舟潮
-XMESS_0035,"What were you two doing, Mio?
-You said you'd call, but you didn't answer!",XMESS_0035,小舟潮
-XMESS_0036,"Huh?
-…Oh, really.
-I didn't notice.",XMESS_0036,小舟澪
-XMESS_0037,"Ah, me too.
-I left it on mute at the town hall.",XMESS_0037,網代慎平（収録）
-XMESS_0038,"The town hall?
-Why did you have to go there?",XMESS_0038,小舟潮
+XMESS_0031,"So this is where you were, Shinpei!",XMESS_0031,小舟潮
+XMESS_0032,Sis? Why are you in a place like this?,XMESS_0032,小舟澪
+XMESS_0033,What do you mean why!,XMESS_0033,小舟潮
+XMESS_0034,"I was waiting at Kofune the whole time, but you didn't come back at all, so I was looking all over for you!",XMESS_0034,小舟潮
+XMESS_0035,What were you doing with Mio!? I kept calling but you wouldn't answer at all!,XMESS_0035,小舟潮
+XMESS_0036,"Huh? ...Ah, you're right. I didn't notice.",XMESS_0036,小舟澪
+XMESS_0037,"Ah, me too. I left it on silent mode from when we were at the town hall.",XMESS_0037,網代慎平（収録）
+XMESS_0038,The town hall? Why did you need to go to the town hall?,XMESS_0038,小舟潮
 XMESS_0039,"Ah, um…",XMESS_0039,小弓場かおり
 XMESS_0040,Huh…?,XMESS_0040,小舟潮
-XMESS_0041,"Wait… um…
-Could it be, Kaori?",XMESS_0041,小舟潮
-XMESS_0042,"Eh, eh!?
-Oh, oh, you remember me!?",XMESS_0042,小弓場かおり
-XMESS_0043,"Yeah, I remember.
-Of course I do.
-You're definitely Kaori!
-It's been forever!",XMESS_0043,小舟潮
-XMESS_0044,"Is it you, Ushio?
-I'm happy… you remembered me.",XMESS_0044,小弓場かおり
-XMESS_0045,"Of course I remember.
-There aren't many kids from elementary school left,
-so it's weird if I forgot.",XMESS_0045,小舟潮
-XMESS_0046,"That's right, Shin-chan.",XMESS_0046,小舟澪
-XMESS_0047,You probably didn't leave any impression on me.,XMESS_0047,網代慎平（収録）
+XMESS_0041,"Huh? Um... Could it be, Kaori-chan!?",XMESS_0041,小舟潮
+XMESS_0042,"E-Eeeh? W-Wa-wa, you remember me...!?",XMESS_0042,小弓場かおり
+XMESS_0043,"Yeah, I remember you. It really is Kaori-chan! It's been so long!",XMESS_0043,小舟潮
+XMESS_0044,"You're Ushio Kofune-san, right? I'm so happy... you remembered me.",XMESS_0044,小弓場かおり
+XMESS_0045,"Of course I'd remember. There weren't many kids in our elementary school class, so it'd be weirder if I forgot.",XMESS_0045,小舟潮
+XMESS_0046,"That's what she says, Shin-chan.",XMESS_0046,小舟澪
+XMESS_0047,"You didn't remember her at all, did you.",XMESS_0047,網代慎平（収録）
 XMESS_0048,Ugh…,XMESS_0048,小舟澪
-XMESS_0049,"But, what happened?
-You coming back to the island
-after so long…",XMESS_0049,小舟潮
+XMESS_0049,"But, what's going on? It's been a really long time since you came back to the island, Kaori-chan.",XMESS_0049,小舟潮
 XMESS_0050,"Y-yeah…
 Um…",XMESS_0050,小弓場かおり
-XMESS_0051,"Ah, I get it.
-That's what happened!",XMESS_0051,小舟潮
-XMESS_0052,"I got it!
-Leave it to me!",XMESS_0052,小舟潮
-XMESS_0053,"If you don't have memories,
-let's make new ones together!",XMESS_0053,小舟潮
-XMESS_0054,Ushio…,XMESS_0054,小弓場かおり
-XMESS_0055,"But what are we going to do
-to make memories?
-There's not much time until the festival.",XMESS_0055,小舟澪
-XMESS_0056,"Well, we'll figure it out
-as we go!",XMESS_0056,小舟潮
-XMESS_0057,"Still full of energy, huh…",XMESS_0057,網代慎平（収録）
+XMESS_0051,"Ooh, I see. So that's what happened.",XMESS_0051,小舟潮
+XMESS_0052,I get it! Then leave it to me!,XMESS_0052,小舟潮
+XMESS_0053,"If you don't have any memories, we can just make them together from now on!",XMESS_0053,小舟潮
+XMESS_0054,Kofune-san...,XMESS_0054,小弓場かおり
+XMESS_0055,"But, what are we gonna do to make memories? There's not much time until the festival.",XMESS_0055,小舟澪
+XMESS_0056,"Well, that's something we'll figure out from here on out!",XMESS_0056,小舟潮
+XMESS_0057,"You're all momentum as usual, huh...",XMESS_0057,網代慎平（収録）
 XMESS_0058,Shut up!,XMESS_0058,小舟潮
-XMESS_0059,"Haha…
-Ushio, you haven't changed at all.
-Still the same as before.",XMESS_0059,小弓場かおり
-XMESS_0060,"Yeah~… Wait, what?
-You're saying that as a compliment, right?",XMESS_0060,小舟潮
+XMESS_0059,"Hehe... You haven't changed, Kofune-san. Just like you were in the past.",XMESS_0059,小弓場かおり
+XMESS_0060,"Right~... wait, huh? That's a compliment, right?",XMESS_0060,小舟潮
 XMESS_0061,"Yeah, of course.",XMESS_0061,小弓場かおり
-XMESS_0062,"Haha, I see!
-Thanks, Kaori.",XMESS_0062,小舟潮
-XMESS_0063,…Oh! Right!,XMESS_0063,小舟潮
-XMESS_0064,What's wrong?,XMESS_0064,網代慎平（収録）
-XMESS_0065,"I just remembered something!
-<color=#GF_TIPS_095>Time capsule</color>!",XMESS_0065,小舟潮
+XMESS_0062,"Ahaha, I see! Thanks, Kaori-chan.",XMESS_0062,小舟潮
+XMESS_0063,"...Ah, that's right!",XMESS_0063,小舟潮
+XMESS_0064,What is it?,XMESS_0064,網代慎平（収録）
+XMESS_0065,I just remembered something good! The <color=#GF_TIPS_095>time capsule</color>!,XMESS_0065,小舟潮
 XMESS_0066,Time capsule?,XMESS_0066,小弓場かおり
-XMESS_0067,"You know, we all put stuff in a time capsule
-and buried it at school, right?
-The one you did when you moved away.",XMESS_0067,小舟潮
+XMESS_0067,"You know, when everyone at school packed various things and buried it? The one we did when Kaori-chan was moving away.",XMESS_0067,小舟潮
 XMESS_0068,…!,XMESS_0068,小弓場かおり
-XMESS_0069,"Oh yeah, that happened…
-I guess that was when Kaori moved away.",XMESS_0069,網代慎平（収録）
+XMESS_0069,"That did happen, didn't it... Come to think of it, was that when Koyuba-san was moving away?",XMESS_0069,網代慎平（収録）
 XMESS_0070,Y-yeah…,XMESS_0070,小弓場かおり
-XMESS_0071,"That's right, that's right.
-We younger kids were forced to join too.",XMESS_0071,小舟澪
-XMESS_0072,"But a time capsule with island friends?
-That's perfect for a talk show story!",XMESS_0072,小舟潮
-XMESS_0073,"Let's make the time capsule the main topic,
-and talk about everyday memories
-and the island's scenery.",XMESS_0073,小舟潮
-XMESS_0074,"It'll stay in the audience's memory,
-and it'll promote the island too!",XMESS_0074,小舟潮
-XMESS_0075,"Yeah, having one big story
-would really liven up the talk.",XMESS_0075,網代慎平（収録）
-XMESS_0076,"No time like the present!
-Let's go dig it up right away!",XMESS_0076,小舟潮
-XMESS_0077,"Ah, um, wait a second…!",XMESS_0077,小弓場かおり
+XMESS_0071,"Right, right. Us lowerclassmen were made to go along with it too.",XMESS_0071,小舟澪
+XMESS_0072,"But a time capsule buried with your island friends, isn't that perfect for a story to tell at the talk show!?",XMESS_0072,小舟潮
+XMESS_0073,"We can make the time capsule the main topic, and you can talk about your casual everyday memories and the scenery of the island along with it.",XMESS_0073,小舟潮
+XMESS_0074,"It'll leave an impression on the audience, and it'll be good PR for the island too!",XMESS_0074,小舟潮
+XMESS_0075,"True, if we have one big episode, the talk show will probably be more exciting.",XMESS_0075,網代慎平（収録）
+XMESS_0076,There's no time like the present! Let's go dig it up right away!,XMESS_0076,小舟潮
+XMESS_0077,"U-Um, wait a second...!",XMESS_0077,小弓場かおり
 XMESS_0078,What's wrong?,XMESS_0078,小舟潮
-XMESS_0079,"Um, maybe…
-it's better to dig it up
-when we're older…",XMESS_0079,小弓場かおり
-XMESS_0080,"You're right, Kaori.
-Normally, time capsules
-are meant to be opened after decades.",XMESS_0080,小舟澪
-XMESS_0081,"That's right.
-It's been seven years since we buried it…
-It might still be too early.",XMESS_0081,網代慎平（収録）
-XMESS_0082,"It's fine.
-Compared to back then,
-we're already adults now.",XMESS_0082,小舟潮
-XMESS_0083,"S-Still, not that far yet…",XMESS_0083,小弓場かおり
-XMESS_0084,"Ugh!
-Big sister, you're so troublesome.
-You're way too pushy.",XMESS_0084,小舟澪
-XMESS_0085,"I mean… it's just that
-Ushio wanted to see the contents, right?",XMESS_0085,網代慎平（収録）
-XMESS_0086,So what if I did?,XMESS_0086,小舟潮
-XMESS_0087,"No, it's not like that…",XMESS_0087,網代慎平（収録）
-XMESS_0088,"Alright, decided!
-Let's go then.",XMESS_0088,小舟潮
-XMESS_0089,"Wait, big sister!",XMESS_0089,小舟澪
-XMESS_0090,Ugh… What should I do?,XMESS_0090,小弓場かおり
+XMESS_0079,"Um, w-well, for something like that... Shouldn't we dig it up when we're a bit older...?",XMESS_0079,小弓場かおり
+XMESS_0080,"Kaori-chan is right. Normally, you're supposed to open time capsules after a few decades have passed.",XMESS_0080,小舟澪
+XMESS_0081,Yeah. It's been 7 years since we buried it... It might still be too early.,XMESS_0081,網代慎平（収録）
+XMESS_0082,"It's fine. Compared to back then, we're basically adults now.",XMESS_0082,小舟潮
+XMESS_0083,"W-Well, we're not quite there yet...",XMESS_0083,小弓場かおり
+XMESS_0084,"Jeez! This is why you're such a pain, Sis. You're way too pushy.",XMESS_0084,小舟澪
+XMESS_0085,"I mean... in the end, it's just that you want to see what's inside, right Ushio?",XMESS_0085,網代慎平（収録）
+XMESS_0086,Is that so bad?,XMESS_0086,小舟潮
+XMESS_0087,"No, not really...",XMESS_0087,網代慎平（収録）
+XMESS_0088,"Alright, it's decided then! Let's go.",XMESS_0088,小舟潮
+XMESS_0089,"Wait, Sis!",XMESS_0089,小舟澪
+XMESS_0090,Ugh... Wh-What should I do?,XMESS_0090,小弓場かおり

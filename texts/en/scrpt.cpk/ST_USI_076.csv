@@ -3,281 +3,213 @@ XRETURNTODEATH_0036,8th Loop,XRETURNTODEATH_0036,
 XCHAPTITLE_0039,66. Intense Battle at School,XCHAPTITLE_0039,
 XCHAPTITLE_0043,68. Spider's Form,XCHAPTITLE_0043,
 XMESS_0000,…!!,XMESS_0000,網代慎平
-XMESS_0001,Haah… haah… haah…!,XMESS_0001,網代慎平
-XMESS_0002,Ughh…!!,XMESS_0002,網代慎平
-XMESS_0003,"(My eyes are burning…
-I feel like my head is splitting open…)
-( I'm about to fall off the cliff!!!)",XMESS_0003,網代慎平
-XMESS_0004,!!!,XMESS_0004,網代慎平
-XMESS_0005,"(There's a strand of seawater hair in my hand!!!
-It came back from ""just now""…!?
-The battle has already started?!!)",XMESS_0005,網代慎平
-XMESS_0006,Everyone…!,XMESS_0006,網代慎平
-XMESS_0007,"(Is there no one nearby?
-They've all already taken their positions…
-I need to tell them this quickly…)",XMESS_0007,網代慎平
+XMESS_0001,*Pant* *pant* *pant*...!,XMESS_0001,網代慎平
+XMESS_0002,"Ngh, gah...!!",XMESS_0002,網代慎平
+XMESS_0003,"(The back of my eyes, my head... it hurts like it's splitting open... I feel like I'm going to fall... off the cliff...!!)",XMESS_0003,網代慎平
+XMESS_0004,!!,XMESS_0004,網代慎平
+XMESS_0005,"(Ushio's lock of hair is in my hand!! Did I return to ""just a moment ago""...!? Has the battle already started!!)",XMESS_0005,網代慎平
+XMESS_0006,Everyone...!?,XMESS_0006,網代慎平
+XMESS_0007,(There's no one nearby? Everyone has already taken their positions! I have to tell them about this quickly...!),XMESS_0007,網代慎平
 XMESS_0008,Shinpei!!,XMESS_0008,ウシオ
-XMESS_0009,Seawater…!,XMESS_0009,網代慎平
-XMESS_0010,"They already know everyone's positions!!
-Get out of here fast---",XMESS_0010,ウシオ
-XMESS_0011,Gaah…!!!,XMESS_0011,ウシオ
-XMESS_0012,(Wha-?),XMESS_0012,網代慎平
+XMESS_0009,Ushio...!,XMESS_0009,網代慎平
+XMESS_0010,They already know everyone's positions! Hurry and get away from here—,XMESS_0010,ウシオ
+XMESS_0011,Gah...!!,XMESS_0011,ウシオ
+XMESS_0012,(Eh...?),XMESS_0012,網代慎平
 XMESS_0013,"Hello, Shinpei-kun.
 Welcome back.",XMESS_0013,シデ
 XMESS_0014,It seems this is the end.,XMESS_0014,シオリ（ハイネ）
 XMESS_0015,How dare you--,XMESS_0015,網代慎平
-XMESS_0016,"U-uh… Seawater…
-Oh…!!",XMESS_0016,網代慎平
+XMESS_0016,U-Ushi... o...!!,XMESS_0016,網代慎平
 XMESS_0017,"Congratulations on the bad ending.
 Shinpei-kun.",XMESS_0017,シデ
-XMESS_0018,"(It's past 7:40 AM…
-While I'm waiting for them in the schoolyard…)",XMESS_0018,網代慎平
-XMESS_0019,"(My back is to the second floor of the building,
-and Nezu-san has a rifle ready and watching…)",XMESS_0019,網代慎平
+XMESS_0018,(It's past 7:40. While I'm waiting for them in the schoolyard...),XMESS_0018,網代慎平
+XMESS_0019,"(Behind me, from the second floor of the school building, Nezu-san has his rifle ready and is keeping watch.)",XMESS_0019,網代慎平
 XMESS_0020,(And on my arm--),XMESS_0020,網代慎平
-XMESS_0021,"Shinpei!
-They're coming from the front!!",XMESS_0021,根津銀次郎
-XMESS_0022,!!!,XMESS_0022,網代慎平
+XMESS_0021,Shinpei! They're coming at ya head-on!,XMESS_0021,根津銀次郎
+XMESS_0022,!!,XMESS_0022,網代慎平
 XMESS_0023,…,XMESS_0023,シデ
-XMESS_0024,"You've gathered quite a crowd, Shide.",XMESS_0024,網代慎平
-XMESS_0025,"You too…
-Seems you've made some new friends, Shinpei-kun.",XMESS_0025,シデ
-XMESS_0026,"Everyone's hidden… 
-Probably hiding somewhere.  
-Trap?",XMESS_0026,シオリ（ハイネ）
-XMESS_0027,"Don't get close.
-You guys are too cowardly to fight fair.
-Let's stop the tricks and face each other honestly!",XMESS_0027,網代慎平
-XMESS_0028,"…Huh?
-You seem pretty confident then.",XMESS_0028,シデ
-XMESS_0029,"That's exactly what I want…
-Mio-chan!",XMESS_0029,シデ
-XMESS_0030,"Yes… 
-You're amazing, Shinchan.",XMESS_0030,ミオ
-XMESS_0031,So cool!!!,XMESS_0031,ミオ
-XMESS_0032,(This is my moment!!!),XMESS_0032,網代慎平
-XMESS_0033,"Sister, you transformed into a watch…",XMESS_0033,ミオ
-XMESS_0034,"Shinpei, charge!!!",XMESS_0034,ウシオ
-XMESS_0035,Count on me!,XMESS_0035,網代慎平
-XMESS_0036,"(Their target is my life!!!
- I'll be the bait and lead them!)",XMESS_0036,網代慎平
+XMESS_0024,"You've brought quite a crowd with you, Shide.",XMESS_0024,網代慎平
+XMESS_0025,"You too... It seems you've gained quite a few allies, Shinpei-kun.",XMESS_0025,シデ
+XMESS_0026,I don't see anyone else around... I suppose they're hiding somewhere? Is this a trap?,XMESS_0026,シオリ（ハイネ）
+XMESS_0027,Don't lump us in with you. We wouldn't do something cowardly like you guys. Let's both stop the cheap tricks and fight fair and square.,XMESS_0027,網代慎平
+XMESS_0028,...Oh? You sound so confident.,XMESS_0028,シデ
+XMESS_0029,"That's exactly what I want... Right, Mio-chan!",XMESS_0029,シデ
+XMESS_0030,Yes... As expected of Shin-chan.,XMESS_0030,ミオ
+XMESS_0031,Too cool!,XMESS_0031,ミオ
+XMESS_0032,(It's time!!!),XMESS_0032,網代慎平
+XMESS_0033,"Sis, you were transformed into a watch...",XMESS_0033,ミオ
+XMESS_0034,"Shinpei, let's charge!!!",XMESS_0034,ウシオ
+XMESS_0035,I'm counting on you!,XMESS_0035,網代慎平
+XMESS_0036,(Their target is my life!! I'll act as bait and lure them in!),XMESS_0036,網代慎平
 XCOMMENTVIEW_0337,Haine,XCOMMENTVIEW_0337,
-XMESS_0037,They ran away…,XMESS_0037,シデ
-XMESS_0038,What's this about fighting fairly?!!!,XMESS_0038,シオリ（ハイネ）
+XMESS_0037,He ran...,XMESS_0037,シデ
+XMESS_0038,So much for fighting fair and square!!!,XMESS_0038,シオリ（ハイネ）
 XMESS_0039,!,XMESS_0039,シデ
-XMESS_0040,"That hunter was hiding.
-Shinpei… you're not worth killing…",XMESS_0040,シオリ（ハイネ）
-XMESS_0041,Where are they taking Shinchan?!,XMESS_0041,ミオ
+XMESS_0040,So that hunter was hiding. Shinpei Ajiro... what a shrewd guy...!!,XMESS_0040,シオリ（ハイネ）
+XMESS_0041,Where are ya taking Shin-chan?!,XMESS_0041,ミオ
 XMESS_0042,"Wait, Mio.",XMESS_0042,シオリ（ハイネ）
-XMESS_0043,Ugh… Gah!,XMESS_0043,ミオ
-XMESS_0044,You take care of that hunter.,XMESS_0044,シオリ（ハイネ）
-XMESS_0045,"Y-yes… I understand…
-Mother… San…",XMESS_0045,ミオ
-XMESS_0046,"Come on Haine, let's--",XMESS_0046,シデ
+XMESS_0043,Ugh... Gih!,XMESS_0043,ミオ
+XMESS_0044,You finish off that hunter.,XMESS_0044,シオリ（ハイネ）
+XMESS_0045,Y-Yes... Understood... M-Mother...,XMESS_0045,ミオ
+XMESS_0046,"Now Haine, let's us also—",XMESS_0046,シデ
 XCOMMENTVIEW_0390,Ryunosuke Nagumo,XCOMMENTVIEW_0390,
-XMESS_0047,Ryunosuke-san!!!,XMESS_0047,網代慎平
-XMESS_0048,"Shinpei-san, Seawater,
-Leave this to me and get inside quickly.",XMESS_0048,南方ひづる（ポニテ）
-XMESS_0049,Count on it!!!,XMESS_0049,ウシオ
-XMESS_0050,Gugee!?,XMESS_0050,影たち
-XMESS_0051,Gaoo!,XMESS_0051,影たち
-XMESS_0052,Come on then…,XMESS_0052,南方ひづる（ポニテ）
+XMESS_0047,Ryunosuke-san!!,XMESS_0047,網代慎平
+XMESS_0048,"Shinpei-san, Ushio-san, leave this to me and hurry inside.",XMESS_0048,南方ひづる（ポニテ）
+XMESS_0049,We're counting on you!!,XMESS_0049,ウシオ
+XMESS_0050,Gugeeeeh!!,XMESS_0050,影たち
+XMESS_0051,Awoooooh!!,XMESS_0051,影たち
+XMESS_0052,Come at me...,XMESS_0052,南方ひづる（ポニテ）
 XMESS_0053,"(…Even if I talk here,
 you probably can't hear me…)",XMESS_0053,南方ひづる
-XMESS_0054,"(I almost forgot something important, Ryunosuke)",XMESS_0054,南方ひづる
+XMESS_0054,"(I forgot to tell you something important, Ryunosuke.)",XMESS_0054,南方ひづる
 XMESS_0055,(Thank you…),XMESS_0055,南方ひづる
 XCOMMENTVIEW_0463,Mio Kofune,XCOMMENTVIEW_0463,
-XMESS_0056,I'll… kill the hunter…,XMESS_0056,ミオ
-XMESS_0057,"Here you go!!!
-This is your moment, you guys!!",XMESS_0057,根津銀次郎
-XMESS_0058,"Come on…
-My… shadow!",XMESS_0058,小舟澪
-XMESS_0059,"Watch out, Mio!!!
-I'll take them down!!",XMESS_0059,菱形窓
+XMESS_0056,Kill... the hunter...!,XMESS_0056,ミオ
+XMESS_0057,"She's here!!! It's your turn, you two!!",XMESS_0057,根津銀次郎
+XMESS_0058,Come at me... My... Shadow...!!,XMESS_0058,小舟澪
+XMESS_0059,"Watch this, Mio!! I'll take her down!!!",XMESS_0059,菱形窓
 XMESS_0060,Hmph.,XMESS_0060,ミオ
-XMESS_0061,Ah… I missed---,XMESS_0061,菱形窓
-XMESS_0062,No! I'm going to be killed--,XMESS_0062,菱形窓
+XMESS_0061,Ah... it won't hit—,XMESS_0061,菱形窓
+XMESS_0062,Oh no! She's gonna k—,XMESS_0062,菱形窓
 XMESS_0063,Oya!!!,XMESS_0063,ギルデンスターン
-XMESS_0064,Ga…?!,XMESS_0064,ミオ
-XMESS_0065,"Idiot…
-You always rush in without thinking.",XMESS_0065,菱形朱鷺子
+XMESS_0064,Gah!?,XMESS_0064,ミオ
+XMESS_0065,Idiot... Big Brother. Getting heated and rushing in is a bad habit of yours...,XMESS_0065,菱形朱鷺子
 XMESS_0066,"…Sorry, Tokiko…",XMESS_0066,菱形窓
-XMESS_0067,"Ugh… It hurts…
-Shadow…?",XMESS_0067,ミオ
+XMESS_0067,Ugh... That hurts... Shadows...?,XMESS_0067,ミオ
 XMESS_0068,Rosencrantz.,XMESS_0068,菱形朱鷺子
 XMESS_0069,Ah.,XMESS_0069,ローゼンクランツ
 XMESS_0070,Guildenstern.,XMESS_0070,菱形朱鷺子
-XMESS_0071,Uu…,XMESS_0071,ギルデンスターン
-XMESS_0072,"Go ahead and act out.
-Like a bomb, quietly now.",XMESS_0072,菱形朱鷺子
+XMESS_0071,U.,XMESS_0071,ギルデンスターン
+XMESS_0072,"Go wild. Like a bomb, quietly.",XMESS_0072,菱形朱鷺子
 XCOMMENTVIEW_0606,Kaori Koyuba,XCOMMENTVIEW_0606,
-XMESS_0073,…Huff… huff…,XMESS_0073,小弓場かおり
-XMESS_0074,"(…Next, I'll use this sensor with a smoke bomb…)",XMESS_0074,小弓場かおり
-XMESS_0075,"Cough…!
-(No voice…
-My role is to drive them away.
-And not be found at all!!)",XMESS_0075,小弓場かおり
-XMESS_0076,"(…While everyone else fights with their lives,
-it's embarrassing to hide alone…)",XMESS_0076,小弓場かおり
-XMESS_0077,(I've made up my mind),XMESS_0077,小弓場かおり
-XMESS_0078,(Do everything I can to protect the people on this island.),XMESS_0078,小弓場かおり
-XMESS_0079,"(…Okay, next!)",XMESS_0079,小弓場かおり
-XMESS_0080,"  (…Alright, next!)",XMESS_0080,小弓場かおり
+XMESS_0073,"...Phew, phew...!",XMESS_0073,小弓場かおり
+XMESS_0074,"(...Next, I'll hit this sensor with a smoke bomb...!)",XMESS_0074,小弓場かおり
+XMESS_0075,*Cough*... Ngh!,XMESS_0075,小弓場かおり
+XMESS_0076,(I can't make a sound...! My role is to corner the enemy... And to make absolutely sure I'm not found!!),XMESS_0076,小弓場かおり
+XMESS_0077,"(...Everyone is fighting with their lives on the line, and I'm the only one hiding... it's frustrating.)",XMESS_0077,小弓場かおり
+XMESS_0078,"(But, I've made up my mind.)",XMESS_0078,小弓場かおり
+XMESS_0079,(To do everything I can to protect the people of this island.),XMESS_0079,小弓場かおり
+XMESS_0080,"(...Alright, next!)",XMESS_0080,小弓場かおり
 XCOMMENTVIEW_0657,Ryunosuke Nagumo,XCOMMENTVIEW_0657,
-XMESS_0081,You can't pass!!!,XMESS_0081,南方ひづる（ポニテ）
-XMESS_0082,Gogyaa!,XMESS_0082,影たち
-XMESS_0083,Goou…,XMESS_0083,影たち
-XMESS_0084,Tch… getting in the way.,XMESS_0084,シオリ（ハイネ）
-XMESS_0085,"Going another route?
-Like upstairs…",XMESS_0085,シデ
-XMESS_0086,"…Oh? 
-The fireproof shutter is closed, so I can't go up.",XMESS_0086,シデ
-XMESS_0087,You're trying to lure us in?,XMESS_0087,シオリ（ハイネ）
-XMESS_0088,"What should we do? 
-It's easy enough to break through.",XMESS_0088,シデ
-XMESS_0089,"No need for that.  
-Shinpei is already in the plan's next step.",XMESS_0089,シオリ（ハイネ）
-XMESS_0090,Then I'll do as you wish.,XMESS_0090,シデ
-XMESS_0091,Who's next?,XMESS_0091,南方ひづる（ポニテ）
-XMESS_0092,"You're strong, aren't you.",XMESS_0092,シデ
-XMESS_0093,Next is you…!,XMESS_0093,南方ひづる（ポニテ）
-XMESS_0094,Dodge to the left!!,XMESS_0094,シオリ（ハイネ）
-XMESS_0095,"(I dodged it!!!
-How could a bullet that was supposed to hit me…?)",XMESS_0095,南方ひづる（ポニテ）
-XMESS_0096,"Sorry, but I saw your move.
-You're aiming for Shinpei-kun over there?",XMESS_0096,シデ
-XMESS_0097,!!!,XMESS_0097,南方ひづる（ポニテ）
-XMESS_0098,Ughh!!,XMESS_0098,南方ひづる（ポニテ）
-XMESS_0099,You saw through my aim for Shinpei-kun?,XMESS_0099,シデ
-XMESS_0100,"Just as I said, she shielded you, didn't she?
-Even though you couldn't have known where I'd shoot.",XMESS_0100,シオリ（ハイネ）
-XMESS_0101,"(Whoa… He can see me…
-His movement two seconds ahead of time…)",XMESS_0101,南方ひづる（ポニテ）
-XMESS_0102,"There! 
-That's it.",XMESS_0102,シオリ（ハイネ）
-XMESS_0103,Eh---,XMESS_0103,シデ
-XMESS_0104,"My shotgun…
-Where did it come from…?",XMESS_0104,シデ
-XMESS_0105,"(Oh no, Nezu-san!!!)",XMESS_0105,南方ひづる（ポニテ）
-XMESS_0106,"That old body…
-You really have a good aim!!!",XMESS_0106,シデ
-XMESS_0107,"Thanks for saving me, Nezu-san.",XMESS_0107,南方ひづる（ポニテ）
-XMESS_0108,Tch… always running away…,XMESS_0108,シオリ（ハイネ）
-XMESS_0109,"Mio, what are you waiting for?",XMESS_0109,シオリ（ハイネ）
-XMESS_0110,"If it's Mio-chan,
-she's outside the window.
-She's having trouble with Tokiko-chan.",XMESS_0110,シデ
-XMESS_0111,"No problem at all. 
-Once I stop Tokiko-chan's shadow, it'll be over quickly.",XMESS_0111,シデ
+XMESS_0081,You shall not pass!!,XMESS_0081,南方ひづる（ポニテ）
+XMESS_0082,Gugya!,XMESS_0082,影たち
+XMESS_0083,Guo!,XMESS_0083,影たち
+XMESS_0084,Tch... getting in the way.,XMESS_0084,シオリ（ハイネ）
+XMESS_0085,Shall we chase him from another route? Like the upper floor...,XMESS_0085,シデ
+XMESS_0086,"...Oh? The fire shutters are closed, so we can't go up.",XMESS_0086,シデ
+XMESS_0087,They're trying to guide us.,XMESS_0087,シオリ（ハイネ）
+XMESS_0088,What will we do? I can easily break through something like this.,XMESS_0088,シデ
+XMESS_0089,There's no need for that. Because Shinpei is at the end of their plan.,XMESS_0089,シオリ（ハイネ）
+XMESS_0090,"Hehe, in that case let's do as they wish.",XMESS_0090,シデ
+XMESS_0091,"Now, who's next?",XMESS_0091,南方ひづる（ポニテ）
+XMESS_0092,"Well now, you're strong.",XMESS_0092,シデ
+XMESS_0093,You're next...!,XMESS_0093,南方ひづる（ポニテ）
+XMESS_0094,Dodge to the left!,XMESS_0094,シオリ（ハイネ）
+XMESS_0095,"(He dodged it!! The bullet that was ""supposed to hit""!!?)",XMESS_0095,南方ひづる（ポニテ）
+XMESS_0096,That's too bad. Now it's my turn.,XMESS_0096,シデ
+XMESS_0097,!!,XMESS_0097,南方ひづる（ポニテ）
+XMESS_0098,Ugh!!,XMESS_0098,南方ひづる（ポニテ）
+XMESS_0099,"Oh, did you realize I was aiming for Shinpei-kun over there?",XMESS_0099,シデ
+XMESS_0100,"He shielded him just like I said, didn't he? Even though he shouldn't have known where you were going to shoot.",XMESS_0100,シオリ（ハイネ）
+XMESS_0101,"(This guy... can he see it...!! My movements... ""two seconds ahead""...!!)",XMESS_0101,南方ひづる（ポニテ）
+XMESS_0102,And boom!! Right there.,XMESS_0102,シオリ（ハイネ）
+XMESS_0103,Yes—,XMESS_0103,シデ
+XMESS_0104,My shotgun...! Where on earth from...?,XMESS_0104,シデ
+XMESS_0105,(Nezu-san...!!!),XMESS_0105,南方ひづる（ポニテ）
+XMESS_0106,That old man... He really is a good shot...!!,XMESS_0106,シデ
+XMESS_0107,"Nezu-san, you saved me.",XMESS_0107,南方ひづる（ポニテ）
+XMESS_0108,"Tch, always running away.",XMESS_0108,シオリ（ハイネ）
+XMESS_0109,"That Mio, what is she dawdling for.",XMESS_0109,シオリ（ハイネ）
+XMESS_0110,"If you mean Mio-chan, look outside the window. She's having a tough time against Tokiko-chan.",XMESS_0110,シデ
+XMESS_0111,"Oh, it's no problem. Once we stop Tokiko-chan's Shadows, it'll be settled quickly.",XMESS_0111,シデ
 XMESS_0112,Tch…!,XMESS_0112,シオリ（ハイネ）
 XMESS_0113,Stop!!,XMESS_0113,シオリ（ハイネ）
-XMESS_0114,Your master isn't Tokiko anymore.,XMESS_0114,シオリ（ハイネ）
-XMESS_0115,Listen to what I say!,XMESS_0115,シオリ（ハイネ）
+XMESS_0114,Yer boss is no longer Tokiko.,XMESS_0114,シオリ（ハイネ）
+XMESS_0115,Listen to what I say.,XMESS_0115,シオリ（ハイネ）
 XMESS_0116,Kill Tokiko.,XMESS_0116,シオリ（ハイネ）
-XCOMMENTVIEW_0845,Hishigata Tokiko,XCOMMENTVIEW_0845,
+XCOMMENTVIEW_0845,Tokiko Hishigata,XCOMMENTVIEW_0845,
 XMESS_0117,Ugh?!,XMESS_0117,ギルデンスターン
-XMESS_0118,Guild…?,XMESS_0118,菱形朱鷺子
+XMESS_0118,Gil...?,XMESS_0118,菱形朱鷺子
 XMESS_0119,Ugh… Uwaa…,XMESS_0119,ギルデンスターン
-XMESS_0120,"Hehe… Mom noticed me, huh?",XMESS_0120,ミオ
+XMESS_0120,Hehe... Mother noticed...,XMESS_0120,ミオ
 XMESS_0121,But that's too bad.,XMESS_0121,菱形朱鷺子
-XMESS_0122,Huff…,XMESS_0122,ミオ
-XMESS_0123,"Crush her, Guild!",XMESS_0123,菱形朱鷺子
-XMESS_0124,Hoyaa!!,XMESS_0124,ギルデンスターン
-XMESS_0125,Ghubu… gogoo?!,XMESS_0125,ミオ
-XMESS_0126,Ros and Guild are already our kids.,XMESS_0126,菱形朱鷺子
+XMESS_0122,Phew...,XMESS_0122,ミオ
+XMESS_0123,"Crush her, Gil!",XMESS_0123,菱形朱鷺子
+XMESS_0124,Hoyaaaah!!!!,XMESS_0124,ギルデンスターン
+XMESS_0125,"Gubuh, oguh, ogooooh!?",XMESS_0125,ミオ
+XMESS_0126,Roz and Gil are already my kids now.,XMESS_0126,菱形朱鷺子
 XCOMMENTVIEW_0899,Ushio,XCOMMENTVIEW_0899,
-XMESS_0127,Nn…!,XMESS_0127,シオリ（ハイネ）
-XMESS_0128,"The stray attached to Tokiko!!
-Your connection with me has been severed!!",XMESS_0128,シオリ（ハイネ）
+XMESS_0127,Wha...!,XMESS_0127,シオリ（ハイネ）
+XMESS_0128,The Strays I attached to Tokiko!! <color=#GF_KEY_HACKING>Their connection</color> with me <color=#GF_KEY_HACKING>is cut</color>!!!,XMESS_0128,シオリ（ハイネ）
 XMESS_0129,Oh my.,XMESS_0129,シデ
-XMESS_0130,How could you do that?!,XMESS_0130,シオリ（ハイネ）
-XMESS_0131,If you're angry…,XMESS_0131,ウシオ
-XMESS_0132,"Ushio…!
-This is your doing!!",XMESS_0132,シオリ（ハイネ）
-XMESS_0133,"Come on, let's go!!!",XMESS_0133,ウシオ
-XMESS_0134,"There's a strong presence behind us…
-Shide is chasing after us!",XMESS_0134,ウシオ
-XMESS_0135,If we turn this corner…,XMESS_0135,ウシオ
+XMESS_0130,The only one who can do something like this is...!,XMESS_0130,シオリ（ハイネ）
+XMESS_0131,If you're frustrated...,XMESS_0131,ウシオ
+XMESS_0132,Ushio...! Is this your doing!!,XMESS_0132,シオリ（ハイネ）
+XMESS_0133,Come and get me!!,XMESS_0133,ウシオ
+XMESS_0134,An intense presence from behind... Shide and the others are chasing us!,XMESS_0134,ウシオ
+XMESS_0135,If I turn this corner...!,XMESS_0135,ウシオ
 XMESS_0136,…!?,XMESS_0136,ウシオ
-XMESS_0137,"What's that?!
-Other shadows are mixing into Shide's body!",XMESS_0137,ウシオ
-XMESS_0138,"But it doesn't matter anyway…
-I'll definitely take you with me.",XMESS_0138,ウシオ
-XCOMMENTVIEW_0977,Hishigata Tokiko,XCOMMENTVIEW_0977,
+XMESS_0137,(What is that!? Other Shadows are mixing into Shide's body!),XMESS_0137,ウシオ
+XMESS_0138,(But that doesn't matter! I'll make sure to lead them right to him!),XMESS_0138,ウシオ
+XCOMMENTVIEW_0977,Tokiko Hishigata,XCOMMENTVIEW_0977,
 XMESS_0139,Voooh…!,XMESS_0139,ギルデンスターン
-XMESS_0140,(I've torn him apart… cleanly…),XMESS_0140,菱形朱鷺子
-XMESS_0141,"(That's the power of Mio's shadow.
-So flexible…
-Mio has good coordination…)",XMESS_0141,菱形朱鷺子
+XMESS_0140,(She sliced Gil apart... cleanly...),XMESS_0140,菱形朱鷺子
+XMESS_0141,"(As expected of Mio's Shadow. She's super flexible. Mio has good reflexes, after all...)",XMESS_0141,菱形朱鷺子
 XMESS_0142,(Ah… I want to keep watching forever…),XMESS_0142,菱形朱鷺子
 XMESS_0143,But that's too bad.,XMESS_0143,菱形朱鷺子
-XMESS_0144,"Now, Sou!!",XMESS_0144,小舟澪
-XMESS_0145,Oraaa!!!,XMESS_0145,菱形窓
+XMESS_0144,"—Now, Sou-kun!!",XMESS_0144,小舟澪
+XMESS_0145,Oraaaah!!!,XMESS_0145,菱形窓
 XCOMMENTVIEW_1022,Shinpei Ajiro,XCOMMENTVIEW_1022,
 XMESS_0146,"This way, this way!!!",XMESS_0146,ウシオ
-XMESS_0147,"(Thanks for bringing me here, Ushio.)",XMESS_0147,網代慎平
+XMESS_0147,"(...You did well leading them here, Ushio!)",XMESS_0147,網代慎平
 XMESS_0148,!!,XMESS_0148,網代慎平
-XMESS_0149,"(That's Shide…?
-It looks like a giant spider.)",XMESS_0149,網代慎平
-XMESS_0150,"Saying you'll fight honorably…
-You're lying.",XMESS_0150,シデ
-XMESS_0151,"That's cruel… 
-I actually believed it for a moment,
-I'm pure, you know?",XMESS_0151,シデ
-XMESS_0152,(They haven't noticed us on the second floor yet.),XMESS_0152,網代慎平
-XMESS_0153,"I expected you to chase after me.
-Even knowing it's a trap, you still follow,
-acting so relaxed…",XMESS_0153,ウシオ
-XMESS_0154,So that's why you're coming from above?!,XMESS_0154,ウシオ
-XMESS_0155,(The fragments of Ushio's hair fluttered through the gymnasium…),XMESS_0155,網代慎平
-XMESS_0156,(Printing out a lot of gasoline!),XMESS_0156,網代慎平
-XMESS_0157,We're the ones on 'top'!!,XMESS_0157,ウシオ
-XMESS_0158,"Uppa…!?
-This smell is…",XMESS_0158,シオリ（ハイネ）
-XMESS_0159,(Now all I need to do is light the match…),XMESS_0159,網代慎平
-XMESS_0160,"(But if I mess up timing…
-The gasoline vapor will be more effective once it's filled the room)",XMESS_0160,網代慎平
-XMESS_0161,"You thought of using gasoline, Shinpei-kun.",XMESS_0161,シデ
+XMESS_0149,(Is that... Shide!? He looks just like a giant spider!),XMESS_0149,網代慎平
+XMESS_0150,"You said we'd fight fair and square, but you were lying...",XMESS_0150,シデ
+XMESS_0151,"That's cruel... I actually believed you for a second. I'm pure, despite how I look.",XMESS_0151,シデ
+XMESS_0152,(...They still haven't noticed us up here on the second floor.),XMESS_0152,網代慎平
+XMESS_0153,I knew you'd chase me. You guys would chase me even knowing it's a trap. Acting all relaxed like that.,XMESS_0153,ウシオ
+XMESS_0154,So ya think yer above all of us?,XMESS_0154,ウシオ
+XMESS_0155,(The pieces of Ushio's hair fluttering in the gym...),XMESS_0155,網代慎平
+XMESS_0156,(Printed out a massive amount of gasoline!),XMESS_0156,網代慎平
+XMESS_0157,"We're the ones ""above"" you!!",XMESS_0157,ウシオ
+XMESS_0158,Ugh...!? This smell is...!!,XMESS_0158,シオリ（ハイネ）
+XMESS_0159,(Now I just have to light it with this match...),XMESS_0159,網代慎平
+XMESS_0160,(But I can't mess up the timing... It should be more effective after the vaporized gasoline fills the room.),XMESS_0160,網代慎平
+XMESS_0161,"Gasoline, that's clever... Shinpei-kun.",XMESS_0161,シデ
 XMESS_0162,Ah… there you were…,XMESS_0162,シデ
-XMESS_0163,"(Oh no, I need to light it fast!)",XMESS_0163,網代慎平
-XMESS_0164,(The fire won't start?!,XMESS_0164,網代慎平
-XMESS_0165,Guh…?,XMESS_0165,網代慎平
-XMESS_0166,Ku… The match…,XMESS_0166,網代慎平
+XMESS_0163,"(Crap, I have to light it fast!!)",XMESS_0163,網代慎平
+XMESS_0164,(The fire... won't light!?),XMESS_0164,網代慎平
+XMESS_0165,Gah!?,XMESS_0165,網代慎平
+XMESS_0166,Ngh... th-the match!!,XMESS_0166,網代慎平
 XMESS_0167,Shinpei!!,XMESS_0167,ウシオ
 XMESS_0168,"Oh my… 
 You dropped the match, didn't you?",XMESS_0168,シデ
 XMESS_0169,"What a shame.
 Without a match how would you light it…",XMESS_0169,シデ
 XMESS_0170,Guh…!!!!!!!!!,XMESS_0170,シデ
-XMESS_0171,"Hehe, I got a good spot!!!",XMESS_0171,凸村哲
-XMESS_0172,"(You're here too, Totsumura-san!
-You lit the fire with your bullets!!)",XMESS_0172,網代慎平
+XMESS_0171,"Hehe, I got the best part!!",XMESS_0171,凸村哲
+XMESS_0172,(Totsumura-san! You used your bullets to light the fire!!),XMESS_0172,網代慎平
 XMESS_0173,"Gyaahhh…! Giiiii!!!
 Hiiiiiaaaaaa!!!!!",XMESS_0173,シデ
 XMESS_0174,"It's working!!! 
 The hypothesis that shadows are weak to fire was correct!!!",XMESS_0174,凸村哲
-XMESS_0175,"Hehe, the whole floor is gasoline and a sea of flames!
-There's no escape for them!!",XMESS_0175,凸村哲
+XMESS_0175,"Hehe, the whole floor is covered in gasoline and a sea of flames! There's no escape for them!!",XMESS_0175,凸村哲
 XMESS_0176,Rururu… ru ruraaaa!!!!!!!,XMESS_0176,シデ
-XMESS_0177,"(The shadow is peeling off from Shide…
-And he's returning to his original four-armed form…)",XMESS_0177,網代慎平
+XMESS_0177,(The shadow is peeling off from Shide... And he's returning to his original four-armed form...),XMESS_0177,網代慎平
 XMESS_0178,(It seems that its monstrous form was formed by absorbing other shadows…!?),XMESS_0178,網代慎平
-XMESS_0179,"Ah, the cop…",XMESS_0179,シオリ（ハイネ）
-XMESS_0180,"Eh… Me?!
-Wait a second!!!",XMESS_0180,凸村哲
+XMESS_0179,Th-That cop...!!,XMESS_0179,シオリ（ハイネ）
+XMESS_0180,"Ugeh, m-me?! W-Wait a second!",XMESS_0180,凸村哲
 XMESS_0181,"Mm!?
 His gun…
 It's gone!? Where is it--",XMESS_0181,シオリ（ハイネ）
-XMESS_0182,"(Perfect timing, Ushio!
-Now I'll take the hair you're holding…)",XMESS_0182,網代慎平
+XMESS_0182,"(Perfect timing, Ushio! Now I'll turn the hair I'm holding...!)",XMESS_0182,網代慎平
 XMESS_0183,"The gun is here, Haine!",XMESS_0183,網代慎平
 XMESS_0184,Guaa…!!!,XMESS_0184,シオリ（ハイネ）
 XMESS_0185,(The gun Totsumura-san had was a copy),XMESS_0185,網代慎平
-XMESS_0186,"(When Haine aimed at Totsumura-san,
-Ushio quickly erased the gun, and now I'm turning my hair into a gun)",XMESS_0186,網代慎平
-XMESS_0187,(And then I shot Haine's 'original' body in the throat.),XMESS_0187,網代慎平
-XMESS_0188,(Ushio's revenge…!!),XMESS_0188,網代慎平
-XMESS_0189,(Here you go!!),XMESS_0189,網代慎平
+XMESS_0186,"(When Haine aimed at Totsumura-san, Ushio quickly erased his gun, and then transformed the hair I was holding into a gun)",XMESS_0186,網代慎平
+XMESS_0187,(And then I used that gun to shoot Haine's 'main body' right in the throat.),XMESS_0187,網代慎平
+XMESS_0188,(This is for Ushio...!!),XMESS_0188,網代慎平
+XMESS_0189,(Take this!!),XMESS_0189,網代慎平
 XMESS_0190,"Gyaahhh… Giiiii!!!
 Hiiiiiaaaaaa!!!!!",XMESS_0190,シデ
 XMESS_0191,"(It's working!!! 
@@ -285,370 +217,261 @@ Shadows are definitely weak to fire!!)",XMESS_0191,網代慎平
 XMESS_0192,"(The whole floor is a sea of gasoline flames…
 They have no escape!!)",XMESS_0192,網代慎平
 XMESS_0193,Rururu… ru ruraaaa!!!!!!!,XMESS_0193,シデ
-XMESS_0194,Shide's behavior is strange!!,XMESS_0194,ウシオ
-XMESS_0195,(Shide… other shadows are peeling off?!,XMESS_0195,網代慎平
+XMESS_0194,There's something wrong with Shide!!,XMESS_0194,ウシオ
+XMESS_0195,(Other shadows... are peeling off of Shide?!),XMESS_0195,網代慎平
 XMESS_0196,Ahahaaa!!!,XMESS_0196,シデ
-XMESS_0197,"Sorry, Dad… Mom…
-It's hot but I'm okay.",XMESS_0197,シオリ（ハイネ）
-XMESS_0198,"If you kill him, we'll go back!!!",XMESS_0198,シオリ（ハイネ）
+XMESS_0197,"Sorry, Dad... Mom... everyone. It's hot, isn't it... but it's okay.",XMESS_0197,シオリ（ハイネ）
+XMESS_0198,It'll all go back to normal after I kill him!,XMESS_0198,シオリ（ハイネ）
 XMESS_0199,Nandarasshooraaaa!!!!!,XMESS_0199,凸村哲
-XMESS_0200,Behind you--,XMESS_0200,シオリ（ハイネ）
-XMESS_0201,Huh.,XMESS_0201,凸村哲
+XMESS_0200,Behind me--,XMESS_0200,シオリ（ハイネ）
+XMESS_0201,Heh.,XMESS_0201,凸村哲
 XMESS_0202,His gun disappeared…,XMESS_0202,シオリ（ハイネ）
-XMESS_0203,"Don't look away if you're going to attack, Haine.",XMESS_0203,網代慎平
+XMESS_0203,"If you're going to look at the big picture, you shouldn't look away, Haine.",XMESS_0203,網代慎平
 XMESS_0204,…What?!,XMESS_0204,シオリ（ハイネ）
-XMESS_0205,Ushio's revenge…,XMESS_0205,網代慎平
-XMESS_0206,…Goboo! Get out of me!,XMESS_0206,シオリ（ハイネ）
+XMESS_0205,This is for Ushio...!,XMESS_0205,網代慎平
+XMESS_0206,...Goboh... gah!,XMESS_0206,シオリ（ハイネ）
 XMESS_0207,Got you!!,XMESS_0207,ウシオ
-XMESS_0208,"Guh… bua…
-Let go!!",XMESS_0208,シオリ（ハイネ）
-XMESS_0209,"Don't let me go!
-You have to disappear!!!",XMESS_0209,ウシオ
-XMESS_0210,"Forever pretending to be Shiori-chan,
-smirking like that…
-This fake!!",XMESS_0210,ウシオ
+XMESS_0208,"Gah... guh, bua...!? L-Let... gooo!!",XMESS_0208,シオリ（ハイネ）
+XMESS_0209,I won't let go! I'm erasing you!!!,XMESS_0209,ウシオ
+XMESS_0210,Always smirking like that in Shiori-chan's form! You fake!!,XMESS_0210,ウシオ
 XMESS_0211,Stop!,XMESS_0211,シオリ（ハイネ）
 XMESS_0212,…!?,XMESS_0212,ウシオ
-XMESS_0213,"Y-You're…
-Don't disappear!!",XMESS_0213,シオリ（ハイネ）
-XMESS_0214,This voice is…!,XMESS_0214,ウシオ
-XMESS_0215,I've decided to stay in this body…,XMESS_0215,シオリ（ハイネ）
-XMESS_0216,"With this child… with this family.
-Everyone will be together forever…",XMESS_0216,シオリ（ハイネ）
-XMESS_0217,"Haine!!!
-You're crying, but I won't forgive you!!",XMESS_0217,ウシオ
-XMESS_0218,So… don't disappear!,XMESS_0218,シオリ（ハイネ）
+XMESS_0213,S-Stop... Don't erase me...,XMESS_0213,シオリ（ハイネ）
+XMESS_0214,Th-This voice is...!,XMESS_0214,ウシオ
+XMESS_0215,I chose this body...,XMESS_0215,シオリ（ハイネ）
+XMESS_0216,I'm going home with this child... with this family... We'll all... be together forever...,XMESS_0216,シオリ（ハイネ）
+XMESS_0217,"Haine...! E-Even if you cry, I won't forgive you!!!",XMESS_0217,ウシオ
+XMESS_0218,So... don't erase me!,XMESS_0218,シオリ（ハイネ）
 XMESS_0219,Guhhhhhh!!!?,XMESS_0219,網代慎平
-XMESS_0220,Shinpe---,XMESS_0220,ウシオ（ダミー）
+XMESS_0220,Shinpe--,XMESS_0220,ウシオ（ダミー）
 XMESS_0221,Gahaaa!!!!!,XMESS_0221,ウシオ（ダミー）
 XMESS_0222,"Hahaha… you let your guard down.
 Is it hot?",XMESS_0222,シデ
 XMESS_0223,Uwaaaahhh!!!,XMESS_0223,ウシオ（ダミー）
-XMESS_0224,"Ushio-chan…
-Even though I can't kill you with fire,
-you're going to die…",XMESS_0224,シデ
-XMESS_0225,"Well, even if it's just my thoughts…
-You and Haine can carry over the information you have to the next cycle.",XMESS_0225,シデ
-XMESS_0226,"That means… data corruption,
-and even 'death'…
-You'll carry it over, won't you?",XMESS_0226,シデ
-XMESS_0227,"…a… ku… u…
-(translation incomplete)",XMESS_0227,ウシオ（ダミー）
-XMESS_0228,"(Oh no… I have to save Ushio…
-Ushio is going to burn up!!!
-But my body won't move…)",XMESS_0228,網代慎平
-XMESS_0229,"Gh… wheeze!
-Wheeze! Wheeez…",XMESS_0229,網代慎平
-XMESS_0230,"It'll take a few minutes for Shinpei to die.
-I deliberately avoided the vital spots, you know?",XMESS_0230,シデ
-XMESS_0231,"Ushio is here right now!
-What happens if she dies before Shinpei…
-It's really interesting to find out!",XMESS_0231,シデ
-XMESS_0232,"Gh… ahh, Ushio!!!",XMESS_0232,網代慎平
+XMESS_0224,"Ushio-chan... Y-You might not be able to kill me with fire, b-but you're going to die...",XMESS_0224,シデ
+XMESS_0225,"I-I was th-th-thinking... You and Haine can carry over the information you have to the next loop, right?",XMESS_0225,シデ
+XMESS_0226,Doesn't that mean... you would also carry over data 'corruption'... and even 'death'?,XMESS_0226,シデ
+XMESS_0227,...Ah... kuh... uh...,XMESS_0227,ウシオ（ダミー）
+XMESS_0228,(I-I have to save Ushio...!! Ushio is... going to burn up!!! And yet my body... won't... move...),XMESS_0228,網代慎平
+XMESS_0229,Gh... *cough*!! *Cough*! *Cough*...!!,XMESS_0229,網代慎平
+XMESS_0230,"It will take a few minutes for Shinpei-kun to die. I deliberately avoided his vitals, you s-see...",XMESS_0230,シデ
+XMESS_0231,"I'm getting really interested to see what happens if Ushio-chan dies right here, right now! Before Shinpei-kun does!",XMESS_0231,シデ
+XMESS_0232,"Gh... ah, U-Ushi, o...!!",XMESS_0232,網代慎平
 XMESS_0233,…,XMESS_0233,ウシオ
-XMESS_0234,(The fire… it's the necklace!),XMESS_0234,網代慎平
-XMESS_0235,So…,XMESS_0235,網代慎平
-XMESS_0236,That's not possible!!!,XMESS_0236,網代慎平
+XMESS_0234,(Ushio is burning... turning into just a black shadow...),XMESS_0234,網代慎平
+XMESS_0235,No... way.,XMESS_0235,網代慎平
+XMESS_0236,No way!!!,XMESS_0236,網代慎平
 XMESS_0237,Behind you!,XMESS_0237,ウシオ
 XMESS_0238,!!!,XMESS_0238,網代慎平
 XMESS_0239,Gh… fu.,XMESS_0239,シデ
-XMESS_0240,"Even if I'm bad…
-I don't want to die!
-I have no intention of dying!!!",XMESS_0240,ウシオ
-XMESS_0241,"You're quick… 
-I didn't notice you'd switched…",XMESS_0241,シデ
-XMESS_0242,"What I was holding…
-It's a doll printed on hair strands.",XMESS_0242,シデ
-XMESS_0243,(The necklace transformed into Ushio herself!),XMESS_0243,網代慎平
-XMESS_0244,"That's right!
-This fire…",XMESS_0244,シデ
+XMESS_0240,"Sorry, but I'm not interested. I have no intention of dying!!!!",XMESS_0240,ウシオ
+XMESS_0241,You're... quick... I didn't notice you had switched places...,XMESS_0241,シデ
+XMESS_0242,What I was holding was... a doll... printed on a bundle of hair...,XMESS_0242,シデ
+XMESS_0243,(Ushio herself had transformed into the necklace!),XMESS_0243,網代慎平
+XMESS_0244,"B-Besides, I see! This fire is--",XMESS_0244,シデ
 XMESS_0245,Gh…?,XMESS_0245,シデ
 XMESS_0246,"You're not invincible…
 I'll erase you!!!",XMESS_0246,ウシオ
 XMESS_0247,"(Hacking…!
 Good job, Ushio!)",XMESS_0247,網代慎平
-XMESS_0248,Lulu?!!!,XMESS_0248,シデ
+XMESS_0248,"Ru, ru, ru!!!?!?",XMESS_0248,シデ
 XMESS_0249,!!!,XMESS_0249,網代慎平
-XMESS_0250,"(Now… I saw a human hand!!!
-Someone's inside that thing!)",XMESS_0250,網代慎平
-XMESS_0251,"…Gvoh!
-Ahahahaha!!!!!!",XMESS_0251,シオリ（ハイネ）
-XMESS_0252,"(…Haine??
-How is he still moving in that condition?)",XMESS_0252,網代慎平
+XMESS_0250,(Just now... I saw a human hand...!? There's... someone inside him!),XMESS_0250,網代慎平
+XMESS_0251,...Gvoh! Ahhhhhhh!!!!,XMESS_0251,シオリ（ハイネ）
+XMESS_0252,(...Haine!? She can still move in that condition--),XMESS_0252,網代慎平
 XMESS_0253,"(The fire… it's gone!!!
 In an instant!!!)",XMESS_0253,網代慎平
-XMESS_0254,"Geh! Hah…
-I can't breathe…",XMESS_0254,網代慎平
+XMESS_0254,Geha! Hah... guh! I... I can't breathe...,XMESS_0254,網代慎平
 XMESS_0255,…,XMESS_0255,シオリ（ハイネ）
-XMESS_0256,"Haa… Haine.
-You did it…",XMESS_0256,網代慎平
-XMESS_0257,(The window shattered all at once!?),XMESS_0257,網代慎平
-XMESS_0258,(Glass shards are flying in!!!),XMESS_0258,網代慎平
-XMESS_0259,Gh… what?,XMESS_0259,網代慎平
+XMESS_0256,Ha... Hai...ne. You... di--,XMESS_0256,網代慎平
+XMESS_0257,(The windows shattered all at once!?),XMESS_0257,網代慎平
+XMESS_0258,(A massive amount of glass shards are blowing in...!!),XMESS_0258,網代慎平
+XMESS_0259,Uh... guh!?,XMESS_0259,網代慎平
 XMESS_0260,…,XMESS_0260,網代慎平
-XMESS_0261,Haine and Shide…!,XMESS_0261,網代慎平
-XMESS_0262,(No… no way!),XMESS_0262,網代慎平
-XMESS_0263,They escaped…,XMESS_0263,ウシオ
-XMESS_0264,Almost had them… but…,XMESS_0264,ウシオ
+XMESS_0261,H-Haine and Shide are...!,XMESS_0261,網代慎平
+XMESS_0262,(G-Gone...!),XMESS_0262,網代慎平
+XMESS_0263,They... got away...!!,XMESS_0263,ウシオ
+XMESS_0264,I was so close to erasing it...,XMESS_0264,ウシオ
 XCOMMENTVIEW_1616,Haine,XCOMMENTVIEW_1616,
-XMESS_0265,Wheeze… wheeze…,XMESS_0265,シオリ（ハイネ）
-XMESS_0266,Gobba…,XMESS_0266,シオリ（ハイネ）
+XMESS_0265,"*Cough*, *cough*...",XMESS_0265,シオリ（ハイネ）
+XMESS_0266,Gobo...,XMESS_0266,シオリ（ハイネ）
 XMESS_0267,Shide… are you okay?,XMESS_0267,シオリ（ハイネ）
-XMESS_0268,"Yes…
-If twisted, it'll return…",XMESS_0268,シデ
+XMESS_0268,"Yes... If I knead it, it will return to normal...",XMESS_0268,シデ
 XMESS_0269,What about them?,XMESS_0269,シオリ（ハイネ）
-XMESS_0270,"…Shinpei was fatally wounded by my bullets.
-He should die in a few minutes, and then the final loop will begin.",XMESS_0270,シデ
+XMESS_0270,"...Shinpei-kun is fatally wounded by my bullets. He should die in a few minutes, and the final loop should begin.",XMESS_0270,シデ
 XMESS_0271,I'm hungry…,XMESS_0271,シオリ（ハイネ）
-XMESS_0272,That's true…,XMESS_0272,シデ
+XMESS_0272,Indeed...,XMESS_0272,シデ
 XCOMMENTVIEW_1646,Shinpei Ajiro,XCOMMENTVIEW_1646,
 XMESS_0273,Ushio! Are you okay?!,XMESS_0273,網代慎平
-XMESS_0274,"Fufu… I'm fine…
-I made a lot of copies, that's all.
-There's no need to worry about me-",XMESS_0274,ウシオ
-XMESS_0275,"But blood is coming out!!!
-You definitely can't hold it in anymore!",XMESS_0275,網代慎平
+XMESS_0274,Fufu... I'm fine...! I just made a lot of copies... and got tired... There's no need to worry so--,XMESS_0274,ウシオ
+XMESS_0275,"But you're bleeding!! Don't you dare try to act tough anymore, okay!?",XMESS_0275,網代慎平
 XMESS_0276,Shinpei…,XMESS_0276,ウシオ
-XMESS_0277,"That blood is from the glass shards hitting me.
-It'll disappear soon, and there's no burn mark!
-Only my hair and them burned…",XMESS_0277,ウシオ
-XMESS_0278,"By the way Shinpei, you were shot!!!
-That injury is much worse!!",XMESS_0278,ウシオ
+XMESS_0277,"This blood is just from the glass hitting my 3D body. It'll disappear soon, and I don't have any burns! I only burned my hair and them.",XMESS_0277,ウシオ
+XMESS_0278,"More importantly, Shinpei, you were shot, weren't you!? That's a much more serious injury...!!",XMESS_0278,ウシオ
 XMESS_0279,It's okay… look.,XMESS_0279,網代慎平
-XMESS_0280,"Body armor…
-I was wearing it under my clothes.
-There are instructions online on how to make one.",XMESS_0280,網代慎平
+XMESS_0280,A bulletproof vest... I was wearing it under my clothes. I found how to make it online.,XMESS_0280,網代慎平
 XMESS_0281,…Shinpei!!!,XMESS_0281,ウシオ
-XMESS_0282,"Eh?!
-D-don't hug me! Don't!!
-It hit my shoulders and sides!",XMESS_0282,網代慎平
-XMESS_0283,Thank goodness!!!,XMESS_0283,網代慎平
-XMESS_0284,"Ryunosuke, I'll record this explanation for you.
-The fire caused by the copy of gasoline and matches is data,
-and it was under Ushio's control.",XMESS_0284,ウシオ
-XMESS_0285,"She could arbitrarily choose what to burn, 
-and the fire was harmless to buildings and us.",XMESS_0285,南方ひづる
-XMESS_0286,"The fire was effective against shadows…
-Normal shadows that had merged with Shide would die instantly. 
-It also slowed down Shide's movements.",XMESS_0286,南方ひづる
-XMESS_0287,"Furthermore, Ushio's 'hacking' accidentally revealed that someone was inside 
-Shide's body.",XMESS_0287,南方ひづる
-XMESS_0288,"However, Haine swept gym air, suffocating Shide… Building turned vacuum; they fled via gap. Failed to scan Shide’s true self…",XMESS_0288,南方ひづる
-XMESS_0289,"However, according to Ushio's testimony,
-there was no shadow presence from the hand 
-and it was definitely a person.",XMESS_0289,南方ひづる
-XMESS_0290,"Shide suffered burns on her left hand.  
-This will be an indicator of their true identity.",XMESS_0290,南方ひづる
-XMESS_0291,But air… that's impossible…,XMESS_0291,南方ひづる
-XMESS_0292,"Gases and liquids can be copied!
-However, they need to be in a container! 
-Otherwise I couldn't scan them properly.",XMESS_0292,南方ひづる
-XMESS_0293,"Ushio could also copy the gasoline inside the can.  
-If we consider the gymnasium as a container, it's possible.",XMESS_0293,凸村哲
-XMESS_0294,But… even an enemy is amazing…,XMESS_0294,ウシオ
-XMESS_0295,"The gymnasium, such a huge scale to scan!
-I don't have that power myself…",XMESS_0295,南方ひづる
-XMESS_0296,It's frustrating!!!,XMESS_0296,ウシオ
-XMESS_0297,But the gains from tonight are huge…,XMESS_0297,ウシオ
-XMESS_0298,…Yeah!!!,XMESS_0298,ウシオ
-XMESS_0299,"Everyone is safe!
-There's nothing more to do!!",XMESS_0299,南方ひづる
-XMESS_0300,That's right.,XMESS_0300,ウシオ
-XMESS_0301,"Ushio, come this way!
-Let's proceed as planned!",XMESS_0301,ウシオ
-XMESS_0302,"Double-check once more Ushio! 
-If we cut the link with Haine, it'll be truly safe!",XMESS_0302,ウシオ
-XMESS_0303,Roz and Guildenstern went well.,XMESS_0303,南方ひづる
-XMESS_0304,"Yeah!
-Just messed with my head…
-It's fine if it becomes the same as me!",XMESS_0304,網代慎平
-XMESS_0305,"If I do this now, I can easily finish them off,
-but is that okay with you Mio?",XMESS_0305,菱形窓
-XMESS_0306,"Yeah.
-Do it! Older sister!",XMESS_0306,菱形朱鷺子
-XMESS_0307,Gh… Gg…,XMESS_0307,ウシオ
-XMESS_0308,She captured my shadow and made it a comrade!!!,XMESS_0308,ウシオ
-XMESS_0309,"(At 7:40, I'm hiding in the shadows of the school building and holding my breath)",XMESS_0309,小舟澪
-XMESS_0310,"(Everyone else is waiting at their positions.
-Ushio alone, deliberately staying in a visible spot,
-waiting for the shadows to come)",XMESS_0310,ミオ
-XMESS_0311,"(This strategy's success depends on teamwork…
-First, I rely on you Ushio!)",XMESS_0311,小舟澪
-XMESS_0312,This presence… they're here!!!,XMESS_0312,網代慎平
-XMESS_0313,"Ushio!
-They're coming from the front!!",XMESS_0313,網代慎平
-XMESS_0314,Understood!!!,XMESS_0314,網代慎平
+XMESS_0282,Ow!? Owowowowow!,XMESS_0282,網代慎平
+XMESS_0283,"D-Don't hug me, I said don't! I still got hit in the shoulder and side!!",XMESS_0283,網代慎平
+XMESS_0284,Thank goodness...!!,XMESS_0284,ウシオ
+XMESS_0285,"Ryunosuke, I'll record this explanation for you. The fire caused by the copy of the gasoline and matches is, so to speak, data, and was under Ushio's control.",XMESS_0285,南方ひづる
+XMESS_0286,"She could arbitrarily set what to burn, making it a harmless fire to the building and us.",XMESS_0286,南方ひづる
+XMESS_0287,The fire was effective against the shadows... Normal shadows assimilated with Shide died instantly. It also had the effect of slowing Shide's movements.,XMESS_0287,南方ひづる
+XMESS_0288,"Furthermore, Ushio's 'hacking' accidentally revealed that someone was inside Shide's body...",XMESS_0288,南方ひづる
+XMESS_0289,"However, Haine scanned and erased the air in the gymnasium, extinguishing Shide by suffocation...",XMESS_0289,南方ひづる
+XMESS_0290,"Outside air rushed into the suddenly vacuumed building, and they escaped in the confusion. We couldn't manage to scan Shide's true identity...",XMESS_0290,南方ひづる
+XMESS_0291,"However, according to Ushio's testimony, she didn't sense any shadow presence from the hand inside, and it was definitely a human.",XMESS_0291,南方ひづる
+XMESS_0292,Shide suffered a burn on the left hand. This will likely serve as a mark to identify their true identity.,XMESS_0292,南方ひづる
+XMESS_0293,"The air, though? How in the world...",XMESS_0293,凸村哲
+XMESS_0294,I can copy both gases and liquids! But they have to be in some kind of container! Otherwise I can't scan them properly.,XMESS_0294,ウシオ
+XMESS_0295,"Ushio was also able to copy the gasoline in the can. If you consider the gymnasium as a 'container', I suppose it's possible.",XMESS_0295,南方ひづる
+XMESS_0296,"But... even as an enemy, that's amazing...",XMESS_0296,ウシオ
+XMESS_0297,I don't have the power to scan something on such a huge scale as a gymnasium...,XMESS_0297,ウシオ
+XMESS_0298,It's frustrating...!!,XMESS_0298,ウシオ
+XMESS_0299,"We did learn a lot from tonight, though.",XMESS_0299,南方ひづる
+XMESS_0300,...Yeah!!,XMESS_0300,ウシオ
+XMESS_0301,Everyone survived!!,XMESS_0301,ウシオ
+XMESS_0302,That's the most important thing...!!,XMESS_0302,ウシオ
+XMESS_0303,That's right.,XMESS_0303,南方ひづる
+XMESS_0304,"Ushio, come here! We'll proceed as planned.",XMESS_0304,網代慎平
+XMESS_0305,"Let's confirm one more time, Ushio! If you cut the connection with Haine... that link, is it really, truly safe!?",XMESS_0305,菱形窓
+XMESS_0306,It worked with Roz and Gil.,XMESS_0306,菱形朱鷺子
+XMESS_0307,"Yeah! I just have to mess with its head a bit... Basically, I just have to make it the same as me!",XMESS_0307,ウシオ
+XMESS_0308,"If I do it now, I can easily finish it off like this, but are you sure about this, Mio?",XMESS_0308,ウシオ
+XMESS_0309,"Yeah. Do it, Sis.",XMESS_0309,小舟澪
+XMESS_0310,Gu... gugu...,XMESS_0310,ミオ
+XMESS_0311,Make my captured shadow into an ally...!!,XMESS_0311,小舟澪
+XMESS_0312,"(It's past 7:40. I'm hiding in the shadows of the school building, holding my breath.)",XMESS_0312,網代慎平
+XMESS_0313,"(Everyone else is waiting at their respective positions. Ushio is alone, deliberately waiting in an easy-to-spot location for the shadows to come.)",XMESS_0313,網代慎平
+XMESS_0314,"(Whether this strategy succeeds or not depends on teamwork... I'm counting on you first, Ushio!)",XMESS_0314,網代慎平
 XCOMMENTVIEW_1806,Ushio,XCOMMENTVIEW_1806,
-XMESS_0315,"They brought a lot of people, Shide!!",XMESS_0315,ウシオ
-XMESS_0316,"…Oh?
-I thought I'd meet Shinpei,
-but it's just Ushio…",XMESS_0316,根津銀次郎
-XMESS_0317,Where did you hide Shin-chan?!,XMESS_0317,ウシオ
-XMESS_0318,"There must be other allies.
-You're probably hiding somewhere…
-It's a trap?",XMESS_0318,ウシオ
-XMESS_0319,"Whether it's a trap or not,
-you should check for yourself!
-Come on, follow me!!!",XMESS_0319,シデ
-XMESS_0320,They escaped…,XMESS_0320,ミオ
-XMESS_0321,"That's really suspicious.
-Haine, what do you think?",XMESS_0321,シオリ（ハイネ）
-XMESS_0322,"It's tag. 
-Okay, let's take the bait.",XMESS_0322,ウシオ
-XMESS_0323,Me too…,XMESS_0323,ミオ
-XMESS_0324,"Wait a second!
-Mio, I'll take care of you!!!",XMESS_0324,シデ
-XMESS_0325,No good… I'm out.,XMESS_0325,シオリ（ハイネ）
-XMESS_0326,"Tetsu-san…
-You shouldn't point that at people!
-It's dangerous, isn't it?",XMESS_0326,ミオ
-XMESS_0327,What kind of speech is that from Mio who has a knife?!!,XMESS_0327,凸村哲
-XMESS_0328,"Mio's shadow…
-That'll be my fight.",XMESS_0328,凸村哲
-XMESS_0329,"Exactly. 
-Forgive me!
-This is part of being a hero of justice!!!",XMESS_0329,ミオ
-XMESS_0330,"Come out, Roz and Guildenstern!!",XMESS_0330,凸村哲
-XMESS_0331,(Toki and the others stopped Mio well!),XMESS_0331,菱形朱鷺子
-XMESS_0332,"(Shide and Haine's presence…
-Yes, they're following me properly)",XMESS_0332,凸村哲
-XMESS_0333,"(I need to lead them to that place,
-but I'll keep as much distance as possible.)",XMESS_0333,菱形朱鷺子
+XMESS_0315,This presence... they're here...!!,XMESS_0315,ウシオ
+XMESS_0316,Ushio! They're coming from the front!,XMESS_0316,根津銀次郎
+XMESS_0317,Understood!,XMESS_0317,ウシオ
+XMESS_0318,"You brought quite a crowd with you, Shide!!",XMESS_0318,ウシオ
+XMESS_0319,"...Oh? I thought I'd get to see Shinpei-kun, but it's just Ushio-chan alone?",XMESS_0319,シデ
+XMESS_0320,Where did you hide Shin-chan!!,XMESS_0320,ミオ
+XMESS_0321,"You have other allies, don't you? I bet they're hiding somewhere, right? Is this a trap?",XMESS_0321,シオリ（ハイネ）
+XMESS_0322,"Whether it's a trap or not, why don't you check for yourselves? Follow me!!",XMESS_0322,ウシオ
+XMESS_0323,She ran away...,XMESS_0323,ミオ
+XMESS_0324,"It looks incredibly like a trap. Haine, what should we do?",XMESS_0324,シデ
+XMESS_0325,"Tag, is it? Fine, I'll take that bait.",XMESS_0325,シオリ（ハイネ）
+XMESS_0326,Me too--,XMESS_0326,ミオ
+XMESS_0327,Wait a sec! We're Mio-chan's opponents!,XMESS_0327,凸村哲
+XMESS_0328,"Ah man, I missed~.",XMESS_0328,凸村哲
+XMESS_0329,"Tetsu-san... It's dangerous to point something like that at people, isn't it?",XMESS_0329,ミオ
+XMESS_0330,Is that really something Mio-chan holding a kitchen knife should be saying!?,XMESS_0330,凸村哲
+XMESS_0331,Mio's shadow... We're your opponents.,XMESS_0331,菱形朱鷺子
+XMESS_0332,"That's how it is. Forgive me, okay? This is also the job of a hero of justice!",XMESS_0332,凸村哲
+XMESS_0333,"Come out, Roz, Gil!!",XMESS_0333,菱形朱鷺子
 XCOMMENTVIEW_1943,Ushio,XCOMMENTVIEW_1943,
-XMESS_0334,"(If I get caught, the 'trap' won't work anymore)",XMESS_0334,ウシオ
-XMESS_0335,Vaa…a…,XMESS_0335,ウシオ
-XMESS_0336,Goo…o…,XMESS_0336,ウシオ
-XMESS_0337,"(The number of enemy shadows is more than expected.
-But it's okay, there's something ahead…)",XMESS_0337,ウシオ
-XMESS_0338,"Ushio-san, leave this to me.",XMESS_0338,影Ａ
-XMESS_0339,Please!!!,XMESS_0339,影Ｂ
-XMESS_0340,"Come on, no matter how many there are!",XMESS_0340,ウシオ
-XMESS_0341,"  Ushio-san, I'll take care of this!",XMESS_0341,南方ひづる（ポニテ）
-XMESS_0342,  Please do your best!!,XMESS_0342,ウシオ
-XMESS_0343,"  Come on, bring them all!!",XMESS_0343,南方ひづる（ポニテ）
+XMESS_0334,(Toki-chan and the others successfully stopped Mio!),XMESS_0334,ウシオ
+XMESS_0335,"(Shide and Haine's presence... Yeah, they're following me properly.)",XMESS_0335,ウシオ
+XMESS_0336,"(I have to lead them to that place, but I need to keep my distance as much as possible.)",XMESS_0336,ウシオ
+XMESS_0337,"(If I get caught, the 'trap' will become unusable.)",XMESS_0337,ウシオ
+XMESS_0338,Vaaaa!!,XMESS_0338,影Ａ
+XMESS_0339,Gwooo!!,XMESS_0339,影Ｂ
+XMESS_0340,"(There are more enemy shadows than expected... But it's okay, up ahead is...!)",XMESS_0340,ウシオ
+XMESS_0341,"Ushio-san, please leave this to me.",XMESS_0341,南方ひづる（ポニテ）
+XMESS_0342,Please!!,XMESS_0342,ウシオ
+XMESS_0343,"Come on, bring as many as you want!!",XMESS_0343,南方ひづる（ポニテ）
 XMESS_0344,Aghh!!!,XMESS_0344,影Ａ
 XMESS_0345,Geeeee!!!,XMESS_0345,影Ｂ
 XCOMMENTVIEW_2011,Kaori Koyuba,XCOMMENTVIEW_2011,
 XMESS_0346,Phew… phew…!,XMESS_0346,小弓場かおり
-XMESS_0347,(…Next is to use the flare to block the sensor here!),XMESS_0347,小弓場かおり
+XMESS_0347,"(...Next, I'll use the smoke flare on this sensor...!)",XMESS_0347,小弓場かおり
 XMESS_0348,…!!,XMESS_0348,小弓場かおり
-XMESS_0349,"(Seal off the fireproof shutter and cut off their escape route!  
-We have to lead them all the way down that hallway!)",XMESS_0349,小弓場かおり
+XMESS_0349,(Close the fire shutter and cut off the enemy's escape route! We have to reliably guide them to that hallway!),XMESS_0349,小弓場かおり
 XMESS_0350,"(Ajiro-kun, everyone… please be safe…  
 Defeat those shadows!!)",XMESS_0350,小弓場かおり
 XCOMMENTVIEW_2048,Shinpei Ajiro,XCOMMENTVIEW_2048,
 XMESS_0351,"(It's about time…  
 Ushio is rounding the corner!)",XMESS_0351,網代慎平
-XMESS_0352,(—Here they come!),XMESS_0352,網代慎平
-XMESS_0353,"Shide and Haine came with me.  
-They should appear soon.",XMESS_0353,ウシオ
-XMESS_0354,"Understood.  
-Then Ushio will hide in the shadows.",XMESS_0354,網代慎平
+XMESS_0352,(—She's here!),XMESS_0352,網代慎平
+XMESS_0353,I brought Shide and Haine. They should show themselves soon.,XMESS_0353,ウシオ
+XMESS_0354,"Got it. Then Ushio, hide in the shadows and wait.",XMESS_0354,網代慎平
 XMESS_0355,Got it!,XMESS_0355,ウシオ
 XMESS_0356,"When I give the signal, move outside immediately.",XMESS_0356,網代慎平
 XMESS_0357,"Understood!  
 Hurry and hide too, Shinpei!",XMESS_0357,ウシオ
 XMESS_0358,(Those chasing Ushio will come around this corner),XMESS_0358,網代慎平
 XMESS_0359,(The hallway ahead is surrounded by us),XMESS_0359,網代慎平
-XMESS_0360,(Hiding and waiting…--),XMESS_0360,網代慎平
-XMESS_0361,"(Me, Nezu-san, Sou, Mio. We'll fight using copies of the rifles)",XMESS_0361,網代慎平
-XMESS_0362,(But printing multiple rifle data at once isn't possible),XMESS_0362,網代慎平
-XMESS_0363,"(But if we take turns, it can be printed one by one)",XMESS_0363,網代慎平
-XMESS_0364,"(Our sniper team has each taken a strand of Ushio's hair  
-to materialize the rifles)",XMESS_0364,網代慎平
-XMESS_0365,"(When one person snipes, Ushio erases that rifle and immediately  
-another team member with another strand prints it…)",XMESS_0365,網代慎平
-XMESS_0366,(It creates the illusion of continuous fire! ),XMESS_0366,網代慎平
-XMESS_0367,"There you are, Ushio-chan…!",XMESS_0367,シデ
-XMESS_0368,(Ushio's still not here yet…),XMESS_0368,網代慎平
+XMESS_0360,(The ones hiding and waiting are--),XMESS_0360,網代慎平
+XMESS_0361,"(Me, Nezu-san, Sou, and Mio. We'll fight using the copied rifle as our weapon.)",XMESS_0361,網代慎平
+XMESS_0362,"(However, we cannot print multiple copies of the rifle data 'simultaneously'.)",XMESS_0362,網代慎平
+XMESS_0363,"(But if we do it 'one by one, taking turns', we can print it.)",XMESS_0363,網代慎平
+XMESS_0364,(Each member of our sniper team is holding a bundle of Ushio's hair in order to materialize the rifle.),XMESS_0364,網代慎平
+XMESS_0365,"(When one person snipes, Ushio erases that rifle, and immediately prints it on the bundle of hair held by an ally in another location...)",XMESS_0365,網代慎平
+XMESS_0366,"(This makes continuous attacks possible, as if the number of rifles had multiplied!)",XMESS_0366,網代慎平
+XMESS_0367,"Are you there, Ushio-chan...!",XMESS_0367,シデ
+XMESS_0368,"(Ushio, not yet...)",XMESS_0368,網代慎平
 XMESS_0369,!!?,XMESS_0369,網代慎平
-XMESS_0370,"(Wh-What is that!?!  
-It looks like a giant spider!)",XMESS_0370,網代慎平
-XMESS_0371,"(N-no, don't back down!!  
-Everyone… stick to the plan!!)",XMESS_0371,網代慎平
-XMESS_0372,(Ushio is leaving here for now),XMESS_0372,網代慎平
-XMESS_0373,"(Move to the outside where we can see everyone, and prepare to activate the trap)",XMESS_0373,網代慎平
-XMESS_0374,Where did Ushio-chan go?,XMESS_0374,シデ
-XMESS_0375,Hiding… she went out.,XMESS_0375,シオリ（ハイネ）
-XMESS_0376,What's that guy up to?,XMESS_0376,シデ
-XMESS_0377,"Well now.  
-It's just a monkey's trick, isn't it?",XMESS_0377,シオリ（ハイネ）
-XMESS_0378,Hm… let's see what they're up to first.,XMESS_0378,シデ
+XMESS_0370,(Wh-What is that!? It looks like a giant spider!!),XMESS_0370,網代慎平
+XMESS_0371,"(No, don't flinch!! Everyone... we're going according to plan!!)",XMESS_0371,網代慎平
+XMESS_0372,(Ushio will disengage here for now.),XMESS_0372,網代慎平
+XMESS_0373,"(She'll move outside where she can overlook everyone, and prepare to activate the 'trap'.)",XMESS_0373,網代慎平
+XMESS_0374,Ushio-chan... disappeared?,XMESS_0374,シデ
+XMESS_0375,"She dove in... and went outside, huh.",XMESS_0375,シオリ（ハイネ）
+XMESS_0376,What could she be plotting?,XMESS_0376,シデ
+XMESS_0377,Who knows. It's probably just some monkey's shallow trick anyway.,XMESS_0377,シオリ（ハイネ）
+XMESS_0378,Hm... Let's see what their next move is for now.,XMESS_0378,シデ
 XMESS_0379,!?,XMESS_0379,シオリ（ハイネ）
-XMESS_0380,Shooting at my shadow?,XMESS_0380,シデ
-XMESS_0381,"Hunter!!  
-Out there… from the second floor!",XMESS_0381,シオリ（ハイネ）
+XMESS_0380,A bullet in my shadow?,XMESS_0380,シデ
+XMESS_0381,The hunter!! Outside the window... from the second floor!!,XMESS_0381,シオリ（ハイネ）
 XCOMMENTVIEW_2160,Ginjiro Nezu,XCOMMENTVIEW_2160,
 XMESS_0382,Tch!,XMESS_0382,根津銀次郎
-XMESS_0383,"(It seems it doesn't work on flat surfaces…  
-Then I'll pierce through in 3D!!)",XMESS_0383,根津銀次郎
+XMESS_0383,(So it doesn't work on flat surfaces after all! Then I'll just blast through the 3D body!!),XMESS_0383,根津銀次郎
 XMESS_0384,Guhh!,XMESS_0384,シデ
 XMESS_0385,Shide!,XMESS_0385,シオリ（ハイネ）
-XMESS_0386,(There's resistance…!),XMESS_0386,根津銀次郎
+XMESS_0386,(That hit the mark...!),XMESS_0386,根津銀次郎
 XCOMMENTVIEW_2198,Shinpei Ajiro,XCOMMENTVIEW_2198,
-XMESS_0387,"(This time it's the window!…)  
-Keep your head, Sou!",XMESS_0387,網代慎平
-XCOMMENTVIEW_2211,Sou,XCOMMENTVIEW_2211,
-XMESS_0388,"(Yossha!!
-Shio, give me the rifle!)",XMESS_0388,菱形窓
-XMESS_0389,"Old body… Even though it's a nice rifle,
-isn't your position too close?",XMESS_0389,シデ
-XMESS_0390,(You think I'll let you?!!),XMESS_0390,菱形窓
+XMESS_0387,"(Next is Sou...! Don't mess this up, Sou!)",XMESS_0387,網代慎平
+XCOMMENTVIEW_2211,Sou Hishigata,XCOMMENTVIEW_2211,
+XMESS_0388,"(Alright!! Ushio, give me the rifle!!)",XMESS_0388,菱形窓
+XMESS_0389,"Old man... even though you have a nice rifle, isn't your positioning a bit too close?",XMESS_0389,シデ
+XMESS_0390,(Like I'd let you!!),XMESS_0390,菱形窓
 XMESS_0391,――!?,XMESS_0391,シデ
-XMESS_0392,"From behind?!
-Again with the rifle?!!",XMESS_0392,シオリ（ハイネ）
-XMESS_0393,"(Yossha, hit him!)",XMESS_0393,菱形窓
+XMESS_0392,From behind!? Another rifle!?,XMESS_0392,シオリ（ハイネ）
+XMESS_0393,"(Alright, a direct hit!)",XMESS_0393,菱形窓
 XCOMMENTVIEW_2247,Ushio,XCOMMENTVIEW_2247,
-XMESS_0394,"Nice shot, Sou!
-Next is Mio… Stay calm!",XMESS_0394,ウシオ
-XCOMMENTVIEW_2260,Mio,XCOMMENTVIEW_2260,
-XMESS_0395,(It's here!!!),XMESS_0395,小舟澪
-XMESS_0396,(I don't need to hit him…),XMESS_0396,小舟澪
-XMESS_0397,(That's the plan - drawing Shide's attention),XMESS_0397,小舟澪
-XMESS_0398,"Ah, I see. That's how it works…",XMESS_0398,シデ
+XMESS_0394,"Nice, Sou! Next is Mio... stay calm!",XMESS_0394,ウシオ
+XCOMMENTVIEW_2260,Mio Kofune,XCOMMENTVIEW_2260,
+XMESS_0395,(H-Here it comes!!),XMESS_0395,小舟澪
+XMESS_0396,(I don't need to land a hit...),XMESS_0396,小舟澪
+XMESS_0397,(Because drawing Shide's attention over here is my goal!),XMESS_0397,小舟澪
+XMESS_0398,"I see, so that's the trick...",XMESS_0398,シデ
 XCOMMENTVIEW_2285,Ginjiro Nezu,XCOMMENTVIEW_2285,
-XMESS_0399,…Nuh!?,XMESS_0399,シデ
+XMESS_0399,...Nuh!,XMESS_0399,シデ
 XMESS_0400,"Are you okay, Shide?",XMESS_0400,ハイネ
-XMESS_0401,You annoying flies!!,XMESS_0401,ハイネ
-XMESS_0402,"(…Next should've been Shinpei,
-but Shide's position now is too far)",XMESS_0402,根津銀次郎
-XMESS_0403,"(It's dangerous. Let me try again, Sou)",XMESS_0403,根津銀次郎
-XMESS_0404,Where will it come from next…,XMESS_0404,シデ
-XMESS_0405,"Enough.
-No need to deal with this nonsense.
-Take them out one by one, decisively.",XMESS_0405,シオリ（ハイネ）
-XMESS_0406,Then I'll start with the old body…,XMESS_0406,シデ
-XMESS_0407,"Don't look away, you!!",XMESS_0407,菱形窓
+XMESS_0401,"Damn you, you eyesore flies!!!",XMESS_0401,ハイネ
+XMESS_0402,"(...Next was supposed to be Shinpei, but from Shide's current position, he won't hit.)",XMESS_0402,根津銀次郎
+XMESS_0403,"(It's dangerous, but I'm counting on you once more, Sou.)",XMESS_0403,根津銀次郎
+XMESS_0404,Where is the next one coming from--,XMESS_0404,シデ
+XMESS_0405,That's enough. There's no need to play along with this. Let's reliably eliminate them one by one.,XMESS_0405,シオリ（ハイネ）
+XMESS_0406,"Is that so. Then, let's start with the old man...",XMESS_0406,シデ
+XMESS_0407,"Don't look away, you bastard!!!",XMESS_0407,菱形窓
 XMESS_0408,Ughh!!!,XMESS_0408,シデ
 XCOMMENTVIEW_2336,Shinpei Ajiro,XCOMMENTVIEW_2336,
-XMESS_0409,(The next one's my turn…),XMESS_0409,網代慎平
-XMESS_0410,"(Quickly assembled team,
-first time using this rifle…
-It was a gamble whether it'd work)",XMESS_0410,網代慎平
-XMESS_0411,"(This is thanks to everyone helping me so far!
-No way I'm failing now!)",XMESS_0411,網代慎平
-XMESS_0412,"(I'll make this shot for sure!
-Connecting these feelings to the future!!!)",XMESS_0412,網代慎平
+XMESS_0409,(Next is finally my turn...),XMESS_0409,網代慎平
+XMESS_0410,"(A hastily assembled team, using a rifle for the first time... It was a gamble whether it would go well, but)",XMESS_0410,網代慎平
+XMESS_0411,(Everyone worked so hard to connect it to this point! There's no way I can fail!),XMESS_0411,網代慎平
+XMESS_0412,(I'll definitely land this shot! I'll connect these feelings to the future!!!),XMESS_0412,網代慎平
 XMESS_0413,"Haine, hide behind me…",XMESS_0413,シデ
 XMESS_0414,Yes…!,XMESS_0414,シオリ（ハイネ）
-XMESS_0415,"(My position is still hidden.
-From here, I can aim for Haine's 'original'!)",XMESS_0415,網代慎平
-XMESS_0416,"(Aiming at Haine's shadow…
-The chance is only a moment!!)",XMESS_0416,網代慎平
-XMESS_0417,(I'll sink it in one shot!!!),XMESS_0417,網代慎平
-XMESS_0418,(Choosing the perfect timing…),XMESS_0418,網代慎平
+XMESS_0415,"(My position hasn't been discovered yet. From here, I can aim for Haine's 'main body'!)",XMESS_0415,網代慎平
+XMESS_0416,(My target is Haine's shadow...! There's only a split-second chance!),XMESS_0416,網代慎平
+XMESS_0417,(I'll take her down in one shot!!),XMESS_0417,網代慎平
+XMESS_0418,(I'll aim for the absolute best timing...!),XMESS_0418,網代慎平
 XMESS_0419,…,XMESS_0419,網代慎平
-XMESS_0420,Now!!!,XMESS_0420,網代慎平
-XMESS_0421,What?!,XMESS_0421,網代慎平
+XMESS_0420,(Now!!!!!),XMESS_0420,網代慎平
+XMESS_0421,Wha!!?,XMESS_0421,網代慎平
 XMESS_0422,(The spider's arm protected Haine--),XMESS_0422,網代慎平
-XMESS_0423,Guh!?!?,XMESS_0423,網代慎平
-XMESS_0424,That was a perfect hit!,XMESS_0424,シオリ（ハイネ）
-XMESS_0425,!??,XMESS_0425,網代慎平
-XMESS_0426,"(What just happened!?
-The spider's arm moved so fast…)",XMESS_0426,網代慎平
-XMESS_0427,Shinpei!!!,XMESS_0427,ウシオ
-XMESS_0428,…But…,XMESS_0428,網代慎平
-XMESS_0429,(I'm hit… can't move…),XMESS_0429,網代慎平
-XMESS_0430,"(My mistake…
-This is my fault…)",XMESS_0430,網代慎平
-XMESS_0431,KEY TIPS[<color=#GF_KEY_LOOPEND_SPIDER>Spider Form</color>] has been acquired.,XMESS_0431,（ト書き）
+XMESS_0423,Gofu!?!?,XMESS_0423,網代慎平
+XMESS_0424,Bullseye!,XMESS_0424,シオリ（ハイネ）
+XMESS_0425,...!?,XMESS_0425,網代慎平
+XMESS_0426,(Wh-What happened!? The spider's arm reached here in an instant...),XMESS_0426,網代慎平
+XMESS_0427,Shinpeeeeeeii!!!,XMESS_0427,ウシオ
+XMESS_0428,...Ga... ah...,XMESS_0428,網代慎平
+XMESS_0429,(They... got me...),XMESS_0429,網代慎平
+XMESS_0430,(It was... my... mistake...),XMESS_0430,網代慎平
+XMESS_0431,Acquired Key TIP: [<color=#GF_KEY_LOOPEND_SPIDER>Spider Form</color>].,XMESS_0431,（ト書き）

@@ -5,150 +5,102 @@ XMESS_0000,"Totsumura-san, you came.
 Thank you.",XMESS_0000,網代慎平
 XMESS_0001,"But you're late.
 What were you doing?",XMESS_0001,ウシオ
-XMESS_0002,Ah~ it took a while to style my hair…,XMESS_0002,凸村哲
-XMESS_0003,"Eh?!
-U-uh… Ushio…!",XMESS_0003,凸村哲
-XMESS_0004,Wahhhhh!!!,XMESS_0004,凸村哲
-XMESS_0005,"That reaction…
-I saw Sou do that earlier.",XMESS_0005,ウシオ
-XMESS_0006,"Out!~!
-Ghost!~!",XMESS_0006,凸村哲
-XMESS_0007,"What a noisy guy…
-You want me to fight with this guy?",XMESS_0007,南方ひづる
-XMESS_0008,"Zizizii, G-cup!!??",XMESS_0008,凸村哲
-XMESS_0009,Is that really something to be surprised about?,XMESS_0009,小弓場かおり
-XMESS_0010,Here~! Kaori-san!!??,XMESS_0010,凸村哲
-XMESS_0011,"W-what's going on!?
-Shinpei-kun,
-what kind of gathering is this!?",XMESS_0011,凸村哲
-XMESS_0012,"Wasting time.
-Ushio, quickly show him that.",XMESS_0012,南方ひづる
+XMESS_0002,"Well~, it just took a little time to style my hair...",XMESS_0002,凸村哲
+XMESS_0003,Eeehhh!? U... Ushi... Ushio-cha...!,XMESS_0003,凸村哲
+XMESS_0004,Waaayaaahhhhhh!!!,XMESS_0004,凸村哲
+XMESS_0005,Sou already did that reaction earlier.,XMESS_0005,ウシオ
+XMESS_0006,It appearedddddd!! A ghosttttttt!!,XMESS_0006,凸村哲
+XMESS_0007,What a noisy man... Are you telling me to fight alongside this guy?,XMESS_0007,南方ひづる
+XMESS_0008,G-G-G-G-cupsss!!??,XMESS_0008,凸村哲
+XMESS_0009,Is that... what you're surprised about?,XMESS_0009,小弓場かおり
+XMESS_0010,K-K-K-Koyuba Kaoriiiii!!??,XMESS_0010,凸村哲
+XMESS_0011,"W-What is the meaning of this! Shinpei-kun, what in the world is this gathering!?",XMESS_0011,凸村哲
+XMESS_0012,"This is a waste of time. Ushio, show this man that quickly.",XMESS_0012,南方ひづる
 XMESS_0013,"Right.
 Totsumura-san, come here.",XMESS_0013,ウシオ
-XMESS_0014,O-oh…,XMESS_0014,凸村哲
-XMESS_0015,"Come on, extend your hand.",XMESS_0015,ウシオ
+XMESS_0014,O-Oh...,XMESS_0014,凸村哲
+XMESS_0015,"Here, hold out your hand.",XMESS_0015,ウシオ
 XMESS_0016,…!?,XMESS_0016,凸村哲
-XMESS_0017,"This is what's happened so far.
-And…",XMESS_0017,ウシオ
-XMESS_0018,What might happen next.,XMESS_0018,ウシオ
-XMESS_0019,… .,XMESS_0019,凸村哲
-XMESS_0020,…!?,XMESS_0020,凸村哲
+XMESS_0017,This is what has happened so far. And...,XMESS_0017,ウシオ
+XMESS_0018,What might happen from now on.,XMESS_0018,ウシオ
+XMESS_0019,...,XMESS_0019,凸村哲
+XMESS_0020,...Hah!?,XMESS_0020,凸村哲
 XMESS_0021,"Alright, that's it.",XMESS_0021,ウシオ
-XMESS_0022,… .,XMESS_0022,凸村哲
-XMESS_0023,"Totsumura?
-Ah… you're frozen.",XMESS_0023,ウシオ
-XMESS_0024,"It's fine to stay like that.
-Quietly.",XMESS_0024,南方ひづる
-XMESS_0025,"Shinpei, where's the other person?
-You said you invited them.",XMESS_0025,根津銀次郎
-XMESS_0026,"That's the thing…
-Sou, did Tokiko reply?",XMESS_0026,網代慎平
-XMESS_0027,No… she hasn't come yet.,XMESS_0027,菱形窓
-XMESS_0028,"You did send a message, right?",XMESS_0028,網代慎平
-XMESS_0029,"I sent it before I ran away, and it was read.
-But there's no reply.
-I've called several times, but she doesn't answer.",XMESS_0029,菱形窓
-XMESS_0030,"I called too,
-but she didn't answer…",XMESS_0030,小舟澪
-XMESS_0031,Where could Tokiko be?,XMESS_0031,ウシオ
-XMESS_0032,"What did she do!?
-Tokiko should be the one to show Ushio her memories!",XMESS_0032,菱形窓
-XMESS_0033,"…Eh, cheating!?
-Tokiko ran away too!?",XMESS_0033,凸村哲
-XMESS_0034,"Hey, Totsumura-san,
-don't say things like that!",XMESS_0034,ウシオ
-XMESS_0035,"I-It's not like I wanted this!
-Fighting that monster is impossible!!
-I want to go back too!",XMESS_0035,凸村哲
-XMESS_0036,I don't mind if you leave--,XMESS_0036,南方ひづる
-XMESS_0037,"See, this person's also
-asking to be left out…",XMESS_0037,凸村哲
-XMESS_0038,"But officer, even if you leave,
-you'll definitely die.",XMESS_0038,南方ひづる
-XMESS_0039,…W-what!?,XMESS_0039,凸村哲
+XMESS_0022,...,XMESS_0022,凸村哲
+XMESS_0023,Totsumura-sa~n? Oh... he froze.,XMESS_0023,ウシオ
+XMESS_0024,It's fine to leave him like that. It's nice and quiet.,XMESS_0024,南方ひづる
+XMESS_0025,"Shinpei, what about the other person? You said you invited them, right.",XMESS_0025,根津銀次郎
+XMESS_0026,"About that, not yet... Sou, any reply from Tokiko-chan?",XMESS_0026,網代慎平
+XMESS_0027,No... not yet.,XMESS_0027,菱形窓
+XMESS_0028,"You did send her a message, right?",XMESS_0028,網代慎平
+XMESS_0029,"I sent it before leaving the house and it was read. But there's no reply. I called a few times too, but she didn't answer.",XMESS_0029,菱形窓
+XMESS_0030,"I called too, but she didn't answer...",XMESS_0030,小舟澪
+XMESS_0031,I wonder where Tokiko-chan is.,XMESS_0031,ウシオ
+XMESS_0032,What is she doing! Tokiko is the one who really needs to see Ushio's memories...!,XMESS_0032,菱形窓
+XMESS_0033,"...Eh, no fair!! Tokiko-chan bailed!?",XMESS_0033,凸村哲
+XMESS_0034,"Hey Totsumura-san, don't put it like that!",XMESS_0034,ウシオ
+XMESS_0035,B-But...! Fighting monsters like that is impossible!! I'm going home too!,XMESS_0035,凸村哲
+XMESS_0036,"I don't mind if you do, but――",XMESS_0036,南方ひづる
+XMESS_0037,"See, this person is telling me I can go too...",XMESS_0037,凸村哲
+XMESS_0038,"But officer, even if you leave here, you will definitely die.",XMESS_0038,南方ひづる
+XMESS_0039,...Wha!?,XMESS_0039,凸村哲
 XMESS_0040,There's nowhere left to run.,XMESS_0040,南方ひづる
-XMESS_0041,"Everyone on the island dies on the festival night.
-Even if you try to escape, it's pointless.
-Shadows are already among the ferry staff.",XMESS_0041,南方ひづる
-XMESS_0042,M-mad that's true!?,XMESS_0042,凸村哲
-XMESS_0043,"If you're going to die anyway,
-show some courage and fire a single bullet at the enemy.",XMESS_0043,南方ひづる
-XMESS_0044,D-don't say such hopeless things!,XMESS_0044,凸村哲
-XMESS_0045,"Well, Shinpei.
-Still waiting for her?",XMESS_0045,南方ひづる
-XMESS_0046,… .,XMESS_0046,網代慎平
-XMESS_0047,"You can't wait anymore.
-We have to start the plan with this number of people.",XMESS_0047,根津銀次郎
-XMESS_0048,That's impossible!?,XMESS_0048,菱形窓
-XMESS_0049,"S-so, what about Tokiko?",XMESS_0049,小舟澪
-XMESS_0050,"(As Nezu said, waiting any longer
-will make us fall behind in the initial move)",XMESS_0050,網代慎平
-XMESS_0051,"(Through this mark on my arm,
-Haine is probably gathering information…)",XMESS_0051,網代慎平
-XMESS_0052,"Sou, Mio…
-If Tokiko arrives during the battle, it'll be dangerous.
-I'll tell her not to come.",XMESS_0052,網代慎平
-XMESS_0053,"J-just a little longer!
-Wait a little more, okay!?",XMESS_0053,菱形窓
-XMESS_0054,"If Tokiko is safe,
-I can show Ushio her memories anytime.",XMESS_0054,網代慎平
-XMESS_0055,But…,XMESS_0055,菱形窓
-XMESS_0056,… .,XMESS_0056,小舟澪
-XMESS_0057,"Three minutes left.
-If she doesn't show up by then, we'll give up.",XMESS_0057,根津銀次郎
-XMESS_0058,Yes…,XMESS_0058,菱形窓
-XMESS_0059,In the end… she didn't come.,XMESS_0059,根津銀次郎
-XMESS_0060,"Ah, there's nothing we can do.",XMESS_0060,菱形窓
-XMESS_0061,"Everyone, reconfirm the plan and weapons we discussed earlier.",XMESS_0061,南方ひづる
+XMESS_0041,Everyone on the island will die on the night of the festival. And trying to escape the island is useless. There are Shadows among the ferry staff too.,XMESS_0041,南方ひづる
+XMESS_0042,A-Are you serious...,XMESS_0042,凸村哲
+XMESS_0043,"If you're going to die anyway, at least show the spirit to fire a single bullet into the enemy.",XMESS_0043,南方ひづる
+XMESS_0044,D-Don't say such hopeless things...,XMESS_0044,凸村哲
+XMESS_0045,"Now then, Shinpei Ajiro. Do you still intend to wait for her?",XMESS_0045,南方ひづる
+XMESS_0046,...,XMESS_0046,網代慎平
+XMESS_0047,We can't wait any longer. We have to make a plan with the people we have.,XMESS_0047,根津銀次郎
+XMESS_0048,No way!?,XMESS_0048,菱形窓
+XMESS_0049,T-Then what happens to Tokiko?,XMESS_0049,小舟澪
+XMESS_0050,"(Nezu-san is right. If we wait any longer, we'll fall behind on our initial move.)",XMESS_0050,網代慎平
+XMESS_0051,(Haine must be probing for information through this mark on my arm too...),XMESS_0051,網代慎平
+XMESS_0052,"Sou, Mio... It'll be dangerous if Tokiko-chan shows up during the battle. Let's tell her she doesn't need to come anymore.",XMESS_0052,網代慎平
+XMESS_0053,J-Just a little longer! Can't we wait just a little bit longer!?,XMESS_0053,菱形窓
+XMESS_0054,"If Tokiko-chan is safe, we can show her Ushio's memories anytime.",XMESS_0054,網代慎平
+XMESS_0055,"That's true, but...",XMESS_0055,菱形窓
+XMESS_0056,...Ugh.,XMESS_0056,小舟澪
+XMESS_0057,"Three more minutes. If she doesn't show up by then, give up.",XMESS_0057,根津銀次郎
+XMESS_0058,Okay...,XMESS_0058,菱形窓
+XMESS_0059,"In the end... she didn't come, huh.",XMESS_0059,根津銀次郎
+XMESS_0060,"Yeah, it can't be helped.",XMESS_0060,菱形窓
+XMESS_0061,"Everyone, please double-check the plan and weapons we discussed earlier.",XMESS_0061,南方ひづる
 XMESS_0062,Shin-chan…,XMESS_0062,小舟澪
 XMESS_0063,"…It's okay, Mio.",XMESS_0063,網代慎平
-XMESS_0064,"(If Mio had come, she would have been a big help…
-)",XMESS_0064,網代慎平
-XMESS_0065,(It seems she couldn't make it…),XMESS_0065,網代慎平
-XMESS_0066,I'm moving to my position.,XMESS_0066,根津銀次郎
-XMESS_0067,Koyuba-san should also move to her designated spot now.,XMESS_0067,網代慎平
+XMESS_0064,"(Mio probably would have felt more reassured if Tokiko-chan had come too, but...)",XMESS_0064,網代慎平
+XMESS_0065,(She didn't make it in time...),XMESS_0065,網代慎平
+XMESS_0066,I'll be moving to my designated position.,XMESS_0066,根津銀次郎
+XMESS_0067,"Koyuba-san, you should also move to your planned location while you can.",XMESS_0067,網代慎平
 XMESS_0068,But…,XMESS_0068,小弓場かおり
-XMESS_0069,"There's someone with the same loop ability on the other side.
-If they find out you're with us, I can't guarantee your safety.",XMESS_0069,網代慎平
-XMESS_0070,"I'm sorry for dragging you in.
-I'm glad you're helping, but please don't let anyone see you.",XMESS_0070,網代慎平
-XMESS_0071,"Don't worry!
-Just leave it to the heroes of justice!",XMESS_0071,凸村哲
-XMESS_0072,"I see. Be careful, Shinpei-kun…",XMESS_0072,小弓場かおり
-XMESS_0073,… .,XMESS_0073,菱形窓
-XMESS_0074,If I had searched for Tokiko more carefully…,XMESS_0074,菱形窓
-XMESS_0075,"What's the point in regretting?
-Focus on the present.",XMESS_0075,南方ひづる
-XMESS_0076,"You're right, Hizuru.
-Sou, let's do our best!",XMESS_0076,小舟澪
-XMESS_0077,O-oh… okay…,XMESS_0077,菱形窓
-XMESS_0078,"By the way, just checking…
-Is there anyone who wants to run away?",XMESS_0078,凸村哲
-XMESS_0079,"If there is, I can take them to a safe place!",XMESS_0079,凸村哲
-XMESS_0080,No one.,XMESS_0080,小舟澪
-XMESS_0081,Cold-hearted!?,XMESS_0081,凸村哲
-XMESS_0082,"Hey, Tetsu…
-Can you really do it?",XMESS_0082,小舟澪
-XMESS_0083,"I can do it!
-I was just testing!",XMESS_0083,凸村哲
-XMESS_0084,"You're not serious enough.
-Are you taking this seriously?",XMESS_0084,ウシオ
-XMESS_0085,"Come on, Shinpei.
-Now's the time to be strict!",XMESS_0085,ウシオ
-XMESS_0086,"No, it's fine.
-I'm not good at that--",XMESS_0086,網代慎平
+XMESS_0069,"The enemy has the same looping ability as me. If they find out you're our ally, I can't guarantee we'll be able to protect you.",XMESS_0069,網代慎平
+XMESS_0070,"I'm sorry for dragging you into this. I'm glad you're helping us, but please make sure they absolutely don't see you.",XMESS_0070,網代慎平
+XMESS_0071,Don't worry! Just leave it to the hero of justice here!!,XMESS_0071,凸村哲
+XMESS_0072,"U-Understood. Be careful, Ajiro-kun...",XMESS_0072,小弓場かおり
+XMESS_0073,...,XMESS_0073,菱形窓
+XMESS_0074,If I had just searched for Tokiko more thoroughly...,XMESS_0074,菱形窓
+XMESS_0075,What's the point in regretting it? Focus more on what's in front of you.,XMESS_0075,南方ひづる
+XMESS_0076,"Hizuru-san is right. Sou-kun, let's do our best too, okay?",XMESS_0076,小舟澪
+XMESS_0077,Y-Yeah...,XMESS_0077,菱形窓
+XMESS_0078,"Just to check, by the way... Is there anyone who's thinking, 'I wanna run away~'?",XMESS_0078,凸村哲
+XMESS_0079,"If there is, I wouldn't mind escorting you to a safe place!?",XMESS_0079,凸村哲
+XMESS_0080,There isn't anyone.,XMESS_0080,小舟澪
+XMESS_0081,So cold!?,XMESS_0081,凸村哲
+XMESS_0082,"Hey, Tetsu-san... Can you really do this?",XMESS_0082,小舟澪
+XMESS_0083,I-I can do it! I was just saying!!,XMESS_0083,凸村哲
+XMESS_0084,You're lacking a sense of tension. Are you taking this seriously?,XMESS_0084,ウシオ
+XMESS_0085,"Come on, Shinpei. Times like this are exactly when you need to be firm with them!",XMESS_0085,ウシオ
+XMESS_0086,"No, it's fine. I'm not good at that kind of thing――",XMESS_0086,網代慎平
 XMESS_0087,I'm sorry for being late!,XMESS_0087,菱形朱鷺子（影トキコ）
-XMESS_0088,Tokiko!,XMESS_0088,網代慎平
-XMESS_0089,I just noticed your message from my brother…,XMESS_0089,菱形朱鷺子（影トキコ）
+XMESS_0088,Tokiko-chan!,XMESS_0088,網代慎平
+XMESS_0089,I only just noticed the message from my brother...,XMESS_0089,菱形朱鷺子（影トキコ）
 XMESS_0090,…!?,XMESS_0090,ウシオ
-XMESS_0091,"It's okay.
-She did come after all.
-Then, Tokiko--",XMESS_0091,網代慎平
-XMESS_0092,"No, Shinpei!! She's a shadow!!",XMESS_0092,ウシオ
-XMESS_0093,Eh--?,XMESS_0093,網代慎平
-XMESS_0094,Tokiko…?,XMESS_0094,網代慎平
+XMESS_0091,"It's fine. You came in the end, after all. Well then, Tokiko-chan is――",XMESS_0091,網代慎平
+XMESS_0092,"Don't, Shinpei!! That's a Shadow!!",XMESS_0092,ウシオ
+XMESS_0093,Eh――,XMESS_0093,網代慎平
+XMESS_0094,Toki... chan?,XMESS_0094,網代慎平
 XMESS_0095,"Goodbye, Shinpei-san.",XMESS_0095,菱形朱鷺子（影トキコ）
-XMESS_0096,Shinpei!! !!,XMESS_0096,ウシオ
-XMESS_0097,Nooo!! !!,XMESS_0097,小舟澪
-XMESS_0098,… .,XMESS_0098,菱形朱鷺子（影トキコ）
-XMESS_0099,KEY TIPS[<color=#GF_KEY_TOK_KAGE>Tokiko is a Shadow!?</color>] acquired.,XMESS_0099,（ト書き）
+XMESS_0096,Shinpei!!!!,XMESS_0096,ウシオ
+XMESS_0097,Noooooooooo!!,XMESS_0097,小舟澪
+XMESS_0098,...,XMESS_0098,菱形朱鷺子（影トキコ）
+XMESS_0099,Key TIPS [<color=#GF_KEY_TOK_KAGE>Tokiko's a Shadow!?</color>] obtained.,XMESS_0099,（ト書き）

@@ -1,94 +1,64 @@
 source,target,id,developer_comments
-XRETURNTODEATH_0044,10th Round,XRETURNTODEATH_0044,
+XRETURNTODEATH_0044,10th Loop,XRETURNTODEATH_0044,
 XCHAPTITLE_0047,18. July 24,XCHAPTITLE_0047,
 XCOMMENTVIEW_0061,July 24,XCOMMENTVIEW_0061,
-XMESS_0000,"Now, this mikoshi will descend along the shrine path and be carried to Omoto Beach!",XMESS_0000,雁切真砂人
-XMESS_0001,"We'll load all the trash collected in the clean-up contest onto the mikoshi…
-But remember, even garbage is part of the deity!",XMESS_0001,雁切真砂人
-XMESS_0002,"Then we'll ascend the shrine path again,
-and return to the inner courtyard!",XMESS_0002,雁切真砂人
-XMESS_0003,"We'll parade along with this mikoshi, and then…
-What a surprise!!",XMESS_0003,雁切真砂人
-XMESS_0004,"Thanks to Hiruko's blessings, your health luck will skyrocket!!!
-Please all come join in!!",XMESS_0004,雁切真砂人
-XMESS_0005,"You can see the fireworks clearly from inside the courtyard,
-highly recommended!!!
-Let's all live long together with me!!",XMESS_0005,雁切真砂人
-XMESS_0006,(Living a long life…?),XMESS_0006,雁切真砂人
-XMESS_0007,"(You know, I hadn't even thought about tomorrow…)",XMESS_0007,雁切真砂人
+XMESS_0000,"Now then, this mikoshi will descend the shrine path and be carried to Omoto Beach!",XMESS_0000,雁切真砂人
+XMESS_0001,"There, we will load the trash collected in the clean-up contest onto the mikoshi... Ah, but even though it's trash, it's a part of the gods!",XMESS_0001,雁切真砂人
+XMESS_0002,"And then we will ascend the shrine path once more, and return to the shrine grounds!",XMESS_0002,雁切真砂人
+XMESS_0003,"If you parade along with this mikoshi, and then watch the Umi-okuri afterwards, surprisingly!!",XMESS_0003,雁切真砂人
+XMESS_0004,"Your health luck will skyrocket with Hiruko-sama's divine protection!!! Everyone, please feel free to participate!",XMESS_0004,雁切真砂人
+XMESS_0005,"You can also see the fireworks reeeeally well from the shrine grounds, so it's highly recommended~~!! Everyone, let's live a long life together with me!!!",XMESS_0005,雁切真砂人
+XMESS_0006,"(A long life, huh...)",XMESS_0006,雁切真砂人
+XMESS_0007,"(Come to think of it, I hadn't thought about tomorrow at all.)",XMESS_0007,雁切真砂人
 XMESS_0008,"Looking sharp in that outfit, Karikiri-san!",XMESS_0008,シンペイ（ハイネ）
 XMESS_0009,Shinpei-kun…,XMESS_0009,雁切真砂人
 XMESS_0010,"Do your best today, okay?",XMESS_0010,シンペイ（ハイネ）
 XMESS_0011,"Haha, thanks!",XMESS_0011,雁切真砂人
-XMESS_0012,!?,XMESS_0012,シンペイ（ハイネ）
-XMESS_0013,…Shinpei-kun? What's wrong?,XMESS_0013,雁切真砂人
+XMESS_0012,...!?,XMESS_0012,シンペイ（ハイネ）
+XMESS_0013,...Shinpei-kun? What's wrong?,XMESS_0013,雁切真砂人
 XMESS_0014,The search for Ushio is canceled!,XMESS_0014,シンペイ（ハイネ）
-XMESS_0015,…So the loop has restarted?,XMESS_0015,雁切真砂人
-XMESS_0016,"Shinpei's ""certainty""…
-I thought it was about Ushio.
-He planned to add another two Usui and enter the Hiruko Cave!",XMESS_0016,シンペイ（ハイネ）
-XMESS_0017,"But it's not that.
-His ""certainty"" is…
-The one who hid the handprint was…!!",XMESS_0017,シンペイ（ハイネ）
-XMESS_0018,!!!!!!!!!,XMESS_0018,雁切真砂人
-XMESS_0019,Haine… what exactly did you see??,XMESS_0019,雁切真砂人
+XMESS_0015,"...He looped, didn't he?",XMESS_0015,雁切真砂人
+XMESS_0016,"Shinpei's ""certainty""... I thought it was about Ushio. That he planned to increase Ushio to two and storm Hiruko Cave...!",XMESS_0016,シンペイ（ハイネ）
+XMESS_0017,"But I was wrong, his ""certainty"" was... The reason he hid the location of the handprint was...!!",XMESS_0017,シンペイ（ハイネ）
+XMESS_0018,...!?,XMESS_0018,雁切真砂人
+XMESS_0019,Haine... what exactly did you see...?,XMESS_0019,雁切真砂人
 XMESS_0020,In the Hiruko Cave…,XMESS_0020,シンペイ（ハイネ）
-XMESS_0021,That guy… used the loop to point Ushio at my throat!!!,XMESS_0021,シンペイ（ハイネ）
-XMESS_0022,"The search of Kii Strait…
-No strays will ignore my signal.",XMESS_0022,シンペイ（ハイネ）
-XMESS_0023,…What does that mean?,XMESS_0023,雁切真砂人
-XMESS_0024,"Shinpei's position has disappeared, and it's been an hour.
-How do you see this, Shide?",XMESS_0024,シンペイ（ハイネ）
-XMESS_0025,…You erased that handprint?,XMESS_0025,雁切真砂人
-XMESS_0026,"The handprint can't be erased…
-It's a mark on Shinpei's very existence.",XMESS_0026,シンペイ（ハイネ）
-XMESS_0027,"But you can block their presence.
-Like how you do in the mud…",XMESS_0027,シンペイ（ハイネ）
-XMESS_0028,You've given too many hints…,XMESS_0028,雁切真砂人
-XMESS_0029,"Most of the strays are out searching for Ushio.
-If they enter Hiruko Cave now…",XMESS_0029,雁切真砂人
-XMESS_0030,"No, that's not happening yet.",XMESS_0030,シンペイ（ハイネ）
-XMESS_0031,"They came to my sleeping place once and tried to corner me…
-Without extreme certainty, they won't re-enter--",XMESS_0031,シンペイ（ハイネ）
-XMESS_0032,--that's what Shinpei would think.,XMESS_0032,シンペイ（ハイネ）
-XMESS_0033,"Then, why are they hiding?",XMESS_0033,雁切真砂人
-XMESS_0034,This is just speculation--,XMESS_0034,シンペイ（ハイネ）
-XMESS_0035,"If… the ""Ushio"" attached to Shinpei could sense 
-their own position drifting in Kii Strait, what would happen?",XMESS_0035,シンペイ（ハイネ）
-XMESS_0036,"To contact Ushio before us,
-he's hiding his own position to prevent us from learning where she is… Shinpei would do that.",XMESS_0036,シンペイ（ハイネ）
-XMESS_0037,"Find Ushio…
-Take care of her before they do!",XMESS_0037,シンペイ（ハイネ）
+XMESS_0021,That bastard... he used the loop to thrust Ushio right at my throat...!!,XMESS_0021,シンペイ（ハイネ）
+XMESS_0022,The search of the Kii Channel... Are there any strays ignoring my signal?,XMESS_0022,シンペイ（ハイネ）
+XMESS_0023,...What do you mean?,XMESS_0023,雁切真砂人
+XMESS_0024,"Shinpei's position has disappeared, and about an hour has passed. What do you make of this, Shide?",XMESS_0024,シンペイ（ハイネ）
+XMESS_0025,...He erased that handprint?,XMESS_0025,雁切真砂人
+XMESS_0026,The handprint can't be erased... That is a mark placed on Shinpei's existence itself.,XMESS_0026,シンペイ（ハイネ）
+XMESS_0027,"But, his presence can be blocked off. Like you do, inside the mud...",XMESS_0027,シンペイ（ハイネ）
+XMESS_0028,I gave him a little... too many hints.,XMESS_0028,雁切真砂人
+XMESS_0029,Most of the strays are out searching for Ushio. If they charge into Hiruko Cave now...,XMESS_0029,雁切真砂人
+XMESS_0030,"No, it's too early for that.",XMESS_0030,シンペイ（ハイネ）
+XMESS_0031,"They came to my sleeping quarters once and were almost ""checkmated""... Unless they have absolute certainty, they can't re-enter--",XMESS_0031,シンペイ（ハイネ）
+XMESS_0032,--is what Shinpei would think.,XMESS_0032,シンペイ（ハイネ）
+XMESS_0033,"Then, what on earth are they hiding for?",XMESS_0033,雁切真砂人
+XMESS_0034,"This is just speculation from here, but--",XMESS_0034,シンペイ（ハイネ）
+XMESS_0035,"What if... only the ""Ushio"" attached to Shinpei knew the location of her own self drifting in the Kii Channel-- ""Ushio""...",XMESS_0035,シンペイ（ハイネ）
+XMESS_0036,"To make contact with Ushio before us, he's hiding his own position so as not to tell us Ushio's location... Shinpei would do that.",XMESS_0036,シンペイ（ハイネ）
+XMESS_0037,Find Ushio... We must dispose of her before they do...!,XMESS_0037,シンペイ（ハイネ）
 XMESS_0038,…,XMESS_0038,根津銀次郎
 XMESS_0039,It's quiet…,XMESS_0039,根津銀次郎
-XMESS_0040,"Yes…
-It's been silent for a long time.
-That means Shinpei's plan is working, right?",XMESS_0040,網代慎平（南方竜之介）
+XMESS_0040,Yes... It's been quiet for a while now. That means Shinpei-san's plan is working.,XMESS_0040,網代慎平（南方竜之介）
 XMESS_0041,…Hm.,XMESS_0041,根津銀次郎
-XMESS_0042,"Covering his left eye brings out Ryunosuke's personality, huh?",XMESS_0042,根津銀次郎
-XMESS_0043,"…It's been a while since we could talk like this.
-Ryunosuke.",XMESS_0043,根津銀次郎
+XMESS_0042,"Covering the left eye with a hand brings out Ryunosuke's personality, huh--",XMESS_0042,根津銀次郎
+XMESS_0043,...To think we could talk like this again. Ryunosuke.,XMESS_0043,根津銀次郎
 XMESS_0044,…,XMESS_0044,網代慎平（南方竜之介）
-XMESS_0045,"My sister… was grateful to you, Nezu-san.",XMESS_0045,網代慎平（南方竜之介）
+XMESS_0045,"My sister... was grateful to you, Nezu-san...",XMESS_0045,網代慎平（南方竜之介）
 XMESS_0046,Huh?,XMESS_0046,根津銀次郎
 XMESS_0047,For saving her 14 years ago.,XMESS_0047,網代慎平（南方竜之介）
-XMESS_0048,"Ah…
-Sometimes Hizuru would send me letters…",XMESS_0048,根津銀次郎
-XMESS_0049,"Saying her pickled eggplant was good,
-or that she started keeping a cat…
-Nonsense stuff like that.",XMESS_0049,根津銀次郎
-XMESS_0050,"When I heard her book became a movie,
-I was shocked… heheh.
-Why didn't she tell me first that she'd become an author?!",XMESS_0050,根津銀次郎
-XMESS_0051,"Only you knew about it in real life,
-Nezu-san.",XMESS_0051,網代慎平（南方竜之介）
-XMESS_0052,…What is that guy? A shy one?,XMESS_0052,根津銀次郎
-XMESS_0053,"You were the only adult who believed 
-my sister's story about shadows.",XMESS_0053,網代慎平（南方竜之介）
-XMESS_0054,"Hmph… that made me a weirdo too!
-Well, I'm used to it now though.",XMESS_0054,根津銀次郎
-XMESS_0055,"…I trust you, Nezu-san.",XMESS_0055,網代慎平（南方竜之介）
-XMESS_0056,My sister too.,XMESS_0056,網代慎平（南方竜之介）
-XMESS_0057,…It's a bit late for words now…,XMESS_0057,根津銀次郎
-XMESS_0058,!!!!!!!!!,XMESS_0058,網代慎平（南方竜之介）
-XMESS_0059,They're here!!!,XMESS_0059,網代慎平（南方竜之介）
+XMESS_0048,Ah... ...Sometimes... I got letters from Hizuru...,XMESS_0048,根津銀次郎
+XMESS_0049,"Saying she made good pickled eggplants, or that she started keeping a cat... trivial things...",XMESS_0049,根津銀次郎
+XMESS_0050,"When I heard the book she wrote became a movie, I was floored... heheh. Like, why didn't you tell me you became a novelist first...",XMESS_0050,根津銀次郎
+XMESS_0051,"You were the only one who knew that in real life, Nezu-san.",XMESS_0051,網代慎平（南方竜之介）
+XMESS_0052,...What was up with her? Was she shy!?,XMESS_0052,根津銀次郎
+XMESS_0053,Because Nezu-san was the only adult... who believed my sister's story about the shadows.,XMESS_0053,網代慎平（南方竜之介）
+XMESS_0054,"Hmph... thanks to that, even I was treated like a weirdo! Well... I'm used to that sort of thing, though.",XMESS_0054,根津銀次郎
+XMESS_0055,"...I trust you, Nezu-san.",XMESS_0055,網代慎平（南方竜之介）
+XMESS_0056,"My sister, and me.",XMESS_0056,網代慎平（南方竜之介）
+XMESS_0057,...No need for words... at this point...,XMESS_0057,根津銀次郎
+XMESS_0058,...!!,XMESS_0058,網代慎平（南方竜之介）
+XMESS_0059,It's here...!!,XMESS_0059,網代慎平（南方竜之介）

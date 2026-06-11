@@ -1,123 +1,88 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,2. A Long-Overdue Meal,XCHAPTITLE_0002,
-XMESS_0000,"Ah~, that's a great smell!
-Shinpei's curry, it's been a while, huh?",XMESS_0000,小舟澪
-XMESS_0001,"Sorry Mio, can you bring over the salad too?",XMESS_0001,網代慎平（収録）
-XMESS_0002,"Sure.
-Huh, the salad looks good too.",XMESS_0002,小舟澪
-XMESS_0003,"This dinner is really fancy today.
-Hey, older sister?",XMESS_0003,小舟澪
+XMESS_0000,"Ah~, it smells so good! Shin-chan's curry, it's been a while.",XMESS_0000,小舟澪
+XMESS_0001,"Sorry Mio, can you carry this salad over too?",XMESS_0001,網代慎平（収録）
+XMESS_0002,"Sure thing. Wow, the salad looks delicious too.",XMESS_0002,小舟澪
+XMESS_0003,"Tonight's dinner is super fancy. Right, big sister?",XMESS_0003,小舟澪
 XMESS_0004,Yeah…,XMESS_0004,小舟潮
-XMESS_0005,"It's a celebration of our two-year reunion,
-and I'm also thanking you for letting us stay here tonight.",XMESS_0005,網代慎平（収録）
-XMESS_0006,"Of course, you can expect it to be good.",XMESS_0006,網代慎平（収録）
-XMESS_0007,U-uh…,XMESS_0007,小舟潮
-XMESS_0008,"Shinpei's dad and mom aren't home today,
-right? It's really like that?",XMESS_0008,小舟澪
-XMESS_0009,"What kind of lie is that?
-They're at a university symposium in Osaka.",XMESS_0009,網代慎平（収録）
-XMESS_0010,I thought it was an excuse to stay with you longer.,XMESS_0010,小舟澪
+XMESS_0005,"It's to celebrate our reunion after two years, and also as thanks for letting me stay here tonight.",XMESS_0005,網代慎平（収録）
+XMESS_0006,"Of course, you can expect the taste to be great too.",XMESS_0006,網代慎平（収録）
+XMESS_0007,U-Ugh...,XMESS_0007,小舟潮
+XMESS_0008,So it was true that Shin-chan's dad and mom aren't home today.,XMESS_0008,小舟澪
+XMESS_0009,Why would I lie about that? Those two went to Osaka for a university symposium.,XMESS_0009,網代慎平（収録）
+XMESS_0010,I thought it was an excuse to spend as much time as possible with my sister.,XMESS_0010,小舟澪
 XMESS_0011,What?!,XMESS_0011,小舟潮
-XMESS_0012,"Idiot, that's not it.",XMESS_0012,網代慎平（収録）
+XMESS_0012,"Idiot, it's nothing like that.",XMESS_0012,網代慎平（収録）
 XMESS_0013,…,XMESS_0013,小舟潮
 XMESS_0014,"Mio, don't say weird things.",XMESS_0014,小舟潮
-XMESS_0015,"Besides, even if Dad had some reason,
-he wouldn't have let Shinpei stay here.",XMESS_0015,小舟潮
-XMESS_0016,You're being way too overbearing.,XMESS_0016,小舟潮
-XMESS_0017,You're saying something heartless again?,XMESS_0017,小舟澪
-XMESS_0018,"No way!
-It's totally from the bottom of my heart!",XMESS_0018,小舟潮
-XMESS_0019,"It's Shinpei, Shinpei!
-Don't you even think to be considerate?!",XMESS_0019,小舟潮
-XMESS_0020,"I mean… but Alain invited me, so…",XMESS_0020,網代慎平（収録）
-XMESS_0021,"Older sister, are you still mad?
-You've been like that since this morning.",XMESS_0021,小舟澪
-XMESS_0022,I'm not mad or anything…,XMESS_0022,小舟潮
+XMESS_0015,"Besides, even if there were circumstances, Dad didn't have to let Shinpei stay at our place.",XMESS_0015,小舟潮
+XMESS_0016,"Really, doing unnecessary things.",XMESS_0016,小舟潮
+XMESS_0017,Are you saying things you don't mean again?,XMESS_0017,小舟澪
+XMESS_0018,No! It's my true feelings from the bottom of my heart!,XMESS_0018,小舟潮
+XMESS_0019,And Shinpei is Shinpei too! Don't you ever think about holding back a little?!,XMESS_0019,小舟潮
+XMESS_0020,Well... but since Alain went out of his way to invite me.,XMESS_0020,網代慎平（収録）
+XMESS_0021,"Big sister, are you still sulking? You've been like that since the afternoon.",XMESS_0021,小舟澪
+XMESS_0022,I'm not sulking or anything――,XMESS_0022,小舟潮
 XMESS_0023,…,XMESS_0023,小舟潮
-XMESS_0024,"Haha, well, let's eat already.
-You'll pass out like that.",XMESS_0024,小舟澪
-XMESS_0025,"I'm not about to pass out
-because I'm hungry!",XMESS_0025,小舟潮
-XMESS_0026,Don't push yourself…,XMESS_0026,網代慎平（収録）
+XMESS_0024,"Ahahahaha, well let's eat soon. At this rate, big sister is going to collapse.",XMESS_0024,小舟澪
+XMESS_0025,I-I'm not hungry enough to collapse!,XMESS_0025,小舟潮
+XMESS_0026,You're just pushing yourself...,XMESS_0026,網代慎平（収録）
 XMESS_0027,"Shinpei, did you say something?",XMESS_0027,小舟潮
 XMESS_0028,"No, not really?",XMESS_0028,網代慎平（収録）
-XMESS_0029,"You know, older sister,
-when are you gonna be honest?",XMESS_0029,小舟澪
-XMESS_0030,"Mio?
-If you say anything more,
-I won't let you eat the curry!",XMESS_0030,小舟潮
-XMESS_0031,"Why are you acting so high and mighty?
-You're the one who made it, right?",XMESS_0031,小舟澪
-XMESS_0032,"There you go, Ushio, I made it extra big.
-Sit down properly.",XMESS_0032,網代慎平（収録）
-XMESS_0033,"I don't need extra big portions.
-Besides, I'm not even eating it!",XMESS_0033,小舟潮
-XMESS_0034,(What an annoyance…),XMESS_0034,網代慎平（収録）
-XMESS_0035,Mio's portion is normal.,XMESS_0035,網代慎平（収録）
-XMESS_0036,"Y-yeah.
-Thanks, Shinpei.",XMESS_0036,小舟澪
+XMESS_0029,"Honestly, big sister, when are you ever going to be honest?",XMESS_0029,小舟澪
+XMESS_0030,"Mi-o? If you say anything more, I won't let you have any curry!",XMESS_0030,小舟潮
+XMESS_0031,"Why are you acting so bossy, big sister? Shin-chan is the one who made it.",XMESS_0031,小舟澪
+XMESS_0032,"Here Ushio, I made yours a large portion. Just sit down quietly.",XMESS_0032,網代慎平（収録）
+XMESS_0033,I don't need a large portion. And I'm not even going to eat it anyway!,XMESS_0033,小舟潮
+XMESS_0034,(Good grief...),XMESS_0034,網代慎平（収録）
+XMESS_0035,"Mio, yours is a normal portion.",XMESS_0035,網代慎平（収録）
+XMESS_0036,"Y-Yeah. Thanks, Shin-chan.",XMESS_0036,小舟澪
 XMESS_0037,"Alain hasn't come back yet, right?
 I don't know where he went.",XMESS_0037,網代慎平（収録）
-XMESS_0038,"Maybe he's still busy?
-It seems like he's been running around all day.",XMESS_0038,小舟澪
-XMESS_0039,What preparation?,XMESS_0039,網代慎平（収録）
-XMESS_0040,"What do you mean, what preparation?
-The summer festival at Hitogashima Shrine.",XMESS_0040,小舟澪
-XMESS_0041,…!!?,XMESS_0041,網代慎平（収録）
-XMESS_0042,"What are you doing?
-You dropped your spoon?",XMESS_0042,小舟澪
-XMESS_0043,"Ah, sorry.
-My hand slipped.",XMESS_0043,網代慎平（収録）
+XMESS_0038,"He'll probably be a while, won't he? He seems busy getting dragged into preparations today.",XMESS_0038,小舟澪
+XMESS_0039,Preparations for what?,XMESS_0039,網代慎平（収録）
+XMESS_0040,Isn't it obvious? The summer festival at Hitogashima Shrine.,XMESS_0040,小舟澪
+XMESS_0041,...!?,XMESS_0041,網代慎平（収録）
+XMESS_0042,"What are you doing? You dropped your spoon, you know?",XMESS_0042,小舟澪
+XMESS_0043,"A-Ah, sorry. My hand just slipped a little.",XMESS_0043,網代慎平（収録）
 XMESS_0044,(What was that… feeling?),XMESS_0044,網代慎平（収録）
 XMESS_0045,"(As soon as I heard 'summer festival',
 it was like my whole body got goosebumps…)",XMESS_0045,網代慎平（収録）
-XMESS_0046,"Older sister,
-can you get me another spoon?",XMESS_0046,小舟澪
+XMESS_0046,"Big sister, can you get me another spoon?",XMESS_0046,小舟澪
 XMESS_0047,…,XMESS_0047,小舟潮
-XMESS_0048,Older sister?,XMESS_0048,小舟澪
+XMESS_0048,Big sister?,XMESS_0048,小舟澪
 XMESS_0049,Summer… festival…,XMESS_0049,小舟潮
 XMESS_0050,(Even Ushio… had the same reaction?),XMESS_0050,網代慎平（収録）
-XMESS_0051,"What's wrong with both of you?
-You're both getting goosebumps…",XMESS_0051,小舟澪
-XMESS_0052,"I don't know why, but I suddenly felt cold…",XMESS_0052,小舟潮
-XMESS_0053,"(Still, I'm not the only one…)",XMESS_0053,網代慎平（収録）
-XMESS_0054,M-maybe the AC temperature is just a bit low?,XMESS_0054,網代慎平（収録）
+XMESS_0051,What's wrong with both of you? You've got major goosebumps...,XMESS_0051,小舟澪
+XMESS_0052,"I don't really know, but I suddenly felt a chill...",XMESS_0052,小舟潮
+XMESS_0053,(It really is the same as me...),XMESS_0053,網代慎平（収録）
+XMESS_0054,M-Maybe the AC temperature setting is just a bit low.,XMESS_0054,網代慎平（収録）
 XMESS_0055,I don't think it's any different from usual.,XMESS_0055,小舟澪
-XMESS_0056,"Ah, maybe you caught a cold.
-Do you have a fever?",XMESS_0056,小舟澪
+XMESS_0056,"Ah, maybe you're catching a cold. Do you have a fever?",XMESS_0056,小舟澪
 XMESS_0057,I don't think so…,XMESS_0057,小舟潮
-XMESS_0058,"Shinpei, can I check your forehead?
-I'll do a quick check.",XMESS_0058,小舟潮
-XMESS_0059,"Ah, sure.",XMESS_0059,網代慎平（収録）
-XMESS_0060,"Hmm, your forehead isn't warm.
-It's the same as mine.",XMESS_0060,小舟潮
-XMESS_0061,"Maybe you caught a cold too, older sister.
-You felt cold, right?",XMESS_0061,小舟澪
-XMESS_0062,Then I'll check against Mio's forehead.,XMESS_0062,小舟潮
+XMESS_0058,"Shinpei, let me see your forehead. I'll check with my hand.",XMESS_0058,小舟潮
+XMESS_0059,A-Ah.,XMESS_0059,網代慎平（収録）
+XMESS_0060,"Yeah, your forehead isn't hot. It's about the same as mine.",XMESS_0060,小舟潮
+XMESS_0061,"That might mean you're catching a cold too, big sister. You felt a chill, right?",XMESS_0061,小舟澪
+XMESS_0062,"In that case, I'll compare it with Mio's forehead.",XMESS_0062,小舟潮
 XMESS_0063,…,XMESS_0063,小舟潮
-XMESS_0064,"Hmm, same temperature.",XMESS_0064,小舟潮
-XMESS_0065,"You seem okay.
-Even if you had a fever, eating Shinpei's curry
-would make you feel better.",XMESS_0065,小舟澪
-XMESS_0066,"Hey, older sister?",XMESS_0066,小舟澪
+XMESS_0064,"Yeah, it's about the same.",XMESS_0064,小舟潮
+XMESS_0065,"You seem fine, right? Well, even if you had a fever, eating Shin-chan's curry would fix you right up.",XMESS_0065,小舟澪
+XMESS_0066,"Right, big sister?",XMESS_0066,小舟澪
 XMESS_0067,Yeah… I guess so.,XMESS_0067,小舟潮
-XMESS_0068,"T-there's no crime in eating food, so I'll eat it.",XMESS_0068,小舟潮
-XMESS_0069,You make it sound like I have a crime…,XMESS_0069,網代慎平（収録）
-XMESS_0070,"There, eat before it gets cold!
-I'm going to eat!",XMESS_0070,小舟澪
-XMESS_0071,I'm eating!,XMESS_0071,潮と慎平（慎平収録）
-XMESS_0072,Delicious~!,XMESS_0072,小舟潮
-XMESS_0073,"Shinpei, your curry skills haven't dropped at all!",XMESS_0073,小舟潮
-XMESS_0074,"Thanks, I appreciate it.",XMESS_0074,網代慎平（収録）
-XMESS_0075,I'm not praising you!,XMESS_0075,小舟潮
-XMESS_0076,"Actually, if you went to cooking school,
-it's obvious you haven't improved at all, right?",XMESS_0076,小舟潮
-XMESS_0077,"It's natural the taste is the same.
-I didn't change the method or ingredients.",XMESS_0077,網代慎平（収録）
-XMESS_0078,You didn't add any fancy secret ingredients?,XMESS_0078,小舟潮
-XMESS_0079,"What are you talking about all of a sudden?
-Aren't you just missing this taste, older sister?",XMESS_0079,小舟澪
-XMESS_0080,S-such things don't exist!,XMESS_0080,小舟潮
+XMESS_0068,"T-The food didn't do anything wrong, so I guess I'll eat it.",XMESS_0068,小舟潮
+XMESS_0069,You make it sound like I did do something wrong...,XMESS_0069,網代慎平（収録）
+XMESS_0070,"Come on, let's eat before it gets cold. Itadakimasu!",XMESS_0070,小舟澪
+XMESS_0071,Itadakimasu.,XMESS_0071,潮と慎平（慎平収録）
+XMESS_0072,So gooood~!!,XMESS_0072,小舟潮
+XMESS_0073,"Shinpei, it seems your curry-making skills haven't dropped.",XMESS_0073,小舟潮
+XMESS_0074,"Yeah, yeah, thanks.",XMESS_0074,網代慎平（収録）
+XMESS_0075,I-I'm not praising you!,XMESS_0075,小舟潮
+XMESS_0076,"If anything, since you go to a culinary school, isn't it a problem that there's no obvious improvement?",XMESS_0076,小舟潮
+XMESS_0077,Of course the taste is the same. I didn't change the recipe or the ingredients.,XMESS_0077,網代慎平（収録）
+XMESS_0078,You didn't add any fancy secret ingredients or anything like that?,XMESS_0078,小舟潮
+XMESS_0079,"What are you talking about? Isn't this the taste you wanted to eat, big sister?",XMESS_0079,小舟澪
+XMESS_0080,N-No it's not!?,XMESS_0080,小舟潮
 XMESS_0081,Haha…,XMESS_0081,網代慎平（収録）
-XMESS_0082,(That creepy cold feeling earlier…),XMESS_0082,網代慎平（収録）
-XMESS_0083,(What was that… anyway?),XMESS_0083,網代慎平（収録）
+XMESS_0082,(That creepy chill from earlier...),XMESS_0082,網代慎平（収録）
+XMESS_0083,(What on earth... was that?),XMESS_0083,網代慎平（収録）

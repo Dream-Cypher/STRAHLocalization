@@ -1,253 +1,164 @@
 source,target,id,developer_comments
 XRETURNTODEATH_0042,10th Loop,XRETURNTODEATH_0042,
-XCHAPTITLE_0045,10. Divided Companions ①,XCHAPTITLE_0045,
-XMESS_0000,Hey… you guys…,XMESS_0000,菱形窓
-XMESS_0001,"Why are you here!?
-Shinpei!!?",XMESS_0001,小舟澪
+XCHAPTITLE_0045,10. Divided Companions 1,XCHAPTITLE_0045,
+XMESS_0000,Y-You guys...,XMESS_0000,菱形窓
+XMESS_0001,Why are you here!? Shin-chan!?,XMESS_0001,小舟澪
 XMESS_0002,…,XMESS_0002,網代慎平
-XMESS_0003,Shinpei…?,XMESS_0003,ミオ
-XMESS_0004,"…Ah, okay.
-It's fine…",XMESS_0004,網代慎平
+XMESS_0003,Shin-chan...?,XMESS_0003,ミオ
+XMESS_0004,"...Yeah, it's okay. It's okay, so...",XMESS_0004,網代慎平
 XMESS_0005,"Hey Shinpei!
 Did you save Mio!?",XMESS_0005,菱形窓
-XMESS_0006,"Sou…this one…
-Ah, no time now.",XMESS_0006,網代慎平
-XMESS_0007,"Mio, let's go to Tiger Island.
-Wait here with Sou.",XMESS_0007,網代慎平
-XMESS_0008,…Could it be… Shinpei…,XMESS_0008,ミオ
-XMESS_0009,"Ah, I'm back.",XMESS_0009,網代慎平
+XMESS_0006,"Sou... she is... Ah, no, there's no time right now.",XMESS_0006,網代慎平
+XMESS_0007,"Mio, we're going to Torashima. Sou, you guys wait here.",XMESS_0007,網代慎平
+XMESS_0008,"...No way, Shin-chan...",XMESS_0008,ミオ
+XMESS_0009,"Yeah, I came back.",XMESS_0009,網代慎平
 XCOMMENTVIEW_0109,Hizuru Minakata,XCOMMENTVIEW_0109,
-XMESS_0010,"Ha… Ha…
-C'mon…",XMESS_0010,南方ひづる（ポニテ）
+XMESS_0010,Hah... Hah... Kuh...,XMESS_0010,南方ひづる（ポニテ）
 XMESS_0011,…,XMESS_0011,シデ
-XMESS_0012,"O, hey…
-This is bad isn't it…?
-That thing…",XMESS_0012,凸村哲
-XMESS_0013,"…
-Damn! 
-Breaking the hunting rifle hurt…",XMESS_0013,根津銀次郎
-XMESS_0014,"The remaining weapons are my mountain knife and your pistol,
-and Tokiko's Guildenstern!",XMESS_0014,根津銀次郎
+XMESS_0012,H-Hey... Isn't this bad...? That thing...,XMESS_0012,凸村哲
+XMESS_0013,...Tch! Having the hunting rifle destroyed hurts...,XMESS_0013,根津銀次郎
+XMESS_0014,"Our remaining weapons are my machete, your handgun, and Tokiko's Gil...!",XMESS_0014,根津銀次郎
 XMESS_0015,…,XMESS_0015,南方ひづる（ポニテ）
-XMESS_0016,Even Hizuru-chan is battered.,XMESS_0016,シデ
-XMESS_0017,"My prized hammer's broken too…
-And I failed to take my Amenonuhoko…",XMESS_0017,シデ
-XMESS_0018,"Your body is reaching its limit, isn't it?
-Do you have any secret weapon to escape this situation?",XMESS_0018,シデ
+XMESS_0016,"It seems even you are covered in wounds, Hizuru-chan.",XMESS_0016,シデ
+XMESS_0017,Your prized hammer is broken too... And you failed to steal my Amenonuhoko.,XMESS_0017,シデ
+XMESS_0018,"Your body is just about at its limit, isn't it? Don't you have any secret trump card to escape this predicament?",XMESS_0018,シデ
 XMESS_0019,…,XMESS_0019,南方ひづる（ポニテ）
-XMESS_0020,"(Ryunosuke, can you hear me…?
-I'll do it… 
-Possess his armor and destroy him from the inside)",XMESS_0020,南方ひづる
-XMESS_0021,"(You don't need to worry about my body.
-Don't hold back. 
-Give it everything… and get into Shide's pocket!!)",XMESS_0021,南方ひづる
-XMESS_0022,"…Okay, big sis.",XMESS_0022,南方ひづる（ポニテ）
-XMESS_0023,…,XMESS_0023,シデ
-XMESS_0024,"You were careless, Shide…
-I did touch your body after all!",XMESS_0024,南方ひづる
-XMESS_0025,"Destroy from the inside!!
-Ryunosuke――",XMESS_0025,南方ひづる
-XMESS_0026,Guh…!?,XMESS_0026,南方ひづる
-XMESS_0027,"He cut off part of his own body…
-What the hell is going on…!",XMESS_0027,凸村哲
-XMESS_0028,"…Too close, wasn't it?",XMESS_0028,シデ
-XMESS_0029,"You tried to possess Ryunosuke-kun 
-into my armor didn't you? 
-That was dangerous.",XMESS_0029,シデ
-XMESS_0030,So I made him cut off a part of the mud before he could touch it.,XMESS_0030,シデ
-XMESS_0031,…Where is Ryunosuke…?,XMESS_0031,南方ひづる
-XMESS_0032,"Huh? 
-He's probably in the mud over there.
-…You know, I'm sure that's it.",XMESS_0032,シデ
-XMESS_0033,"Oh no… I accidentally stepped on him. 
-Sorry about that…
-He was just too small after all.",XMESS_0033,シデ
-XMESS_0034,You…!,XMESS_0034,南方ひづる
-XMESS_0035,"So then.
-One down.",XMESS_0035,シデ
+XMESS_0020,"(Ryunosuke, can you hear me... We're doing that... Possess his armor and destroy him from the inside.)",XMESS_0020,南方ひづる
+XMESS_0021,(You don't need to worry about my body. Don't hold back. With all your strength... get inside Shide's guard!!),XMESS_0021,南方ひづる
+XMESS_0022,"...Got it, Sis.",XMESS_0022,南方ひづる（ポニテ）
+XMESS_0023,...!?,XMESS_0023,シデ
+XMESS_0024,"You let your guard down, Shide... I definitely touched it, your body...!",XMESS_0024,南方ひづる
+XMESS_0025,Destroy him from the inside!! Ryunosu--,XMESS_0025,南方ひづる
+XMESS_0026,Guhu...!?,XMESS_0026,南方ひづる
+XMESS_0027,That guy... cut off a part of his own body... Wh-What is going on...!?,XMESS_0027,凸村哲
+XMESS_0028,"...Well now, that was close.",XMESS_0028,シデ
+XMESS_0029,"You tried to have Ryunosuke-kun possess my armor, didn't you? That was dangerous.",XMESS_0029,シデ
+XMESS_0030,So I took the liberty of detaching a part of the mud right before he touched it.,XMESS_0030,シデ
+XMESS_0031,...Wh-Where is Ryunosuke...?,XMESS_0031,南方ひづる
+XMESS_0032,"Who knows? Isn't he in the mud dropped around there? ...Look, I'm sure it's that.",XMESS_0032,シデ
+XMESS_0033,"Oh my, I accidentally crushed it. Sorry about that. It was just so small, you see.",XMESS_0033,シデ
+XMESS_0034,You... bastard...!,XMESS_0034,南方ひづる
+XMESS_0035,"And so. Yes, one down.",XMESS_0035,シデ
 XMESS_0036,Guh…!,XMESS_0036,南方ひづる
 XMESS_0037,"Nagumo-sensei!!
 Everyone!!!",XMESS_0037,網代慎平
 XMESS_0038,Shinpei-kun!!,XMESS_0038,凸村哲
-XMESS_0039,Ajiro…!,XMESS_0039,菱形朱鷺子
-XMESS_0040,"Ah…
-You're early.",XMESS_0040,シデ
-XMESS_0041,But I'm sorry…!,XMESS_0041,シデ
-XMESS_0042,"If you had come 30 seconds earlier,
-something might have changed…",XMESS_0042,シデ
-XMESS_0043,But I found it easy.,XMESS_0043,シデ
-XMESS_0044,Hurry…,XMESS_0044,網代慎平
-XMESS_0045,"Nagumo-sensei!! 
-Why are you so late!!",XMESS_0045,網代慎平
-XMESS_0046,"(He's still alive…!
-If I can defeat Shide, maybe we can save him)",XMESS_0046,網代慎平
+XMESS_0039,Shinpei-san...!,XMESS_0039,菱形朱鷺子
+XMESS_0040,Oh... You're certainly fast.,XMESS_0040,シデ
+XMESS_0041,"But, too bad...!",XMESS_0041,シデ
+XMESS_0042,"If you had been 30 seconds faster, something might have changed, but--",XMESS_0042,シデ
+XMESS_0043,"Thanks to ya, it was an easy win.",XMESS_0043,シデ
+XMESS_0044,Se--,XMESS_0044,網代慎平
+XMESS_0045,Senseeeeeeeiiiii!!!!,XMESS_0045,網代慎平
+XMESS_0046,"(She's still breathing...! If we can drive off Shide, we might be able to save her)",XMESS_0046,網代慎平
 XMESS_0047,Roz!!,XMESS_0047,菱形朱鷺子
-XMESS_0048,Ooooh…!,XMESS_0048,ローゼンクランツ
+XMESS_0048,Ooooooh...n!,XMESS_0048,ローゼンクランツ
 XMESS_0049,"It's pointless, you know.",XMESS_0049,シデ
-XMESS_0050,One second!?,XMESS_0050,凸村哲
-XMESS_0051,That's impossible…,XMESS_0051,菱形朱鷺子
-XMESS_0052,"Even your old body…
-If you get any closer, it'll be the same fate.
-You don't have a rifle anymore right?",XMESS_0052,シデ
-XMESS_0053,Damn it…!,XMESS_0053,根津銀次郎
-XMESS_0054,"Well, well… 
-It's different when you have a walkthrough.",XMESS_0054,シデ
+XMESS_0050,I-In an instant!?,XMESS_0050,凸村哲
+XMESS_0051,No way...,XMESS_0051,菱形朱鷺子
+XMESS_0052,"You too, old man. If you get any closer, you'll meet the same fate. You don't have your rifle anymore, do you?",XMESS_0052,シデ
+XMESS_0053,Damn it...!,XMESS_0053,根津銀次郎
+XMESS_0054,"Well, even so... Having a strategy guide makes a huge difference...",XMESS_0054,シデ
 XMESS_0055,…,XMESS_0055,網代慎平
-XMESS_0056,"It's a death game, or an action game,
-but especially in those…",XMESS_0056,シデ
-XMESS_0057,"When I fight strong bosses for the first time…
-I'm prepared to lose and watch their patterns.",XMESS_0057,シデ
-XMESS_0058,"Once I memorize their moves,
-I go in for the efficient win.",XMESS_0058,シデ
-XMESS_0059,"When you actually beat them… 
-That's what makes it feel good, I guess…",XMESS_0059,シデ
-XMESS_0060,"Well… anyway.
-It feels amazing.",XMESS_0060,シデ
-XMESS_0061,"Thank you, Shinpei-kun.",XMESS_0061,シデ
-XMESS_0062,"Ah… Ah…!
-That's right! 
-It was…",XMESS_0062,網代慎平
-XMESS_0063,"(I should have realized earlier…
-Nagumo-sensei had some kind of trump card…
-But…)",XMESS_0063,網代慎平
-XMESS_0064,It's because I looped…,XMESS_0064,網代慎平
+XMESS_0056,"In 'death games', or action games and the like, that's especially true, but...",XMESS_0056,シデ
+XMESS_0057,"When I fight a strong boss for the first time, I make sure to watch the opponent's patterns fully expecting to lose.",XMESS_0057,シデ
+XMESS_0058,"Then, after memorizing their movements, I go for an efficient win.",XMESS_0058,シデ
+XMESS_0059,And when you actually win then... I wonder if you'd call it exhilaration...,XMESS_0059,シデ
+XMESS_0060,"Well, anyway. It feels incredibly good.",XMESS_0060,シデ
+XMESS_0061,"I have to thank you, Shinpei-kun.",XMESS_0061,シデ
+XMESS_0062,A... ah...! I see...!,XMESS_0062,網代慎平
+XMESS_0063,(I should have realized much earlier...! Nagumo-sensei had some kind of trump card. And yet--),XMESS_0063,網代慎平
+XMESS_0064,Because I... looped...,XMESS_0064,網代慎平
 XMESS_0065,That's right.,XMESS_0065,シデ
 XMESS_0066,…!!,XMESS_0066,網代慎平
-XMESS_0067,"Shinpei, loop again.
-Find a way to break this situation.",XMESS_0067,根津銀次郎
-XMESS_0068,"If you need time to think,
-we'll give it…",XMESS_0068,根津銀次郎
+XMESS_0067,"...Shinpei, loop one more time. Find a way to break through this situation.",XMESS_0067,根津銀次郎
+XMESS_0068,"If you're saying you need time to think, we'll give you that--",XMESS_0068,根津銀次郎
 XMESS_0069,No.,XMESS_0069,網代慎平
 XMESS_0070,!?,XMESS_0070,根津銀次郎
-XMESS_0071,Shinpei…?,XMESS_0071,ミオ
-XMESS_0072,That's already…,XMESS_0072,網代慎平
+XMESS_0071,Shin-chan...?,XMESS_0071,ミオ
+XMESS_0072,"That's, already...",XMESS_0072,網代慎平
 XMESS_0073,(This loop only took me back about 10 minutes…!),XMESS_0073,網代慎平
-XMESS_0074,"(…Next time, I'll…)",XMESS_0074,網代慎平
-XMESS_0075,"Already…?
-What's with this…",XMESS_0075,凸村哲
-XMESS_0076,"I heard from my mother.
-You don't have much time left.",XMESS_0076,シデ
-XMESS_0077,No more time…? What do you mean…,XMESS_0077,凸村哲
+XMESS_0074,"(...Next time, I won't...!)",XMESS_0074,網代慎平
+XMESS_0075,"Already...? Already, what...?",XMESS_0075,凸村哲
+XMESS_0076,"Hehe, I heard from Mother. You have no more chances left.",XMESS_0076,シデ
+XMESS_0077,No more chances left... no way...,XMESS_0077,凸村哲
 XMESS_0078,…,XMESS_0078,網代慎平
-XMESS_0079,It's been a while since I've had this much trouble in a game.,XMESS_0079,シデ
-XMESS_0080,"But it was worth the effort,
-and quite enjoyable…",XMESS_0080,シデ
-XMESS_0081,"Though I suppose you could call this a thank-you, 
-but to make it less painful…
-I'll let you die.",XMESS_0081,シデ
+XMESS_0079,It's been a while since I was given this much trouble in a game.,XMESS_0079,シデ
+XMESS_0080,"But it was worth the effort to conquer, and I enjoyed it quite a bit...",XMESS_0080,シデ
+XMESS_0081,"I wouldn't call it a thank you, but at the very least, I'll let you die without suffering.",XMESS_0081,シデ
 XMESS_0082,…,XMESS_0082,ハイネ
-XMESS_0083,"Goodbye, Shinpei-kun.
-This is game over here.",XMESS_0083,シデ
-XMESS_0084,"(With Mio carrying me,
-moving so fast…)",XMESS_0084,網代慎平
-XMESS_0085,"(This darkness, yet…
-so incredibly fast…)",XMESS_0085,網代慎平
-XMESS_0086,Shinpei.,XMESS_0086,ミオ
-XMESS_0087,"Huh? What's wrong?
-You suddenly stopped…",XMESS_0087,網代慎平
-XMESS_0088,"Caught up.
-Mio, you're above us now.",XMESS_0088,ミオ
+XMESS_0083,"Goodbye, Shinpei-kun. It's game over here.",XMESS_0083,シデ
+XMESS_0084,"(I'm moving while having Mio carry me on her back, but... as expected of a shadow.)",XMESS_0084,網代慎平
+XMESS_0085,"(Even in this darkness, she's going at an incredibly amazing speed...)",XMESS_0085,網代慎平
+XMESS_0086,Shin-chan.,XMESS_0086,ミオ
+XMESS_0087,Hm? What's wrong? Stopping so suddenly--,XMESS_0087,網代慎平
+XMESS_0088,We caught up. Mio is right above us.,XMESS_0088,ミオ
 XMESS_0089,Any shadow presence?,XMESS_0089,網代慎平
 XMESS_0090,None.,XMESS_0090,ミオ
-XMESS_0091,"Okay… Then let's get ahead of them,
-and go out from the manhole!",XMESS_0091,網代慎平
+XMESS_0091,Alright... then let's get ahead of them and go outside from the manhole!,XMESS_0091,網代慎平
 XMESS_0092,Got it.,XMESS_0092,ミオ
-XMESS_0093,"(This time… 
-10:39 PM!)",XMESS_0093,網代慎平
-XMESS_0094,"(Good…!
-If this works, I'll be safe…)",XMESS_0094,網代慎平
+XMESS_0093,(The current time is... 10:39!),XMESS_0093,網代慎平
+XMESS_0094,"(Alright...! With this, we can safely--)",XMESS_0094,網代慎平
 XMESS_0095,W-what!?,XMESS_0095,小舟澪
-XMESS_0096,Hey… you guys…,XMESS_0096,菱形窓
-XMESS_0097,"Why are you here!?
-Shinpei!!?",XMESS_0097,小舟澪
-XMESS_0098,You made it…!!,XMESS_0098,網代慎平
-XMESS_0099,Miko sent Mio to the sewers!,XMESS_0099,網代慎平
-XMESS_0100,"You!!
-Did you save Mio!?
-Why…!?",XMESS_0100,菱形窓
-XMESS_0101,"Ah, she's fine!! 
-She won't return as an enemy.",XMESS_0101,網代慎平
-XMESS_0102,"…Anyway both of you,
-did you turn off your phones!?",XMESS_0102,網代慎平
+XMESS_0096,Y-You guys...,XMESS_0096,菱形窓
+XMESS_0097,Why are you here!? Shin-chan!?,XMESS_0097,小舟澪
+XMESS_0098,I-I made it...!!,XMESS_0098,網代慎平
+XMESS_0099,I had Mio speed through the sewers from Kofune!,XMESS_0099,網代慎平
+XMESS_0100,You!! Did you save Mio!? Why...!?,XMESS_0100,菱形窓
+XMESS_0101,"Yeah, she's fine!! She won't turn back into an enemy.",XMESS_0101,網代慎平
+XMESS_0102,"...More importantly, both of you, are your phones turned off!?",XMESS_0102,網代慎平
 XMESS_0103,What?,XMESS_0103,菱形窓
-XMESS_0104,"Because Shinpei said…
-Turn off your phones… 
-In case there's a call from the shadow…",XMESS_0104,小舟澪
-XMESS_0105,"Idiot… 
-That phone was used by the shadow.",XMESS_0105,ミオ
+XMESS_0104,Because Shin-chan said... To keep our phones turned off... Because there might be a call from a shadow...,XMESS_0104,小舟澪
+XMESS_0105,Fool. That was a shadow telling ya that.,XMESS_0105,ミオ
 XMESS_0106,Eh…!?,XMESS_0106,小舟澪
-XMESS_0107,"Sorry, Shinpei…!!
-Even though I was with you…",XMESS_0107,菱形窓
+XMESS_0107,"Sorry, Shinpei...!! Even though I was with them...",XMESS_0107,菱形窓
 XMESS_0108,No…,XMESS_0108,網代慎平
-XMESS_0109,"We don't have time.
-I'm going to Tiger Island with Mio!",XMESS_0109,網代慎平
-XMESS_0110,"Sorry… 
-Um, I shot it…",XMESS_0110,小舟澪
-XMESS_0111,"It hurt but I'm fine.
-Now that you've copied me and healed the wound, I'm okay. 
-It really hurt though.",XMESS_0111,ミオ
-XMESS_0112,Sorry!!,XMESS_0112,小舟澪
-XMESS_0113,"Don't worry about it.
-If I were you, I'd have done the same thing too.",XMESS_0113,ミオ
+XMESS_0109,There's no time. I'm heading to Torashima with Mio!,XMESS_0109,網代慎平
+XMESS_0110,Sorry... Um... for shooting you...,XMESS_0110,小舟澪
+XMESS_0111,"It hurt, but I'm fine... I just copied you and healed the wound, so I'm okay. It really hurt, though.",XMESS_0111,ミオ
+XMESS_0112,I'm sorry!,XMESS_0112,小舟澪
+XMESS_0113,"...Don't worry about it. If I were you, I would have done the same thing.",XMESS_0113,ミオ
 XMESS_0114,…!!,XMESS_0114,小舟澪
-XMESS_0115,"Sou and Mio, go back to Mikko,
-and take care of the kids…!!",XMESS_0115,網代慎平
-XMESS_0116,Shinpei!!!,XMESS_0116,小舟澪
+XMESS_0115,"Sou and Mio, go back to Kofune and take care of the kids...!!",XMESS_0115,網代慎平
+XMESS_0116,Shin-chan!!,XMESS_0116,小舟澪
 XMESS_0117,…,XMESS_0117,網代慎平
-XMESS_0118,"About Tokiko…
-Please…!!",XMESS_0118,小舟澪
-XMESS_0119,"…Yeah.
-Leave it to me!",XMESS_0119,網代慎平
+XMESS_0118,Tokiko and the others... Please...!!,XMESS_0118,小舟澪
+XMESS_0119,...Yeah. Leave it to me!,XMESS_0119,網代慎平
 XMESS_0120,"Let's go, Mio!",XMESS_0120,網代慎平
-XMESS_0121,"To the Tiger Island where the teachers are waiting…!!
-13. Divided Companions 2",XMESS_0121,網代慎平
+XMESS_0121,"To Torashima, where Sensei and the others are waiting...!!",XMESS_0121,網代慎平
 XCHAPTITLE_0643,13. Divided Companions 2,XCHAPTITLE_0643,
-XMESS_0122,Go at full speed.,XMESS_0122,網代慎平
-XMESS_0123,Make sure not to drop me.,XMESS_0123,ミオ
-XMESS_0124,Ah.,XMESS_0124,網代慎平
+XMESS_0122,"Full speed ahead, please.",XMESS_0122,網代慎平
+XMESS_0123,Make sure you don't get thrown off.,XMESS_0123,ミオ
+XMESS_0124,Yeah.,XMESS_0124,網代慎平
 XMESS_0125,…!!,XMESS_0125,網代慎平
-XMESS_0126,"(Good, with this speed I can catch up before Mio's group reaches the field…!)",XMESS_0126,網代慎平
-XMESS_0127,"Whoa!!?
-What in the world?!",XMESS_0127,網代慎平
-XMESS_0128,"Mio!?
-Why did you suddenly stop—",XMESS_0128,網代慎平
-XMESS_0129,"Shin-chan.
-There's a stray.",XMESS_0129,ミオ
+XMESS_0126,"(Good, at this speed I can catch up before Mio and the others reach the field...!)",XMESS_0126,網代慎平
+XMESS_0127,Whoa!!? Wh-What the!!?,XMESS_0127,網代慎平
+XMESS_0128,Mio!? Why did you suddenly stop--,XMESS_0128,網代慎平
+XMESS_0129,Shin-chan. Strays.,XMESS_0129,ミオ
 XMESS_0130,!!,XMESS_0130,網代慎平
-XMESS_0131,"Moreover, it's not just one or two.
-They're surrounding us…",XMESS_0131,ミオ
-XMESS_0132,(Damn! They came back again after I thought they'd backed off…),XMESS_0132,網代慎平
-XMESS_0133,(Flying over the ground was probably too noticeable…?),XMESS_0133,網代慎平
+XMESS_0131,"Moreover, it's not just one or two. There's a lot... like they're surrounding us...",XMESS_0131,ミオ
+XMESS_0132,"(Damn it! Just when I thought they backed off, they gathered around again...)",XMESS_0132,網代慎平
+XMESS_0133,(Speeding above ground was too conspicuous after all...?),XMESS_0133,網代慎平
 XMESS_0134,What do we do?,XMESS_0134,ミオ
-XMESS_0135,"By the way, if we just keep going…",XMESS_0135,網代慎平
-XMESS_0136,"Impossible.
-They're surrounding us.",XMESS_0136,ミオ
-XMESS_0137,…We'll have to fight our way through.,XMESS_0137,網代慎平
-XMESS_0138,"Mio, I'm sorry…
-But right now you're my only hope.",XMESS_0138,網代慎平
-XMESS_0139,Just me…?,XMESS_0139,ミオ
-XMESS_0140,"Shin-chan.
-Then, don't leave my side no matter what.",XMESS_0140,ミオ
+XMESS_0135,"Just asking, but what if we keep going like this?",XMESS_0135,網代慎平
+XMESS_0136,Impossible. We're surrounded.,XMESS_0136,ミオ
+XMESS_0137,...We have no choice but to fight and carve a path.,XMESS_0137,網代慎平
+XMESS_0138,"Mio, sorry but... Right now, you're my only hope.",XMESS_0138,網代慎平
+XMESS_0139,Just me...,XMESS_0139,ミオ
+XMESS_0140,Shin-chan. If so... absolutely do not leave my side.,XMESS_0140,ミオ
 XCOMMENTVIEW_0748,Mio Kofune,XCOMMENTVIEW_0748,
 XMESS_0141,…,XMESS_0141,小舟澪
 XMESS_0142,…,XMESS_0142,菱形窓
-XMESS_0143,"Why are you here…
-Karikiri-san…",XMESS_0143,小舟澪
-XMESS_0144,"(When Shin-chan called, I was told to come to my father's field…)",XMESS_0144,小舟澪
-XMESS_0145,"These cucumbers are great. 
-Alain is good at growing vegetables too.",XMESS_0145,雁切真砂人
+XMESS_0143,Why are you... here... Karikiri-san...,XMESS_0143,小舟澪
+XMESS_0144,(Even though I was called to <color=#GF_TIPS_040>Dad's field</color> by Shin-chan's phone call...),XMESS_0144,小舟澪
+XMESS_0145,These are splendid cucumbers... Alain is good at growing vegetables too.,XMESS_0145,雁切真砂人
 XMESS_0146,Hey… Mio-chan?,XMESS_0146,雁切真砂人
-XMESS_0147,"Get down, Mio!!",XMESS_0147,菱形窓
-XMESS_0148,"I prefer pickled cucumbers,
-But since I tried them in kimchi…
-I've come to like pickles too.",XMESS_0148,雁切真砂人
-XMESS_0149,"After all, France…
-It's different from the real thing, right?",XMESS_0149,雁切真砂人
-XMESS_0150,What did you do to Shinpei?!,XMESS_0150,菱形窓
-XMESS_0151,"(How could it be… 
-Shin-chan too, after my sister…)",XMESS_0151,小舟澪
-XMESS_0152,"But Mom hated both of them.
-Don't you think that's troublesome?",XMESS_0152,雁切真砂人
+XMESS_0147,"Get back, Mio!!",XMESS_0147,菱形窓
+XMESS_0148,"I'm a rice-bran pickled cucumber kind of person, but since eating them at Kofune, I've come to like pickles too.",XMESS_0148,雁切真砂人
+XMESS_0149,"As expected of France... The authentic taste is different, isn't it.",XMESS_0149,雁切真砂人
+XMESS_0150,What'd ya do with Shinpei!!?,XMESS_0150,菱形窓
+XMESS_0151,"(No way... After Sis, even Shin-chan...)",XMESS_0151,小舟澪
+XMESS_0152,...But Mother hates both of them. Don't you think that's troublesome?,XMESS_0152,雁切真砂人
 XMESS_0153,People…,XMESS_0153,雁切真砂人
-XMESS_0154,What would they taste like?,XMESS_0154,シデ
+XMESS_0154,"What do they taste like, I wonder.",XMESS_0154,シデ
 XMESS_0155,…!!,XMESS_0155,小舟澪

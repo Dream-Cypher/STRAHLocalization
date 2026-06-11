@@ -1,61 +1,40 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,45. Check,XCHAPTITLE_0002,
-XCOMMENTVIEW_0019,July 23rd,XCOMMENTVIEW_0019,
+XCHAPTITLE_0002,45. Handprint,XCHAPTITLE_0002,
+XCOMMENTVIEW_0019,2026-07-23 00:00:00,XCOMMENTVIEW_0019,
 XMESS_0000,…!!,XMESS_0000,網代慎平
-XMESS_0001,…He's back…,XMESS_0001,菱形窓
-XMESS_0002,…When did he…,XMESS_0002,網代慎平
-XMESS_0003,( My right eye… it's hurting…),XMESS_0003,網代慎平
+XMESS_0001,...W-We're back...,XMESS_0001,菱形窓
+XMESS_0002,...Ouch...,XMESS_0002,網代慎平
+XMESS_0003,(My eye... my right eye hurts...),XMESS_0003,網代慎平
 XMESS_0004,…!?,XMESS_0004,ウシオ
 XMESS_0005,"Shinpei, your arm!",XMESS_0005,ウシオ
-XMESS_0006,Huh… your arm?,XMESS_0006,網代慎平
-XMESS_0007,!! ,XMESS_0007,網代慎平
-XMESS_0008,( Ah… the mark from that guy grabbing me…!?),XMESS_0008,網代慎平
+XMESS_0006,Huh... my arm?,XMESS_0006,網代慎平
+XMESS_0007,...!!,XMESS_0007,網代慎平
+XMESS_0008,(Ah... the <color=#GF_TIPS_102>mark</color> where that thing grabbed me...!?),XMESS_0008,網代慎平
 XMESS_0009,Are you okay!?,XMESS_0009,菱形窓
-XMESS_0010,"Ah… yeah, I don't feel any pain though…",XMESS_0010,網代慎平
-XMESS_0011,"After being grabbed…
-Shiori-chan's face looked different…",XMESS_0011,網代慎平
+XMESS_0010,"Y-Yeah, there's no pain or anything, but...",XMESS_0010,網代慎平
+XMESS_0011,After it grabbed me... Shiori-chan's face looked different...,XMESS_0011,網代慎平
 XMESS_0012,Huh!?,XMESS_0012,ウシオ
-XMESS_0013,What's going on…!?,XMESS_0013,菱形窓
-XMESS_0014,( It was only me who saw it…!!),XMESS_0014,網代慎平
-XMESS_0015,"It's definitely her…!!
-The girl in the red kimono who appeared
-at the end of the summer festival…!!",XMESS_0015,網代慎平
-XMESS_0016,"But ""I found her""… what does that mean!?",XMESS_0016,網代慎平
-XMESS_0017,"Hey, Ushio.
-You took memory damage from fighting
-Shiori-chan's shadow, right?",XMESS_0017,網代慎平
-XMESS_0018,"Because of her power,
-you became something like black, gooey 'original bodies'…",XMESS_0018,網代慎平
-XMESS_0019,"That's right… but because of the time limit,
-she couldn't completely erase me.",XMESS_0019,ウシオ
-XMESS_0020,"From the remaining data,
-I somehow reconstructed my body…
-and was able to come back.",XMESS_0020,ウシオ
-XMESS_0021,"That's why I could
-tell you the truth, Shinpei!!",XMESS_0021,ウシオ
-XMESS_0022,Ah…!!!,XMESS_0022,網代慎平
-XMESS_0023,"Huh…? Oh, rain!?",XMESS_0023,菱形窓
-XMESS_0024,"No way!?
-It's really raining…!!!",XMESS_0024,菱形窓
-XMESS_0025,I told you to bring an umbrella!,XMESS_0025,網代慎平
-XMESS_0026,O-oh!!!,XMESS_0026,菱形窓
-XMESS_0027,"S-sweet! This is awesome!!!
-You're amazing, Shinpei!!!
-You even had time to prepare…",XMESS_0027,菱形窓
-XMESS_0028,"Anyway, Sou.
-We're heading to the old infirmary now!",XMESS_0028,網代慎平
-XMESS_0029,"Huh!?
-Are we really going now!?",XMESS_0029,菱形窓
-XMESS_0030,"It's pouring out here!
-It's deep in the mountains, you know!?
-It'll be dark soon…",XMESS_0030,菱形窓
-XMESS_0031,"So what!?
-Ushio went there!
-We don't have time!!!",XMESS_0031,網代慎平
+XMESS_0013,What do you mean...!?,XMESS_0013,菱形窓
+XMESS_0014,(Was I the only one who saw it...!!),XMESS_0014,網代慎平
+XMESS_0015,(No mistake...!! That was the girl in the red kimono who appeared at the end of the summer festival...!!),XMESS_0015,網代慎平
+XMESS_0016,"(But what did she mean by... ""found you""!!?)",XMESS_0016,網代慎平
+XMESS_0017,"...Hey, Ushio. You took damage to your memory during the fight with Shiori-chan's Shadow, right?",XMESS_0017,網代慎平
+XMESS_0018,"Because of her power, you were turned into that black, gooey ""original body"" state...",XMESS_0018,網代慎平
+XMESS_0019,"Yeah... but she didn't have enough time, so she couldn't completely erase me.",XMESS_0019,ウシオ
+XMESS_0020,I managed to restore my body from the remaining data... and was able to come back.,XMESS_0020,ウシオ
+XMESS_0021,"And I was able to tell you the <color=#GF_TIPS_078>truth</color> like this, Shinpei!!",XMESS_0021,ウシオ
+XMESS_0022,Yeah...!,XMESS_0022,網代慎平
+XMESS_0023,"Hm...? Ah, rain!?",XMESS_0023,菱形窓
+XMESS_0024,Seriously!? It really did start raining...!!,XMESS_0024,菱形窓
+XMESS_0025,"See, I told you we needed an umbrella, didn't I?",XMESS_0025,網代慎平
+XMESS_0026,Y-Yeah!!,XMESS_0026,菱形窓
+XMESS_0027,A-Amazing~~. A-As expected of Shinpei...!! You even looked at the time objectively...,XMESS_0027,菱形窓
+XMESS_0028,"Anyway, Sou. We're heading to the old clinic now!",XMESS_0028,網代慎平
+XMESS_0029,Wha!? N-Now!?,XMESS_0029,菱形窓
+XMESS_0030,"In this rain? It's deep in the mountains, you know!? And the sun's gonna set soon...",XMESS_0030,菱形窓
+XMESS_0031,So what! Ushio went! We don't have time!!,XMESS_0031,網代慎平
 XMESS_0032,…!!,XMESS_0032,菱形窓
-XMESS_0033,"If you don't want to come, fine!
-She knows the way.",XMESS_0033,網代慎平
-XMESS_0034,"Shinpei, stop!",XMESS_0034,ウシオ
-XMESS_0035,Truly… you…,XMESS_0035,菱形窓
-XMESS_0036,"Idiot!
-Of course we're going!!!",XMESS_0036,菱形窓
+XMESS_0033,"If you don't want to come, you don't have to! Ushio knows where it is.",XMESS_0033,網代慎平
+XMESS_0034,Hey Shinpei!,XMESS_0034,ウシオ
+XMESS_0035,Seriously... you're really something...,XMESS_0035,菱形窓
+XMESS_0036,Idiot! Of course I'm going!!,XMESS_0036,菱形窓

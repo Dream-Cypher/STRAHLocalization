@@ -2,83 +2,52 @@ source,target,id,developer_comments
 XCHAPTITLE_0011,1. To Hitogashima Island,XCHAPTITLE_0011,
 XCOMMENTVIEW_0024,July 22,XCOMMENTVIEW_0024,
 XMESS_0000,…It's been a while.,XMESS_0000,網代慎平
-XMESS_0001,"(The sound of waves, the ferry's sway, the scent of saltwater…
-I used to take it for granted
-before two years ago)",XMESS_0001,網代慎平
-XMESS_0002,"(It feels so unreal now
-I miss it so much)",XMESS_0002,網代慎平
-XMESS_0003,"(Back in my hometown, Hitogashima Island…",XMESS_0003,網代慎平
-XMESS_0004,"(The reason I'm back…
-It was an unexpected call)",XMESS_0004,網代慎平
+XMESS_0001,"(The sound of the waves, the sway of the ferry, the scent of the tide... Things that were completely normal and familiar to me until two years ago.)",XMESS_0001,網代慎平
+XMESS_0002,(It's so nostalgic that it almost feels unreal somehow.),XMESS_0002,網代慎平
+XMESS_0003,"(Hitogashima Island, the hometown I've returned to after two years...)",XMESS_0003,網代慎平
+XMESS_0004,(The reason for this is... a message I never could have imagined.),XMESS_0004,網代慎平
 XMESS_0005,Hello…?,XMESS_0005,小舟澪
-XMESS_0006,"Ah, Mio?
-Long time no see.",XMESS_0006,網代慎平
-XMESS_0007,"I'm sorry I couldn't answer.
-It seems you called many times,
-something happened?",XMESS_0007,網代慎平
+XMESS_0006,"Ah, Mio? It's been a while.",XMESS_0006,網代慎平
+XMESS_0007,"Sorry I couldn't answer the phone. It looks like you called many times, did something happen?",XMESS_0007,網代慎平
 XMESS_0008,"Shin-chan, Shin-chan…",XMESS_0008,小舟澪
-XMESS_0009,Huh? Mio!?,XMESS_0009,網代慎平
-XMESS_0010,"(Feeling a terrible premonition
-from her painful voice)",XMESS_0010,網代慎平
-XMESS_0011,"(Is something happened to Alain,
-the one who raised me?
-Or to my close friend Sou
-or my sister Tokiko…?)",XMESS_0011,網代慎平
-XMESS_0012,"(Feeling my heart pounding rapidly,
-I focused all my senses
-on Mio's voice on the other end--)",XMESS_0012,網代慎平
-XMESS_0013,Hic… my older sister…,XMESS_0013,小舟澪
-XMESS_0014,Is Ushio okay?,XMESS_0014,網代慎平
-XMESS_0015,My older sister… she's gone…,XMESS_0015,小舟澪
-XMESS_0016,<color=#GF_TIPS_007>Ushio</color>…?,XMESS_0016,網代慎平
-XMESS_0017,"(Honestly, I still can't believe it.
-Maybe it's better to say I can't accept it)",XMESS_0017,網代慎平
-XMESS_0018,"(Ushio was my childhood friend,
-the family I grew up with,
-and… )",XMESS_0018,網代慎平
+XMESS_0009,Eh? M-Mio!?,XMESS_0009,網代慎平
+XMESS_0010,"(Hearing her sorrowful voice, a bad premonition ran through me.)",XMESS_0010,網代慎平
+XMESS_0011,"(Did something happen to Alain, who raised me? Or to my best friend Sou, or his sister Toki-chan...?)",XMESS_0011,網代慎平
+XMESS_0012,"(Feeling my heart begin to pound rapidly, I focused all my nerves on Mio's voice coming from the other side of the phone—)",XMESS_0012,網代慎平
+XMESS_0013,"*Sniff*, Onee-chan...",XMESS_0013,小舟澪
+XMESS_0014,D-Did something happen to Ushio?,XMESS_0014,網代慎平
+XMESS_0015,Onee-chan... she died...,XMESS_0015,小舟澪
+XMESS_0016,<color=#GF_TIPS_007>Ushio</color>...,XMESS_0016,網代慎平
+XMESS_0017,"(Honestly, I still can't believe it. No, it's probably more accurate to say that I can't accept it.)",XMESS_0017,網代慎平
+XMESS_0018,"(Ushio is my childhood friend, the family I grew up with, and...)",XMESS_0018,網代慎平
 XMESS_0019,…,XMESS_0019,網代慎平
-XMESS_0020,Shinpei!,XMESS_0020,小舟潮（影ウシオ）
-XMESS_0021,Whoa!?,XMESS_0021,網代慎平
-XMESS_0022,"Ushio!?
-Why are you…?",XMESS_0022,網代慎平
-XMESS_0023,"(Oh, wait… wasn't Ushio…
-already dead…?)",XMESS_0023,網代慎平
-XMESS_0024,"What are you staring at!
-You didn't listen to me again!",XMESS_0024,小舟潮（影ウシオ）
-XMESS_0025,"S-sorry!
-What was it…?",XMESS_0025,網代慎平
-XMESS_0026,"I told you.
-Close your eyes for a moment.",XMESS_0026,小舟潮（影ウシオ）
-XMESS_0027,Huh?,XMESS_0027,網代慎平
-XMESS_0028,Just do it already!,XMESS_0028,小舟潮（影ウシオ）
-XMESS_0029,"Whoa!!
-Wait… What!?",XMESS_0029,網代慎平
-XMESS_0030,Don't move.,XMESS_0030,小舟潮（影ウシオ）
-XMESS_0031,"(W-what's going on…?
-You're touching my face way too much…)",XMESS_0031,網代慎平
-XMESS_0032,"…Okay.
-You can open them now.",XMESS_0032,小舟潮（影ウシオ）
-XMESS_0033,W-what did you just do!?,XMESS_0033,網代慎平
-XMESS_0034,It's a gift!,XMESS_0034,小舟潮（影ウシオ）
-XMESS_0035,"A gift!?
-I-I don't get it!",XMESS_0035,網代慎平
-XMESS_0036,"Shinpei…
-Do you know how long it's been
-since you came back to the island?",XMESS_0036,小舟潮（影ウシオ）
-XMESS_0037,"Huh? Oh…
-Since the middle school graduation ceremony…",XMESS_0037,網代慎平
-XMESS_0038,It's been two years.,XMESS_0038,網代慎平
-XMESS_0039,"Yeah, you didn't even come back
-for New Year's this year.",XMESS_0039,小舟潮（影ウシオ）
+XMESS_0020,<color=#GF_TIPS_000>Shinpei</color>!,XMESS_0020,小舟潮（影ウシオ）
+XMESS_0021,Uwa!?,XMESS_0021,網代慎平
+XMESS_0022,U-Ushio!!? You... h-how!?,XMESS_0022,網代慎平
+XMESS_0023,(H-Huh? I'm pretty sure Ushio... died...),XMESS_0023,網代慎平
+XMESS_0024,"What are you spacing out for! You weren't listening to me again, were you~?",XMESS_0024,小舟潮（影ウシオ）
+XMESS_0025,S-Sorry...! What was it again?,XMESS_0025,網代慎平
+XMESS_0026,I told you. Close your eyes for a sec.,XMESS_0026,小舟潮（影ウシオ）
+XMESS_0027,Eh?,XMESS_0027,網代慎平
+XMESS_0028,Just do it!,XMESS_0028,小舟潮（影ウシオ）
+XMESS_0029,Uwa!! Wait... what!?,XMESS_0029,網代慎平
+XMESS_0030,Stay still just like that.,XMESS_0030,小舟潮（影ウシオ）
+XMESS_0031,(Wh-What is it...? She's touching my face a lot...?),XMESS_0031,網代慎平
+XMESS_0032,...Alright. You can open them now.,XMESS_0032,小舟潮（影ウシオ）
+XMESS_0033,Wh... what did you just do!?,XMESS_0033,網代慎平
+XMESS_0034,It's a <color=#GF_KEY_USI_PRESENT1>present</color>!,XMESS_0034,小舟潮（影ウシオ）
+XMESS_0035,A present? I... I don't get it!,XMESS_0035,網代慎平
+XMESS_0036,Shinpei... Do you know how many years it's been since you returned to the island?,XMESS_0036,小舟潮（影ウシオ）
+XMESS_0037,"Eh? Ah... Since the junior high graduation ceremony, so...",XMESS_0037,網代慎平
+XMESS_0038,"It's been two years, huh.",XMESS_0038,網代慎平
+XMESS_0039,"Seriously, you didn't even come back for New Year's~~.",XMESS_0039,小舟潮（影ウシオ）
 XMESS_0040,S-sorry…,XMESS_0040,網代慎平
-XMESS_0041,Tell everyone I said hi when you get back!,XMESS_0041,小舟潮（影ウシオ）
-XMESS_0042,"What's going on…?
-Ushio… you're coming with me--",XMESS_0042,網代慎平
-XMESS_0043,I can go too.,XMESS_0043,小舟潮（影ウシオ）
-XMESS_0044,You can't… why?,XMESS_0044,網代慎平
-XMESS_0045,"Hey, Shinpei--",XMESS_0045,小舟潮（影ウシオ）
+XMESS_0041,Say hi to everyone for me when you get back!,XMESS_0041,小舟潮（影ウシオ）
+XMESS_0042,What do you mean...? Ushio... you're coming too—,XMESS_0042,網代慎平
+XMESS_0043,I can't go.,XMESS_0043,小舟潮（影ウシオ）
+XMESS_0044,You can't... why?,XMESS_0044,網代慎平
+XMESS_0045,"Hey, Shinpei—",XMESS_0045,小舟潮（影ウシオ）
 XMESS_0046,Make sure you find me properly.,XMESS_0046,小舟潮（影ウシオ）
-XMESS_0047,…Huh!?,XMESS_0047,網代慎平
-XMESS_0048,"W-what is this!?
-Wait… wait!",XMESS_0048,網代慎平
-XMESS_0049,Take care of Mio… okay?,XMESS_0049,小舟潮（影ウシオ）
+XMESS_0047,...Eh!?,XMESS_0047,網代慎平
+XMESS_0048,Wh... What is this!! Wait... wait!,XMESS_0048,網代慎平
+XMESS_0049,Protect Mio for me... okay?,XMESS_0049,小舟潮（影ウシオ）

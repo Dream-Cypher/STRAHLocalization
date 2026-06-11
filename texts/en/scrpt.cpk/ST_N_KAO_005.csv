@@ -4,105 +4,59 @@ XMESS_0000,"I'm back!
 Sorry I'm late!",XMESS_0000,小舟澪
 XMESS_0001,"I'm back!
 I'm back again!",XMESS_0001,小舟潮
-XMESS_0002,"Welcome back, you're hungry, right?
-Lunch is ready.",XMESS_0002,小舟アラン
-XMESS_0003,"That's right!
-Let's put the time capsule search on hold for now,
-and get something to eat first.",XMESS_0003,小舟潮
-XMESS_0004,"You're right.
-Welcome back, Alain.",XMESS_0004,網代慎平（収録）
-XMESS_0005,"Welcome back, Shinpei.
-You're probably up to something again.",XMESS_0005,小舟アラン
-XMESS_0006,"Yeah, you could say that.",XMESS_0006,網代慎平（収録）
-XMESS_0007,"Dad, add another plate!
-For our customer's meal.",XMESS_0007,小舟潮
-XMESS_0008,"Hey, Kaori!
-Come over here.",XMESS_0008,小舟潮
-XMESS_0009,"H-hello.
-I'm sorry to bother you during such a busy time.",XMESS_0009,小弓場かおり
-XMESS_0010,"Ah, welcome.
-Chao, is this your high school friend?",XMESS_0010,小舟アラン
-XMESS_0011,"No, no.
-She was my classmate in elementary school,
-Kaori Koyuba.",XMESS_0011,小舟潮
-XMESS_0012,"She moved away from the island after elementary school,
-but came back for the festival.",XMESS_0012,小舟潮
-XMESS_0013,"Ah, so this is the Koyuba family's child!
-You've grown up so nicely.
-Are your parents okay?",XMESS_0013,小舟アラン
-XMESS_0014,"Yes, thank you.",XMESS_0014,小弓場かおり
-XMESS_0015,That's good.,XMESS_0015,小舟アラン
-XMESS_0016,"Kaori-chan,
-she's an idol in Tokyo now,
-and she's really popular.",XMESS_0016,小舟澪
-XMESS_0017,"So the town hall and the chamber of commerce invited her
-as a special guest for the festival
-because she wants to bring people in with her popularity.",XMESS_0017,小舟澪
-XMESS_0018,"Oh, really?
-Then you should eat properly.
-Will you have lunch with everyone?",XMESS_0018,小舟アラン
-XMESS_0019,"Ah, about the money--",XMESS_0019,小弓場かおり
-XMESS_0020,"No need to worry.
-It's a thank you for getting along with my kids.",XMESS_0020,小舟アラン
-XMESS_0021,"Never mind that, just sit down.
-Would you like to sit next to Shinpei?",XMESS_0021,小舟潮
-XMESS_0022,"Please, Koyuba-san.",XMESS_0022,網代慎平（収録）
-XMESS_0023,"Y-yes.
-I'll take you up on your offer.
-Thank you all so much.",XMESS_0023,小弓場かおり
-XMESS_0024,Then…,XMESS_0024,小舟潮
-XMESS_0025,Let's eat!,XMESS_0025,一同（一同Ａ）
-XMESS_0026,"Kaori-chan, how is it?
-My dad's fried food is amazing.",XMESS_0026,小舟潮
+XMESS_0002,"Welcome back, you guys must be hungry, right? Lunch is ready.",XMESS_0002,小舟アラン
+XMESS_0003,That's right! Let's put the time capsule search on hold for now and get some food in us first.,XMESS_0003,小舟潮
+XMESS_0004,"Yeah. I'm back, Alain.",XMESS_0004,網代慎平（収録）
+XMESS_0005,"Welcome back, Shinpei. Seems like you're up to something big again.",XMESS_0005,小舟アラン
+XMESS_0006,"Yeah, actually, we are.",XMESS_0006,網代慎平（収録）
+XMESS_0007,"Dad, add one more portion! For our guest.",XMESS_0007,小舟潮
+XMESS_0008,"Come on, Kaori-chan! Come closer.",XMESS_0008,小舟潮
+XMESS_0009,H-Hello. I apologize for intruding while you're busy.,XMESS_0009,小弓場かおり
+XMESS_0010,"Ah, welcome. Ushio, is this a friend from high school?",XMESS_0010,小舟アラン
+XMESS_0011,"No, no. She was a classmate of ours in elementary school, Kaori Koyuba-chan.",XMESS_0011,小舟潮
+XMESS_0012,"She moved off the island when we were in the upper grades, but she came back in time for the festival.",XMESS_0012,小舟潮
+XMESS_0013,"Ah, so you're the Koyuba family's girl! You've gotten so pretty. Are your parents doing well?",XMESS_0013,小舟アラン
+XMESS_0014,"Yes, thankfully.",XMESS_0014,小弓場かおり
+XMESS_0015,"Well, that's good to hear.",XMESS_0015,小舟アラン
+XMESS_0016,"Kaori-chan is working as an idol in Tokyo now, and she's super popular.",XMESS_0016,小舟澪
+XMESS_0017,"So, the town hall and Chamber of Commerce invited her as the main guest for the festival, saying they wanted to use her popularity to draw a crowd.",XMESS_0017,小舟澪
+XMESS_0018,"Ooh, is that so. Then we'll have to make sure you get some nutrition in you. Is the same lunch as everyone else okay?",XMESS_0018,小舟アラン
+XMESS_0019,A-About the money--,XMESS_0019,小弓場かおり
+XMESS_0020,No need to hold back. It's a thank you for being good friends with my kids.,XMESS_0020,小舟アラン
+XMESS_0021,"Don't worry about that, just sit down. Is next to Shinpei okay?",XMESS_0021,小舟潮
+XMESS_0022,"Go ahead, Koyuba-san.",XMESS_0022,網代慎平（収録）
+XMESS_0023,Y-Yes. I'll take you up on your kind offer. Thank you all so much.,XMESS_0023,小弓場かおり
+XMESS_0024,Well then...,XMESS_0024,小舟潮
+XMESS_0025,Thanks for the food!,XMESS_0025,一同（一同Ａ）
+XMESS_0026,"How is it, Kaori-chan? My dad's fried food is superb.",XMESS_0026,小舟潮
 XMESS_0027,"…Mmm, delicious!",XMESS_0027,小弓場かおり
-XMESS_0028,See?,XMESS_0028,小舟潮
-XMESS_0029,"This taste… I remember it.
-I've had this before!",XMESS_0029,小弓場かおり
-XMESS_0030,"Ah, sometimes the family would come
-to eat here.",XMESS_0030,小舟アラン
-XMESS_0031,"Yes, that's right.
-I think that's how it was.
-I was too young to remember clearly…",XMESS_0031,小弓場かおり
+XMESS_0028,Right!?,XMESS_0028,小舟潮
+XMESS_0029,This taste... I remember it. I've eaten this before!,XMESS_0029,小弓場かおり
+XMESS_0030,"Yeah, you and your family used to come eat here sometimes.",XMESS_0030,小舟アラン
+XMESS_0031,"Yes, I believe so. I was still small, so my memory is a bit hazy, but...",XMESS_0031,小弓場かおり
 XMESS_0032,"Hehe, it's so nostalgic.",XMESS_0032,小弓場かおり
-XMESS_0033,We found a memory already!,XMESS_0033,小舟潮
+XMESS_0033,We've already found one memory!,XMESS_0033,小舟潮
 XMESS_0034,"Yes!
 Thank you, Kofune-san.",XMESS_0034,小弓場かおり
-XMESS_0035,"Ugh~~~, it's so hot, so hot!!",XMESS_0035,凸村哲
-XMESS_0036,"Welcome, Totsumura.",XMESS_0036,小舟澪
-XMESS_0037,"Oh! 
-Everyone's having lunch together?",XMESS_0037,凸村哲
-XMESS_0038,"You came for lunch too, Totsumura-san?",XMESS_0038,小舟潮
-XMESS_0039,"Yes, and as part of a patrol.",XMESS_0039,凸村哲
-XMESS_0040,"With the festival coming up, tourists are increasing,
-so I'm doing a little warning…",XMESS_0040,凸村哲
-XMESS_0041,"Wahhh!! 
-Oh, Kaori Koyuba-chan!?",XMESS_0041,凸村哲
-XMESS_0042,"Y-you're kidding me!?
-Why are you here…!",XMESS_0042,凸村哲
-XMESS_0043,"Hello~!
-This is Kaori Koyuba!",XMESS_0043,小弓場かおり
-XMESS_0044,"Totsumura, you know Kaori-chan?",XMESS_0044,小舟澪
-XMESS_0045,"Of course I do, she's a fan!
-I was looking forward to her coming
-for the festival!",XMESS_0045,凸村哲
-XMESS_0046,Thank you!,XMESS_0046,小弓場かおり
-XMESS_0047,"Kaori-chan, you're a completely different person.",XMESS_0047,小舟澪
-XMESS_0048,"That's right.
-It's the adult sales smile.",XMESS_0048,網代慎平（収録）
-XMESS_0049,"Ah, um!
-Can I get an autograph too!?",XMESS_0049,凸村哲
-XMESS_0050,"Totsumura-san!
-Kaori-chan is having lunch now,
-so let's do it later!",XMESS_0050,小舟潮
-XMESS_0051,"Well, that's unavoidable…
-I'll do it after Kaori-chan eats…",XMESS_0051,凸村哲
-XMESS_0052,"No, it's okay!
-I'll write it right away,
-so please wait a little.",XMESS_0052,小弓場かおり
-XMESS_0053,"H-honestly!?
-You really mean it!?",XMESS_0053,凸村哲
+XMESS_0035,"Man~~~, it's hot, it's hot!!",XMESS_0035,凸村哲
+XMESS_0036,"Welcome, Tetsu-san.",XMESS_0036,小舟澪
+XMESS_0037,"Ooh! What's this, everyone having a nice lunch together?",XMESS_0037,凸村哲
+XMESS_0038,"Did you come to eat lunch too, Totsumura-san?",XMESS_0038,小舟潮
+XMESS_0039,"Yeah, and as part of my patrol.",XMESS_0039,凸村哲
+XMESS_0040,"The number of tourists is increasing ahead of the festival, so I'm just giving a little warning... to--",XMESS_0040,凸村哲
+XMESS_0041,Uwoooooooh!! K-Kaori Koyuba-chan!?,XMESS_0041,凸村哲
+XMESS_0042,"Y-You're kidding, right!? Why are you in a place like this...!",XMESS_0042,凸村哲
+XMESS_0043,Hello~! I'm Kaori Koyuba!,XMESS_0043,小弓場かおり
+XMESS_0044,"Tetsu-san, do you know Kaori-chan?",XMESS_0044,小舟澪
+XMESS_0045,"I'm a fan, so of course I do! I heard she was coming for the festival, so I was really looking forward to it!",XMESS_0045,凸村哲
+XMESS_0046,Thank you so much!,XMESS_0046,小弓場かおり
+XMESS_0047,"Kaori-chan, you're like a completely different person.",XMESS_0047,小舟澪
+XMESS_0048,Don't say that. It's what you call an adult's professional smile.,XMESS_0048,網代慎平（収録）
+XMESS_0049,U-Umm! Could I ask for your autograph!?,XMESS_0049,凸村哲
+XMESS_0050,"Totsumura-san! Kaori-chan is having her lunch now, so leave it for later!",XMESS_0050,小舟潮
+XMESS_0051,"Well, I guess it can't be helped... Then, maybe after Kaori-chan finishes eating--",XMESS_0051,凸村哲
+XMESS_0052,"No, it's fine! I'll sign it right away, so please wait just a moment.",XMESS_0052,小弓場かおり
+XMESS_0053,R-Really!? Is it really okay!?,XMESS_0053,凸村哲
 XMESS_0054,"Yes, of course.",XMESS_0054,小弓場かおり
-XMESS_0055,"I'm so grateful!
-I'll treasure it as a family heirloom!",XMESS_0055,凸村哲
-XMESS_0056,"(Kaori-san is so kind…
-She didn't even make a sour face)",XMESS_0056,網代慎平（収録）
+XMESS_0055,I'm so moved! I'll make it a family heirloom!,XMESS_0055,凸村哲
+XMESS_0056,(Koyuba-san is so kind... She didn't even show a hint of annoyance.),XMESS_0056,網代慎平（収録）

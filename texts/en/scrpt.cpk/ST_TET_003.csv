@@ -1,95 +1,56 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,3. Where is the Policeman?,XCHAPTITLE_0002,
-XMESS_0000,…I don't see anyone who looks like a police officer.,XMESS_0000,小舟澪
-XMESS_0001,"Uh, Totsumura-san.
-Didn't the backup from the mainland
-come on that ship?",XMESS_0001,網代慎平
-XMESS_0002,"That's what we expected, but…",XMESS_0002,凸村哲
-XMESS_0003,"Maybe…
-Since Totsumura wasn't around,
-he might have gone to town first.",XMESS_0003,小舟澪
-XMESS_0004,"We came to the port first, but
-if Totsumura-san isn't here,
-who even is the police officer?",XMESS_0004,網代慎平
-XMESS_0005,Yeah… I had no idea at all.,XMESS_0005,小舟澪
-XMESS_0006,"T, I was late, I know.",XMESS_0006,凸村哲
-XMESS_0007,"But there was no choice.
-I had to go back to the station
-for an urgent matter…",XMESS_0007,凸村哲
-XMESS_0008,"Well, it's done. What's important now
-is figuring out where the backup police officer
-went.",XMESS_0008,凸村哲
-XMESS_0009,Can't we contact them somehow?,XMESS_0009,小舟澪
-XMESS_0010,"No response on the phone.
-It's better to go look for them ourselves.",XMESS_0010,凸村哲
-XMESS_0011,Then… let's head back to town.,XMESS_0011,網代慎平
-XMESS_0012,"No police officer in sight.
-I thought they might be doing an investigation…",XMESS_0012,小舟澪
-XMESS_0013,"I asked the store owners, but
-no one saw anyone like that.",XMESS_0013,網代慎平
-XMESS_0014,"That means the only possibility
-is that Totsumura-san went to check…",XMESS_0014,網代慎平
-XMESS_0015,"Hey, Shinpei, Mio!
-You were here this whole time?!",XMESS_0015,凸村哲
-XMESS_0016,"Ah, Totsumura.
-How was the station?
-Did the police officer come?",XMESS_0016,小舟澪
-XMESS_0017,"No, they weren't there.
-No one came to visit either.",XMESS_0017,凸村哲
-XMESS_0018,"It seems Totsumura-san passed us by
-at the station.
-So where exactly…",XMESS_0018,網代慎平
+XCHAPTITLE_0002,3. Where is the Detective?,XCHAPTITLE_0002,
+XMESS_0000,...I don't see anyone who looks like a detective.,XMESS_0000,小舟澪
+XMESS_0001,"Um, Totsumura-san. Weren't the backup detectives from the mainland supposed to come on that ferry?",XMESS_0001,網代慎平
+XMESS_0002,That's what was supposed to happen.,XMESS_0002,凸村哲
+XMESS_0003,"Maybe... Since they couldn't find Tetsu-san, they might have gone to town first.",XMESS_0003,小舟澪
+XMESS_0004,"We came to the port first, but without Totsumura-san here, we wouldn't know who the detectives are...",XMESS_0004,網代慎平
+XMESS_0005,Yeah... I had no idea.,XMESS_0005,小舟澪
+XMESS_0006,I-I know it was my fault for being late.,XMESS_0006,凸村哲
+XMESS_0007,But it couldn't be helped. I had an errand that required me to go back to the station once...,XMESS_0007,凸村哲
+XMESS_0008,"Well, what's done is done. What we need to think about now is where the backup detectives went.",XMESS_0008,凸村哲
+XMESS_0009,Can't you contact them somehow?,XMESS_0009,小舟澪
+XMESS_0010,They're not answering their cell phones. We'd better go look for them ourselves.,XMESS_0010,凸村哲
+XMESS_0011,Then... Let's head back to town for now.,XMESS_0011,網代慎平
+XMESS_0012,"No one who looks like a detective. I thought they might be asking around, but...",XMESS_0012,小舟澪
+XMESS_0013,"I asked the people in the shopping district, but no one has seen anyone like that.",XMESS_0013,網代慎平
+XMESS_0014,In that case... the remaining possibility is where Totsumura-san went to check――,XMESS_0014,網代慎平
+XMESS_0015,"He~y, Shinpei-kun, Mio-chan! So this is where you were!",XMESS_0015,凸村哲
+XMESS_0016,"Ah, Tetsu-san. How was the station? Were the detectives there?",XMESS_0016,小舟澪
+XMESS_0017,"No, they weren't. There was no sign of anyone visiting either.",XMESS_0017,凸村哲
+XMESS_0018,So the theory that they passed by Totsumura-san and went to the station is gone. Then where in the world...,XMESS_0018,網代慎平
 XMESS_0019,Mio.,XMESS_0019,菱形朱鷺子
 XMESS_0020,"Ah, Tokiko.",XMESS_0020,小舟澪
-XMESS_0021,"Strange combination.
-Something happen?",XMESS_0021,菱形朱鷺子
+XMESS_0021,What an unusual combination. Did something happen?,XMESS_0021,菱形朱鷺子
 XMESS_0022,"Ah, yeah… um…",XMESS_0022,小舟澪
-XMESS_0023,( I understand Mio's feelings ),XMESS_0023,網代慎平
-XMESS_0024,"( How to explain everything so far… 
-I can't put it into words right away… )",XMESS_0024,網代慎平
-XMESS_0025,"Hey, Shin-chan…
-It might be better to tell Tokiko too.",XMESS_0025,小舟澪
-XMESS_0026,"If she doesn't know, it might be dangerous…",XMESS_0026,小舟澪
-XMESS_0027,Maybe.,XMESS_0027,網代慎平
-XMESS_0028,"If there's something I can't be told,
-you don't have to force me…",XMESS_0028,菱形朱鷺子
-XMESS_0029,"No, it's not that.
-It's just… something hard to believe…",XMESS_0029,網代慎平
-XMESS_0030,"Plus… even we don't fully understand
-the details…",XMESS_0030,網代慎平
+XMESS_0023,(I understand how Mio feels.),XMESS_0023,網代慎平
+XMESS_0024,(It's hard to put into words right away how to explain everything up to this point...),XMESS_0024,網代慎平
+XMESS_0025,"Hey, Shin-chan... Shouldn't we probably tell Tokiko too?",XMESS_0025,小舟澪
+XMESS_0026,It might be dangerous if she doesn't know anything...,XMESS_0026,小舟澪
+XMESS_0027,...Maybe so.,XMESS_0027,網代慎平
+XMESS_0028,"Um, if it's something you can't tell me, you don't have to force yourselves to...",XMESS_0028,菱形朱鷺子
+XMESS_0029,"No, it's not like that. It's just a bit of an unbelievable story...",XMESS_0029,網代慎平
+XMESS_0030,Plus... even we don't really understand the details...,XMESS_0030,網代慎平
 XMESS_0031,…,XMESS_0031,菱形朱鷺子
-XMESS_0032,"If you're okay with it, I'll tell you…",XMESS_0032,網代慎平
+XMESS_0032,"If you're okay with that, I'll try explaining...",XMESS_0032,網代慎平
 XMESS_0033,"Yes, please.",XMESS_0033,菱形朱鷺子
-XMESS_0034,What you said earlier… can I believe it?,XMESS_0034,菱形朱鷺子
-XMESS_0035,"Yeah…
-It might be hard to believe…",XMESS_0035,網代慎平
-XMESS_0036,"I still don't really feel it yet…
-But…",XMESS_0036,小舟澪
+XMESS_0034,"That story just now... I can believe it, right?",XMESS_0034,菱形朱鷺子
+XMESS_0035,"Yeah... It might be hard to believe, but...",XMESS_0035,網代慎平
+XMESS_0036,"I still don't really feel it myself, but... But...",XMESS_0036,小舟澪
 XMESS_0037,Mio…,XMESS_0037,菱形朱鷺子
-XMESS_0038,"Also… about that shadow…
-It's not just one or two.",XMESS_0038,網代慎平
-XMESS_0039,"What?!
-You didn't tell me that, Shinpei?!",XMESS_0039,凸村哲
-XMESS_0040,"Didn't you say, Totsumura-san?
-That the Shadow Sickness
-has been passed down on this island?",XMESS_0040,網代慎平
-XMESS_0041,"If that's the case, there might be
-other shadows too.",XMESS_0041,網代慎平
-XMESS_0042,( Shiori-chan is already a shadow now… ),XMESS_0042,網代慎平
-XMESS_0043,"( On the verge of death…
-I saw the real Totsumura-san being killed
-by the shadow Mio, and then the shadow Totsumura-san was born )",XMESS_0043,網代慎平
-XMESS_0044,"( If other shadows are also killing people
-to increase their numbers… )",XMESS_0044,網代慎平
-XMESS_0045,( That's been going on for a long time… ),XMESS_0045,網代慎平
-XMESS_0046,"That's crazy!
-If the shadows target the Hero of Justice,
-I'll be in trouble!",XMESS_0046,凸村哲
-XMESS_0047,"Anyway, we need to find the backup police officer!",XMESS_0047,凸村哲
-XMESS_0048,"…But I need backup more than ever now!!
-I'll go back to the station and contact them!!",XMESS_0048,凸村哲
+XMESS_0038,Also... those Shadow things... I don't think there's just one or two of them.,XMESS_0038,網代慎平
+XMESS_0039,"Hah!? I haven't heard anything about that, Shinpei-kun!",XMESS_0039,凸村哲
+XMESS_0040,"You said it yourself, didn't you, Totsumura-san? That the Shadow Sickness has been passed down on this island since a long time ago.",XMESS_0040,網代慎平
+XMESS_0041,"If that's the case, there's a possibility that there are other Shadows...",XMESS_0041,網代慎平
+XMESS_0042,"(In fact, Shiori-chan has already been turned into a Shadow...)",XMESS_0042,網代慎平
+XMESS_0043,"(Right before I died... I saw the real Totsumura-san get killed by Shadow Mio, and then a Shadow Totsumura-san was born.)",XMESS_0043,網代慎平
+XMESS_0044,(If the other Shadows are also killing people and increasing their numbers like that...),XMESS_0044,網代慎平
+XMESS_0045,(And if they've been doing it for a long time...),XMESS_0045,網代慎平
+XMESS_0046,"That's ridiculous...! If the Shadows treat the hero of justice as their enemy, I'll be targeted left and right!?",XMESS_0046,凸村哲
+XMESS_0047,"A-Anyway, we have to find the backup detectives!",XMESS_0047,凸村哲
+XMESS_0048,"...No, we need even more backup now!! I'm going back to the station to contact them!!",XMESS_0048,凸村哲
 XMESS_0049,"Mio, let's go!",XMESS_0049,網代慎平
 XMESS_0050,Y-yeah!,XMESS_0050,小舟澪
 XMESS_0051,"Tokiko, be careful!",XMESS_0051,小舟澪
-XMESS_0052,"Yeah, Mio… be careful too.",XMESS_0052,菱形朱鷺子
+XMESS_0052,"Yeah, you too, Mio...",XMESS_0052,菱形朱鷺子
 XMESS_0053,…,XMESS_0053,菱形朱鷺子

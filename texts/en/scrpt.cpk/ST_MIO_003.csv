@@ -1,56 +1,39 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,3. A Dark Path,XCHAPTITLE_0002,
 XMESS_0000,Excuse me!,XMESS_0000,男の声（観光客（モブ影））
-XMESS_0001,!,XMESS_0001,網代慎平
-XMESS_0002,Ahead… is anyone there?,XMESS_0002,網代慎平
-XMESS_0003,"Is anyone there?
-I was attacked by a strange person and got hurt!",XMESS_0003,男の声（観光客（モブ影））
-XMESS_0004,"That person might be at the shrine too.
-If they're hurt, we should help them—",XMESS_0004,小舟澪（ミオ）
+XMESS_0001,...!,XMESS_0001,網代慎平
+XMESS_0002,Up ahead... there's someone there.,XMESS_0002,網代慎平
+XMESS_0003,Is anyone there!? I was attacked by a weirdo and I'm hurt!,XMESS_0003,男の声（観光客（モブ影））
+XMESS_0004,"They might have been at the shrine too. If they're hurt, we should help--",XMESS_0004,小舟澪（ミオ）
 XMESS_0005,Shh!,XMESS_0005,網代慎平
 XMESS_0006,"Mio, hide…!",XMESS_0006,網代慎平
 XMESS_0007,"Huh? Uh, yeah!",XMESS_0007,小舟澪（ミオ）
-XMESS_0008,"Anyone!
-Is anyone there!",XMESS_0008,男の声（観光客（モブ影））
-XMESS_0009,Why are you hiding?,XMESS_0009,小舟澪（ミオ）
-XMESS_0010,"If that person was attacked by a shadow and got hurt,
-the fear and desperation are too little.",XMESS_0010,網代慎平
+XMESS_0008,Someone! Is anyone there!?,XMESS_0008,男の声（観光客（モブ影））
+XMESS_0009,Why are we hiding?,XMESS_0009,小舟澪（ミオ）
+XMESS_0010,"If that person was attacked by a Shadow and got hurt, they're lacking way too much fear and desperation.",XMESS_0010,網代慎平
 XMESS_0011,Ah…,XMESS_0011,小舟澪（ミオ）
-XMESS_0012,"You're right, maybe.
-They might really be hurt…",XMESS_0012,小舟澪（ミオ）
-XMESS_0013,"(I understand what Mio is saying.
-But I don't want to risk Mio by getting involved.)",XMESS_0013,網代慎平
-XMESS_0014,"(…Stay calm.
-My options are limited.
-And right now, Mio is the priority.)",XMESS_0014,網代慎平
+XMESS_0012,"That might be true, but... They could also really be hurt and in trouble...",XMESS_0012,小舟澪（ミオ）
+XMESS_0013,(I understand what Mio is saying. But I don't want to carelessly stick my neck out and put Mio in danger.),XMESS_0013,網代慎平
+XMESS_0014,"(...Calm down. What I can do is limited. And right now, my priority is Mio.)",XMESS_0014,網代慎平
 XMESS_0015,Tch…,XMESS_0015,男の声（観光客（モブ影））
-XMESS_0016,"Wasted effort.
-No one's here at all?",XMESS_0016,男の声（観光客（モブ影））
-XMESS_0017,"No one's getting away.
-They'll all be eaten by Mommy.",XMESS_0017,男の声（観光客（モブ影））
-XMESS_0018,(“Mommy”?),XMESS_0018,網代慎平
-XMESS_0019,"Shin, that just now…",XMESS_0019,小舟澪（ミオ）
-XMESS_0020,It seems hiding was the right choice.,XMESS_0020,網代慎平
-XMESS_0021,"No choice.
-Let's check elsewhere.",XMESS_0021,男の声（観光客（モブ影））
-XMESS_0022,…They're gone.,XMESS_0022,小舟澪（ミオ）
-XMESS_0023,"If there are people like that all over the island,
-being careful is better.",XMESS_0023,網代慎平
-XMESS_0024,We'll return to Kofune while staying hidden as much as possible.,XMESS_0024,網代慎平
-XMESS_0025,"Also… once we meet Alain,
-we'll head to the port and take the ferry off the island.",XMESS_0025,網代慎平
-XMESS_0026,I guess that's the best idea.,XMESS_0026,小舟澪（ミオ）
-XMESS_0027,"If we stay on the island,
-we'll be found eventually.",XMESS_0027,網代慎平
-XMESS_0028,"Without knowing their purpose or identity,
-we can't make effective plans.",XMESS_0028,網代慎平
-XMESS_0029,So the best course of action now is to leave Hitogashima Island.,XMESS_0029,網代慎平
-XMESS_0030,"But what about Tokiko and Sou?
-If we can't meet up…",XMESS_0030,小舟澪（ミオ）
+XMESS_0016,What a waste of time. Is there seriously no one here?,XMESS_0016,男の声（観光客（モブ影））
+XMESS_0017,No one's getting away. I'm gonna have Mother eat every last one of you.,XMESS_0017,男の声（観光客（モブ影））
+XMESS_0018,"(""Mother""?)",XMESS_0018,網代慎平
+XMESS_0019,"Shin-chan, that just now...",XMESS_0019,小舟澪（ミオ）
+XMESS_0020,Looks like hiding was the right call.,XMESS_0020,網代慎平
+XMESS_0021,Can't be helped. I'll check somewhere else.,XMESS_0021,男の声（観光客（モブ影））
+XMESS_0022,...They left.,XMESS_0022,小舟澪（ミオ）
+XMESS_0023,"If there are guys like that all over the island, you can never be too careful.",XMESS_0023,網代慎平
+XMESS_0024,We'll head back to Kofune while hiding ourselves as much as possible.,XMESS_0024,網代慎平
+XMESS_0025,"Also... once we meet up with Alain, let's head to the port immediately and leave the island by ferry.",XMESS_0025,網代慎平
+XMESS_0026,I guess that really is the best thing to do?,XMESS_0026,小舟澪（ミオ）
+XMESS_0027,"Even if we stay on the island like this, we'll be found eventually.",XMESS_0027,網代慎平
+XMESS_0028,"As long as we don't know their purpose or true identity, we can't come up with any effective countermeasures.",XMESS_0028,網代慎平
+XMESS_0029,Then the best plan right now is to leave Hitogashima.,XMESS_0029,網代慎平
+XMESS_0030,But what about Tokiko and Sou-kun? What if we can't meet up with them...?,XMESS_0030,小舟澪（ミオ）
 XMESS_0031,…,XMESS_0031,網代慎平
-XMESS_0032,Those two will be fine—,XMESS_0032,網代慎平
-XMESS_0033,We can only believe that now.,XMESS_0033,網代慎平
+XMESS_0032,Those two will be fine--,XMESS_0032,網代慎平
+XMESS_0033,"For now, we just have to believe that.",XMESS_0033,網代慎平
 XMESS_0034,…,XMESS_0034,小舟澪（ミオ）
-XMESS_0035,"Anyway, first Alain.
-Let's go, Mio.",XMESS_0035,網代慎平
-XMESS_0036,"Yeah, hurry!",XMESS_0036,小舟澪（ミオ）
+XMESS_0035,"Anyway, first is Alain. Let's go, Mio.",XMESS_0035,網代慎平
+XMESS_0036,"Yeah, let's hurry!",XMESS_0036,小舟澪（ミオ）

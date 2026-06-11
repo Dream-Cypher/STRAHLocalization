@@ -1,137 +1,89 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,19. Resurrection!,XCHAPTITLE_0002,
-XMESS_0000,"Shide…  
-If you're hiding leaves, it's in the forest…",XMESS_0000,シンペイ（ハイネ）
-XMESS_0001,"Shinpei will definitely come.  
-Hiding among strays…",XMESS_0001,シンペイ（ハイネ）
-XMESS_0002,"Tell the stray dogs to gather on your side.  
-Keep an eye out around you…  
-Find a stray that's separated from the group!",XMESS_0002,シンペイ（ハイネ）
+XMESS_0000,"Shide... If you want to hide a leaf, put it in a forest...",XMESS_0000,シンペイ（ハイネ）
+XMESS_0001,"Shinpei will definitely come, hiding among the strays...!",XMESS_0001,シンペイ（ハイネ）
+XMESS_0002,I've told the strays to gather near you. Look closely around you... Find the stray that's separated from the pack...!,XMESS_0002,シンペイ（ハイネ）
 XMESS_0003,…!,XMESS_0003,雁切真砂人
-XMESS_0004,I found it…!,XMESS_0004,雁切真砂人
-XMESS_0005,There's one stray going out to the open sea alone…,XMESS_0005,雁切真砂人
-XMESS_0006,"Close… Close!
-The shell's reaction is getting intense…",XMESS_0006,網代慎平
-XMESS_0007,"( Something's approaching…  
-Not the tide…? )",XMESS_0007,網代慎平
+XMESS_0004,Found it...!,XMESS_0004,雁切真砂人
+XMESS_0005,There's one stray heading out to sea all alone...!,XMESS_0005,雁切真砂人
+XMESS_0006,She's close... she's close. The shell's reaction is getting stronger...,XMESS_0006,網代慎平
+XMESS_0007,(Something's approaching... Ushio... no...?),XMESS_0007,網代慎平
 XMESS_0008,…Shide!?,XMESS_0008,網代慎平
-XMESS_0009,"I already noticed!
-Hurry, Guildenstern!",XMESS_0009,網代慎平
-XMESS_0010,Au!,XMESS_0010,ギルデンスターン
-XMESS_0011,There… it is.,XMESS_0011,網代慎平
-XMESS_0012,"I found you!!  
-I'm coming, Ushio!!",XMESS_0012,網代慎平
-XMESS_0013,"Dark…  
-Nothing… can be seen.",XMESS_0013,ウシオ
+XMESS_0009,"He already noticed! Hurry, Guildenstern!",XMESS_0009,網代慎平
+XMESS_0010,Awooo!,XMESS_0010,ギルデンスターン
+XMESS_0011,There she is...,XMESS_0011,網代慎平
+XMESS_0012,"I found you...!! I'm coming right now, Ushio!!",XMESS_0012,網代慎平
+XMESS_0013,It's dark... I can't... see anything.,XMESS_0013,ウシオ
 XMESS_0014,…,XMESS_0014,ウシオ
-XMESS_0015,"Where… this place?  
-What was I doing?",XMESS_0015,ウシオ
+XMESS_0015,Where... is this? What was I... doing again?,XMESS_0015,ウシオ
 XMESS_0016,…?,XMESS_0016,ウシオ
-XMESS_0017,"Who…?  
-You're calling me…",XMESS_0017,ウシオ
-XMESS_0018,Ushio!! !!,XMESS_0018,網代慎平
+XMESS_0017,Who...? Who's... calling me...,XMESS_0017,ウシオ
+XMESS_0018,Ushio!!!!!,XMESS_0018,網代慎平
 XMESS_0019,Shinpei…?,XMESS_0019,ウシオ
-XMESS_0020,"Wha… what?  
-What the hell~ ~ ~ ~ ~ ~ ! ?!",XMESS_0020,ウシオ
-XMESS_0021,"It's bad underwater!  
-Guildenstern!  
-Grab Ushio and get to sea!!",XMESS_0021,網代慎平
-XMESS_0022,Au!,XMESS_0022,ギルデンスターン
-XMESS_0023,Yikes.,XMESS_0023,ウシオ
-XMESS_0024,"Ah… a baby!? Big!  
-Who the hell are you?  
-Where're you from???",XMESS_0024,ウシオ
-XMESS_0025,Ushio!! !!,XMESS_0025,網代慎平
-XMESS_0026,"Shinpei…?  
-…Why are you here??  
-You came back?",XMESS_0026,ウシオ
-XMESS_0027,Ah! I'm here to pick you up!!,XMESS_0027,網代慎平
-XMESS_0028,I won't let it…,XMESS_0028,シデ
+XMESS_0020,Wh-... what what!? What is thiiiiiiis!!?,XMESS_0020,ウシオ
+XMESS_0021,We're at a disadvantage underwater! Guildenstern! Grab Ushio and get above water!,XMESS_0021,網代慎平
+XMESS_0022,Awooo!,XMESS_0022,ギルデンスターン
+XMESS_0023,Eek.,XMESS_0023,ウシオ
+XMESS_0024,Ah... a baby!? Huge! What are you!! Whose kid are you!!?,XMESS_0024,ウシオ
+XMESS_0025,Ushio...!!,XMESS_0025,網代慎平
+XMESS_0026,Shinpei...? ...Why... are you here...! Did you come back...?,XMESS_0026,ウシオ
+XMESS_0027,Yeah! I came to get you!!,XMESS_0027,網代慎平
+XMESS_0028,I won't let you--,XMESS_0028,シデ
 XMESS_0029,…!!,XMESS_0029,ウシオ
-XMESS_0030,Uhh…!?,XMESS_0030,シデ
-XMESS_0031,I remembered…!!,XMESS_0031,ウシオ
-XMESS_0032,I thought Shinpei could do it!!!,XMESS_0032,ウシオ
-XMESS_0033,You're back!! !!,XMESS_0033,網代慎平
-XMESS_0034,"(…!!
- Shide's armor is overflowing with strays!!)",XMESS_0034,網代慎平
-XMESS_0035,"Ushio!!  
-If you're caught, it'll be over!!!",XMESS_0035,網代慎平
-XMESS_0036,"It's okay!  
-Perfectly flawless---",XMESS_0036,ウシオ
-XMESS_0037,Full resurrection!! !!,XMESS_0037,ウシオ
-XMESS_0038,"My armor isn't returning… it's being erased!?
-The strays are disappearing too…",XMESS_0038,シデ
-XMESS_0039,"In the instant that blade touched,  
-All of the hacking was completed.",XMESS_0039,シデ
-XMESS_0040,"…You've grown again… 
-Irregularity…",XMESS_0040,シデ
-XMESS_0041,"Hmph!  
-That time, you sneaked up from behind well!",XMESS_0041,ウシオ
-XMESS_0042,This time I won't lose!! !!!,XMESS_0042,ウシオ
-XMESS_0043,"Even in the sea, shadows are immortal!  
-But I can hack you!",XMESS_0043,ウシオ
-XMESS_0044,"Shide has no weaknesses to begin with.  
-I'll hack the mud and remove its armor!!  
-This time I'm finishing him off---",XMESS_0044,ウシオ
-XMESS_0045,"…That's what you're thinking, huh?",XMESS_0045,ハイネ
-XMESS_0046,It differs slightly from the expected scenario…,XMESS_0046,雁切真砂人
-XMESS_0047,"Probably just transferred your memory  
-And revived!",XMESS_0047,ハイネ
-XMESS_0048,"At that time, on Mt. Takanosu,
-It would've been better to kill him!",XMESS_0048,ハイネ
-XMESS_0049,"What's done is done.
-If you don't focus on the present…",XMESS_0049,雁切真砂人
-XMESS_0050,It isn't the worst that Ushio has doubled.,XMESS_0050,雁切真砂人
-XMESS_0051,"Ugh…  
-Your growth is working against you, Ushio…",XMESS_0051,ハイネ
-XMESS_0052,"I thought I could only capture her at sea,
-But thanks to that, I can kill her here.",XMESS_0052,ハイネ
-XMESS_0053,"Her blade circle is just a few centimeters away…
-But---",XMESS_0053,雁切真砂人
-XMESS_0054,"My 'Yamabiko'…  
-If it's an exchange, I'll lose only my armor.",XMESS_0054,シデ
-XMESS_0055,"Come on…
-But my blade will reach your life!",XMESS_0055,シデ
-XMESS_0056,Wooooo!!!!!!!,XMESS_0056,ウシオ
-XMESS_0057,"Sister, calm down.",XMESS_0057,ミオ
+XMESS_0030,Ugh...!?,XMESS_0030,シデ
+XMESS_0031,I... remember...!!,XMESS_0031,ウシオ
+XMESS_0032,"I knew you would do it, Shinpei!!",XMESS_0032,ウシオ
+XMESS_0033,You're back...!!,XMESS_0033,網代慎平
+XMESS_0034,(...!! A massive amount of strays from Shide's armor!!),XMESS_0034,網代慎平
+XMESS_0035,Ushio!! Don't let them grab you!!,XMESS_0035,網代慎平
+XMESS_0036,I'm fine! Complete and perfect--,XMESS_0036,ウシオ
+XMESS_0037,Great resurrection!!!!,XMESS_0037,ウシオ
+XMESS_0038,My armor isn't returning... it's being blown away!? The strays are vanishing too...,XMESS_0038,シデ
+XMESS_0039,"In the instant that hair blade touched, you completed all the hacking...",XMESS_0039,シデ
+XMESS_0040,...It seems you've grown again... Irregular...,XMESS_0040,シデ
+XMESS_0041,Hmph! You sure got me from behind last time...!,XMESS_0041,ウシオ
+XMESS_0042,"This time, I won't lose!!!!",XMESS_0042,ウシオ
+XMESS_0043,Shadows are immortal even if you fight them in the sea! But I can hack them!,XMESS_0043,ウシオ
+XMESS_0044,"Shide doesn't have any weaknesses to begin with, but I'll hack the mud and strip off his armor!! This time I'll finish him off--",XMESS_0044,ウシオ
+XMESS_0045,"--Is what you're thinking, right...?",XMESS_0045,ハイネ
+XMESS_0046,This is a little different from the development I had in mind...,XMESS_0046,雁切真砂人
+XMESS_0047,She probably just transplanted her memories and achieved resurrection...!,XMESS_0047,ハイネ
+XMESS_0048,We should've killed her back then on Mt. Takanosu!,XMESS_0048,ハイネ
+XMESS_0049,"""What ifs"" are meaningless. We have to look at the big picture of the present...",XMESS_0049,雁切真砂人
+XMESS_0050,It's not the worst-case scenario of Ushio multiplying into two.,XMESS_0050,雁切真砂人
+XMESS_0051,Hmph... Ushio... your growth has backfired.,XMESS_0051,ハイネ
+XMESS_0052,"I thought I could only hope to capture you in the sea, but thanks to that, I can kill you right here.",XMESS_0052,ハイネ
+XMESS_0053,She's just a few centimeters away from my blade's reach... But--,XMESS_0053,雁切真砂人
+XMESS_0054,"My ""<color=#GF_TIPS_115>Yamabiko</color>""... If it's a mutual strike, I'll only lose my armor...",XMESS_0054,シデ
+XMESS_0055,Come at me... But my blade will reach your life!,XMESS_0055,シデ
+XMESS_0056,Uwoooooo!!!,XMESS_0056,ウシオ
+XMESS_0057,"Sister, time out.",XMESS_0057,ミオ
 XMESS_0058,Huh?,XMESS_0058,ウシオ
-XMESS_0059,"Wha… why?  
-Mio! ?
-Why the hell are you hereeeeee!! ?!",XMESS_0059,ウシオ
-XMESS_0060,"Why're you interfering?!  
-Mio, let go!!
-Hit that guy with one swing!!!",XMESS_0060,ウシオ
-XMESS_0061,"Stay calm!  
-Don't act wild, look at my memories!",XMESS_0061,ミオ
+XMESS_0059,Wh-Why? Mio!? Eeeh~~ whyyyy!!?,XMESS_0059,ウシオ
+XMESS_0060,"Why are you getting in the way!! Mio, let go!! Let me punch that guy just once!!!",XMESS_0060,ウシオ
+XMESS_0061,Calm down! Stop thrashing around and look at my memories!,XMESS_0061,ミオ
 XMESS_0062,…?,XMESS_0062,シデ
 XMESS_0063,…!?,XMESS_0063,ウシオ
-XMESS_0064,M… really?!,XMESS_0064,ウシオ
-XMESS_0065,"Such a plan…  
-Shinpei, you're amazing…",XMESS_0065,ウシオ
-XMESS_0066,…Shide!! !,XMESS_0066,網代慎平
+XMESS_0064,S-... Seriously!,XMESS_0064,ウシオ
+XMESS_0065,A plan like that...!! Shinpei... you're amazing...,XMESS_0065,ウシオ
+XMESS_0066,...Shide!!!,XMESS_0066,網代慎平
 XMESS_0067,Yes?,XMESS_0067,シデ
-XMESS_0068,Where do you think I came from.,XMESS_0068,網代慎平
-XMESS_0069,What?!,XMESS_0069,シデ
-XMESS_0070,"You still don't get it, huh.  
-If you're inside Guildenstern, you can hide your hand position…",XMESS_0070,網代慎平
-XMESS_0071,Impossible…!!,XMESS_0071,シデ
+XMESS_0068,Where do you think I came from?,XMESS_0068,網代慎平
+XMESS_0069,Excuse me?,XMESS_0069,シデ
+XMESS_0070,Seems you really don't understand. It means I can hide the handprint's position if I'm inside Gil...,XMESS_0070,網代慎平
+XMESS_0071,It can't be...!!,XMESS_0071,シデ
 XMESS_0072,See ya.,XMESS_0072,網代慎平
 XMESS_0073,Don't let him shoot!!!,XMESS_0073,ハイネ
-XMESS_0074,"(Attack is coming!!  
-The future two seconds from now is--)",XMESS_0074,網代慎平
-XMESS_0075,(The pistol will be destroyed…),XMESS_0075,網代慎平
+XMESS_0074,(An attack is coming!! The future 2 seconds from now is--),XMESS_0074,網代慎平
+XMESS_0075,(The handgun will be destroyed...!),XMESS_0075,網代慎平
 XMESS_0076,Hmph!!,XMESS_0076,シデ
-XMESS_0077,(Shide's aim is to not kill me!),XMESS_0077,網代慎平
-XMESS_0078,"Dodged?!
-You idiot… !?",XMESS_0078,シデ
-XMESS_0079,"(Good, I'm getting used to the two second delay…)",XMESS_0079,網代慎平
-XMESS_0080,"(Attack… ?!
-Oops, my gun---",XMESS_0080,網代慎平
-XMESS_0081,Shinpei!! !,XMESS_0081,ウシオ
+XMESS_0077,(Shide's goal is to not let me die!),XMESS_0077,網代慎平
+XMESS_0078,He dodged!? Impossible--!?,XMESS_0078,シデ
+XMESS_0079,"(Alright, I'm getting pretty used to the 2-second delay--)",XMESS_0079,網代慎平
+XMESS_0080,"(A follow-up attack...!? Crap, the gun is--)",XMESS_0080,網代慎平
+XMESS_0081,Shinpei!!,XMESS_0081,ウシオ
 XMESS_0082,…!!,XMESS_0082,網代慎平
-XMESS_0083,"(…Sorry… Ushio.  
-Cut off my head…
-I'm saved…)",XMESS_0083,網代慎平
+XMESS_0083,(...Sorry... Ushio! Thanks for... cutting my head off... You saved me...!!),XMESS_0083,網代慎平
 XMESS_0084,KEY TIPS[<color=#GF_KEY_LOOPEND_09>9th END</color>] has been acquired.,XMESS_0084,（ト書き）
 XMESS_0085,"(Let's go, Ushio--)",XMESS_0085,網代慎平
 XMESS_0086,KEY TIPS[<color=#GF_KEY_LOOPEND_09>9th END</color>] has been acquired.,XMESS_0086,（ト書き）

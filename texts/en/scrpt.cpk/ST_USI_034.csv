@@ -1,13 +1,9 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,31. The Fourth Funeral ~ Interrogation,XCHAPTITLE_0002,
-XMESS_0000,"(1:30.
-The coffin of Ushio is placed in the furnace)",XMESS_0000,網代慎平
-XMESS_0001,"(An hour until the remains are collected…
-It's lunchtime for everyone)",XMESS_0001,網代慎平
-XMESS_0002,"(This is the perfect opportunity to gather information.
-I'll ask two questions to someone I'm curious about)",XMESS_0002,網代慎平
-XMESS_0003,"(The first is whether they know about the Shadow Sickness…
-The second is whether they've seen a woman with a large chest…)",XMESS_0003,網代慎平
+XMESS_0000,(1:30. Ushio's coffin went into the furnace.),XMESS_0000,網代慎平
+XMESS_0001,(One hour until we collect her ashes... It's time for everyone to have lunch.),XMESS_0001,網代慎平
+XMESS_0002,(This is the perfect chance to gather information. I'll try throwing two questions at the people I'm curious about.),XMESS_0002,網代慎平
+XMESS_0003,"(First, do they know about the Shadow Sickness... And second, have they seen a woman with a large chest...?)",XMESS_0003,網代慎平
 XMESS_0004,(Who should I talk to…),XMESS_0004,網代慎平
 MSTD_0027-0,Ask Totsumura,MSTD_0027-0,
 MSTD_0027-1,Ask Alain,MSTD_0027-1,
@@ -15,159 +11,90 @@ MSTD_0027-2,Ask Karikiri,MSTD_0027-2,
 MSTD_0027-3,Ask Hishigata,MSTD_0027-3,
 XMESS_0005,"Totsumura-san.
 Have you heard of the Shadow Sickness?",XMESS_0005,網代慎平
-XMESS_0006,"Ah~ I've heard of it~!
-It's a ghost story from Hitogashima Island!
-I was scared of it as a kid~!",XMESS_0006,凸村哲
-XMESS_0007,"They say misbehaving kids
-get eaten by shadows~",XMESS_0007,凸村哲
-XMESS_0008,…Do you think shadows actually exist?,XMESS_0008,網代慎平
-XMESS_0009,"What?
-No way! It's just superstition!
-There's no way something like that actually exists!!",XMESS_0009,凸村哲
-XMESS_0010,"I see… Well, can I ask one more thing?",XMESS_0010,網代慎平
+XMESS_0006,"Ahhhhh, I've heard of that~~~! It's a ghost story from Hitogashima, right! I was scared of it when I was little~~~~.",XMESS_0006,凸村哲
+XMESS_0007,They'd say that bad kids who don't listen will get eaten by Shadows...,XMESS_0007,凸村哲
+XMESS_0008,...Do you think Shadows actually exist?,XMESS_0008,網代慎平
+XMESS_0009,"Eh? No, no, no, it's just a superstition! There's no way something like that actually exists!!",XMESS_0009,凸村哲
+XMESS_0010,"Right, of course... Um, can I ask one more thing?",XMESS_0010,網代慎平
 XMESS_0011,Huh?,XMESS_0011,凸村哲
-XMESS_0012,"Um… She was wearing glasses…
-I don't know how to say it… A woman with a large chest?",XMESS_0012,網代慎平
-XMESS_0013,Ahhhh!! I saw her!! I talked to her!!,XMESS_0013,凸村哲
-XMESS_0014,"She seemed dangerous! She suddenly opened
-the coffin of Ushio~!",XMESS_0014,凸村哲
-XMESS_0015,"But she was beautiful!!
-She had a huge chest!
-A G-cup! G!!",XMESS_0015,凸村哲
-XMESS_0016,"Real G!! Have you seen it??
-It was wild! So exciting!!",XMESS_0016,凸村哲
-XMESS_0017,U-um… Do you have her contact info…?,XMESS_0017,網代慎平
-XMESS_0018,"No way!!
-I tried to chase her but she ran away!!
-I should've taken a photo~!!",XMESS_0018,凸村哲
-XMESS_0019,"Huh… I see…
-Thank you very much…",XMESS_0019,網代慎平
+XMESS_0012,Um... someone wearing glasses... How do I say this... did you see a woman with a large chest?,XMESS_0012,網代慎平
+XMESS_0013,"Ahhhhh!!!! I saw her, I saw her!! Or rather, I talked to her!!!!",XMESS_0013,凸村哲
+XMESS_0014,She seemed kinda dangerous? She suddenly tried to open Ushio-chan's coffin and all~~.,XMESS_0014,凸村哲
+XMESS_0015,"But man, she was a beauty!! And her boobs! She said they were G-cups! G!!",XMESS_0015,凸村哲
+XMESS_0016,A real G-cup!! Have you ever seen one!? It was insane! So hot!!,XMESS_0016,凸村哲
+XMESS_0017,D-Did you get her contact info...?,XMESS_0017,網代慎平
+XMESS_0018,"Actually, about that!! I was gonna ask, but she ran away! I should've arrested her~~~~!!",XMESS_0018,凸村哲
+XMESS_0019,*Sigh*... I see... Thank you very much...,XMESS_0019,網代慎平
 XMESS_0020,"Alain.
 Have you heard of the Shadow Sickness?",XMESS_0020,網代慎平
 XMESS_0021,Shadows…?,XMESS_0021,小舟アラン
-XMESS_0022,"Ah… I think I've heard something like that
-from Konoko before…",XMESS_0022,小舟アラン
-XMESS_0023,"(Konoko…
-The mother of Ushio and Mio…)",XMESS_0023,網代慎平
-XMESS_0024,"That's a doppelgänger, right?
-It's a well-known story in France!
-There's a woman named Emily Sagou…",XMESS_0024,小舟アラン
+XMESS_0022,Ah... I feel like I might have heard something like that from Kotoko a long time ago...,XMESS_0022,小舟アラン
+XMESS_0023,(Kotoko... Ushio and Mio's mother...),XMESS_0023,網代慎平
+XMESS_0024,"That's a so-called doppelgänger, right. It's a famous story in France too! There was a person named Emilie Sagée...",XMESS_0024,小舟アラン
 XMESS_0025,Did Ushio ever tell you about this?,XMESS_0025,網代慎平
 XMESS_0026,Ushio??,XMESS_0026,小舟アラン
-XMESS_0027,"No…?
-I don't think I've heard about shadows…",XMESS_0027,小舟アラン
+XMESS_0027,No...? I haven't heard anything about Shadows from her...,XMESS_0027,小舟アラン
 XMESS_0028,"I see…
 Hey, I have one more question.",XMESS_0028,網代慎平
 XMESS_0029,What?,XMESS_0029,小舟アラン
-XMESS_0030,"She had glasses, black hair… like…
-a model
-with a great figure?",XMESS_0030,網代慎平
+XMESS_0030,"Did you see someone wearing glasses, with black hair... like... a model with a really good figure?",XMESS_0030,網代慎平
 XMESS_0031,"Glasses… black hair… model…?
 Ah, it's Hizuru!",XMESS_0031,小舟アラン
 XMESS_0032,"…!
 Do you know her?",XMESS_0032,網代慎平
-XMESS_0033,"Yeah… she came here too.
-She used to come here often.
-She was a regular.",XMESS_0033,小舟アラン
+XMESS_0033,Yeah... she came by here too. She used to come eat at our place a lot in the past. She was a regular.,XMESS_0033,小舟アラン
 XMESS_0034,Huh. Really?,XMESS_0034,網代慎平
 XMESS_0035,"Yeah. She left the island a while back,
 so you probably don't remember her.",XMESS_0035,小舟アラン
 XMESS_0036,She left the island…?,XMESS_0036,網代慎平
-XMESS_0037,"Yeah, when she was a middle schooler.
-It was… a bit of a mess.
-She never came back to the island.",XMESS_0037,小舟アラン
-XMESS_0038,"(If he's being vague, it's probably something
-difficult to talk about.
-I shouldn't push further)",XMESS_0038,網代慎平
-XMESS_0039,"So she's back for a visit now.
-Did Alain contact her?",XMESS_0039,網代慎平
-XMESS_0040,"Me? No no!
-I don't even know her contact info.
-She came here for work, I think…",XMESS_0040,小舟アラン
+XMESS_0037,"Yeah, when Hizuru was in middle school. Well... a lot of things happened. She hadn't come back to the island at all since then.",XMESS_0037,小舟アラン
+XMESS_0038,"(If he's dodging the question, it must be something hard to talk about. I shouldn't pry any further.)",XMESS_0038,網代慎平
+XMESS_0039,"So that means she's back visiting her hometown now. Did you contact her, Alain?",XMESS_0039,網代慎平
+XMESS_0040,"Me? No, no! I didn't even know her contact info. It seems she came to the island for work...",XMESS_0040,小舟アラン
 XMESS_0041,Work?,XMESS_0041,網代慎平
-XMESS_0042,She said she's a writer in Tokyo.,XMESS_0042,小舟アラン
-XMESS_0043,I see… Thank you.,XMESS_0043,網代慎平
-XMESS_0044,"Karikiri.
-Have you heard of the Shadow Sickness?",XMESS_0044,網代慎平
-XMESS_0045,"What do you mean ""have you heard""?
-I named it after my great-grandfather.",XMESS_0045,雁切真砂人
-XMESS_0046,"Wha!?
-That's how it started?!",XMESS_0046,網代慎平
+XMESS_0042,She said she's working as a writer in Tokyo.,XMESS_0042,小舟アラン
+XMESS_0043,I see... Thanks.,XMESS_0043,網代慎平
+XMESS_0044,Karikiri-san. Do you know about the Shadow Sickness?,XMESS_0044,網代慎平
+XMESS_0045,"What do you mean do I know about it... The one who named it ""Shadow Sickness"" was my great-grandfather.",XMESS_0045,雁切真砂人
+XMESS_0046,Eh!? Is that so!?,XMESS_0046,網代慎平
 XMESS_0047,"Yes… in the late Edo period.
 Back then, everything was blamed on yokai…",XMESS_0047,雁切真砂人
-XMESS_0048,"Up until my grandfather's time, they even
-did exorcisms at the shrine…",XMESS_0048,雁切真砂人
-XMESS_0049,"Huh…
-By the way, what's the cure?",XMESS_0049,網代慎平
-XMESS_0050,"Cure?!
-Hmm… I'm not sure…",XMESS_0050,雁切真砂人
-XMESS_0051,Have you ever done it yourself?,XMESS_0051,網代慎平
-XMESS_0052,"No, I haven't…
-I do regular exorcisms though…",XMESS_0052,雁切真砂人
-XMESS_0053,"Ah! By the way, Shinpei.
-How's Tokyo?",XMESS_0053,雁切真砂人
-XMESS_0054,"Actually, I went there last year!
-You know that place near the sea…",XMESS_0054,雁切真砂人
-XMESS_0055,"(No good, he'll talk forever if I don't cut in!
-I need to push the conversation!)",XMESS_0055,網代慎平
-XMESS_0056,"Um, one more thing?
-A woman with glasses, black hair… with a big chest…
-Have you seen her?",XMESS_0056,網代慎平
-XMESS_0057,"Hm…!
-Is that Hizuru?
-Hizuru Minakata!",XMESS_0057,雁切真砂人
-XMESS_0058,Umm… Is she still around?,XMESS_0058,雁切真砂人
-XMESS_0059,(Though I don't see her around…),XMESS_0059,網代慎平
-XMESS_0060,"<color=#GF_TIPS_119>Dr. Hishigata</color>.
-I have a question…
-Are you free now?",XMESS_0060,網代慎平
-XMESS_0061,"Ah, you… What do you want?",XMESS_0061,菱形青銅
-XMESS_0062,"I know it's odd to ask a doctor this,
-but… Have you heard of the Shadow Sickness?",XMESS_0062,網代慎平
-XMESS_0063,"Ah… I know about it.
-It's a type of ""mental illness""
-that occurred in groups on this island.",XMESS_0063,菱形青銅
+XMESS_0048,"I heard that up until my grandfather's generation, they even performed exorcisms at the shrine...",XMESS_0048,雁切真砂人
+XMESS_0049,"Huh... And how effective were they, by the way?",XMESS_0049,網代慎平
+XMESS_0050,"Effective!? Hmmmm, I wonder...",XMESS_0050,雁切真砂人
+XMESS_0051,"Have you ever done one, Karikiri-san?",XMESS_0051,網代慎平
+XMESS_0052,"I've never done one... I do normal exorcisms, though...",XMESS_0052,雁切真砂人
+XMESS_0053,"Ah! More importantly, Shinpei-kun. How is Tokyo?",XMESS_0053,雁切真砂人
+XMESS_0054,"Actually, I went there last year! You know that place near the sea, what was it called--",XMESS_0054,雁切真砂人
+XMESS_0055,"(Crap, this person talks forever once he gets started... I have to push the conversation forward, even if I have to force it!)",XMESS_0055,網代慎平
+XMESS_0056,"Um, can I ask one more thing? With glasses, black hair... and a large chest... Have you seen a woman like that?",XMESS_0056,網代慎平
+XMESS_0057,Hmm... Could that be Hizuru-chan? Hizuru Minakata-chan!,XMESS_0057,雁切真砂人
+XMESS_0058,Um... huh... I wonder if she's still around here?,XMESS_0058,雁切真砂人
+XMESS_0059,"(I don't see anyone matching that description, though...)",XMESS_0059,網代慎平
+XMESS_0060,<color=#GF_TIPS_119>Hishigata-sensei</color>. I have something I want to ask you... Is now a good time?,XMESS_0060,網代慎平
+XMESS_0061,"Ah, it's you... What do you want to ask?",XMESS_0061,菱形青銅
+XMESS_0062,"I know it's a bit weird to ask a doctor about this, but... Do you know about... the Shadow Sickness?",XMESS_0062,網代慎平
+XMESS_0063,"Ah... I know of it, yes. ...It's a fact that a certain kind of ""mental illness""... occurred collectively on this island.",XMESS_0063,菱形青銅
 XMESS_0064,So there are records of it?,XMESS_0064,網代慎平
-XMESS_0065,"Yeah, I still have old charts.",XMESS_0065,菱形青銅
-XMESS_0066,"It's called Capgras syndrome…
-People think their friends or family
-have been replaced by identical impostors…",XMESS_0066,菱形青銅
-XMESS_0067,"…!!
-By the way, have you treated anyone?",XMESS_0067,網代慎平
-XMESS_0068,"Me?!
-No way!
-It was from the early Showa period.
-I've never treated such cases.",XMESS_0068,菱形青銅
+XMESS_0065,"Yes, there are old medical records left at my clinic too.",XMESS_0065,菱形青銅
+XMESS_0066,"It's called <color=#GF_TIPS_057>Capgras syndrome</color>... The patient believes that close people, like friends or family, have been replaced by identical imposters...",XMESS_0066,菱形青銅
+XMESS_0067,"...!! By the way, Sensei, have you ever treated a case?",XMESS_0067,網代慎平
+XMESS_0068,Me? ...Of course not! This is a story from the early Showa period. I have no experience treating such cases.,XMESS_0068,菱形青銅
 XMESS_0069,"I see… Oh, one more thing.
 Do you know a woman with glasses and black hair?",XMESS_0069,網代慎平
-XMESS_0070,"She seems to be from outside the island.
-I don't know how to say it… She's very well-built…",XMESS_0070,網代慎平
-XMESS_0071,"…Maybe that woman from earlier?
-I don't know her…",XMESS_0071,菱形青銅
-XMESS_0072,"Alain said she's a friend…
-But I don't know anyone who'd open a coffin.",XMESS_0072,菱形青銅
-XMESS_0073,"Huh…?
-Why would she open the coffin…?",XMESS_0073,網代慎平
-XMESS_0074,"Who cares?!
-She's a reckless woman! Honestly…",XMESS_0074,菱形青銅
-XMESS_0075,I see… That's right…,XMESS_0075,網代慎平
-XMESS_0076,"(Well, I've gathered everything…
-Let me sort it out)",XMESS_0076,網代慎平
-XMESS_0077,"(Most attendees knew about the Shadow Sickness.
-But they all said it was just superstition or ghost stories)",XMESS_0077,網代慎平
-XMESS_0078,"(They all think the ""shadow"" is just a monster)",XMESS_0078,網代慎平
-XMESS_0079,(The interesting part is Karikiri's and Dr. Hishigata's answers),XMESS_0079,網代慎平
-XMESS_0080,"(If their stories are true, the ""shadow"" has existed
-on this island since the Edo period, and was often
-sighted until before the war…)",XMESS_0080,網代慎平
-XMESS_0081,"(And the ""old charts"" at Hishigata Clinic…
-It's worth investigating)",XMESS_0081,網代慎平
-XMESS_0082,"(Most importantly…
-It's surprising that so many people
-knew about the ""woman with glasses""!!)",XMESS_0082,網代慎平
-XMESS_0083,"(The local, Hizuru Minakata…
-She's probably the real name of Nagumo-sensei!)",XMESS_0083,網代慎平
-XMESS_0084,"(Since Nagumo is a pseudonym, no one knows
-that Nagumo-sensei = Hizuru Minakata!)",XMESS_0084,網代慎平
-XMESS_0085,"(Plus, she was a regular at Koba Mart…
-What a close call!!)",XMESS_0085,網代慎平
+XMESS_0070,"She seems to be from off the island. How do I say it, she has a really nice figure...",XMESS_0070,網代慎平
+XMESS_0071,...Perhaps you mean that woman from earlier. I don't know her...,XMESS_0071,菱形青銅
+XMESS_0072,"Alain said she was a friend of his, but... I would never associate with someone who would open a coffin.",XMESS_0072,菱形青銅
+XMESS_0073,Eh...? W-Why would she open the coffin...?,XMESS_0073,網代慎平
+XMESS_0074,How should I know! What an absurd woman! Good grief...,XMESS_0074,菱形青銅
+XMESS_0075,R-Right...,XMESS_0075,網代慎平
+XMESS_0076,(That's everyone I wanted to talk to... Let's organize this information.),XMESS_0076,網代慎平
+XMESS_0077,"(Most of the attendees knew about the ""Shadow Sickness"". But they all unanimously called it a ""superstition"" or a ""ghost story"".)",XMESS_0077,網代慎平
+XMESS_0078,"(None of them think that monsters called ""Shadows"" actually exist...)",XMESS_0078,網代慎平
+XMESS_0079,"(What's interesting are the answers from Karikiri-san, the chief priest, and Hishigata-sensei.)",XMESS_0079,網代慎平
+XMESS_0080,"(If what they said is true, ""Shadows"" already existed on this island since at least the Edo period, and were frequently sighted up until before the war...)",XMESS_0080,網代慎平
+XMESS_0081,"(And the ""old medical records"" left at Hishigata Clinic... It seems worth investigating.)",XMESS_0081,網代慎平
+XMESS_0082,"(And more than anything... Surprisingly, many people knew about the ""woman with glasses""!!)",XMESS_0082,網代慎平
+XMESS_0083,"(A local named ""Hizuru Minakata""... That must be Nagumo-sensei's real name!)",XMESS_0083,網代慎平
+XMESS_0084,"(""Ryunosuke Nagumo"" is a pseudonymous author, so no one knows that Nagumo-sensei = <color=#GF_TIPS_033>Hizuru Minakata</color>!)",XMESS_0084,網代慎平
+XMESS_0085,(And she used to be a regular at Kofune... What a near miss we had!!),XMESS_0085,網代慎平

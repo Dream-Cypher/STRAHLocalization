@@ -1,130 +1,85 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,5. Hunger Pangs,XCHAPTITLE_0002,
-XMESS_0000,Huh-huh-huh~♪,XMESS_0000,南方波稲
+XMESS_0000,Hmm hm hm hm~♪,XMESS_0000,南方波稲
 XMESS_0001,"Hoine, where are you headed next?",XMESS_0001,南方ひづる
-XMESS_0002,"It's a secret!
-It's a surprise for when we arrive!",XMESS_0002,南方波稲
-XMESS_0003,"I don't know where the next destination is, but--",XMESS_0003,南方ひづる
+XMESS_0002,It's a secret! Look forward to it when we get there!,XMESS_0002,南方波稲
+XMESS_0003,"I don't know where our next destination is, but even if you try to surprise me--",XMESS_0003,南方ひづる
 XMESS_0004,Ah…,XMESS_0004,南方波稲
-XMESS_0005,Was that your stomach growling?,XMESS_0005,南方ひづる
-XMESS_0006,"Hahaha!
-I was thinking about where to go next, and my stomach started making noise.",XMESS_0006,南方波稲
-XMESS_0007,"(So hungry, huh?
-Then maybe the next destination is…
-Considering the encounter with Mio earlier…)",XMESS_0007,南方ひづる
-XMESS_0008,"Why do bellies make noise anyway?
-Are there really bugs inside?",XMESS_0008,南方波稲
-XMESS_0009,"That's impossible.
-It's just hunger pangs.",XMESS_0009,南方ひづる
+XMESS_0005,Was that the bug in your stomach just now?,XMESS_0005,南方ひづる
+XMESS_0006,Ahahahaha! I was thinking about where to go next and my stomach growled.,XMESS_0006,南方波稲
+XMESS_0007,"(Is she that hungry? Then, could our next destination be... Considering we ran into Mio earlier...)",XMESS_0007,南方ひづる
+XMESS_0008,"Why do stomachs growl, I wonder? Are there really bugs inside?",XMESS_0008,南方波稲
+XMESS_0009,Of course there aren't. It's hunger contractions.,XMESS_0009,南方ひづる
 XMESS_0010,…?,XMESS_0010,南方波稲
-XMESS_0011,The sound occurs when the contractions of the stomach wall push the contents into the duodenum and small intestine.,XMESS_0011,南方ひづる
-XMESS_0012,"Huh, I don't get it.",XMESS_0012,南方波稲
-XMESS_0013,"Don't think it's bugs.
-It's fine like this.",XMESS_0013,南方ひづる
-XMESS_0014,Yaaay!,XMESS_0014,南方波稲
-XMESS_0015,"Hizuru, are you hungry?",XMESS_0015,南方波稲
+XMESS_0011,It is said that the sound is produced when the contents of the stomach are pushed out into the duodenum and small intestine by the contraction of the stomach wall.,XMESS_0011,南方ひづる
+XMESS_0012,"Hmm, I don't really get it.",XMESS_0012,南方波稲
+XMESS_0013,Just remember that it's not bugs. That's enough for now.,XMESS_0013,南方ひづる
+XMESS_0014,Okaaay.,XMESS_0014,南方波稲
+XMESS_0015,"Are you hungry, Hizuru-chan?",XMESS_0015,南方波稲
 XMESS_0016,"No, not really…",XMESS_0016,南方ひづる
-XMESS_0017,"Ah, it's making noise again.",XMESS_0017,南方波稲
+XMESS_0017,"Ah, it growled again.",XMESS_0017,南方波稲
 XMESS_0018,…,XMESS_0018,南方ひづる
-XMESS_0019,"Hahaha!
-What's this, it's making so much noise!
-Hahaha!
-Hahaha!",XMESS_0019,南方波稲
-XMESS_0020,"I don't get what's so funny, but it'll probably stop once we reach the next destination.",XMESS_0020,南方ひづる
-XMESS_0021,But I don't have any money…,XMESS_0021,南方波稲
-XMESS_0022,"I'll pay.
-If it's Kofune, there's enough cash no matter what you order, so don't worry.",XMESS_0022,南方ひづる
-XMESS_0023,"Yay!
-Thanks, Hizuru!",XMESS_0023,南方波稲
-XMESS_0024,I can't stand listening to that noise next to me forever…,XMESS_0024,南方ひづる
-XMESS_0025,"Wait!
-But how did you know it was Kofune?",XMESS_0025,南方波稲
+XMESS_0019,"Ahahahahaha! What is this, it's growling so much! Ahahahahahahaha!",XMESS_0019,南方波稲
+XMESS_0020,"...I don't know what's so funny, but it should settle down if you eat something at our next destination.",XMESS_0020,南方ひづる
+XMESS_0021,"But I don't have any money on me, you know?",XMESS_0021,南方波稲
+XMESS_0022,"I'll pay. If it's Kofune, I have enough cash for whatever you order, so don't worry.",XMESS_0022,南方ひづる
+XMESS_0023,"Yay! Thanks, Hizuru-chan!",XMESS_0023,南方波稲
+XMESS_0024,I wouldn't be able to stand you endlessly making that noise right next to me from here on out...,XMESS_0024,南方ひづる
+XMESS_0025,Huh? But how did you know our next destination was Kofune?,XMESS_0025,南方波稲
 XMESS_0026,That's simple deduction.,XMESS_0026,南方ひづる
-XMESS_0027,"You're so cool!
-Hizuru, you really are amazing!",XMESS_0027,南方波稲
-XMESS_0028,"Look!
-My stomach's even surprised!",XMESS_0028,南方波稲
-XMESS_0029,"Remember what I just explained.
-It's just a physiological reaction.",XMESS_0029,南方ひづる
+XMESS_0027,"That's so cool! You really are amazing, Hizuru-chan!",XMESS_0027,南方波稲
+XMESS_0028,Look! My stomach is surprised too!,XMESS_0028,南方波稲
+XMESS_0029,Remember my explanation from earlier. That is simply a physiological phenomenon.,XMESS_0029,南方ひづる
 XMESS_0030,Welcome!,XMESS_0030,小舟アラン
-XMESS_0031,I'm coming!,XMESS_0031,南方波稲
-XMESS_0032,"Ah, Hoine.
-And…",XMESS_0032,小舟アラン
+XMESS_0031,Excuse me~!,XMESS_0031,南方波稲
+XMESS_0032,"Ah, Hoine-chan. And...",XMESS_0032,小舟アラン
 XMESS_0033,"Alain, it's been a while.",XMESS_0033,南方ひづる
-XMESS_0034,Hizuru! You're back on the island?,XMESS_0034,小舟アラン
-XMESS_0035,"Yeah, I just arrived today.
-It's good to see the shop is still open.",XMESS_0035,南方ひづる
-XMESS_0036,"Thanks to you.
-I'm glad you're doing well, Hizuru.",XMESS_0036,小舟アラン
-XMESS_0037,"So, what are you doing today?
-Watching over Hoine?",XMESS_0037,小舟アラン
-XMESS_0038,"Unfortunately, that's what's happening…",XMESS_0038,南方ひづる
-XMESS_0039,"Hoine, don't hold back.
-Order whatever you want.",XMESS_0039,南方ひづる
+XMESS_0034,If it isn't Hizuru! You came back to the island?,XMESS_0034,小舟アラン
+XMESS_0035,"Yes, I just arrived today. I'm glad to see that both you and the restaurant are doing well.",XMESS_0035,南方ひづる
+XMESS_0036,"Thankfully, yes. I'm glad to see you're looking well too, Hizuru.",XMESS_0036,小舟アラン
+XMESS_0037,"So, what are you up to today? Babysitting Hoine-chan?",XMESS_0037,小舟アラン
+XMESS_0038,"Reluctantly, it has come to that...",XMESS_0038,南方ひづる
+XMESS_0039,"Hoine, no need to hold back. You can order whatever you'd like.",XMESS_0039,南方ひづる
 XMESS_0040,Then I'll have a parfait!,XMESS_0040,南方波稲
 XMESS_0041,Will that be enough?,XMESS_0041,南方ひづる
-XMESS_0042,"Right!
-Then two parfaits!",XMESS_0042,南方波稲
+XMESS_0042,You're right! Then two parfaits!,XMESS_0042,南方波稲
 XMESS_0043,…,XMESS_0043,南方ひづる
-XMESS_0044,"Hahaha!
-You look so embarrassed!",XMESS_0044,小舟アラン
-XMESS_0045,"…Children are so inexplicable and unpredictable.
-I have no idea how to handle them.",XMESS_0045,南方ひづる
-XMESS_0046,"Yeah, that's true.
-Mio and Ushio used to give me a hard time too.",XMESS_0046,小舟アラン
-XMESS_0047,"Hizuru, you'll understand when you have kids.",XMESS_0047,小舟アラン
-XMESS_0048,W-what?,XMESS_0048,南方ひづる
-XMESS_0049,"If Hoine had a daughter, it wouldn't be strange for her age.
-There's probably at least one good person out there.",XMESS_0049,小舟アラン
-XMESS_0050,"That's none of your business!
-Hurry up and bring the parfait!",XMESS_0050,南方ひづる
+XMESS_0044,Hahaha! You look like you're at your wit's end!,XMESS_0044,小舟アラン
+XMESS_0045,...Children are far too incomprehensible and unpredictable. I have absolutely no idea how to handle them.,XMESS_0045,南方ひづる
+XMESS_0046,"Well, I'm sure. Mio and Ushio gave me a lot of trouble when they were little too.",XMESS_0046,小舟アラン
+XMESS_0047,"You'll understand once you have kids of your own, Hizuru.",XMESS_0047,小舟アラン
+XMESS_0048,Huh...?,XMESS_0048,南方ひづる
+XMESS_0049,"You've reached an age where it wouldn't be strange for you to have a daughter around Hoine-chan's age. You must have at least one good person in your life, right?",XMESS_0049,小舟アラン
+XMESS_0050,N-None of your business! Hurry up and serve the parfaits!,XMESS_0050,南方ひづる
 XMESS_0051,"Understood, two parfaits.",XMESS_0051,小舟アラン
-XMESS_0052,"Ah, wait, two is too much--",XMESS_0052,南方ひづる
+XMESS_0052,"Ah, wait, two is too many--",XMESS_0052,南方ひづる
 XMESS_0053,Yay~!,XMESS_0053,南方波稲
 XMESS_0054,…,XMESS_0054,南方ひづる
-XMESS_0055,"Sorry for the wait.
-Two parfaits, coming right up.",XMESS_0055,小舟アラン
+XMESS_0055,"Thanks for waiting. Two parfaits, here you go.",XMESS_0055,小舟アラン
 XMESS_0056,"One for Hoine.
 The other for me.",XMESS_0056,南方ひづる
-XMESS_0057,"Wait?
-Can't I eat both?",XMESS_0057,南方波稲
-XMESS_0058,"If you need more, order something else.
-But no cold things, it'll make your stomach colder.",XMESS_0058,南方ひづる
-XMESS_0059,"Yaaay!
-Then, I'm eating!",XMESS_0059,南方波稲
-XMESS_0060,"Mmm! So good!
-Hizuru, eat quickly!",XMESS_0060,南方波稲
+XMESS_0057,Huh? I can't eat both of them?,XMESS_0057,南方波稲
+XMESS_0058,"If it's not enough, order something else. But nothing cold, it'll chill your stomach too much.",XMESS_0058,南方ひづる
+XMESS_0059,"Okaaaay! Well then, time to eat~!",XMESS_0059,南方波稲
+XMESS_0060,"Mmm! Delicious~! Hizuru-chan, you eat up too!",XMESS_0060,南方波稲
 XMESS_0061,"Don't worry about me.
 Focus on eating.",XMESS_0061,南方ひづる
-XMESS_0062,Yaaay!,XMESS_0062,南方波稲
-XMESS_0063,(That should calm down a bit),XMESS_0063,南方ひづる
-XMESS_0064,"(The island scenery, but also…
-This shop hasn't changed at all)",XMESS_0064,南方ひづる
-XMESS_0065,(It's the same as when I was in my teens),XMESS_0065,南方ひづる
-XMESS_0066,"(If I look back, it's like…
-Those days' me and Asako are there…
-It feels like that)",XMESS_0066,南方ひづる
-XMESS_0067,"(Time reversal…
-Such things can't actually happen)",XMESS_0067,南方ひづる
-XMESS_0068,"(There's no such thing as something unchanging in this world,
-Everything is destined to change over time)",XMESS_0068,南方ひづる
-XMESS_0069,"(But because of that--
-Returning to the past is also a universal human dream)",XMESS_0069,南方ひづる
-XMESS_0070,"(Time reversal, return… 
-That's also a good theme)",XMESS_0070,南方ひづる
+XMESS_0062,Okaaaay!,XMESS_0062,南方波稲
+XMESS_0063,(...This should keep her quiet for a bit.),XMESS_0063,南方ひづる
+XMESS_0064,"(The island's scenery is one thing, but... This restaurant hasn't changed at all either.)",XMESS_0064,南方ひづる
+XMESS_0065,(It's exactly the same as when I was still in my teens.),XMESS_0065,南方ひづる
+XMESS_0066,"(It almost feels like... if I turn around, Asako and the me from back then will be sitting there...)",XMESS_0066,南方ひづる
+XMESS_0067,(Going back in time... Something like that could never actually happen.),XMESS_0067,南方ひづる
+XMESS_0068,"(There is nothing unchanging in this world, and everything is destined to change with time.)",XMESS_0068,南方ひづる
+XMESS_0069,"(But, because of that-- Returning to the past is also a universal dream of humanity.)",XMESS_0069,南方ひづる
+XMESS_0070,"(Going back in time, returning to the past... This isn't a bad theme either.)",XMESS_0070,南方ひづる
 XMESS_0071,Thank you for the meal!,XMESS_0071,南方波稲
-XMESS_0072,"Hm?
-You're done already?",XMESS_0072,南方ひづる
-XMESS_0073,"Yeah, it was super delicious!
-I'm full now!",XMESS_0073,南方波稲
+XMESS_0072,Hm? You're already done eating?,XMESS_0072,南方ひづる
+XMESS_0073,"Yeah, it was super delicious! I'm so full now!",XMESS_0073,南方波稲
 XMESS_0074,…That's good.,XMESS_0074,南方ひづる
-XMESS_0075,"(Despite all that noise,
-A parfait could satisfy you?)",XMESS_0075,南方ひづる
-XMESS_0076,"(Children's stomachs are that big, I guess…
-I've forgotten what I was like back then)",XMESS_0076,南方ひづる
-XMESS_0077,"Alain, thank you.
-I'll leave the payment on the table.",XMESS_0077,南方ひづる
-XMESS_0078,"Ah, next time we can chat properly.",XMESS_0078,小舟アラン
-XMESS_0079,"Yeah.
-Then we'll end it here today.",XMESS_0079,南方ひづる
+XMESS_0075,"(Even though her stomach was growling that much, can a single parfait really satisfy her?)",XMESS_0075,南方ひづる
+XMESS_0076,(Was the capacity of a child's stomach really like that... I've completely forgotten how I used to be.),XMESS_0076,南方ひづる
+XMESS_0077,"Alain, thanks for the food. I'll leave the money on the table.",XMESS_0077,南方ひづる
+XMESS_0078,"Yeah, let's take our time and chat next time you come.",XMESS_0078,小舟アラン
+XMESS_0079,"Sounds good. Well then, we'll be going now.",XMESS_0079,南方ひづる
 XMESS_0080,Bye~!,XMESS_0080,南方波稲

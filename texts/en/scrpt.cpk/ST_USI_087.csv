@@ -1,308 +1,199 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,7. Hitogashima Shrine,XCHAPTITLE_0002,
 XMESS_0000,…Hello.,XMESS_0000,網代慎平
-XMESS_0001,Ah… Hello.,XMESS_0001,雁切真砂人
-XMESS_0002,"I came to talk with you, Karikiri-san. 
-Do you have time?",XMESS_0002,網代慎平
-XMESS_0003,"Yes, that's fine.
-Then come in - it'd be awkward to stand here talking.",XMESS_0003,雁切真砂人
+XMESS_0001,Oh... hello.,XMESS_0001,雁切真砂人
+XMESS_0002,"I came because I had something to talk to you about, Karikiri-san. Do you have time?",XMESS_0002,網代慎平
+XMESS_0003,"Yes, I don't mind. Well then, it's not good to just stand around talking, so please come inside.",XMESS_0003,雁切真砂人
 XMESS_0004,…,XMESS_0004,網代慎平
 XMESS_0005,Do you sense any shadow?,XMESS_0005,網代慎平
-XMESS_0006,…None…,XMESS_0006,ウシオ
-XMESS_0007,"As Nagumo-sensei said, you're definitely not a shadow.",XMESS_0007,ウシオ
-XMESS_0008,"So… 
-But don't let your guard down.",XMESS_0008,網代慎平
+XMESS_0006,...No...,XMESS_0006,ウシオ
+XMESS_0007,"Just like Nagumo-sensei said, Karikiri-san really isn't a shadow.",XMESS_0007,ウシオ
+XMESS_0008,"Okay, but don't let yer guard down.",XMESS_0008,網代慎平
 XMESS_0009,Yeah.,XMESS_0009,ウシオ
 XMESS_0010,I brought some cold barley tea for you.,XMESS_0010,雁切真砂人
-XMESS_0011,"Ugh, it's so hot every day…
-Here, please.",XMESS_0011,雁切真砂人
+XMESS_0011,Man~~ it sure is hot every day... Here you go.,XMESS_0011,雁切真砂人
 XMESS_0012,Yes… thank you.,XMESS_0012,網代慎平
-XMESS_0013,"In Tokyo, is it like that? Is it hotter than Wakayama?",XMESS_0013,雁切真砂人
-XMESS_0014,"Well…
-It's not really any different.",XMESS_0014,網代慎平
-XMESS_0015,"…Hey, Karikiri-san. 
-You came to Tokyo last year, right?",XMESS_0015,網代慎平
+XMESS_0013,"So, about Tokyo, is it hotter than Wakayama?",XMESS_0013,雁切真砂人
+XMESS_0014,"No, it's not much different.",XMESS_0014,網代慎平
+XMESS_0015,"...Oh wait, but Karikiri-san. You went to Tokyo last year, right?",XMESS_0015,網代慎平
 XMESS_0016,Huh?,XMESS_0016,雁切真砂人
-XMESS_0017,You said that yesterday. That you went to a game event in Tokyo.,XMESS_0017,網代慎平
-XMESS_0018,"Ah! Right, the one near the sea!
-Makuhari, right? It's in Chiba…",XMESS_0018,雁切真砂人
-XMESS_0019,Ugh… it was so hot there.,XMESS_0019,雁切真砂人
-XMESS_0020,There were way too many people…,XMESS_0020,雁切真砂人
-XMESS_0021,"You really like games, huh?
-What kind do you play?",XMESS_0021,網代慎平
-XMESS_0022,"Back then I only played RPGs…
-Now I prefer PC FPS and simulation games.",XMESS_0022,雁切真砂人
-XMESS_0023,Are you going this year too?,XMESS_0023,網代慎平
-XMESS_0024,"…No.
-This year's probably impossible…",XMESS_0024,雁切真砂人
-XMESS_0025,That RPG remake I wanted to play… when is it coming out?,XMESS_0025,雁切真砂人
-XMESS_0026,"It's your favorite, huh?",XMESS_0026,網代慎平
-XMESS_0027,"Of course!
-The world-building really appeals to me. 
-Since it came out at the end of an era…",XMESS_0027,雁切真砂人
-XMESS_0028,"Its art and music have this decadent atmosphere.
-It makes you think about how to live your life.",XMESS_0028,雁切真砂人
-XMESS_0029,"Life…
-For me, games are like novels for you.",XMESS_0029,網代慎平
-XMESS_0030,"Have you heard of the novel ""Masho"" by Nagumo Ryunosuke?
-I really like it…",XMESS_0030,網代慎平
-XMESS_0031,"It's about me… 
-My story, I think that way these days.",XMESS_0031,網代慎平
-XMESS_0032,Masho…,XMESS_0032,雁切真砂人
-XMESS_0033,"I don't know that novel, but I do know the thought experiment ""Masho."" 
-Is it about something like that?",XMESS_0033,雁切真砂人
-XMESS_0034,"Yes…
-One day, a copy of the protagonist appears and takes over his life.",XMESS_0034,網代慎平
-XMESS_0035,No one at home or school notices it's a clone.,XMESS_0035,網代慎平
-XMESS_0036,"The copy has the protagonist's memories, personality and DNA - perfectly copied.",XMESS_0036,網代慎平
-XMESS_0037,"In that case… is this clone considered to be the same person?
-What do you think?",XMESS_0037,網代慎平
-XMESS_0038,"That's…
-It would have to be ""the same person,"" wouldn't it.",XMESS_0038,雁切真砂人
-XMESS_0039,Human cells are constantly replaced through metabolism…,XMESS_0039,雁切真砂人
-XMESS_0040,Through cell division.,XMESS_0040,雁切真砂人
-XMESS_0041,It's just a matter of whether it happens in an instant or gradually.,XMESS_0041,雁切真砂人
-XMESS_0042,"So, the Masho is essentially identical to the original.",XMESS_0042,網代慎平
-XMESS_0043,That's what I think.,XMESS_0043,雁切真砂人
+XMESS_0017,"You said so yesterday, didn't you? That you went to a game event in Tokyo.",XMESS_0017,網代慎平
+XMESS_0018,"Ah! Yes, yes, the one near the sea! Makuhari, right! Though Makuhari is in Chiba...",XMESS_0018,雁切真砂人
+XMESS_0019,Man~~ that's right. Tokyo was hot!,XMESS_0019,雁切真砂人
+XMESS_0020,The amount of people was also crazy~~.,XMESS_0020,雁切真砂人
+XMESS_0021,"You really like games, don't you. What kind do you play?",XMESS_0021,網代慎平
+XMESS_0022,"In the past I only played RPGs... Now I like PC FPS, or simulation games...",XMESS_0022,雁切真砂人
+XMESS_0023,Are you going again this year?,XMESS_0023,網代慎平
+XMESS_0024,"No, I probably won't make it this year.",XMESS_0024,雁切真砂人
+XMESS_0025,I wanted to play that RPG remake so bad~~ I wonder when it's coming out?,XMESS_0025,雁切真砂人
+XMESS_0026,"It's a game you like, isn't it?",XMESS_0026,網代慎平
+XMESS_0027,"Oh, definitely! I really like the world setting. Maybe because it was released at the end of the century.",XMESS_0027,雁切真砂人
+XMESS_0028,The art and music both have a somewhat decadent mood. It makes you think about how to end your life.,XMESS_0028,雁切真砂人
+XMESS_0029,"Life, huh... Games are to you, Karikiri-san, what novels are to me.",XMESS_0029,網代慎平
+XMESS_0030,Do you know the novel 'Swamp Man' by Ryunosuke Nagumo? I really like it...,XMESS_0030,網代慎平
+XMESS_0031,That it's written about me... That it's my story... I've been thinking that recently.,XMESS_0031,網代慎平
+XMESS_0032,Swampman...,XMESS_0032,雁切真砂人
+XMESS_0033,"I don't know the novel, but I do know the thought experiment '<color=#GF_TIPS_047>Swampman</color>'. Is it that kind of story?",XMESS_0033,雁切真砂人
+XMESS_0034,"Yes... One day, a copy of the protagonist appears, and lives life taking the protagonist's place.",XMESS_0034,網代慎平
+XMESS_0035,No one at home or at school notices that they're a copy.,XMESS_0035,網代慎平
+XMESS_0036,"The copy perfectly replicates the protagonist's memories, personality, and even DNA.",XMESS_0036,網代慎平
+XMESS_0037,"In that case, can that copy be said to be the exact same person as yourself...? What do you think?",XMESS_0037,網代慎平
+XMESS_0038,I would think it's the same person.,XMESS_0038,雁切真砂人
+XMESS_0039,Human cells are constantly being replaced with new ones every day through metabolism...,XMESS_0039,雁切真砂人
+XMESS_0040,By repeating cell division.,XMESS_0040,雁切真砂人
+XMESS_0041,"It's just a difference of whether it happened in an instant, or slowly.",XMESS_0041,雁切真砂人
+XMESS_0042,"In other words, Swampman is the same as the real thing.",XMESS_0042,網代慎平
+XMESS_0043,"Yes, I do.",XMESS_0043,雁切真砂人
 XMESS_0044,…,XMESS_0044,網代慎平
-XMESS_0045,"Shinpei-kun, do you always think about things like this?
-You asked me yesterday about the shadow too.",XMESS_0045,雁切真砂人
-XMESS_0046,I also researched the Hiruko legend.,XMESS_0046,網代慎平
-XMESS_0047,"At first I wanted to ask you, but Hizuru explained it in detail.",XMESS_0047,網代慎平
-XMESS_0048,"About 300 years ago during the Edo period,
-a god named Hiruko drifted to this island.",XMESS_0048,網代慎平
-XMESS_0049,"If we use sci-fi imagination, it might have come from ""outside"" of the world.
-Deep in the ocean or far away in space… 
-Or maybe another dimension.",XMESS_0049,網代慎平
-XMESS_0050,"Let's assume it came from outer space…
-In any case, it was a lifeform that drifted through the cosmos.",XMESS_0050,網代慎平
-XMESS_0051,It would copy nearby objects to transform and use their information as nourishment.,XMESS_0051,網代慎平
-XMESS_0052,"But in space, the things it could change were limited.",XMESS_0052,網代慎平
-XMESS_0053,"Probably as a meteorite that came to Earth. 
-It fell into the sea, which is full of life…",XMESS_0053,網代慎平
-XMESS_0054,"Fish, seaweed, corals and anemones… 
-It probably copied many things.",XMESS_0054,網代慎平
-XMESS_0055,How much time passed there…,XMESS_0055,網代慎平
-XMESS_0056,…,XMESS_0056,網代慎平
-XMESS_0057,"This is just Hizuru's imagination. 
-But after that, it connects to the Hiruko legend in documents.",XMESS_0057,雁切真砂人
-XMESS_0058,"300 years ago,
-it transformed into a whale.",XMESS_0058,網代慎平
-XMESS_0059,"Then, for some reason it drifted to this island…
-It copied the daughter of a fisherman who came to see the whale.",XMESS_0059,網代慎平
-XMESS_0060,That's when Shadow Sickness began.,XMESS_0060,網代慎平
-XMESS_0061,"…Indeed, the Hiruko legend says exactly that…",XMESS_0061,網代慎平
-XMESS_0062,"Shinpei-kun. 
-Do you really think this is true?",XMESS_0062,雁切真砂人
-XMESS_0063,"Yes, the shadow exists.
-And it killed Ushio and my parents…",XMESS_0063,雁切真砂人
-XMESS_0064,"Tomorrow, it will kill everyone gathered in this shrine grounds.",XMESS_0064,網代慎平
-XMESS_0065,…,XMESS_0065,網代慎平
-XMESS_0066,Haha…,XMESS_0066,雁切真砂人
-XMESS_0067,"Sorry, Shinpei-kun… 
-You've read too many books.
-That's also very inappropriate.",XMESS_0067,雁切真砂人
-XMESS_0068,"It makes sense that you're upset about Ushio dying, but please rest more.",XMESS_0068,雁切真砂人
-XMESS_0069,I already know everything.,XMESS_0069,雁切真砂人
-XMESS_0070,"Karikiri-san.
-You know this is true, don't you?",XMESS_0070,網代慎平
-XMESS_0071,"Because you… 
-you were there for all of it.",XMESS_0071,網代慎平
-XMESS_0072,…,XMESS_0072,網代慎平
-XMESS_0073,Look at this photo.,XMESS_0073,雁切真砂人
-XMESS_0074,…,XMESS_0074,網代慎平
-XMESS_0075,"It's a small photo, so I didn't notice at first.",XMESS_0075,雁切真砂人
-XMESS_0076,"But when I showed it to Hishigata,
-he said that was you.",XMESS_0076,網代慎平
-XMESS_0077,"The man on the right is probably 
-Hishigata-sensei's grandfather, isn't he?",XMESS_0077,網代慎平
-XMESS_0078,"In a photo from 70 years ago…
-Why are you in it?",XMESS_0078,網代慎平
-XMESS_0079,"Karikiri Masahito.
-No…",XMESS_0079,網代慎平
-XMESS_0080,"Hishigata, Shigeo!
-You're the one called Shide!",XMESS_0080,網代慎平
-XMESS_0081,…,XMESS_0081,網代慎平
-XMESS_0082,…,XMESS_0082,網代慎平
-XMESS_0083,"(If needed, I won't hesitate to shoot!)",XMESS_0083,雁切真砂人
-XMESS_0084,Shinpei-kun…,XMESS_0084,網代慎平
-XMESS_0085,Don't move.,XMESS_0085,網代慎平
-XMESS_0086,"If you move, I'll shoot.",XMESS_0086,雁切真砂人
-XMESS_0087,"…Next time you move, I'll kill you.",XMESS_0087,網代慎平
-XMESS_0088,…,XMESS_0088,網代慎平
-XMESS_0089,"Hishigata…
-What did you say?",XMESS_0089,網代慎平
-XMESS_0090,"You won't answer my questions.
-It's me who will ask them.",XMESS_0090,雁切真砂人
-XMESS_0091,"After escaping from the gymnasium yesterday night,
-you decided to cut down Hishigata-sensei.",XMESS_0091,雁切真砂人
-XMESS_0092,"You sent Nurse Negoro 
-to retrieve Ushio's body and eliminate Hishigata.",XMESS_0092,網代慎平
-XMESS_0093,"There is another photo too.
-Look at it.",XMESS_0093,網代慎平
-XMESS_0094,"Nurse Negoro scanned Hishigata-sensei's memories,
-found that the picture was hidden in a safe, 
-and tried to erase it…",XMESS_0094,網代慎平
-XMESS_0095,"Because there you are.
-Your true identity is captured on that photo.",XMESS_0095,網代慎平
-XMESS_0096,"But Hishigata-sensei hid the safe with Tokiko…
-He didn't know where it was.",XMESS_0096,網代慎平
-XMESS_0097,…,XMESS_0097,網代慎平
-XMESS_0098,"Going back 40 years,
-that was a photo taken by Hishigata-sensei's father.",XMESS_0098,網代慎平
-XMESS_0099,"You're not a shadow, 
-but you aren't just an ordinary human either…",XMESS_0099,雁切真砂人
-XMESS_0100,…,XMESS_0100,網代慎平
-XMESS_0101,"(With the clues I've gathered, 
-I arrived at this truth)",XMESS_0101,網代慎平
-XMESS_0102,"(4th loop, July 23rd.
-While exploring the old ward of Hishigata Clinic,
-I found a strange statue)",XMESS_0102,雁切真砂人
-XMESS_0103,"(If that was indeed Hiruko's image, 
-there might be connections between Hishigata Clinic and Hitogashima Shrine)",XMESS_0103,網代慎平
-XMESS_0104,"(5th loop, July 22nd)",XMESS_0104,網代慎平
-XMESS_0105,(After the fake time-loop with Nagumo and Nezu at Fourth Battery Site),XMESS_0105,網代慎平
-XMESS_0106,The four-armed one might be Karikiri Masahito.,XMESS_0106,網代慎平
-XMESS_0107,"Huh!?
-Karikiri's son!",XMESS_0107,網代慎平
-XMESS_0108,"You guys think that too, right?",XMESS_0108,南方ひづる
-XMESS_0109,…Yeah…,XMESS_0109,根津銀次郎
-XMESS_0110,"If Hiruko is the mother of Haine, 
-then Hitogashima Shrine that worships her would be very suspicious. 
-After all, Karikiri-san's a shrine priest.",XMESS_0110,南方ひづる
-XMESS_0111,But… isn't Karikiri human?,XMESS_0111,網代慎平
-XMESS_0112,"Why does the four-armed one hide its face? 
-If it's a shadow, it could just transform into someone else.",XMESS_0112,ウシオ
-XMESS_0113,"What if the truth is that he's human and 
-""can't copy?""",XMESS_0113,根津銀次郎
-XMESS_0114,"True, I've never seen him scan someone…
-But prints were made.",XMESS_0114,南方ひづる
-XMESS_0115,"The black mud that makes up the shadow… 
-It's an unknown exotic substance.",XMESS_0115,南方ひづる
-XMESS_0116,"If the four-armed one is a human wearing that mud like armor…
-…",XMESS_0116,網代慎平
+XMESS_0045,"Shinpei-kun, do you always think about things like that? You asked me about shadows yesterday too, didn't you.",XMESS_0045,雁切真砂人
+XMESS_0046,I also looked into the legend of Hiruko.,XMESS_0046,網代慎平
+XMESS_0047,"At first I was going to ask you, Karikiri-san, but Hizuru-san taught me about it in detail.",XMESS_0047,網代慎平
+XMESS_0048,"About 300 years ago, during the Edo period, the god that washed ashore on this island, Hiruko-sama.",XMESS_0048,網代慎平
+XMESS_0049,"To stretch my sci-fi imagination, it came from 'outside' this world long, long ago.",XMESS_0049,網代慎平
+XMESS_0050,"The bottom of the deep sea, far out in space... or perhaps another dimension.",XMESS_0050,網代慎平
+XMESS_0051,"Let's assume for now that it came from space... Anyway, it was a lifeform drifting through space.",XMESS_0051,網代慎平
+XMESS_0052,"A lifeform that transforms by copying nearby objects, and uses the copied information as nutrition.",XMESS_0052,網代慎平
+XMESS_0053,"But in outer space, the things it could transform into were limited.",XMESS_0053,網代慎平
+XMESS_0054,It probably came to Earth in the form of a 'meteorite'. It must have fallen into the sea. The sea is brimming with life...,XMESS_0054,網代慎平
+XMESS_0055,"Fish, seaweed, coral, and sea anemones... It probably copied all sorts of things.",XMESS_0055,網代慎平
+XMESS_0056,"How much time passed there, I wonder...",XMESS_0056,網代慎平
+XMESS_0057,…………。,XMESS_0057,雁切真砂人
+XMESS_0058,"Up to this point is nothing more than Hizuru-san's imagination. But after this, it connects to the Hiruko legend found in the literature.",XMESS_0058,網代慎平
+XMESS_0059,300 years ago. It transformed into a whale.,XMESS_0059,網代慎平
+XMESS_0060,"Then, for some reason, it washed ashore on this island... And copied a fisherman's daughter who had gathered to see the whale.",XMESS_0060,網代慎平
+XMESS_0061,That was the start of the shadow sickness.,XMESS_0061,網代慎平
+XMESS_0062,"...Indeed, the <color=#GF_TIPS_107>Hiruko legend</color> goes exactly like that, but...",XMESS_0062,雁切真砂人
+XMESS_0063,Shinpei-kun. Don't tell me you think that story is true?,XMESS_0063,雁切真砂人
+XMESS_0064,"Yes, shadows actually exist. And they killed Ushio, killed my parents--",XMESS_0064,網代慎平
+XMESS_0065,"Tomorrow, they will massacre all the people gathered in these shrine grounds.",XMESS_0065,網代慎平
+XMESS_0066,…………。,XMESS_0066,雁切真砂人
+XMESS_0067,Ahaha...,XMESS_0067,雁切真砂人
+XMESS_0068,"Ah, excuse me... Shinpei-kun... You've definitely been reading too many books... Besides, isn't that inappropriate...?",XMESS_0068,雁切真砂人
+XMESS_0069,I understand you're upset about Ushio-chan passing away. You should rest well.,XMESS_0069,雁切真砂人
+XMESS_0070,I already know everything.,XMESS_0070,網代慎平
+XMESS_0071,Karikiri-san. You know this is a true story.,XMESS_0071,網代慎平
+XMESS_0072,"After all, you've watched it all unfold first-hand.",XMESS_0072,網代慎平
+XMESS_0073,…………。,XMESS_0073,雁切真砂人
+XMESS_0074,Please look at this photo.,XMESS_0074,網代慎平
+XMESS_0075,…………。,XMESS_0075,雁切真砂人
+XMESS_0076,"It's small, so I didn't notice at first.",XMESS_0076,網代慎平
+XMESS_0077,"But when I showed it to Dr. Hishigata, he said it was you.",XMESS_0077,網代慎平
+XMESS_0078,The man on the right is apparently Dr. Hishigata's grandfather.,XMESS_0078,網代慎平
+XMESS_0079,In a photo from 70 years ago... Why are you in it?,XMESS_0079,網代慎平
+XMESS_0080,Karikiri Masahito-san. No...,XMESS_0080,網代慎平
+XMESS_0081,Hishigata... Shidehiko!,XMESS_0081,網代慎平
+XMESS_0082,You are Shide.,XMESS_0082,網代慎平
+XMESS_0083,…………。,XMESS_0083,雁切真砂人
+XMESS_0084,…………。,XMESS_0084,網代慎平
+XMESS_0085,"(Depending on his move, I'll shoot without hesitation...!)",XMESS_0085,網代慎平
+XMESS_0086,Shinpei-kun--,XMESS_0086,雁切真砂人
+XMESS_0087,Don't move.,XMESS_0087,網代慎平
+XMESS_0088,"If you move, I shoot.",XMESS_0088,網代慎平
+XMESS_0089,"...If you move again, I'll kill you.",XMESS_0089,網代慎平
+XMESS_0090,…………。,XMESS_0090,雁切真砂人
+XMESS_0091,What has Dr. Hishigata told ya?,XMESS_0091,雁切真砂人
+XMESS_0092,I'm not answering your questions. I'm the one asking.,XMESS_0092,網代慎平
+XMESS_0093,"Last night, after escaping the gym, you made the decision to cut off Dr. Hishigata.",XMESS_0093,網代慎平
+XMESS_0094,"You sent in Nurse Negoro-san, and ordered her to recover Ushio's body and erase Dr. Hishigata.",XMESS_0094,網代慎平
+XMESS_0095,Look at the other photograph.,XMESS_0095,網代慎平
+XMESS_0096,"Negoro-san scanned Dr. Hishigata's memories, learned that the photo was hidden in a safe, and tried to destroy it...",XMESS_0096,網代慎平
+XMESS_0097,Because your true identity is captured in it.,XMESS_0097,網代慎平
+XMESS_0098,But Dr. Hishigata had Toki-chan hide the safe... And made it so he himself wouldn't know its location.,XMESS_0098,網代慎平
+XMESS_0099,…………。,XMESS_0099,雁切真砂人
+XMESS_0100,Moving down to 40 years ago. That was taken by Dr. Hishigata's father.,XMESS_0100,網代慎平
+XMESS_0101,You're not a shadow. But you're not just a normal human either...,XMESS_0101,網代慎平
+XMESS_0102,…………。,XMESS_0102,雁切真砂人
+XMESS_0103,"(Based on the clues I've gathered so far, I arrived at this truth.)",XMESS_0103,網代慎平
+XMESS_0104,"(4th loop, July 23rd. The strange statue I found while exploring the old ward of the Hishigata Clinic--)",XMESS_0104,網代慎平
+XMESS_0105,"(If that was a statue of Hiruko-sama, I started to think there might be a connection between the Hishigata Clinic and Hitogashima Shrine.)",XMESS_0105,網代慎平
+XMESS_0106,"(5th loop, July 22nd.)",XMESS_0106,網代慎平
+XMESS_0107,"(At the Fourth Gun Battery Ruins, after the pseudo-loop with Nagumo-sensei and Nezu-san--)",XMESS_0107,網代慎平
+XMESS_0108,The true identity of the four-armed one might be Karikiri Masahito.,XMESS_0108,南方ひづる
+XMESS_0109,Hah!? Karikiri's son!?,XMESS_0109,根津銀次郎
+XMESS_0110,Weren't you guys thinking that too?,XMESS_0110,南方ひづる
+XMESS_0111,...Yeah...,XMESS_0111,網代慎平
+XMESS_0112,"If Hiruko-sama... if Haine is the mother of shadows, then Hitogashima Shrine that worships her is super suspicious, right? Since Karikiri-san is the shrine's chief priest...",XMESS_0112,ウシオ
+XMESS_0113,"Yeah, but ain't Karikiri a human?",XMESS_0113,根津銀次郎
+XMESS_0114,"Why does the four-armed one hide its face? If it were a shadow, it could just transform into someone else...",XMESS_0114,南方ひづる
+XMESS_0115,"What if he's actually human, and 'doesn't have copy abilities'?",XMESS_0115,南方ひづる
+XMESS_0116,"True, I've never seen him scan anything... But he did print things...",XMESS_0116,網代慎平
 XMESS_0117,"That black mud which constitutes the shadow…
 It seems to be an unknown exotic substance.",XMESS_0117,南方ひづる
-XMESS_0118,If those four arms were encasing that mud like armor…?,XMESS_0118,南方ひづる
-XMESS_0119,"Hiding my face would be bad if seen…
-In other words, someone we all know…",XMESS_0119,根津銀次郎
+XMESS_0118,What if the four-armed one is a human wearing that mud like armor...?,XMESS_0118,南方ひづる
+XMESS_0119,"Hiding his face means it'd be bad if he was seen... In other words, a person we know well...",XMESS_0119,根津銀次郎
 XMESS_0120,…,XMESS_0120,網代慎平
-XMESS_0121,"The Four-Armed Shadow's goal was Haine…
-Was it to revive that child…?",XMESS_0121,南方ひづる
-XMESS_0122,"…On the day after tomorrow, during the summer festival,
-the shadows will kill many people…
-It seems they plan to feed them to Haine.",XMESS_0122,網代慎平
-XMESS_0123,"Though I don't know what comes after that ritual,
-the Four-Armed Shadow definitely called it ""Ending""…",XMESS_0123,網代慎平
-XMESS_0124,"(6th loop, July 22nd.
-After Koba Mart entry halted――)",XMESS_0124,網代慎平
-XMESS_0125,"Shinpei-kun… don't push yourself too hard, okay?",XMESS_0125,小弓場かおり
+XMESS_0121,The four-armed one's goal is Haine... To resurrect that child...?,XMESS_0121,南方ひづる
+XMESS_0122,...It seems the shadows intend to kill a lot of people at the summer festival the day after tomorrow... and feed them to Haine.,XMESS_0122,網代慎平
+XMESS_0123,"I don't know what lies beyond that ritual, but the four-armed one definitely called it an 'ending'...",XMESS_0123,網代慎平
+XMESS_0124,"(6th loop, July 22nd. After aborting the Koba Mart entry--)",XMESS_0124,網代慎平
+XMESS_0125,"Ajiro-kun... don't push yourself too hard, okay?",XMESS_0125,小弓場かおり
 XMESS_0126,Then we'll go as well.,XMESS_0126,網代慎平
-XMESS_0127,There's something I need to say first…,XMESS_0127,南方ひづる
-XMESS_0128,Something you want to say?,XMESS_0128,網代慎平
-XMESS_0129,"It's definitely Karikiri Masahito.
-I confirmed it through Ushio's memories.",XMESS_0129,南方ひづる
+XMESS_0127,There's something I want to talk about before that...,XMESS_0127,南方ひづる
+XMESS_0128,Something you want to talk about?,XMESS_0128,網代慎平
+XMESS_0129,The four-armed one is Karikiri Masahito after all. I'm convinced of it now after facing him in Ushio's memories.,XMESS_0129,南方ひづる
 XMESS_0130,How did you figure that out!?,XMESS_0130,ウシオ
-XMESS_0131,"I've always disliked the shrine master…
-The Four-Armed Shadow feels exactly the same!",XMESS_0131,南方ひづる
-XMESS_0132,"What's this!! 
-It's your intuition, isn't it!?",XMESS_0132,根津銀次郎
-XMESS_0133,"Even if you hide your face in armor,
-you can't conceal humanity…",XMESS_0133,南方ひづる
-XMESS_0134,"Moreover, since Nezu's ""Shadow Sewing""
-didn't work on him,
-it raises the possibility he's human.",XMESS_0134,南方ひづる
-XMESS_0135,"But Karikiri was supposed to be at the funeral…
-He should still be there…",XMESS_0135,網代慎平
-XMESS_0136,Maybe he left the funeral to the shadow.,XMESS_0136,ウシオ
+XMESS_0131,I've always been bad with that priest... I instinctively reject the four-armed one in the exact same way!,XMESS_0131,南方ひづる
+XMESS_0132,What the heck!! That's just your intuition!,XMESS_0132,根津銀次郎
+XMESS_0133,"Even if he can hide his face with armor, he can't hide his humanity...",XMESS_0133,南方ひづる
+XMESS_0134,"Besides, the fact that Nezu's 'Shadow Weaving' didn't work also increased the possibility that he's human.",XMESS_0134,南方ひづる
+XMESS_0135,But Karikiri-san should still be at the funeral venue at that time...,XMESS_0135,網代慎平
+XMESS_0136,Maybe he sent his shadow to the funeral.,XMESS_0136,ウシオ
 XMESS_0137,…,XMESS_0137,網代慎平
-XMESS_0138,"If he actually has a body…
-There's the assassination option…",XMESS_0138,根津銀次郎
+XMESS_0138,If there really is someone inside... We can use the assassination method...,XMESS_0138,根津銀次郎
 XMESS_0139,"If he's just human,
 killing him would be easy.",XMESS_0139,南方ひづる
-XMESS_0140,"Act oblivious and go to the shrine,  
-then BAM while chatting.",XMESS_0140,南方ひづる
-XMESS_0141,"No! That's murder!!!
-We need more definite proof!",XMESS_0141,網代慎平
-XMESS_0142,"If he is human…  
-he might respond to negotiation.",XMESS_0142,網代慎平
-XMESS_0143,I just hope so…,XMESS_0143,南方ひづる
-XMESS_0144,"Ushio, I need to confirm.
-Can we hack Mio and make her one of us?",XMESS_0144,南方ひづる
-XMESS_0145,"Oh! Right!
-If you block Haine's telepathy,  
-it'll work like me!",XMESS_0145,ウシオ
-XMESS_0146,"(7th loop, July 22nd.
-After gym battle――)",XMESS_0146,網代慎平
-XMESS_0147,"Fire was effective against shadows…
-The normal shadow merged with Shide died instantly.  
-It also slowed down Shide's movements.",XMESS_0147,南方ひづる
-XMESS_0148,"Furthermore, through Ushio's ""hacking,""  
-it was accidentally discovered someone is inside Shide.",XMESS_0148,南方ひづる
-XMESS_0149,"Shide has a burn on his left hand.  
-That'll be an indicator of the real identity.",XMESS_0149,南方ひづる
-XMESS_0150,"(7th loop, July 22nd.
-In Hishigata Clinic basement――)",XMESS_0150,網代慎平
+XMESS_0140,"Go to the shrine pretending not to know, and then BAM while making small talk.",XMESS_0140,南方ひづる
+XMESS_0141,"No, that's murder!!! Unless we have more decisive proof...",XMESS_0141,網代慎平
+XMESS_0142,"Besides, if he's human... if we corner him, he might agree to talk.",XMESS_0142,網代慎平
+XMESS_0143,It would be good if that were the case...,XMESS_0143,南方ひづる
+XMESS_0144,"Ushio, I'd like to confirm something. Can you make Mio our ally by hacking her?",XMESS_0144,南方ひづる
+XMESS_0145,"Oh, I see...!! I just have to make it so she doesn't receive Haine's telepathy, just like me!",XMESS_0145,ウシオ
+XMESS_0146,"(7th loop, July 22nd. After the gym battle--)",XMESS_0146,網代慎平
+XMESS_0147,Fire was effective against shadows... Normal shadows assimilated with Shide died instantly. It also had the effect of slowing Shide's movements.,XMESS_0147,南方ひづる
+XMESS_0148,"Furthermore, through Ushio's 'hacking', it was accidentally revealed that someone was inside Shide's body...",XMESS_0148,南方ひづる
+XMESS_0149,Shide suffered a burn on the left hand. This will likely serve as a mark to identify their true identity.,XMESS_0149,南方ひづる
+XMESS_0150,"(7th loop, July 22nd. Hishigata Clinic basement--)",XMESS_0150,網代慎平
 XMESS_0151,"He is Haine's guardian,  
 and her first child.",XMESS_0151,菱形青銅
-XMESS_0152,The original name was Hishigata Kamadori.,XMESS_0152,菱形青銅
-XMESS_0153,Founder and first director of the Hishigata Clinic.,XMESS_0153,菱形青銅
-XMESS_0154,N…!?,XMESS_0154,菱形朱鷺子
-XMESS_0155,"She still didn't know yet…
-About Shide's true identity…",XMESS_0155,菱形青銅
-XMESS_0156,This child just hid the safe on my orders.,XMESS_0156,菱形青銅
+XMESS_0152,The original name was Shidehiko Hishigata.,XMESS_0152,菱形青銅
+XMESS_0153,The founder and first director of the Hishigata Clinic.,XMESS_0153,菱形青銅
+XMESS_0154,Wha...!?,XMESS_0154,菱形朱鷺子
+XMESS_0155,Tokiko still didn't know... About Shide's true identity...,XMESS_0155,菱形青銅
+XMESS_0156,This child merely hid the safe on my instructions.,XMESS_0156,菱形青銅
 XMESS_0157,And this is…,XMESS_0157,菱形青銅
-XMESS_0158,W… What's this photo!?,XMESS_0158,網代慎平
-XMESS_0159,"The Hishigata family has long been in charge of the island's rituals,  
-but during the Edo period, Kamadori's father started pretending to be a doctor…",XMESS_0159,菱形青銅
-XMESS_0160,That was the origin of Hishigata Clinic…,XMESS_0160,菱形青銅
-XMESS_0161,"Wait!  
-Hishigata… isn't that Karikiri!?  
-The shrine is…",XMESS_0161,菱形窓
-XMESS_0162,"Hishigata and Karikiri were originally the same family…
-Karikiri branched off from Hishigata.",XMESS_0162,菱形青銅
-XMESS_0163,N…!,XMESS_0163,菱形窓
+XMESS_0158,Wh-What is this photograph?,XMESS_0158,網代慎平
+XMESS_0159,"The Hishigata family had overseen the island's religious rituals since ancient times, but in the mid-Edo period, Shidehiko's father started imitating a doctor...",XMESS_0159,菱形青銅
+XMESS_0160,That was the origin of the Hishigata Clinic...,XMESS_0160,菱形青銅
+XMESS_0161,"Wait a minute! Hishigata... you mean Karikiri, right!? The shrine is...",XMESS_0161,菱形窓
+XMESS_0162,Hishigata and Karikiri were originally the same family... Karikiri is a lineage that branched off from Hishigata.,XMESS_0162,菱形青銅
+XMESS_0163,Wha...,XMESS_0163,菱形窓
 XMESS_0164,Do you know the Hiruko legend?,XMESS_0164,菱形青銅
-XMESS_0165,The day Hiruko washed ashore…,XMESS_0165,南方ひづる
-XMESS_0166,"Hiruko became Haine,  
-and was worshipped as a god by the islanders…",XMESS_0166,南方ひづる
+XMESS_0165,The day Hiruko washed ashore...,XMESS_0165,南方ひづる
+XMESS_0166,"Hiruko became Haine, and Haine was enshrined as a god by the islanders...",XMESS_0166,南方ひづる
 XMESS_0167,…That's right.,XMESS_0167,菱形青銅
-XMESS_0168,"Eventually, Kamadori…
-Had a child with the deity.",XMESS_0168,菱形青銅
-XMESS_0169,"Not born from a flat surface as shadows usually are.  
-From a three-dimensional…",XMESS_0169,菱形青銅
-XMESS_0170,Haine was impregnated and made to give birth…,XMESS_0170,菱形青銅
-XMESS_0171,"Then he claimed to be the ""God's Husband,""  
-and started using the name Hoine and Karikiri…",XMESS_0171,菱形青銅
-XMESS_0172,Then Kamadori had a brother.,XMESS_0172,菱形青銅
-XMESS_0173,"After Haine's birth, the Hishigata family split.  
-From then on Karikiri families worshipped the deity…",XMESS_0173,菱形青銅
-XMESS_0174,The Hishigatas became a medical family.,XMESS_0174,菱形青銅
-XMESS_0175,So Shide and the Hishigata are distant relatives through blood!?,XMESS_0175,菱形朱鷺子
-XMESS_0176,…What nonsense.,XMESS_0176,菱形窓
-XMESS_0177,…So what happened to that child!?,XMESS_0177,網代慎平
-XMESS_0178,"As he grew up,  
-he looked exactly like Kamadori.",XMESS_0178,菱形青銅
-XMESS_0179,"That's probably the nature of shadows…
-When Haine gets pregnant,  
-the child is a clone of the father.",XMESS_0179,菱形青銅
-XMESS_0180,That's where it starts…,XMESS_0180,菱形青銅
-XMESS_0181,"Seeing this, Kamadori awakened a desire…",XMESS_0181,菱形青銅
+XMESS_0168,"Eventually, Shidehiko... communed with the god and bore a child.",XMESS_0168,菱形青銅
+XMESS_0169,It wasn't given birth from a 2D plane as a shadow. From a 3D...,XMESS_0169,菱形青銅
+XMESS_0170,He impregnated Haine's physical body and made her give birth...,XMESS_0170,菱形青銅
+XMESS_0171,"And then he styled himself 'Husband of God', and began using Hoine's surname, Karikiri...",XMESS_0171,菱形青銅
+XMESS_0172,Shidehiko also had a brother.,XMESS_0172,菱形青銅
+XMESS_0173,"After Haine gave birth, the Hishigata family split into branches. From then on, the Karikiri family worshipped the god...",XMESS_0173,菱形青銅
+XMESS_0174,And the Hishigata family became a lineage of doctors.,XMESS_0174,菱形青銅
+XMESS_0175,"In other words, Shide and Hishigata are blood-related distant relatives...!?",XMESS_0175,菱形朱鷺子
+XMESS_0176,...That's stupid.,XMESS_0176,菱形窓
+XMESS_0177,What happened to the child?,XMESS_0177,網代慎平
+XMESS_0178,"As that baby grew up, he apparently became the spitting image of Shidehiko.",XMESS_0178,菱形青銅
+XMESS_0179,This is probably the nature of shadows... The child born when Haine gets pregnant is a clone of the father.,XMESS_0179,菱形青銅
+XMESS_0180,This is where it begins...,XMESS_0180,菱形青銅
+XMESS_0181,"Seeing that, Shidehiko awakened a certain desire...",XMESS_0181,菱形青銅
 XMESS_0182,…No way…,XMESS_0182,網代慎平
-XMESS_0183,"He made Haine copy his personality and memories,  
-and implanted them into a clone.",XMESS_0183,菱形青銅
-XMESS_0184,"That's how he achieved ""youthfulness.""",XMESS_0184,菱形青銅
+XMESS_0183,"He had Haine copy his own personality and memories, and transplanted them into the clone.",XMESS_0183,菱形青銅
+XMESS_0184,"By doing so, he achieved 'rejuvenation'.",XMESS_0184,菱形青銅
 XMESS_0185,…!!,XMESS_0185,網代慎平
-XMESS_0186,"Nauseating…  
-That's why I couldn't stand him…",XMESS_0186,南方ひづる
-XMESS_0187,"It was my father who took it…
-This photo too, my father took it.
-It's from when his body was born.",XMESS_0187,菱形青銅
-XMESS_0188,"Shide has been repeating this secret technique,  
-having himself birthed by the mother who gave him life…",XMESS_0188,菱形青銅
-XMESS_0189,He's been living since 300 years ago until now.,XMESS_0189,菱形青銅
-XMESS_0190,…<color=#GF_TIPS_003>you</color>'s body was born 40 years ago.,XMESS_0190,網代慎平
-XMESS_0191,But the inside is Kamadori from 300 years ago…!!,XMESS_0191,網代慎平
-XMESS_0192,Human and shadow hybrid!!!,XMESS_0192,網代慎平
-XMESS_0193,"…
-↓",XMESS_0193,雁切真砂人
+XMESS_0186,Makes me want to puke... No wonder I couldn't stand him...,XMESS_0186,南方ひづる
+XMESS_0187,The one who delivered him was my father... My father took that photo too. It's from when his current body was born.,XMESS_0187,菱形青銅
+XMESS_0188,"Shide has been repeating this secret art, continuing to have the mother who birthed him give birth to him...",XMESS_0188,菱形青銅
+XMESS_0189,He's been living continuously from 300 years ago up to the present...,XMESS_0189,菱形青銅
+XMESS_0190,...<color=#GF_TIPS_003>Your</color> body is that of a person born 40 years ago.,XMESS_0190,網代慎平
+XMESS_0191,But your inside is Shidehiko Hishigata from 300 years ago...!!,XMESS_0191,網代慎平
+XMESS_0192,A hybrid of human and shadow...!!,XMESS_0192,網代慎平
+XMESS_0193,...,XMESS_0193,雁切真砂人

@@ -1,208 +1,129 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,8. A Place Where Two Can Meet,XCHAPTITLE_0002,
-XMESS_0000,(Again… I ended up here),XMESS_0000,網代慎平（収録）
-XMESS_0001,But still… what is this?,XMESS_0001,網代慎平（収録）
-XMESS_0002,"When I come to this beach,
-various emotions keep coming at me alternately.",XMESS_0002,網代慎平（収録）
-XMESS_0003,I feel a bit scared somehow…,XMESS_0003,小舟潮
-XMESS_0004,"No matter what, it feels like it all started from here…
-That nostalgic feeling too.",XMESS_0004,小舟潮
-XMESS_0005,"Ah…
-This is a strange place, isn't it?",XMESS_0005,網代慎平（収録）
-XMESS_0006,"Shinpei, you really came back.",XMESS_0006,小舟潮
-XMESS_0007,Because I felt you were waiting here.,XMESS_0007,網代慎平（収録）
-XMESS_0008,"Haha, what is this feeling?",XMESS_0008,小舟潮
-XMESS_0009,"I don't know.
-I don't understand it either.",XMESS_0009,網代慎平（収録）
-XMESS_0010,"I see…
-Well, it doesn't matter anyway.",XMESS_0010,小舟潮
-XMESS_0011,"At first I was a bit nervous,
-but I've gotten used to it gradually…",XMESS_0011,小舟潮
-XMESS_0012,But that story still doesn't make sense to me?,XMESS_0012,小舟潮
+XMESS_0000,(I ended up coming here... again.),XMESS_0000,網代慎平（収録）
+XMESS_0001,Even so... what is this?,XMESS_0001,網代慎平（収録）
+XMESS_0002,"Whenever I come to this beach, all sorts of emotions wash over me one after another.",XMESS_0002,網代慎平（収録）
+XMESS_0003,"It feels a bit scary somehow, but...",XMESS_0003,小舟潮
+XMESS_0004,It feels like everything started from here... It gives me this nostalgic feeling too.,XMESS_0004,小舟潮
+XMESS_0005,Yeah... This is a strange place.,XMESS_0005,網代慎平（収録）
+XMESS_0006,"Shinpei, you really did come.",XMESS_0006,小舟潮
+XMESS_0007,I had a feeling... that you'd be waiting here.,XMESS_0007,網代慎平（収録）
+XMESS_0008,"Hehe, I wonder what this feeling is?",XMESS_0008,小舟潮
+XMESS_0009,Who knows. I don't really get it either.,XMESS_0009,網代慎平（収録）
+XMESS_0010,"I see... Well, whatever it is, it's fine.",XMESS_0010,小舟潮
+XMESS_0011,"I was a bit anxious at first, but I've gradually gotten used to it...",XMESS_0011,小舟潮
+XMESS_0012,"But I'm still not satisfied with that other thing, okay?",XMESS_0012,小舟潮
 XMESS_0013,…,XMESS_0013,網代慎平（収録）
-XMESS_0014,Why do you have to go back to Tokyo so quickly?,XMESS_0014,小舟潮
+XMESS_0014,Why do you have to go back to Tokyo so soon?,XMESS_0014,小舟潮
 XMESS_0015,…Sorry.,XMESS_0015,網代慎平（収録）
-XMESS_0016,"I thought you'd stay here
-for the summer vacation.",XMESS_0016,小舟潮
-XMESS_0017,"Of course, I know
-it was just my own selfish thinking,
-but…",XMESS_0017,小舟潮
-XMESS_0018,"But… I wanted to
-spend more time with Shinpei…
-I was looking forward to it…",XMESS_0018,小舟潮
-XMESS_0019,"But then you're leaving
-so quickly like that.
-Shinpei, you're heartless.",XMESS_0019,小舟潮
-XMESS_0020,"I really am sorry.
-But I've already made
-quite a few arrangements.",XMESS_0020,網代慎平（収録）
-XMESS_0021,"I have a part-time job,
-and there are also assignments
-I need to do during the summer.",XMESS_0021,網代慎平（収録）
-XMESS_0022,"Once school starts, there'll be
-more exams and training,
-so I need to prepare for that…",XMESS_0022,網代慎平（収録）
-XMESS_0023,…That's so tough?,XMESS_0023,小舟潮
-XMESS_0024,"Yes, that's why this visit
-won't be very long.",XMESS_0024,網代慎平（収録）
-XMESS_0025,"I see.
-In the end, Shinpei
-values Tokyo life more than the island.",XMESS_0025,小舟潮
-XMESS_0026,Why do you say that?,XMESS_0026,網代慎平（収録）
-XMESS_0027,"Do whatever you want.
-You're already a Tokyo person now.",XMESS_0027,小舟潮
-XMESS_0028,"How I feel about staying on the island
-doesn't matter to you at all.",XMESS_0028,小舟潮
+XMESS_0016,I thought you'd stay here at least for the summer vacation.,XMESS_0016,小舟潮
+XMESS_0017,"Of course, I know that was just my own selfish assumption, but still.",XMESS_0017,小舟潮
+XMESS_0018,"But... I was looking forward to... spending a lot more time with you, Shinpei...",XMESS_0018,小舟潮
+XMESS_0019,"And yet, you're going back so soon. Shinpei, you're heartless.",XMESS_0019,小舟潮
+XMESS_0020,I'm really sorry. But I actually cleared a lot of my schedule for this.,XMESS_0020,網代慎平（収録）
+XMESS_0021,"I have my part-time job, and there are assignments I have to do over the summer.",XMESS_0021,網代慎平（収録）
+XMESS_0022,"Once school starts, there will be a lot of exams and training, so I have to prepare for those too...",XMESS_0022,網代慎平（収録）
+XMESS_0023,...Is it really that hard?,XMESS_0023,小舟潮
+XMESS_0024,"Yeah, that's why I can't stay for very long this time.",XMESS_0024,網代慎平（収録）
+XMESS_0025,"I get it. In the end, your life in Tokyo is more important to you than the island now, Shinpei.",XMESS_0025,小舟潮
+XMESS_0026,Why does it have to be like that.,XMESS_0026,網代慎平（収録）
+XMESS_0027,Do whatever you want. You're already a Tokyo person anyway.,XMESS_0027,小舟潮
+XMESS_0028,"My feelings, stuck here on the island, don't matter to you at all.",XMESS_0028,小舟潮
 XMESS_0029,Ushio…,XMESS_0029,網代慎平（収録）
-XMESS_0030,"Just go back to Tokyo already.
-Be careful.",XMESS_0030,小舟潮
+XMESS_0030,I really don't care anymore. Have a safe trip back to Tokyo.,XMESS_0030,小舟潮
 XMESS_0031,…,XMESS_0031,網代慎平（収録）
-XMESS_0032,(I don't even fully understand myself…),XMESS_0032,網代慎平（収録）
-XMESS_0033,"(But I feel like I need to
-express this vague feeling inside me,
-or I'll really regret it later…)",XMESS_0033,網代慎平（収録）
+XMESS_0032,(I don't really understand it myself either...),XMESS_0032,網代慎平（収録）
+XMESS_0033,"(But I feel like if I don't convey these cloudy feelings inside me right now, I'm going to regret it a lot later...)",XMESS_0033,網代慎平（収録）
 XMESS_0034,"Hey, Ushio…",XMESS_0034,網代慎平（収録）
-XMESS_0035,Huh? What?,XMESS_0035,小舟潮
-XMESS_0036,"The reason I went to Tokyo…
-I guess you could say
-I felt like I couldn't keep going like this…",XMESS_0036,網代慎平（収録）
+XMESS_0035,"Hm, what is it?",XMESS_0035,小舟潮
+XMESS_0036,About the reason why I went to Tokyo... How do I say this... I felt like I couldn't just stay the way I was.,XMESS_0036,網代慎平（収録）
 XMESS_0037,What do you mean?,XMESS_0037,小舟潮
-XMESS_0038,"Umm, I don't even know
-how to explain it myself…",XMESS_0038,網代慎平（収録）
-XMESS_0039,"If even you can't explain it,
-how am I supposed to understand?",XMESS_0039,小舟潮
-XMESS_0040,Ah… What should I say…,XMESS_0040,網代慎平（収録）
-XMESS_0041,"(Stay calm.
-Now is the time to be calm yourself)",XMESS_0041,網代慎平（収録）
-XMESS_0042,"(Actually… I wanted to go to Tokyo…
-No, the reason I left this island)",XMESS_0042,網代慎平（収録）
-XMESS_0043,"(Yes, that's it…)",XMESS_0043,網代慎平（収録）
-XMESS_0044,I felt like you'd leave me behind…,XMESS_0044,網代慎平（収録）
-XMESS_0045,Huh? I have no intention of going anywhere!,XMESS_0045,小舟潮
-XMESS_0046,"No, that's not what I mean!
-I mean… you know…",XMESS_0046,網代慎平（収録）
-XMESS_0047,"You're the type to act without thinking about the future, right?",XMESS_0047,網代慎平（収録）
-XMESS_0048,"I might do that sometimes,
-but it's not always like that, right?",XMESS_0048,小舟潮
-XMESS_0049,"(It's not just ""sometimes""…)",XMESS_0049,網代慎平（収録）
-XMESS_0050,So what?,XMESS_0050,小舟潮
-XMESS_0051,"Why would me being impulsive
-make you go to Tokyo?",XMESS_0051,小舟潮
-XMESS_0052,"I can't explain it well…
-I guess I just felt anxious.",XMESS_0052,網代慎平（収録）
-XMESS_0053,Huh… Why?,XMESS_0053,小舟潮
-XMESS_0054,"Maybe in the future,
-you'll keep getting involved in all sorts of things,
-gaining all sorts of experiences…",XMESS_0054,網代慎平（収録）
-XMESS_0055,"And through that, you'll keep
-succeeding and failing,
-growing bigger and bigger…",XMESS_0055,網代慎平（収録）
+XMESS_0038,"Hmm, I don't really know how to explain it myself either, but...",XMESS_0038,網代慎平（収録）
+XMESS_0039,"If you can't even explain it yourself, there's no way I'd be able to understand.",XMESS_0039,小舟潮
+XMESS_0040,Ah~... how should I put this...,XMESS_0040,網代慎平（収録）
+XMESS_0041,(Objective. I need to look at myself objectively at a time like this.),XMESS_0041,網代慎平（収録）
+XMESS_0042,"(I wanted to go to Tokyo... No, the reason I wanted to leave this island.)",XMESS_0042,網代慎平（収録）
+XMESS_0043,"(Right, that was...)",XMESS_0043,網代慎平（収録）
+XMESS_0044,It's because I felt like I was going to be left behind by you...,XMESS_0044,網代慎平（収録）
+XMESS_0045,"Huh? I don't plan on going anywhere, you know?",XMESS_0045,小舟潮
+XMESS_0046,"No, that's not what I meant! How do I say this, um...",XMESS_0046,網代慎平（収録）
+XMESS_0047,"You're the type to act without thinking ahead, right?",XMESS_0047,網代慎平（収録）
+XMESS_0048,"I-I might do that sometimes. But it's not like I'm always like that, right?",XMESS_0048,小舟潮
+XMESS_0049,(It's definitely not just 'sometimes'...),XMESS_0049,網代慎平（収録）
+XMESS_0050,And...?,XMESS_0050,小舟潮
+XMESS_0051,Why does me being the type to act without thinking ahead lead to you going to Tokyo?,XMESS_0051,小舟潮
+XMESS_0052,"I can't explain it well, but... I think I just got anxious.",XMESS_0052,網代慎平（収録）
+XMESS_0053,Eh... why?,XMESS_0053,小舟潮
+XMESS_0054,"Probably, from here on out, you'll keep sticking your nose into all sorts of things, gaining all sorts of experiences...",XMESS_0054,網代慎平（収録）
+XMESS_0055,"And while repeating successes and failures like that, you'll keep growing bigger and bigger...",XMESS_0055,網代慎平（収録）
 XMESS_0056,…,XMESS_0056,小舟潮
-XMESS_0057,So… then…,XMESS_0057,網代慎平（収録）
-XMESS_0058,"The more you grow,
-the more out of reach you'll become…
-That anxiety is getting bigger!",XMESS_0058,網代慎平（収録）
-XMESS_0059,"What are you talking about being out of reach?
-I've always been by Shinpei's side.",XMESS_0059,小舟潮
-XMESS_0060,Always… you…,XMESS_0060,網代慎平（収録）
-XMESS_0061,(Oh… right),XMESS_0061,網代慎平（収録）
-XMESS_0062,(I wanted to be by Ushio's side forever…),XMESS_0062,網代慎平（収録）
+XMESS_0057,A-And then... you...,XMESS_0057,網代慎平（収録）
+XMESS_0058,You would become an existence out of my reach. That anxiety kept growing bigger and bigger...!,XMESS_0058,網代慎平（収録）
+XMESS_0059,"What are you talking about, out of reach? I'm always right next to you, Shinpei.",XMESS_0059,小舟潮
+XMESS_0060,"Always, you say...",XMESS_0060,網代慎平（収録）
+XMESS_0061,(Ah... I see.),XMESS_0061,網代慎平（収録）
+XMESS_0062,(I wanted to stay by Ushio's side forever...),XMESS_0062,網代慎平（収録）
 XMESS_0063,(That's why…),XMESS_0063,網代慎平（収録）
-XMESS_0064,(I think I wanted to change myself a little…),XMESS_0064,網代慎平（収録）
-XMESS_0065,"(To keep walking with Ushio
-from now on…)",XMESS_0065,網代慎平（収録）
+XMESS_0064,"(I wanted to change myself, even just a little... Maybe that's what I thought.)",XMESS_0064,網代慎平（収録）
+XMESS_0065,"(In order to keep walking alongside Ushio, from now on and forever...)",XMESS_0065,網代慎平（収録）
 XMESS_0066,…,XMESS_0066,網代慎平（収録）
-XMESS_0067,No no no!,XMESS_0067,網代慎平（収録）
-XMESS_0068,W-what's wrong all of a sudden!?,XMESS_0068,小舟潮
-XMESS_0069,"(If that was my true feeling,
-then it's like…)",XMESS_0069,網代慎平（収録）
-XMESS_0070,"What's wrong with you?
-Your face is red.",XMESS_0070,小舟潮
-XMESS_0071,"Anyway, remember this!
-Someday for sure…",XMESS_0071,網代慎平（収録）
+XMESS_0067,No no no no!,XMESS_0067,網代慎平（収録）
+XMESS_0068,W-What is it all of a sudden!?,XMESS_0068,小舟潮
+XMESS_0069,"(If what I just thought was my true feelings, then that's just like――)",XMESS_0069,網代慎平（収録）
+XMESS_0070,"What's wrong? Your face is bright red, you know?",XMESS_0070,小舟潮
+XMESS_0071,"A-Anyway, just remember this! Someday, definitely...!",XMESS_0071,網代慎平（収録）
 XMESS_0072,Y-yeah…,XMESS_0072,小舟潮
-XMESS_0073,I don't know how many years it'll take!,XMESS_0073,網代慎平（収録）
-XMESS_0074,"(What should I say next!?
-""Be a guy worthy of you""?
-""Come pick you up""?)",XMESS_0074,網代慎平（収録）
-XMESS_0075,"(Either could be right…
-Or maybe not…)",XMESS_0075,網代慎平（収録）
-XMESS_0076,"(But even if that's the case,
-I couldn't possibly say such a line!)",XMESS_0076,網代慎平（収録）
-XMESS_0077,"Shinpei, are you okay?
-You're acting weird today.",XMESS_0077,小舟潮
-XMESS_0078,"I-I'm fine!
-In the end, what I wanted to say was…",XMESS_0078,網代慎平（収録）
-XMESS_0079,"I'll make a curry that's even more delicious
-and make you shut up!
-That's what I meant!",XMESS_0079,網代慎平（収録）
+XMESS_0073,"I-I don't know how many years from now it'll be, but...!",XMESS_0073,網代慎平（収録）
+XMESS_0074,(H-How am I supposed to continue after this!? 'I'll become a man worthy of you'? 'I'll come back for you'?),XMESS_0074,網代慎平（収録）
+XMESS_0075,(Both feel like the right answer... But also kind of not...),XMESS_0075,網代慎平（収録）
+XMESS_0076,"(Wait, there's no way I could say lines like that, they're way too embarrassing!)",XMESS_0076,網代慎平（収録）
+XMESS_0077,"Shinpei, are you okay? You're acting kind of weird today.",XMESS_0077,小舟潮
+XMESS_0078,"I-I'm fine! In the end, what I want to say is...",XMESS_0078,網代慎平（収録）
+XMESS_0079,"I'm gonna make a curry even more delicious than now, and make you say 'uncle'! That's... what I mean.",XMESS_0079,網代慎平（収録）
 XMESS_0080,Shinpei…,XMESS_0080,小舟潮
-XMESS_0081,W-what?,XMESS_0081,網代慎平（収録）
+XMESS_0081,W-What...?,XMESS_0081,網代慎平（収録）
 XMESS_0082,I don't get it.,XMESS_0082,小舟潮
-XMESS_0083,"(Ah, I feel the same…)",XMESS_0083,網代慎平（収録）
-XMESS_0084,But I think I kind of understand.,XMESS_0084,小舟潮
-XMESS_0085,…Huh?,XMESS_0085,網代慎平（収録）
-XMESS_0086,"You wanted to go further ahead,
-didn't you?",XMESS_0086,小舟潮
-XMESS_0087,"(Yes, so I wouldn't be left behind…)",XMESS_0087,網代慎平（収録）
-XMESS_0088,(So I could stand tall by your side…),XMESS_0088,網代慎平（収録）
-XMESS_0089,"Well… that's about it.
-So, Ushio.
-I don't know how many years it'll take…",XMESS_0089,網代慎平（収録）
-XMESS_0090,Just wait for me properly!,XMESS_0090,網代慎平（収録）
-XMESS_0091,"Yeah, I'll wait!
-I'll be looking forward to it!",XMESS_0091,小舟潮
-XMESS_0092,"(Phew, I'm exhausted.
-But maybe I sorted out my feelings.)",XMESS_0092,網代慎平（収録）
-XMESS_0093,"(Calm down, calm down,
-but I was the one who couldn't sort out
-my own feelings…)",XMESS_0093,網代慎平（収録）
+XMESS_0083,"(Yeah, I agree...)",XMESS_0083,網代慎平（収録）
+XMESS_0084,"But, I feel like I understand a little bit.",XMESS_0084,小舟潮
+XMESS_0085,...Eh?,XMESS_0085,網代慎平（収録）
+XMESS_0086,"You just wanted to move further and further ahead, didn't you, Shinpei.",XMESS_0086,小舟潮
+XMESS_0087,"(Yeah, so I wouldn't be left behind by you...)",XMESS_0087,網代慎平（収録）
+XMESS_0088,(So I could live proudly by your side...),XMESS_0088,網代慎平（収録）
+XMESS_0089,"W-Well, something like that. So, Ushio. I really don't know how many years it'll take, but――",XMESS_0089,網代慎平（収録）
+XMESS_0090,M-Make sure you wait for me!,XMESS_0090,網代慎平（収録）
+XMESS_0091,"Yeah, got it! I'll be waiting and looking forward to it!",XMESS_0091,小舟潮
+XMESS_0092,"(Haa, I'm suddenly exhausted. But maybe I was able to sort out my feelings just now.)",XMESS_0092,網代慎平（収録）
+XMESS_0093,"(I kept telling myself to be objective, but I couldn't even sort out my own feelings...)",XMESS_0093,網代慎平（収録）
 XMESS_0094,"By the way, what are you doing tonight?",XMESS_0094,小舟潮
 XMESS_0095,"Ah, the summer festival…",XMESS_0095,網代慎平（収録）
 XMESS_0096,What?,XMESS_0096,網代慎平（収録）
-XMESS_0097,"Ah…
-It seems I've gotten used to it
-even though it's a festival.",XMESS_0097,小舟潮
-XMESS_0098,"Ah…
-What was that thing again?",XMESS_0098,網代慎平（収録）
-XMESS_0099,"Maybe I was so excited about the festival
-that I went crazy.",XMESS_0099,小舟潮
-XMESS_0100,"No, that's not it…",XMESS_0100,網代慎平（収録）
-XMESS_0101,"No, it is.
-Because for you, it's the first festival
-in two years, right?",XMESS_0101,小舟潮
-XMESS_0102,Then why did you have that reason?,XMESS_0102,網代慎平（収録）
+XMESS_0097,"Ah... Somehow, I'm fine even when saying 'festival' now.",XMESS_0097,小舟潮
+XMESS_0098,Yeah... What in the world was that.,XMESS_0098,網代慎平（収録）
+XMESS_0099,Maybe we were just looking forward to the festival so much that we started acting weird.,XMESS_0099,小舟潮
+XMESS_0100,"No, that can't be it...",XMESS_0100,網代慎平（収録）
+XMESS_0101,"No, it could be. Because for you, Shinpei, it's your first festival in two years, right?",XMESS_0101,小舟潮
+XMESS_0102,"If that's the case, what was your reason?",XMESS_0102,網代慎平（収録）
 XMESS_0103,That's…,XMESS_0103,小舟潮
-XMESS_0104,"It was also the first festival
-for me, since you were there!",XMESS_0104,小舟潮
+XMESS_0104,A festival with you there is the first in two years for me too!,XMESS_0104,小舟潮
 XMESS_0105,Well… that's true.,XMESS_0105,網代慎平（収録）
-XMESS_0106,Of course you'll go to the festival!,XMESS_0106,小舟潮
-XMESS_0107,"This year, Mio and Tokiko
-have already decided to wear kimonos.",XMESS_0107,小舟潮
-XMESS_0108,"Hmm, what should I do?
-Window didn't invite me either.",XMESS_0108,網代慎平（収録）
-XMESS_0109,"You have to go, Shinpei!
-Did you forget our promise!?",XMESS_0109,小舟潮
+XMESS_0106,"Of course you're going to the festival too, right, Shinpei?",XMESS_0106,小舟潮
+XMESS_0107,"This year, Mio, Tokiko, and I have decided to wear yukata.",XMESS_0107,小舟潮
+XMESS_0108,"Hmm, what should I do? Sou hasn't invited me either.",XMESS_0108,網代慎平（収録）
+XMESS_0109,"You have to go too, Shinpei! Did you forget our promise!?",XMESS_0109,小舟潮
 XMESS_0110,A promise?,XMESS_0110,網代慎平（収録）
-XMESS_0111,"The promise that you'd buy
-ten, or even a hundred takoyaki!",XMESS_0111,小舟潮
-XMESS_0112,Huh? Did I really make that promise!?,XMESS_0112,網代慎平（収録）
+XMESS_0111,Your promise to buy me 10 or even 100 takoyaki!,XMESS_0111,小舟潮
+XMESS_0112,Eh? Did I make a promise like that!?,XMESS_0112,網代慎平（収録）
 XMESS_0113,You definitely did!,XMESS_0113,小舟潮
-XMESS_0114,Ugh…?,XMESS_0114,網代慎平（収録）
+XMESS_0114,Hmmm...?,XMESS_0114,網代慎平（収録）
 XMESS_0115,But… now that you mention it…,XMESS_0115,網代慎平（収録）
-XMESS_0116,"I do seem to remember making
-such a promise…",XMESS_0116,網代慎平（収録）
-XMESS_0117,"But a hundred…?
-You really would eat that much, huh?",XMESS_0117,網代慎平（収録）
-XMESS_0118,"If the takoyaki aren't good,
-I'll just beat you with curry!",XMESS_0118,小舟潮
-XMESS_0119,"Make a curry even more delicious than now,
-and make me say ""gyafun,"" right?",XMESS_0119,小舟潮
-XMESS_0120,"Idiot, you think I can make it delicious that fast?!",XMESS_0120,網代慎平（収録）
-XMESS_0121,"Then, it's probably takoyaki after all.",XMESS_0121,小舟潮
-XMESS_0122,"It's fine either way,
-but please don't make 100 of them.",XMESS_0122,網代慎平（収録）
-XMESS_0123,"Then, I'll lose to 90.",XMESS_0123,小舟潮
-XMESS_0124,"Ah, hey!!",XMESS_0124,網代慎平（収録）
-XMESS_0125,Hahaha!!,XMESS_0125,小舟潮
-XMESS_0126,KEY TIPS[<color=#GF_KEY_EPILOGIE_USI>epilogue: Ushio Kofune</color>] obtained.,XMESS_0126,（ト書き）
+XMESS_0116,I do feel like I might have made a promise like that?,XMESS_0116,網代慎平（収録）
+XMESS_0117,"But 100 of them, huh. You really look like you could eat that many...",XMESS_0117,網代慎平（収録）
+XMESS_0118,"If takoyaki is no good, I'm willing to settle for curry, you know?",XMESS_0118,小舟潮
+XMESS_0119,"You're gonna make a curry even more delicious than now and make me say 'uncle', right?",XMESS_0119,小舟潮
+XMESS_0120,"Idiot, I can't make it that delicious so suddenly!",XMESS_0120,網代慎平（収録）
+XMESS_0121,Then it's gotta be takoyaki after all.,XMESS_0121,小舟潮
+XMESS_0122,"I don't mind, but please spare me from buying 100.",XMESS_0122,網代慎平（収録）
+XMESS_0123,Then I'll lower it to 90.,XMESS_0123,小舟潮
+XMESS_0124,H-Hey now!!,XMESS_0124,網代慎平（収録）
+XMESS_0125,Ahahahahaha!!,XMESS_0125,小舟潮
+XMESS_0126,Key TIPS [<color=#GF_KEY_EPILOGIE_USI>epilogue: Ushio Kofune</color>] obtained.,XMESS_0126,（ト書き）

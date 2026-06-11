@@ -1,178 +1,118 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,5. The Reason for Anger,XCHAPTITLE_0002,
-XMESS_0000,"Dad, add two A-lunches!",XMESS_0000,小舟澪
-XMESS_0001,Yes!,XMESS_0001,小舟アラン
-XMESS_0002,"Mio, don't carry this plate.",XMESS_0002,網代慎平（収録）
-XMESS_0003,"Yeah, thanks!",XMESS_0003,小舟澪
-XMESS_0004,Welcome!,XMESS_0004,網代慎平（収録）
+XMESS_0000,"Dad, two more A-lunches!",XMESS_0000,小舟澪
+XMESS_0001,Coming right up!,XMESS_0001,小舟アラン
+XMESS_0002,"Mio, I'll take this plate.",XMESS_0002,網代慎平（収録）
+XMESS_0003,"Yeah, please!",XMESS_0003,小舟澪
+XMESS_0004,Welcome.,XMESS_0004,網代慎平（収録）
 XMESS_0005,"Hey, Shinpei!",XMESS_0005,凸村哲
-XMESS_0006,"So you're helping with the kofune today?
-Even though you're back home for a visit, working?
-Impressive.",XMESS_0006,凸村哲
-XMESS_0007,"If the place is this busy, help is needed.
-Take the counter seat over there.",XMESS_0007,網代慎平（収録）
+XMESS_0006,"Helping out at Kofune today, huh? Working even though you're visiting your hometown, how admirable.",XMESS_0006,凸村哲
+XMESS_0007,"With it being this busy, they need the help. Please, take a seat at the counter over there.",XMESS_0007,網代慎平（収録）
 XMESS_0008,Thanks a lot.,XMESS_0008,凸村哲
-XMESS_0009,"But the shop isn't that busy,
-and even you're working,
-where's Ushio?",XMESS_0009,凸村哲
+XMESS_0009,"But still, the shop is this busy and even you're working, Shinpei-kun, so is Ushio-chan slacking off?",XMESS_0009,凸村哲
 XMESS_0010,"Yeah, well.",XMESS_0010,網代慎平（収録）
-XMESS_0011,"(That one—I haven't seen her face since then,
-but is she still asleep…?)",XMESS_0011,網代慎平（収録）
-XMESS_0012,"So, Shinpei…
-did something happen with Ushio?",XMESS_0012,凸村哲
-XMESS_0013,"Huh!?
-Why would you think that…?",XMESS_0013,網代慎平（収録）
-XMESS_0014,"Actually, I ran into Ushio outside.",XMESS_0014,凸村哲
-XMESS_0015,Outside?,XMESS_0015,網代慎平（収録）
-XMESS_0016,"I just said hello, but she glared at me!",XMESS_0016,凸村哲
-XMESS_0017,"She was in a really bad mood.
-What's the reason, Shinpei?",XMESS_0017,凸村哲
+XMESS_0011,"(I haven't seen Ushio since then, but is she really still sleeping...?)",XMESS_0011,網代慎平（収録）
+XMESS_0012,"Let me guess, Shinpei-kun... did something happen between you and Ushio-chan?",XMESS_0012,凸村哲
+XMESS_0013,Eh!? W-Why would you say that...,XMESS_0013,網代慎平（収録）
+XMESS_0014,"Actually, I ran into Ushio-chan outside just a little while ago.",XMESS_0014,凸村哲
+XMESS_0015,"Eh, outside?",XMESS_0015,網代慎平（収録）
+XMESS_0016,"I just called out to her to say hi, but she glared at me so hard!",XMESS_0016,凸村哲
+XMESS_0017,"She must have been in a terrible mood. And the cause of that is you, isn't it, Shinpei-kun?",XMESS_0017,凸村哲
 XMESS_0018,"Well, you know…",XMESS_0018,網代慎平（収録）
-XMESS_0019,"Hm?
-You look like you know something.",XMESS_0019,凸村哲
-XMESS_0020,"If you don't, you should apologize soon.",XMESS_0020,凸村哲
-XMESS_0021,"If you anger a girl,
-it'll be trouble.",XMESS_0021,凸村哲
-XMESS_0022,"You're right.
-I'll apologize as soon as I get back.",XMESS_0022,網代慎平（収録）
+XMESS_0019,Hm~? You've got a look on your face that says you have an idea.,XMESS_0019,凸村哲
+XMESS_0020,"When she gets like that, you're better off apologizing quickly, you know~?",XMESS_0020,凸村哲
+XMESS_0021,"It's scary when you make a girl mad, after all.",XMESS_0021,凸村哲
+XMESS_0022,You're right. I'll apologize as soon as she gets back...,XMESS_0022,網代慎平（収録）
 XMESS_0023,…,XMESS_0023,網代慎平（収録）
-XMESS_0024,"(What is this?
-A strange feeling in my chest…)",XMESS_0024,網代慎平（収録）
-XMESS_0025,(When I get back…),XMESS_0025,網代慎平（収録）
-XMESS_0026,(But…what if she doesn't come back?),XMESS_0026,網代慎平（収録）
-XMESS_0027,"(No, no…
-What am I thinking?)",XMESS_0027,網代慎平（収録）
-XMESS_0028,"(Ushio not coming back…
-That's impossible…)",XMESS_0028,網代慎平（収録）
-XMESS_0029,Shinpei?,XMESS_0029,凸村哲
-XMESS_0030,"Ah, um, Ushio…where is she?",XMESS_0030,網代慎平（収録）
-XMESS_0031,"Hm?
-I met her near the school.
-She walked toward the beach.",XMESS_0031,凸村哲
+XMESS_0024,(What is this? A strange sense of unease...),XMESS_0024,網代慎平（収録）
+XMESS_0025,(When she gets back...),XMESS_0025,網代慎平（収録）
+XMESS_0026,(But... what if she doesn't come back?),XMESS_0026,網代慎平（収録）
+XMESS_0027,"(No, no... What am I thinking?)",XMESS_0027,網代慎平（収録）
+XMESS_0028,(Ushio not coming back... There's no way...),XMESS_0028,網代慎平（収録）
+XMESS_0029,Shinpei-kun?,XMESS_0029,凸村哲
+XMESS_0030,"U-Um, where... did you see Ushio?",XMESS_0030,網代慎平（収録）
+XMESS_0031,Hm? I saw her around the school. She was walking towards the beach.,XMESS_0031,凸村哲
 XMESS_0032,"(Beach…
 The private beach behind the school…)",XMESS_0032,網代慎平（収録）
-XMESS_0033,"What's wrong, Shinpei?
-You look really scared.",XMESS_0033,凸村哲
+XMESS_0033,"What's wrong, Shinpei-kun? You've got a really scary look on your face.",XMESS_0033,凸村哲
 XMESS_0034,…,XMESS_0034,網代慎平（収録）
-XMESS_0035,"(There's no reason.
-But something inside me says it's not safe…)",XMESS_0035,網代慎平（収録）
-XMESS_0036,"(Curses!
-What is this feeling in my chest!?)",XMESS_0036,網代慎平（収録）
-XMESS_0037,"Hey, Shinpei!",XMESS_0037,凸村哲
-XMESS_0038,"Mio, Alain, sorry!
-I have to go!",XMESS_0038,網代慎平（収録）
-XMESS_0039,"Huh?
-Shin-chan?
-What do you mean, ""but""?",XMESS_0039,小舟澪
-XMESS_0040,"Shinpei, what's wrong?",XMESS_0040,小舟アラン
+XMESS_0035,(I don't have any proof or anything. But something inside me is telling me that place is no good...),XMESS_0035,網代慎平（収録）
+XMESS_0036,(Damn it! What is this feeling of unease!?),XMESS_0036,網代慎平（収録）
+XMESS_0037,"He~y, Shinpei-kun?",XMESS_0037,凸村哲
+XMESS_0038,"Mio, Alain, sorry! I have to go after all!",XMESS_0038,網代慎平（収録）
+XMESS_0039,Eh? Shin-chan? What do you mean 'after all'?,XMESS_0039,小舟澪
+XMESS_0040,"Shinpei, what's wrong all of a sudden?",XMESS_0040,小舟アラン
 XMESS_0041,"I'm really sorry!
 I'll be back soon!",XMESS_0041,網代慎平（収録）
-XMESS_0042,"Huff, huff, huff…!",XMESS_0042,網代慎平（収録）
-XMESS_0043,(…there!),XMESS_0043,網代慎平（収録）
-XMESS_0044,Ushio!,XMESS_0044,網代慎平（収録）
-XMESS_0045,Yikes!,XMESS_0045,小舟潮
-XMESS_0046,"What, Shinpei?
-You scared me.",XMESS_0046,小舟潮
-XMESS_0047,I heard you might be heading here…,XMESS_0047,網代慎平（収録）
-XMESS_0048,Something really weird was happening in my chest.,XMESS_0048,網代慎平（収録）
-XMESS_0049,"…weird feeling?
-You came all the way here just for that?",XMESS_0049,小舟潮
-XMESS_0050,"What's that?
-Do you think I might drown in the sea?",XMESS_0050,小舟潮
-XMESS_0051,"Ah, yeah…",XMESS_0051,網代慎平（収録）
-XMESS_0052,"Don't worry so much!
-I can swim just fine.",XMESS_0052,小舟潮
-XMESS_0053,"No, I know that!
-I know how good you are at swimming.",XMESS_0053,網代慎平（収録）
-XMESS_0054,Then why the hell are you worrying?,XMESS_0054,小舟潮
-XMESS_0055,Still!,XMESS_0055,網代慎平（収録）
+XMESS_0042,"*Pant*, *pant*, *pant*...!",XMESS_0042,網代慎平（収録）
+XMESS_0043,(...There she is!),XMESS_0043,網代慎平（収録）
+XMESS_0044,Ushio!!,XMESS_0044,網代慎平（収録）
+XMESS_0045,Uhyah!?,XMESS_0045,小舟潮
+XMESS_0046,"What, it's just Shinpei. Don't scare me like that.",XMESS_0046,小舟潮
+XMESS_0047,"I heard that you... might be heading here, so...",XMESS_0047,網代慎平（収録）
+XMESS_0048,I just had this terrible feeling of unease... you know.,XMESS_0048,網代慎平（収録）
+XMESS_0049,...A feeling of unease? You came all the way here just for that?,XMESS_0049,小舟潮
+XMESS_0050,What's with that. Don't tell me you thought I was going to drown in the sea or something?,XMESS_0050,小舟潮
+XMESS_0051,A-Ah... I guess so?,XMESS_0051,網代慎平（収録）
+XMESS_0052,Could you not worry about unnecessary things? Don't underestimate my swimming skills.,XMESS_0052,小舟潮
+XMESS_0053,"No, I know that! There's no way I wouldn't know how well you can swim.",XMESS_0053,網代慎平（収録）
+XMESS_0054,Then why would you worry about something so stupid――,XMESS_0054,小舟潮
+XMESS_0055,Even so!,XMESS_0055,網代慎平（収録）
 XMESS_0056,!!,XMESS_0056,小舟潮
-XMESS_0057,"Still…
-I just couldn't stop myself from wanting to see your face.",XMESS_0057,網代慎平（収録）
-XMESS_0058,I ran out of the store.,XMESS_0058,網代慎平（収録）
+XMESS_0057,"Even so... I just got so anxious, I had to see your face...",XMESS_0057,網代慎平（収録）
+XMESS_0058,I ended up running out of the shop.,XMESS_0058,網代慎平（収録）
 XMESS_0059,Shinpei…,XMESS_0059,小舟潮
 XMESS_0060,…,XMESS_0060,小舟潮
-XMESS_0061,Same as always.,XMESS_0061,小舟潮
-XMESS_0062,Same…,XMESS_0062,網代慎平（収録）
+XMESS_0061,"It's the same again, huh.",XMESS_0061,小舟潮
+XMESS_0062,"What do you mean, the same...",XMESS_0062,網代慎平（収録）
 XMESS_0063,Did you feel it too?,XMESS_0063,網代慎平（収録）
 XMESS_0064,Yeah…,XMESS_0064,小舟潮
-XMESS_0065,"After I woke up,
-I went for a walk.",XMESS_0065,小舟潮
-XMESS_0066,"I felt like going to the school,
-so I went to the private beach.",XMESS_0066,小舟潮
-XMESS_0067,"""I feel it's dangerous here,""
-""I shouldn't get close to the beach,""
-I felt that all over my body.",XMESS_0067,小舟潮
-XMESS_0068,"You idiot!
-Then don't get close!",XMESS_0068,網代慎平（収録）
-XMESS_0069,"But it's annoying to just be scared.
-So I decided to check it out.",XMESS_0069,小舟潮
-XMESS_0070,"When I went to Omoto Beach yesterday,
-I didn't feel anything like that.",XMESS_0070,小舟潮
-XMESS_0071,"You're an idiot!
-Don't make me worry for no reason.",XMESS_0071,網代慎平（収録）
-XMESS_0072,"W-what!?
-I'm not that weak, you know!",XMESS_0072,小舟潮
-XMESS_0073,"No, that's…",XMESS_0073,網代慎平（収録）
-XMESS_0074,"Haha… yeah, you're right.
-You're strong.",XMESS_0074,網代慎平（収録）
+XMESS_0065,"You know, after I went back to sleep, I went out for a walk.",XMESS_0065,小舟潮
+XMESS_0066,"I somehow ended up near the school, and when I thought about going to the private beach...",XMESS_0066,小舟潮
+XMESS_0067,The beach is dangerous.' 'Don't go near the beach.' I felt that kind of sensation throughout my entire body.,XMESS_0067,小舟潮
+XMESS_0068,You idiot...! Then don't go near it!,XMESS_0068,網代慎平（収録）
+XMESS_0069,"But just being scared of it pisses me off, you know? So I thought I'd find out what was so scary about it.",XMESS_0069,小舟潮
+XMESS_0070,"When we went to Omoto Beach yesterday, I didn't feel anything like that at all, though.",XMESS_0070,小舟潮
+XMESS_0071,You idiot... Don't make me worry for nothing.,XMESS_0071,網代慎平（収録）
+XMESS_0072,W-What do you mean idiot! I don't think I'm weak enough to need that much worrying over!?,XMESS_0072,小舟潮
+XMESS_0073,"Well, that's...",XMESS_0073,網代慎平（収録）
+XMESS_0074,"Haha... well, I guess you're right. You are strong, Ushio.",XMESS_0074,網代慎平（収録）
 XMESS_0075,Why are you laughing!?,XMESS_0075,小舟潮
-XMESS_0076,But…I'm really glad you're safe.,XMESS_0076,網代慎平（収録）
+XMESS_0076,But... I'm really glad you're safe.,XMESS_0076,網代慎平（収録）
 XMESS_0077,…Shinpei.,XMESS_0077,小舟潮
 XMESS_0078,…,XMESS_0078,小舟潮
-XMESS_0079,Ah~~~!,XMESS_0079,小舟潮
-XMESS_0080,"Ugh!
-What's going on!?
-It's been weird all day!",XMESS_0080,小舟潮
-XMESS_0081,Yeah…,XMESS_0081,網代慎平（収録）
-XMESS_0082,"It's all because you came back.
-What did you do, Shinpei?",XMESS_0082,小舟潮
+XMESS_0079,Ah~~~!!,XMESS_0079,小舟潮
+XMESS_0080,Jeez! What is going on!? It's been nothing but weird things since yesterday!,XMESS_0080,小舟潮
+XMESS_0081,"Yeah, you're right...",XMESS_0081,網代慎平（収録）
+XMESS_0082,"It's all been since you came back, Shinpei. Did you do something, Shinpei?",XMESS_0082,小舟潮
 XMESS_0083,I didn't do anything!,XMESS_0083,網代慎平（収録）
-XMESS_0084,"But…this feeling
-isn't a good one.",XMESS_0084,網代慎平（収録）
-XMESS_0085,"Hey, maybe I shouldn't have come back?",XMESS_0085,網代慎平（収録）
-XMESS_0086,That's impossible!,XMESS_0086,小舟潮
-XMESS_0087,…Huh?,XMESS_0087,網代慎平（収録）
-XMESS_0088,"Now that you're back on the island,
-it feels right,
-it feels good…
-I feel relieved.",XMESS_0088,小舟潮
-XMESS_0089,"All the anxiety and confusion
-in my heart…",XMESS_0089,小舟潮
-XMESS_0090,"I took it out on Shinpei in a fight-like way,
-and now I feel better and safe.",XMESS_0090,小舟潮
-XMESS_0091,"Huh!?
-What does that mean?",XMESS_0091,網代慎平（収録）
-XMESS_0092,"""Fight-like""…you…",XMESS_0092,網代慎平（収録）
-XMESS_0093,Actually…I wasn't really angry.,XMESS_0093,小舟潮
-XMESS_0094,You mean you faked being angry!?,XMESS_0094,網代慎平（収録）
-XMESS_0095,"Hehe, yeah, that's what it is.",XMESS_0095,小舟潮
-XMESS_0096,"Then, when the guy from the store
-came earlier and got glared at by Ushio,
-what was that…?",XMESS_0096,網代慎平（収録）
-XMESS_0097,"Huh?
-Oh, that time.",XMESS_0097,小舟潮
-XMESS_0098,"I felt that weird feeling at that time,
-so when I saw his face,
-I got angry for some reason.",XMESS_0098,小舟潮
-XMESS_0099,You should apologize later…,XMESS_0099,網代慎平（収録）
-XMESS_0100,Ah~~~…,XMESS_0100,網代慎平（収録）
+XMESS_0084,But... this feeling isn't a very pleasant one.,XMESS_0084,網代慎平（収録）
+XMESS_0085,"Hey, do you think maybe... It would have been better if I hadn't come back?",XMESS_0085,網代慎平（収録）
+XMESS_0086,Of course not!,XMESS_0086,小舟潮
+XMESS_0087,...Eh?,XMESS_0087,網代慎平（収録）
+XMESS_0088,"Having you back on the island, it just feels right, or rather, I'm happy... it helps me out.",XMESS_0088,小舟潮
+XMESS_0089,All the anxiety and cloudy feelings that have built up in my heart...,XMESS_0089,小舟潮
+XMESS_0090,"When I take those feelings out on you like we're fighting, I feel refreshed and relieved.",XMESS_0090,小舟潮
+XMESS_0091,"Eh...!? Wait, what do you mean?",XMESS_0091,網代慎平（収録）
+XMESS_0092,Like we're fighting... you...,XMESS_0092,網代慎平（収録）
+XMESS_0093,Actually... I wasn't seriously mad the whole time.,XMESS_0093,小舟潮
+XMESS_0094,Don't tell me... you were pretending to be mad on purpose!?,XMESS_0094,網代慎平（収録）
+XMESS_0095,"Ahaha, well, something like that.",XMESS_0095,小舟潮
+XMESS_0096,"Then, Totsumura-san came to the shop earlier and said you glared at him really hard. What was that about...?",XMESS_0096,網代慎平（収録）
+XMESS_0097,"Eh? A-Ah, that time.",XMESS_0097,小舟潮
+XMESS_0098,"Maybe it was because I was having that weird feeling of unease right then? The moment I saw his face, I just got pissed off for some reason.",XMESS_0098,小舟潮
+XMESS_0099,You'd better apologize later...,XMESS_0099,網代慎平（収録）
+XMESS_0100,*Siiiiigh*...,XMESS_0100,網代慎平（収録）
 XMESS_0101,What's wrong?,XMESS_0101,小舟潮
-XMESS_0102,"I'm just really tired…
-I ran all the way here…",XMESS_0102,網代慎平（収録）
-XMESS_0103,You should exercise more often.,XMESS_0103,小舟潮
+XMESS_0102,The exhaustion just hit me all at once... I ran super fast to get here...,XMESS_0102,網代慎平（収録）
+XMESS_0103,Is that so? You should exercise more regularly.,XMESS_0103,小舟潮
 XMESS_0104,Leave me alone.,XMESS_0104,網代慎平（収録）
-XMESS_0105,"Hey, Shinpei.
-I'm glad you didn't really get angry?",XMESS_0105,小舟潮
-XMESS_0106,"It's more like I'm relieved
-than anything else…",XMESS_0106,網代慎平（収録）
-XMESS_0107,"I'm sorry.
-From now on, I'll be nicer, okay?",XMESS_0107,小舟潮
-XMESS_0108,Why are you talking down to me!?,XMESS_0108,網代慎平（収録）
-XMESS_0109,Hmph!,XMESS_0109,小舟潮
-XMESS_0110,Ugh…,XMESS_0110,網代慎平（収録）
-XMESS_0111,"(Ushio, in her own way,
-was also worried…)",XMESS_0111,網代慎平（収録）
-XMESS_0112,"(If that's the case,
-I should have been more careful…)",XMESS_0112,網代慎平（収録）
-XMESS_0113,"(No, in the end we still fought…)",XMESS_0113,網代慎平（収録）
+XMESS_0105,"Hey, Shinpei. Are you happy to know I wasn't really mad?",XMESS_0105,小舟潮
+XMESS_0106,"More than happy, I feel relieved from the bottom of my heart...",XMESS_0106,網代慎平（収録）
+XMESS_0107,"Sorry about that. I can be nicer to you from now on, you know?",XMESS_0107,小舟潮
+XMESS_0108,Why are you acting so high and mighty!,XMESS_0108,網代慎平（収録）
+XMESS_0109,Heheh!,XMESS_0109,小舟潮
+XMESS_0110,Geez...,XMESS_0110,網代慎平（収録）
+XMESS_0111,"(Ushio was anxious too, in her own way.)",XMESS_0111,網代慎平（収録）
+XMESS_0112,"(If that was the case, I should have been more considerate...)",XMESS_0112,網代慎平（収録）
+XMESS_0113,"(No, it would have ended in a fight anyway.)",XMESS_0113,網代慎平（収録）

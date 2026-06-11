@@ -1,93 +1,62 @@
 source,target,id,developer_comments
 XCHAPTITLE_0013,5. Warning,XCHAPTITLE_0013,
-XCOMMENTVIEW_0027,July 23,XCOMMENTVIEW_0027,
-XMESS_0000,"If we've come this far,
-we're almost at Kofune.",XMESS_0000,凸村哲
+XCOMMENTVIEW_0027,July 23rd,XCOMMENTVIEW_0027,
+XMESS_0000,"Now that we're here, Kofune is just a bit further.",XMESS_0000,凸村哲
 XMESS_0001,Um… how far are you planning to follow me?,XMESS_0001,網代慎平
-XMESS_0002,"S-sorry, I can't leave you alone, you know?",XMESS_0002,凸村哲
-XMESS_0003,(Even if you spread the smell of alcohol…),XMESS_0003,網代慎平
+XMESS_0002,"W-Well, I can't just leave you alone, Shinpei-kun.",XMESS_0002,凸村哲
+XMESS_0003,(I can't really take that seriously when you're reeking of alcohol.),XMESS_0003,網代慎平
 XMESS_0004,Huh? What's wrong?,XMESS_0004,凸村哲
-XMESS_0005,"(Well, whatever.)",XMESS_0005,網代慎平
-XMESS_0006,"Totsumura-san, since it's such a rare opportunity,
-let's discuss what's going to happen next.",XMESS_0006,網代慎平
-XMESS_0007,Next…?,XMESS_0007,凸村哲
-XMESS_0008,"Tomorrow, the investigating officers are coming, right?
-How are you planning to explain this to the people from the mainland?",XMESS_0008,網代慎平
-XMESS_0009,"Ah, that's a problem…",XMESS_0009,凸村哲
-XMESS_0010,That…,XMESS_0010,凸村哲
-XMESS_0011,"No way, I can't remember.
-What did I report exactly?
-I remember saying some things, but…",XMESS_0011,凸村哲
-XMESS_0012,"Well, either way, it's a fact that this island is in danger,
-so we have no choice but to get the mainland police to investigate.",XMESS_0012,網代慎平
-XMESS_0013,"You're right.
-Yeah, that's the way it is!",XMESS_0013,凸村哲
-XMESS_0014,"(Still… I don't want to show the footage of the stolen Mio—
-the Shadow Mio—to the mainland police.)",XMESS_0014,網代慎平
-XMESS_0015,"(When I showed it to Totsumura-san,
-he initially thought it was a joke.)",XMESS_0015,網代慎平
-XMESS_0016,"(If I'm not careful, it'll just drag Mio into more trouble.)",XMESS_0016,網代慎平
-XMESS_0017,Then there's the festival to worry about.,XMESS_0017,網代慎平
-XMESS_0018,"The festival…?
-Ah, the Hitogashima Summer Festival tomorrow?",XMESS_0018,凸村哲
-XMESS_0019,"On the festival day, tourists from the mainland will flood the island.
-If something happens during that chaos…",XMESS_0019,網代慎平
-XMESS_0020,"Huh… I've already taken precautions
-with the neighborhood chiefs and responsible people.",XMESS_0020,凸村哲
-XMESS_0021,"You, Totsumura-san…?",XMESS_0021,網代慎平
-XMESS_0022,"After hearing about the Shadow from you,
-I went around to the neighborhood chiefs and responsible people
-during the day to issue a warning.",XMESS_0022,凸村哲
-XMESS_0023,"If you spot any strange people,
-don't go out unnecessarily.",XMESS_0023,凸村哲
-XMESS_0024,"Even if I say that, they're all looking forward to the festival.
-I don't know how much I can protect them,
-but at least raising their awareness will help.",XMESS_0024,凸村哲
+XMESS_0005,"(Well, whatever)",XMESS_0005,網代慎平
+XMESS_0006,"Totsumura-san, since we're here, let's discuss what to do moving forward.",XMESS_0006,網代慎平
+XMESS_0007,Moving forward...?,XMESS_0007,凸村哲
+XMESS_0008,"The backup detectives are coming tomorrow, right? How did you explain it to the people on the mainland?",XMESS_0008,網代慎平
+XMESS_0009,"Ah, about that...",XMESS_0009,凸村哲
+XMESS_0010,About that...,XMESS_0010,凸村哲
+XMESS_0011,"Damn, I can't remember. What did I say in the report again? I remember saying a bunch of things, but.",XMESS_0011,凸村哲
+XMESS_0012,"W-Well, either way, it's a fact that this island is in a dangerous situation, so we just have to get them to investigate somehow.",XMESS_0012,網代慎平
+XMESS_0013,"Right. Yeah, exactly!",XMESS_0013,凸村哲
+XMESS_0014,"(Even so... I want to avoid showing the secretly recorded video of Mio―― of Shadow Mio, to the mainland detectives.)",XMESS_0014,網代慎平
+XMESS_0015,"(Even when I showed it to Totsumura-san, he thought it was a bad joke at first.)",XMESS_0015,網代慎平
+XMESS_0016,"(If I mess up, it'll just drag Mio into unnecessary trouble.)",XMESS_0016,網代慎平
+XMESS_0017,Other than that... I'm also worried about the festival.,XMESS_0017,網代慎平
+XMESS_0018,"Festival...? Ah, the Hitogashima Summer Festival tomorrow.",XMESS_0018,凸村哲
+XMESS_0019,"On the day of the festival, tourists from the mainland increase and the island gets packed, right? If a commotion happens in the middle of all that――.",XMESS_0019,網代慎平
+XMESS_0020,"Hm, well... regarding that, I've taken some measures on my end too.",XMESS_0020,凸村哲
+XMESS_0021,"Eh, you did, Totsumura-san...?",XMESS_0021,網代慎平
+XMESS_0022,"After hearing about the Shadows from you, Shinpei-kun, I went ahead and issued a warning to the district heads and people in charge during the day.",XMESS_0022,凸村哲
+XMESS_0023,"I told them that a weirdo has been spotted, so they shouldn't wander outside unnecessarily.",XMESS_0023,凸村哲
+XMESS_0024,"Even so, everyone's been looking forward to the festival. I don't know how well they'll listen, but just raising their awareness of crime prevention makes a difference.",XMESS_0024,凸村哲
 XMESS_0025,…,XMESS_0025,網代慎平
 XMESS_0026,What's with that face?,XMESS_0026,凸村哲
 XMESS_0027,"Huh? No, it's nothing…!",XMESS_0027,網代慎平
-XMESS_0028,(Who knew Totsumura-san would actually do his job this well…),XMESS_0028,網代慎平
-XMESS_0029,Ah… maybe that's why you were late coming to the harbor today…,XMESS_0029,網代慎平
-XMESS_0030,"Ah, the warning call I made earlier
-took longer than expected.",XMESS_0030,凸村哲
-XMESS_0031,"It was quite a hassle,
-but I couldn't let anything slip through.",XMESS_0031,凸村哲
-XMESS_0032,"I'm the Hero of Justice here,
-and it's my job to protect everyone on this island!",XMESS_0032,凸村哲
+XMESS_0028,(To think Totsumura-san was actually doing his job this well...),XMESS_0028,網代慎平
+XMESS_0029,"Ah... could it be, the reason you were late coming to the port this afternoon was――",XMESS_0029,網代慎平
+XMESS_0030,"Yeah, the warning calls I just mentioned ended up taking longer than expected.",XMESS_0030,凸村哲
+XMESS_0031,"It was pretty tough, but I couldn't just leave anyone out.",XMESS_0031,凸村哲
+XMESS_0032,"I'm the local cop on this island, a <color=#GF_TIPS_097>hero of justice</color>. Protecting everyone on the island is my job!",XMESS_0032,凸村哲
 XMESS_0033,Totsumura-san…,XMESS_0033,網代慎平
-MSTD_0118-0,"""He really does seem like a Hero of Justice.""",MSTD_0118-0,
+MSTD_0118-0,He really is like a hero of justice.',MSTD_0118-0,
 MSTD_0118-1,"""I might have misunderstood Totsumura-san.""",MSTD_0118-1,
-XMESS_0034,"For some reason, Totsumura-san right now
-really does seem like a Hero of Justice.",XMESS_0034,網代慎平
-XMESS_0035,"Huh!?
-What do you mean ""really""?",XMESS_0035,凸村哲
-XMESS_0036,"Well, you're usually like that.",XMESS_0036,網代慎平
-XMESS_0037,"That's rude.
-I won't deny it, though.",XMESS_0037,凸村哲
-XMESS_0038,"I might have misunderstood Totsumura-san.
-He's actually pretty reliable, huh?",XMESS_0038,網代慎平
-XMESS_0039,"""Unexpectedly""…
-What kind of image did you have of me, Shinpei?",XMESS_0039,凸村哲
-XMESS_0040,You're hurting my feelings.,XMESS_0040,凸村哲
-XMESS_0041,"(To be honest, I don't know how much I can rely on this person…)",XMESS_0041,網代慎平
-XMESS_0042,"(At least, they believe what I'm saying.)",XMESS_0042,網代慎平
-XMESS_0043,"(That alone makes me happy…
-and gives me some confidence.)",XMESS_0043,網代慎平
+XMESS_0034,"Somehow, Totsumura-san right now really does seem like a hero of justice.",XMESS_0034,網代慎平
+XMESS_0035,Hah!? What do you mean 'really'?,XMESS_0035,凸村哲
+XMESS_0036,"Well, you know how you usually are.",XMESS_0036,網代慎平
+XMESS_0037,"Don't say such rude things. Well, I won't deny it, though.",XMESS_0037,凸村哲
+XMESS_0038,"I might have misunderstood you, Totsumura-san. You're surprisingly reliable, aren't you.",XMESS_0038,網代慎平
+XMESS_0039,"Surprisingly'... What kind of person did you think I was, Shinpei-kun?",XMESS_0039,凸村哲
+XMESS_0040,I feel kinda hurt.,XMESS_0040,凸村哲
+XMESS_0041,"(Honestly, I don't know how reliable this guy will be, but...)",XMESS_0041,網代慎平
+XMESS_0042,"(At the very least, he believes my story.)",XMESS_0042,網代慎平
+XMESS_0043,(Just that fact alone makes me happy... and it's reassuring.),XMESS_0043,網代慎平
 XMESS_0044,What was that light?,XMESS_0044,凸村哲
 XMESS_0045,…,XMESS_0045,小舟澪（ミオ）
-XMESS_0046,"Mio?
-Why are you here…?",XMESS_0046,凸村哲
+XMESS_0046,Mio-chan? Why are you in a place like this...,XMESS_0046,凸村哲
 XMESS_0047,"Totsumura-san, don't get close!",XMESS_0047,網代慎平
-XMESS_0048,What's with that face?,XMESS_0048,凸村哲
-XMESS_0049,Maybe this isn't Mio…,XMESS_0049,網代慎平
-XMESS_0050,"What are you talking about?
-She looks exactly like Mio.",XMESS_0050,凸村哲
-XMESS_0051,Stop being so careless and sober up!,XMESS_0051,網代慎平
-XMESS_0052,"After going to Tokiko's place,
-changing into my uniform and going ahead…
-That's impossible, right?",XMESS_0052,網代慎平
-XMESS_0053,"You're right, something's off.",XMESS_0053,凸村哲
-XMESS_0054,"Huh, wait a second.
-So, this Mio…?",XMESS_0054,凸村哲
-XMESS_0055,It was Mio with a knife in front of my house.,XMESS_0055,網代慎平
-XMESS_0056,T-this one…!?,XMESS_0056,凸村哲
+XMESS_0048,"?? What's wrong, you look so pale.",XMESS_0048,凸村哲
+XMESS_0049,This probably isn't Mio...,XMESS_0049,網代慎平
+XMESS_0050,What are you talking about. She looks exactly like Mio-chan from every angle.,XMESS_0050,凸村哲
+XMESS_0051,"Please, sober up already!",XMESS_0051,網代慎平
+XMESS_0052,"Going to Tokiko-chan's place, changing into her uniform, and getting ahead of us―― There's no way she could do that!",XMESS_0052,網代慎平
+XMESS_0053,That is weird...,XMESS_0053,凸村哲
+XMESS_0054,"Eh, wait a minute. Then, this Mio-chan is...",XMESS_0054,凸村哲
+XMESS_0055,It's the Mio who had a kitchen knife in front of my house.,XMESS_0055,網代慎平
+XMESS_0056,T-This is... !?,XMESS_0056,凸村哲

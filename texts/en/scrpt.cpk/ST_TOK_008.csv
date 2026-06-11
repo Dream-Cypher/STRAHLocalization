@@ -1,57 +1,39 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,8. Tokiko's Memory Part 2,XCHAPTITLE_0002,
-XCOMMENTVIEW_0013,Hishigata Tokiko,XCOMMENTVIEW_0013,
+XCOMMENTVIEW_0013,Tokiko Hishigata,XCOMMENTVIEW_0013,
 XMESS_0000,…,XMESS_0000,菱形朱鷺子
-XMESS_0001,"(About the phone call now…
-Haine is serious…)",XMESS_0001,菱形朱鷺子
-XMESS_0002,(If I become a Shadow…),XMESS_0002,菱形朱鷺子
-XMESS_0003,"(If I need to stop Shinpai and the others,
-my unexpected attack when they're not watching
-would definitely be effective)",XMESS_0003,菱形朱鷺子
-XMESS_0004,"(But… even if it's something important,
-I couldn't just accept it right away…)",XMESS_0004,菱形朱鷺子
+XMESS_0001,(That phone call just now... Haine is serious...),XMESS_0001,菱形朱鷺子
+XMESS_0002,"(Become a Shadow, huh...)",XMESS_0002,菱形朱鷺子
+XMESS_0003,"(If we're going to stop Shinpei-san and the others, my surprise attack, since I'm not suspected yet, would definitely be effective.)",XMESS_0003,菱形朱鷺子
+XMESS_0004,"(But... being told something so important so suddenly, I can't just...)",XMESS_0004,菱形朱鷺子
 XMESS_0005,Tokiko.,XMESS_0005,菱形千登勢（影チトセ）
-XMESS_0006,…Mother.,XMESS_0006,菱形朱鷺子
+XMESS_0006,...Mom.,XMESS_0006,菱形朱鷺子
 XMESS_0007,What's wrong? Your face looks pale.,XMESS_0007,菱形千登勢（影チトセ）
-XMESS_0008,Nothing.,XMESS_0008,菱形朱鷺子
-XMESS_0009,"No, it's not nothing. 
-Let's talk a little with Mother.",XMESS_0009,菱形千登勢（影チトセ）
+XMESS_0008,It's nothing.,XMESS_0008,菱形朱鷺子
+XMESS_0009,"No, it's not nothing. Let's talk with Mom for a bit.",XMESS_0009,菱形千登勢（影チトセ）
 XMESS_0010,Yeah…,XMESS_0010,菱形朱鷺子
 XMESS_0011,…,XMESS_0011,菱形朱鷺子
-XMESS_0012,Were you thinking about Mio?,XMESS_0012,菱形千登勢（影チトセ）
-XMESS_0013,"I still can't believe it…
-Mio and Shinpai, they were so close…",XMESS_0013,菱形千登勢（影チトセ）
+XMESS_0012,Were you thinking about Ushio-chan?,XMESS_0012,菱形千登勢（影チトセ）
+XMESS_0013,"You still can't believe it, huh... Even though she was so good friends with both Sou and you.",XMESS_0013,菱形千登勢（影チトセ）
 XMESS_0014,…Yeah.,XMESS_0014,菱形朱鷺子
-XMESS_0015,"You must have been really lonely.
-I wanted to go to the festival with you.",XMESS_0015,菱形千登勢（影チトセ）
-XMESS_0016,"U-uh… yeah.
-Uhh… uuuhhh…!",XMESS_0016,菱形朱鷺子
-XMESS_0017,"I-I'm not…!
-It's not like I'm crying… uuuhhh…!",XMESS_0017,菱形朱鷺子
+XMESS_0015,"You must have been really lonely. You wanted to go to the festival together, didn't you?",XMESS_0015,菱形千登勢（影チトセ）
+XMESS_0016,Y-Yeah... Ugh... uuuh...!,XMESS_0016,菱形朱鷺子
+XMESS_0017,N-No... It's not like... I'm crying... uugh...!,XMESS_0017,菱形朱鷺子
 XMESS_0018,"Hehe, it's okay to cry.
 You don't have to hold it in.",XMESS_0018,菱形千登勢（影チトセ）
-XMESS_0019,"But… Dad and my brother…
-Don't tell them, okay?",XMESS_0019,菱形朱鷺子
-XMESS_0020,"Okay, okay, it's fine.",XMESS_0020,菱形千登勢（影チトセ）
-XMESS_0021,"Uhh, uuuu…!
-That's you, Mother…",XMESS_0021,菱形朱鷺子
-XMESS_0022,"It was fun, I swear!
-It was really fun…!",XMESS_0022,菱形朱鷺子
-XMESS_0023,"I've always…
-I wanted it to stay like that!",XMESS_0023,菱形朱鷺子
+XMESS_0019,But... p-please don't tell... Dad and older brother...,XMESS_0019,菱形朱鷺子
+XMESS_0020,"Yes, yes, it's alright.",XMESS_0020,菱形千登勢（影チトセ）
+XMESS_0021,"Ugh, uuuu...! You know, Mom...",XMESS_0021,菱形朱鷺子
+XMESS_0022,I had fun! I really had fun...!,XMESS_0022,菱形朱鷺子
+XMESS_0023,I wanted... I wanted it to stay like that forever!,XMESS_0023,菱形朱鷺子
 XMESS_0024,"Why!?
 Why did this have to happen…!",XMESS_0024,菱形朱鷺子
-XMESS_0025,Yeah…,XMESS_0025,菱形千登勢（影チトセ）
-XMESS_0026,"I loved them…?
-Mio too… Shinpai too…
-Ku, uhh.",XMESS_0026,菱形朱鷺子
+XMESS_0025,I know...,XMESS_0025,菱形千登勢（影チトセ）
+XMESS_0026,"I loved them, you know...? Ushio-san... Shinpei-san too... Ugh, uuugh.",XMESS_0026,菱形朱鷺子
 XMESS_0027,"Yeah, yeah.",XMESS_0027,菱形千登勢（影チトセ）
-XMESS_0028,"Everyone, I love them…
-My older brother, Dad, Mom… 
-Even Mio!",XMESS_0028,菱形朱鷺子
-XMESS_0029,Tokiko's such a kind child.,XMESS_0029,菱形千登勢（影チトセ）
-XMESS_0030,"Uck…,
-No, I'm not kind at all…",XMESS_0030,菱形朱鷺子
+XMESS_0028,"I love everyone... Older brother, Dad, Mom... Even Mio...!",XMESS_0028,菱形朱鷺子
+XMESS_0029,"You're such a kind girl, Tokiko.",XMESS_0029,菱形千登勢（影チトセ）
+XMESS_0030,"Uku... No, I'm not kind at all...",XMESS_0030,菱形朱鷺子
 XMESS_0031,"(That's why I was chosen.
 Not my older brother, but me…)",XMESS_0031,菱形朱鷺子
 XMESS_0032,…,XMESS_0032,菱形千登勢（影チトセ）
@@ -59,90 +41,55 @@ XMESS_0033,"Hey, Tokiko.
 You've got something else on your mind, don't you?",XMESS_0033,菱形千登勢（影チトセ）
 XMESS_0034,"Eh…?
 No, nothing…",XMESS_0034,菱形朱鷺子
-XMESS_0035,"I can see through you, Mother.
-You've been looking troubled
-even before Mio disappeared.",XMESS_0035,菱形千登勢（影チトセ）
-XMESS_0036,"Or is it something
-you can't tell Mother?",XMESS_0036,菱形千登勢（影チトセ）
-XMESS_0037,"I'm sorry…
-It's not just Mother,
-I can't tell anyone…",XMESS_0037,菱形朱鷺子
-XMESS_0038,Even Mio?,XMESS_0038,菱形千登勢（影チトセ）
-XMESS_0039,Yeah… I can't tell her at all.,XMESS_0039,菱形朱鷺子
+XMESS_0035,"You can't fool your mother's eyes, you know? Even before what happened to Ushio-chan, you sometimes had a troubled look on your face.",XMESS_0035,菱形千登勢（影チトセ）
+XMESS_0036,Or is it something you can't tell Mom?,XMESS_0036,菱形千登勢（影チトセ）
+XMESS_0037,"I'm sorry... It's not just Mom, I can't tell anyone...",XMESS_0037,菱形朱鷺子
+XMESS_0038,Not even Mio-chan?,XMESS_0038,菱形千登勢（影チトセ）
+XMESS_0039,Yeah... I absolutely can't tell her.,XMESS_0039,菱形朱鷺子
 XMESS_0040,…Hehe.,XMESS_0040,菱形千登勢（影チトセ）
 XMESS_0041,Why are you laughing…?,XMESS_0041,菱形朱鷺子
-XMESS_0042,"I thought you were just like Dad.
-But… yeah.",XMESS_0042,菱形千登勢（影チトセ）
-XMESS_0043,"From the source of that thing
-you can't tell anyone about,
-you can't run away?",XMESS_0043,菱形千登勢（影チトセ）
-XMESS_0044,"No, I can't…",XMESS_0044,菱形朱鷺子
-XMESS_0045,"(While taking care of Haine,
-feeding her… I thought I was on equal terms)",XMESS_0045,菱形朱鷺子
-XMESS_0046,"(But really, they're definitely in a better position…
-I couldn't ignore what they asked me)",XMESS_0046,菱形朱鷺子
-XMESS_0047,"(And now, if I go back…
-It'll affect Mio too…)",XMESS_0047,菱形朱鷺子
-XMESS_0048,There's nothing I can do anymore…,XMESS_0048,菱形朱鷺子
-XMESS_0049,"That's right…
-If I could, I'd take your place.",XMESS_0049,菱形千登勢（影チトセ）
+XMESS_0042,"I was just thinking you're stubborn, just like your dad. But... let's see.",XMESS_0042,菱形千登勢（影チトセ）
+XMESS_0043,Can't you distance yourself from the source of that worry you can't tell anyone about?,XMESS_0043,菱形千登勢（影チトセ）
+XMESS_0044,I can't do that...,XMESS_0044,菱形朱鷺子
+XMESS_0045,"(Nursing Haine, giving her food... I felt like we were making an equal trade.)",XMESS_0045,菱形朱鷺子
+XMESS_0046,(But the truth is different... Their position is definitely higher... I absolutely can't ignore what they ask of me.),XMESS_0046,菱形朱鷺子
+XMESS_0047,"(Besides, at this point... If I defy them, even Mio will...!)",XMESS_0047,菱形朱鷺子
+XMESS_0048,There's nothing I can do anymore.,XMESS_0048,菱形朱鷺子
+XMESS_0049,"Is that so... If I could, I'd take your place for you.",XMESS_0049,菱形千登勢（影チトセ）
 XMESS_0050,…,XMESS_0050,菱形朱鷺子
 XMESS_0051,But I'm sure it'll be okay!,XMESS_0051,菱形千登勢（影チトセ）
-XMESS_0052,Eh…?,XMESS_0052,菱形朱鷺子
-XMESS_0053,"You can think of many things,
-Tokiko.",XMESS_0053,菱形千登勢（影チトセ）
-XMESS_0054,"So think carefully,
-and make your own decision.",XMESS_0054,菱形千登勢（影チトセ）
+XMESS_0052,Huh...?,XMESS_0052,菱形朱鷺子
+XMESS_0053,"Because you're a girl who can think about a lot of different things, Tokiko.",XMESS_0053,菱形千登勢（影チトセ）
+XMESS_0054,"That's why you should think carefully, and decide with your own free will.",XMESS_0054,菱形千登勢（影チトセ）
 XMESS_0055,…Yeah.,XMESS_0055,菱形朱鷺子
-XMESS_0056,Don't regret it.,XMESS_0056,菱形千登勢（影チトセ）
-XMESS_0057,Hehe… it's strange.,XMESS_0057,菱形朱鷺子
-XMESS_0058,"Looking at Mother's smiling face,
-I feel like it'll be okay.",XMESS_0058,菱形朱鷺子
-XMESS_0059,"Thank you, Mother…
-I'm happy you're here.",XMESS_0059,菱形朱鷺子
-XMESS_0060,"Oh, really?
-I'm happy too.",XMESS_0060,菱形千登勢（影チトセ）
-XMESS_0061,"Thank you.
-You're really my Mother.",XMESS_0061,菱形朱鷺子
-XMESS_0062,"What an idiot.
-There's no one else
-who could be your Mother.",XMESS_0062,菱形千登勢（影チトセ）
+XMESS_0056,"Make sure you don't regret it, okay?",XMESS_0056,菱形千登勢（影チトセ）
+XMESS_0057,Hehe... it's strange.,XMESS_0057,菱形朱鷺子
+XMESS_0058,"Looking at your smiling face, Mom, makes me feel like it'll be okay.",XMESS_0058,菱形朱鷺子
+XMESS_0059,"Thank you, Mom... I'm so happy you're here for me.",XMESS_0059,菱形朱鷺子
+XMESS_0060,"Oh, really? Well, that makes me happy too.",XMESS_0060,菱形千登勢（影チトセ）
+XMESS_0061,Thank you. You really are my Mom.,XMESS_0061,菱形朱鷺子
+XMESS_0062,Don't say silly things. There's no way anyone other than me could be your Mom.,XMESS_0062,菱形千登勢（影チトセ）
 XMESS_0063,Hehe… that's right.,XMESS_0063,菱形朱鷺子
-XMESS_0064,"(Even if it's a plan,
-I'll protect Mother and Mio.)",XMESS_0064,菱形朱鷺子
-XMESS_0065,(If I get through the festival day…),XMESS_0065,菱形朱鷺子
-XMESS_0066,(And stay with my family forever…),XMESS_0066,菱形朱鷺子
-XMESS_0067,"I guess I was thinking too hard.
-But it's okay now.
-I think it'll work out.",XMESS_0067,菱形朱鷺子
-XMESS_0068,"Hehe, I'm glad you're back.",XMESS_0068,菱形千登勢（影チトセ）
-XMESS_0069,Eh…?,XMESS_0069,菱形朱鷺子
-XMESS_0070,"Actually, I have
-your favorite violets in syrup.",XMESS_0070,菱形千登勢（影チトセ）
+XMESS_0064,"(Even if it's out of self-interest, I don't care. I will protect both Mom and Mio.)",XMESS_0064,菱形朱鷺子
+XMESS_0065,(And once we get through the day of the festival...),XMESS_0065,菱形朱鷺子
+XMESS_0066,(We can be together as a family forever...),XMESS_0066,菱形朱鷺子
+XMESS_0067,It seems I was overthinking things a bit. But I'm okay now. I think it'll work out.,XMESS_0067,菱形朱鷺子
+XMESS_0068,"Hehe, since you've cheered up, Tokiko, I'll tell you something good.",XMESS_0068,菱形千登勢（影チトセ）
+XMESS_0069,Huh...?,XMESS_0069,菱形朱鷺子
+XMESS_0070,"Actually, I have your favorite... candied violets.",XMESS_0070,菱形千登勢（影チトセ）
 XMESS_0071,Really!?,XMESS_0071,菱形朱鷺子
-XMESS_0072,"Even though it's late, shall we have tea?
-Of course, keep it a secret from Dad and your brother.",XMESS_0072,菱形千登勢（影チトセ）
-XMESS_0073,"Thank you.
-I'm really happy, but I can't right now.
-I have something to do.",XMESS_0073,菱形朱鷺子
-XMESS_0074,"Oh, really?
-Then let's do it tomorrow.",XMESS_0074,菱形千登勢（影チトセ）
+XMESS_0072,"It's a bit late, but shall we have some tea together? Of course, keep it a secret from your dad and older brother.",XMESS_0072,菱形千登勢（影チトセ）
+XMESS_0073,"Thank you. I'm really happy, but I can't right now. There's something I have to do.",XMESS_0073,菱形朱鷺子
+XMESS_0074,"Oh, is that so? Then let's do it tomorrow.",XMESS_0074,菱形千登勢（影チトセ）
 XMESS_0075,Yeah… see you tomorrow.,XMESS_0075,菱形朱鷺子
 XMESS_0076,…,XMESS_0076,菱形千登勢（影チトセ）
 XMESS_0077,…,XMESS_0077,菱形朱鷺子
 XMESS_0078,"You're there, aren't you?",XMESS_0078,菱形朱鷺子
-XMESS_0079,"I don't know who you are,
-but get out of here quickly?",XMESS_0079,菱形朱鷺子
+XMESS_0079,"I don't know whose Shadow you are, but can we get this over with quickly?",XMESS_0079,菱形朱鷺子
 XMESS_0080,…,XMESS_0080,菱形朱鷺子
-XMESS_0081,"You're really something.
-You look just like me.",XMESS_0081,菱形朱鷺子
-XMESS_0082,"That's right.
-If you weren't here,
-I'd be the real one.",XMESS_0082,トキコ
-XMESS_0083,"Yeah.
-Then, I'll make it painless.",XMESS_0083,菱形朱鷺子
-XMESS_0084,"Yeah, I know.
-Make sure you don't have any regrets.",XMESS_0084,トキコ
-XMESS_0085,"Hehe.
-I know…",XMESS_0085,菱形朱鷺子
+XMESS_0081,"It's quite something. No matter how you look at it, you look just like me.",XMESS_0081,菱形朱鷺子
+XMESS_0082,"Of course. If you weren't here, I'd be the real one.",XMESS_0082,トキコ
+XMESS_0083,"That's true. Well then, make sure I don't suffer.",XMESS_0083,菱形朱鷺子
+XMESS_0084,"Yeah, I know. Make sure you don't leave any regrets behind.",XMESS_0084,トキコ
+XMESS_0085,Hehe. I know—,XMESS_0085,菱形朱鷺子
 XMESS_0086,"Goodbye, me.",XMESS_0086,トキコ

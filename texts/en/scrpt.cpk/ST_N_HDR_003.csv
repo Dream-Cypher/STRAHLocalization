@@ -1,171 +1,103 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,3. Bonds of Close Friends,XCHAPTITLE_0002,
-XMESS_0000,You kept me waiting.,XMESS_0000,南方ひづる
-XMESS_0001,"Ah, Hizuru-chan!
-Were you at the toilet too?",XMESS_0001,南方波稲
-XMESS_0002,I left my things in the room and came out right away.,XMESS_0002,南方ひづる
-XMESS_0003,"Is that so?
-I felt like I waited a long time though.",XMESS_0003,南方波稲
-XMESS_0004,…Maybe time perception differs with age.,XMESS_0004,南方ひづる
+XCHAPTITLE_0002,3. Bonds of Best Friends,XCHAPTITLE_0002,
+XMESS_0000,Sorry to keep you waiting.,XMESS_0000,南方ひづる
+XMESS_0001,"Ah, Hizuru-chan! Did you go to the bathroom or something?",XMESS_0001,南方波稲
+XMESS_0002,"I just dropped my luggage off at the inn and came right out, though.",XMESS_0002,南方ひづる
+XMESS_0003,"Really? I feel like I waited a really long time, though.",XMESS_0003,南方波稲
+XMESS_0004,...I suppose perceived time differs depending on age.,XMESS_0004,南方ひづる
 XMESS_0005,Huh? What?,XMESS_0005,南方波稲
-XMESS_0006,"No, it's nothing.
-So, where are you going to show me?",XMESS_0006,南方ひづる
+XMESS_0006,"No, it's nothing. So, where on the island are you going to guide me?",XMESS_0006,南方ひづる
 XMESS_0007,"Hmm, where should we go?",XMESS_0007,南方波稲
-XMESS_0008,"You said all that, but you don't even have a plan…",XMESS_0008,南方ひづる
-XMESS_0009,Let's go see the Hero of Justice then.,XMESS_0009,南方波稲
+XMESS_0008,"Don't tell me... after insisting that much, you didn't have any plan at all...?",XMESS_0008,南方ひづる
+XMESS_0009,"Then, wanna go see the Hero of Justice?",XMESS_0009,南方波稲
 XMESS_0010,Huh?,XMESS_0010,南方ひづる
-XMESS_0011,"(Is it about a fictional hero?
-No… such things probably wouldn't be exciting)",XMESS_0011,南方ひづる
-XMESS_0012,"(Well, it doesn't matter right now.
-If Mio's happy and gets it over with quickly, that's fine)",XMESS_0012,南方ひづる
-XMESS_0013,"Ah, that's fine.
-Take me to this so-called Hero of Justice.",XMESS_0013,南方ひづる
+XMESS_0011,(Does she mean a fictional hero? No... something like that isn't likely to be stimulating.),XMESS_0011,南方ひづる
+XMESS_0012,"(Well, anything is fine right now. As long as Hoine is satisfied and lets me go quickly.)",XMESS_0012,南方ひづる
+XMESS_0013,"Ah, that's fine. Let me meet this so-called Hero of Justice.",XMESS_0013,南方ひづる
 XMESS_0014,"Got it!
 Come on, follow me!",XMESS_0014,南方波稲
-XMESS_0015,She's unnecessarily energetic…,XMESS_0015,南方ひづる
-XMESS_0016,"(This island's changed a bit, Ryunosuke said…
-But…)",XMESS_0016,南方ひづる
-XMESS_0017,(It's basically the same as when I lived here),XMESS_0017,南方ひづる
-XMESS_0018,(Always welcoming me with the same face - my hometown…),XMESS_0018,南方ひづる
-XMESS_0019,"(Well, it's a bit cliché, but not bad.
-Having a place to return to is good)",XMESS_0019,南方ひづる
-XMESS_0020,Huhuhu~♪,XMESS_0020,南方波稲
-XMESS_0021,"(These kinds of
-nonsense personified
-can also attack)",XMESS_0021,南方ひづる
-XMESS_0022,"Hey, Hizuru-chan!",XMESS_0022,南方波稲
+XMESS_0015,She's pointlessly energetic...,XMESS_0015,南方ひづる
+XMESS_0016,"(Ryunosuke said that this island has changed a bit too, but...)",XMESS_0016,南方ひづる
+XMESS_0017,(It's nothing of the sort. It's almost exactly the same as when I lived here.),XMESS_0017,南方ひづる
+XMESS_0018,(A hometown that always welcomes you with an unchanging appearance--),XMESS_0018,南方ひづる
+XMESS_0019,"(Well, it's a bit of a cliché expression, but it's not a bad thing. Having a place to return to, that is.)",XMESS_0019,南方ひづる
+XMESS_0020,Hmm hm hm~♪,XMESS_0020,南方波稲
+XMESS_0021,"(...Even if this kind of existence, which is like unreasonableness taken form, also attacks you.)",XMESS_0021,南方ひづる
+XMESS_0022,"Hey, hey, Hizuru-chan!",XMESS_0022,南方波稲
 XMESS_0023,What?,XMESS_0023,南方ひづる
-XMESS_0024,"Thinking about stories,
-that's your job, right?
-What kind of story are you writing?",XMESS_0024,南方波稲
-XMESS_0025,"If you say ""what kind,"" I can't answer.
-Your question's too vague.",XMESS_0025,南方ひづる
-XMESS_0026,"I saw it before when Dad showed it to me,
-but the characters were too hard to read.
-They're small too.",XMESS_0026,南方波稲
-XMESS_0027,"Not that kind,
-can't you write something like a picture book?
-Then I could read it too!",XMESS_0027,南方波稲
-XMESS_0028,"(A picture book…
-Maybe diving into an entirely new genre
-would help break the slump…)",XMESS_0028,南方ひづる
-XMESS_0029,"(No, I can't do picture books.
-I'm already being influenced by Mio's thoughts)",XMESS_0029,南方ひづる
-XMESS_0030,"Ah, it's Mio and Tokiko!
-Hey~!",XMESS_0030,南方波稲
-XMESS_0031,"Hello, Mio-chan.",XMESS_0031,菱形朱鷺子
-XMESS_0032,"Hello.
-You're always so energetic.",XMESS_0032,小舟澪
-XMESS_0033,And that person…,XMESS_0033,菱形朱鷺子
+XMESS_0024,"Coming up with stories is your job, right, Hizuru-chan? What kind of stories do you write?",XMESS_0024,南方波稲
+XMESS_0025,"Even if you ask ""what kind"". Your question is too broad for me to answer.",XMESS_0025,南方ひづる
+XMESS_0026,"Papa showed me before, but it was full of difficult kanji so I couldn't read it. The letters were small too.",XMESS_0026,南方波稲
+XMESS_0027,"Instead of stuff like that, couldn't you write something like a picture book? If you did that, I could read it too!",XMESS_0027,南方波稲
+XMESS_0028,"(A picture book... To break out of a slump, maybe jumping into a completely unknown genre wouldn't be a bad idea...)",XMESS_0028,南方ひづる
+XMESS_0029,"(No, a picture book is out of the question. My thoughts are already being poisoned by Hoine.)",XMESS_0029,南方ひづる
+XMESS_0030,"Ah, it's Mio-san and Tokiko-san! Heeey!",XMESS_0030,南方波稲
+XMESS_0031,"Hello, Hoine-chan.",XMESS_0031,菱形朱鷺子
+XMESS_0032,"Hello. You're always so energetic, huh.",XMESS_0032,小舟澪
+XMESS_0033,And who might this be...?,XMESS_0033,菱形朱鷺子
 XMESS_0034,"This is Hizuru-chan!
 She's Dad's older sister!",XMESS_0034,南方波稲
-XMESS_0035,"Ryunosuke's older sister…
-I'm Hizuru Minakata.",XMESS_0035,南方ひづる
-XMESS_0036,"Ah, the older sister of Ryunosuke-san!
-I'm Mio Kofune.",XMESS_0036,小舟澪
+XMESS_0035,I am Ryunosuke Minakata's older sister... Hizuru Minakata.,XMESS_0035,南方ひづる
+XMESS_0036,"Ah, Ryunosuke-san's older sister! I'm Mio Kofune.",XMESS_0036,小舟澪
 XMESS_0037,I'm Tokiko Hishigata.,XMESS_0037,菱形朱鷺子
-XMESS_0038,(The Kofune and Hishigata families…),XMESS_0038,南方ひづる
-XMESS_0039,"Ah, the Western-style restaurant and Hishigata Clinic.
-I was often helped by both when I lived here.",XMESS_0039,南方ひづる
-XMESS_0040,"(Compared to before, the impression has changed a lot.
-Indeed, at this age, it's not uncommon to become a completely different person after a few years)",XMESS_0040,南方ひづる
-XMESS_0041,"Mio and Tokiko are really close.
-They always do things together.",XMESS_0041,南方波稲
-XMESS_0042,"Always doing things together…
-I don't think we're that close.",XMESS_0042,小舟澪
-XMESS_0043,"Haha, but we met yesterday too.
-We're supposed to study together tomorrow, right?",XMESS_0043,菱形朱鷺子
-XMESS_0044,"S-since it's the summer vacation assignments…
-I need to get them done…
-But I'm alone…",XMESS_0044,小舟澪
-XMESS_0045,"Sure, I'll help you with the parts you don't understand.",XMESS_0045,菱形朱鷺子
-XMESS_0046,"Thanks!
-I'll return the favor someday.",XMESS_0046,小舟澪
-XMESS_0047,"It's fine.
-I enjoy being with Mio.",XMESS_0047,菱形朱鷺子
-XMESS_0048,"  …My own time,
-  can be freely given for others.
-  Of course, without charge.",XMESS_0048,南方ひづる
+XMESS_0038,(Kofune and Hishigata...),XMESS_0038,南方ひづる
+XMESS_0039,"Ah, from Western Restaurant Kofune and Hishigata Clinic. When I lived on the island, I was often indebted to both of your families.",XMESS_0039,南方ひづる
+XMESS_0040,"(Their impressions have changed surprisingly from before. I suppose at this age, it's not uncommon to become like a completely different person after a few years.)",XMESS_0040,南方ひづる
+XMESS_0041,Mio-san and Tokiko-san are super close. They do everything together.,XMESS_0041,南方波稲
+XMESS_0042,Doing everything together is a bit... I don't think we're together *that* much.,XMESS_0042,小舟澪
+XMESS_0043,"Hehe, but we met yesterday too. And we promised to study together tomorrow, right?",XMESS_0043,菱形朱鷺子
+XMESS_0044,T-That's because... we need to start making progress on our summer vacation assignments soon... And if I'm by myself... y'know?,XMESS_0044,小舟澪
+XMESS_0045,"Yes, yes. I'll properly teach you the parts you don't understand.",XMESS_0045,菱形朱鷺子
+XMESS_0046,Thanks~! I'll give you something as thanks next time.,XMESS_0046,小舟澪
+XMESS_0047,"It's fine. Being with you is fun, Mio.",XMESS_0047,菱形朱鷺子
+XMESS_0048,"...You are able to unsparingly offer your own time for the sake of others. Without compensation, of course.",XMESS_0048,南方ひづる
 XMESS_0049,Huh?,XMESS_0049,菱形朱鷺子
-XMESS_0050,"And this isn't one-sided service either.
-Is it?",XMESS_0050,南方ひづる
-XMESS_0051,"O-of course it is!
-If Tokiko helps me,
-I'll help Tokiko too!",XMESS_0051,小舟澪
+XMESS_0050,"Furthermore, this isn't a one-sided service either. Am I wrong?",XMESS_0050,南方ひづる
+XMESS_0051,"O-Of course it isn't! If Tokiko helps me, then I'll help Tokiko just as much!",XMESS_0051,小舟澪
 XMESS_0052,Mio…,XMESS_0052,菱形朱鷺子
-XMESS_0053,"Hmm…
-That's what friends are.",XMESS_0053,南方ひづる
-XMESS_0054,"F-friends…?
-It feels a bit embarrassing.
-But it's not wrong, right?",XMESS_0054,小舟澪
+XMESS_0053,"Hmm... So-called best friends, huh.",XMESS_0053,南方ひづる
+XMESS_0054,"B-Best friends...? That's a bit embarrassing. But it's not wrong, right?",XMESS_0054,小舟澪
 XMESS_0055,"Yeah, it's not wrong.",XMESS_0055,菱形朱鷺子
-XMESS_0056,"(Saying it out loud might sound cheap,
-but…)",XMESS_0056,南方ひづる
-XMESS_0057,"(But if you dig deeper, it's a theme
-that would take a lifetime to write about)",XMESS_0057,南方ひづる
-XMESS_0058,"(But even between friends,
-there are plenty of cases where the relationship breaks)",XMESS_0058,南方ひづる
-XMESS_0059,"(A story about being betrayed by a friend.
-Not a useless theme at all)",XMESS_0059,南方ひづる
-XMESS_0060,But for what reason would they betray?,XMESS_0060,南方ひづる
-XMESS_0061,"(Love?
-No, I don't want to write a melodrama)",XMESS_0061,南方ひづる
+XMESS_0056,"(Putting it into words might make it sound cheap, but...)",XMESS_0056,南方ひづる
+XMESS_0057,"(But if you dig deeper, it's one of those profound themes that you couldn't fully write about even if you spent your whole life on it.)",XMESS_0057,南方ひづる
+XMESS_0058,"(However, even between best friends, it's not uncommon for that relationship to unravel due to some trigger.)",XMESS_0058,南方ひづる
+XMESS_0059,"(A story about being betrayed by a best friend, huh. It's not an unusable theme.)",XMESS_0059,南方ひづる
+XMESS_0060,(But for what reason would they betray them?),XMESS_0060,南方ひづる
+XMESS_0061,"(A romantic entanglement? No, what I want to write isn't a melodrama.)",XMESS_0061,南方ひづる
 XMESS_0062,…,XMESS_0062,南方ひづる
 XMESS_0063,Um… Hizuru-san?,XMESS_0063,小舟澪
-XMESS_0064,"Let me ask directly.
-If one of you betrayed the other, what would you do?",XMESS_0064,南方ひづる
+XMESS_0064,"I'll ask point-blank. If one of you betrayed the other, what would you do?",XMESS_0064,南方ひづる
 XMESS_0065,Huh!?,XMESS_0065,小舟澪
 XMESS_0066,Betrayal…?,XMESS_0066,菱形朱鷺子
-XMESS_0067,"Ah, I want to hear your thoughts.",XMESS_0067,南方ひづる
-XMESS_0068,"S-suddenly asking something like that…
-Tokiko would never do that,
-and of course I wouldn't…",XMESS_0068,小舟澪
-XMESS_0069,"Imagine it!
-What's the point of having thinking ability!",XMESS_0069,南方ひづる
-XMESS_0070,Uhh…,XMESS_0070,小舟澪
-XMESS_0071,"…At first, I'd be angry.
-But I'd also feel sad…
-I'd think a lot about why…",XMESS_0071,菱形朱鷺子
-XMESS_0072,"In the end, I'd probably forgive them.",XMESS_0072,菱形朱鷺子
-XMESS_0073,"That's right…
-I'd do the same as Tokiko.",XMESS_0073,小舟澪
-XMESS_0074,Even if it was a cruel betrayal?,XMESS_0074,南方ひづる
-XMESS_0075,"Yeah…
-If Tokiko betrayed me, there must be a good reason.",XMESS_0075,小舟澪
-XMESS_0076,"I'd talk to her directly and resolve it together.
-I don't want to fight and break up with Tokiko.",XMESS_0076,小舟澪
-XMESS_0077,"Also, if…
-I was the one who betrayed them…",XMESS_0077,菱形朱鷺子
-XMESS_0078,"Unless it was something really serious,
-I'd talk to them before betraying.",XMESS_0078,菱形朱鷺子
-XMESS_0079,"Yeah, that's right!",XMESS_0079,小舟澪
-XMESS_0080,"(Being angry but forgiving…
-Talking before betraying…)",XMESS_0080,南方ひづる
-XMESS_0081,(Ordinary! There's no fun at all!!),XMESS_0081,南方ひづる
-XMESS_0082,"(There are situations in the world that are hard to talk about.
-No matter how strong the bond, there are things you can't resist)",XMESS_0082,南方ひづる
-XMESS_0083,"(But… their smiles toward each other seem to say
-""Such things don't exist""…)",XMESS_0083,南方ひづる
-XMESS_0084,"(This is what 'friends' mean.
-With a strong bond, you can overcome anything)",XMESS_0084,南方ひづる
+XMESS_0067,"Yes, I'd like to hear what you two think.",XMESS_0067,南方ひづる
+XMESS_0068,"E-Even if you suddenly ask us that... There's no way Tokiko would do something like that, and of course I wouldn't either...!",XMESS_0068,小舟澪
+XMESS_0069,Use your imagination! What do you think you have the ability to think for!,XMESS_0069,南方ひづる
+XMESS_0070,Eeh...,XMESS_0070,小舟澪
+XMESS_0071,"...At first, I'd be angry. But I'd also be sad... I'd worry a lot about why they did it...",XMESS_0071,菱形朱鷺子
+XMESS_0072,"In the end, I think I'd end up forgiving them.",XMESS_0072,菱形朱鷺子
+XMESS_0073,Yeah... I'm the same as Tokiko.,XMESS_0073,小舟澪
+XMESS_0074,Even if it was the most cruel betrayal imaginable?,XMESS_0074,南方ひづる
+XMESS_0075,"Let's see... For Tokiko to betray me, there would have to be a really good reason.",XMESS_0075,小舟澪
+XMESS_0076,"I'd listen to what she has to say, and we'd solve it together. I don't want to part ways with Tokiko over a fight.",XMESS_0076,小舟澪
+XMESS_0077,"Besides, if... I were the one doing the betraying...",XMESS_0077,菱形朱鷺子
+XMESS_0078,"Unless it was something extremely serious, I think we would talk it over together before I betrayed her.",XMESS_0078,菱形朱鷺子
+XMESS_0079,"Yeah, that's what I thought!",XMESS_0079,小舟澪
+XMESS_0080,(They'd get angry but forgive them... They'd consult them before betraying them...),XMESS_0080,南方ひづる
+XMESS_0081,(How ordinary!! There's no entertainment value in that at all!!),XMESS_0081,南方ひづる
+XMESS_0082,"(There are circumstances in this world that you can't easily consult others about. No matter how strong your bond is, there are things you cannot resist.)",XMESS_0082,南方ひづる
+XMESS_0083,"(But... the smiles they direct at each other seem to be saying, ""No such thing exists""...)",XMESS_0083,南方ひづる
+XMESS_0084,"(Is this what it means to be ""best friends""? With a strong bond, you can overcome anything.)",XMESS_0084,南方ひづる
 XMESS_0085,…,XMESS_0085,南方ひづる
-XMESS_0086,"(Thinking back, I haven't really paid attention to this concept before.
-In that sense, it's refreshing…)",XMESS_0086,南方ひづる
-XMESS_0087,"Thank you.
-It was helpful.",XMESS_0087,南方ひづる
-XMESS_0088,"Helpful…?
-What's it helpful for…?",XMESS_0088,菱形朱鷺子
-XMESS_0089,"Ah, don't mind it.",XMESS_0089,南方ひづる
-XMESS_0090,H-huh…?,XMESS_0090,菱形朱鷺子
+XMESS_0086,"(Come to think of it, this is a concept I haven't paid much attention to until now. In that sense, it has a certain freshness to it...)",XMESS_0086,南方ひづる
+XMESS_0087,Thank you. That was helpful.,XMESS_0087,南方ひづる
+XMESS_0088,"Helpful...? Helpful for what, exactly...",XMESS_0088,菱形朱鷺子
+XMESS_0089,"Ah, don't worry about it.",XMESS_0089,南方ひづる
+XMESS_0090,O-Okay...,XMESS_0090,菱形朱鷺子
 XMESS_0091,…,XMESS_0091,南方ひづる
-XMESS_0092,"(Young… 
-It's really young and straightforward answers)",XMESS_0092,南方ひづる
-XMESS_0093,"(There are things in the world that people can't talk about.
-No matter how strong the bond, there are things you can't resist)",XMESS_0093,南方ひづる
-XMESS_0094,"(But if there's a strong trust that can overcome even that…
-)",XMESS_0094,南方ひづる
-XMESS_0095,I see… Not a bad theme at all.,XMESS_0095,南方ひづる
-XMESS_0096,(The problem is that I'm pretty unfamiliar with this 'friend' relationship),XMESS_0096,南方ひづる
-XMESS_0097,"I wonder what's wrong?
-She's been staring into the sky, thinking for so long…",XMESS_0097,小舟澪
-XMESS_0098,She's a bit strange too.,XMESS_0098,菱形朱鷺子
+XMESS_0092,(Young... What truly young and straightforward answers.),XMESS_0092,南方ひづる
+XMESS_0093,"(There are worries in this world that you simply can't tell anyone. No matter how strong your bond is, there are things you cannot resist.)",XMESS_0093,南方ひづる
+XMESS_0094,"(But, if there is a solid relationship of trust that can overcome even that...)",XMESS_0094,南方ひづる
+XMESS_0095,(I see... That's not a bad theme.),XMESS_0095,南方ひづる
+XMESS_0096,"(The problem is that I am completely unfamiliar with the relationship of ""best friends"".)",XMESS_0096,南方ひづる
+XMESS_0097,I wonder what's wrong? She's been staring up at the sky deep in thought for a while now...,XMESS_0097,小舟澪
+XMESS_0098,Maybe she's just a little eccentric...,XMESS_0098,菱形朱鷺子

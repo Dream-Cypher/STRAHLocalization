@@ -1,232 +1,155 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,9. Summer Time Rendering,XCHAPTITLE_0002,
-XCOMMENTVIEW_0015,July 24th,XCOMMENTVIEW_0015,
-XMESS_0000,"(The day after tomorrow.
-It's the day of Hitogashima's major event, the Hitogashima Summer Festival.)",XMESS_0000,南方ひづる
-XMESS_0001,"(Tourists are flocking in.
-People who want to stay and enjoy are coming to the inn where I'm staying, making a complete mess.)",XMESS_0001,南方ひづる
-XMESS_0002,"(There's no choice…
-I should go somewhere else.)",XMESS_0002,南方ひづる
+XCOMMENTVIEW_0015,July 24,XCOMMENTVIEW_0015,
+XMESS_0000,"(Two days later. It's the day of Hitogashima's biggest event, the Hitogashima Summer Festival.)",XMESS_0000,南方ひづる
+XMESS_0001,"(Tourists are flocking to the island. People looking to stay over and have fun are pouring into the inn where I'm staying too, making it noisy beyond belief.)",XMESS_0001,南方ひづる
+XMESS_0002,(It can't be helped... I suppose I'll go somewhere else.),XMESS_0002,南方ひづる
 XMESS_0003,Welcome!,XMESS_0003,小舟アラン
 XMESS_0004,"Hey, Alain.",XMESS_0004,南方ひづる
-XMESS_0005,"Oh, Hizuru. You're back again.",XMESS_0005,小舟アラン
-XMESS_0006,"Hey, Hizuru~!",XMESS_0006,小早川朝子
-XMESS_0007,"Asako?
-What happened to Kaori?
-Is she working here?",XMESS_0007,南方ひづる
-XMESS_0008,"No, no.
-She's here to have lunch with Shiori.",XMESS_0008,小早川朝子
-XMESS_0009,"Sister, you're here.",XMESS_0009,南方竜之介（大人）
-XMESS_0010,"Even Ryuunosuke is here.
-You're having lunch too?",XMESS_0010,南方ひづる
+XMESS_0005,"Oh, Hizuru. You came back again, huh.",XMESS_0005,小舟アラン
+XMESS_0006,"Ah, Hizuru~!",XMESS_0006,小早川朝子
+XMESS_0007,Asako? What about Koba Mart. Are you working here?,XMESS_0007,南方ひづる
+XMESS_0008,"No, no. I just came to have lunch with Shiori.",XMESS_0008,小早川朝子
+XMESS_0009,"Sis, you're here.",XMESS_0009,南方竜之介（大人）
+XMESS_0010,Even Ryunosuke is here. Are you having lunch too?,XMESS_0010,南方ひづる
 XMESS_0011,"Yeah.
 Kofune's lunch is delicious.",XMESS_0011,南方竜之介（大人）
-XMESS_0012,"Heh, that's kind of you to say.",XMESS_0012,小舟アラン
-XMESS_0013,"Sister, you didn't come to our place after all.
-Have you been staying at the inn this whole time?",XMESS_0013,南方竜之介（大人）
-XMESS_0014,"Yeah, I finally relaxed.
-It was a great rest.",XMESS_0014,南方ひづる
-XMESS_0015,"Ah, that's why.",XMESS_0015,南方竜之介（大人）
-XMESS_0016,"Sister, you seem different.
-Like the demon that was on you has left.",XMESS_0016,南方竜之介（大人）
-XMESS_0017,"A demon…?
-I guess that's true.",XMESS_0017,南方ひづる
-XMESS_0018,"I haven't been thinking about anything like this in a long time.
-How many years has it been?",XMESS_0018,南方ひづる
-XMESS_0019,"What!?
-You didn't think about anything… Hizuru can do that?",XMESS_0019,小早川朝子
-XMESS_0020,"Well, even I was surprised.",XMESS_0020,南方ひづる
+XMESS_0012,"Haha, those are kind words.",XMESS_0012,小舟アラン
+XMESS_0013,"Sis, you didn't come to our place after all. Have you been staying at the inn this whole time?",XMESS_0013,南方竜之介（大人）
+XMESS_0014,"Yeah, I relaxed for the first time in a while. I got some good rest.",XMESS_0014,南方ひづる
+XMESS_0015,"Ah, so that's why.",XMESS_0015,南方竜之介（大人）
+XMESS_0016,"Sis, your atmosphere seems to have changed. It's like a weight has been lifted off your shoulders.",XMESS_0016,南方竜之介（大人）
+XMESS_0017,A weight off my shoulders... huh. That might certainly be the case.,XMESS_0017,南方ひづる
+XMESS_0018,It's been a really long time since I spent time without thinking about anything like this. I wonder how many years it's been.,XMESS_0018,南方ひづる
+XMESS_0019,"What!? Spending time without thinking about anything... Even you can do it if you try, Hizuru.",XMESS_0019,小早川朝子
+XMESS_0020,"Well, it was a surprise even to me.",XMESS_0020,南方ひづる
 XMESS_0021,"Ah, Hizuru-chan!",XMESS_0021,南方波稲
-XMESS_0022,"Hey, Hoina.
-You took care of me the day before yesterday.",XMESS_0022,南方ひづる
-XMESS_0023,"Yeah, I took care of you!",XMESS_0023,南方波稲
-XMESS_0024,"Hey, Hoina.
-You shouldn't talk like that.",XMESS_0024,南方竜之介（大人）
-XMESS_0025,"Hoina-chan!
-Something's wrong!
-The screen is flashing!",XMESS_0025,小早川しおり
-XMESS_0026,"Huh? Really?
-Let me see it?",XMESS_0026,南方波稲
-XMESS_0027,"Wait, Hoina!
-Don't break your dad's tablet!",XMESS_0027,南方竜之介（大人）
-XMESS_0028,…It's lively here.,XMESS_0028,南方ひづる
-XMESS_0029,"Sorry, Alain-san.
-I made a lot of noise.",XMESS_0029,小早川朝子
-XMESS_0030,"It's fine since it's this time.
-Lunch is over, and the store is calm now.",XMESS_0030,小舟アラン
-XMESS_0031,"Hizuru, what are you going to do?
-If you're hungry, I can prepare something.",XMESS_0031,小舟アラン
-XMESS_0032,"No, coffee is fine.",XMESS_0032,南方ひづる
-XMESS_0033,"Okay.
-I'll prepare it right away.",XMESS_0033,小舟アラン
-XMESS_0034,"Are you enjoying your vacation?
-I heard you're also doing research for your new work.
-Is it going well?",XMESS_0034,小早川朝子
-XMESS_0035,"I don't know.
-Honestly, I haven't figured out the outline for the next work yet…",XMESS_0035,南方ひづる
-XMESS_0036,"Well, something will come up.",XMESS_0036,南方ひづる
-XMESS_0037,"Mom~, look at this!",XMESS_0037,小早川しおり
-XMESS_0038,"Okay, okay.
-Then, Hizuru, see you later.",XMESS_0038,小早川朝子
+XMESS_0022,"Hey, Hoine. Thanks for your help the day before yesterday.",XMESS_0022,南方ひづる
+XMESS_0023,"Yup, I sure did take care of you!",XMESS_0023,南方波稲
+XMESS_0024,"Hey now, Hoine. You shouldn't talk like that.",XMESS_0024,南方竜之介（大人）
+XMESS_0025,Hoine-chan! Something went weird! The screen is flashing!,XMESS_0025,小早川しおり
+XMESS_0026,Huh? Really? Let me see?,XMESS_0026,南方波稲
+XMESS_0027,"H-Hey, wait a sec, Hoine! Don't break your dad's tablet, okay!?",XMESS_0027,南方竜之介（大人）
+XMESS_0028,...It's lively.,XMESS_0028,南方ひづる
+XMESS_0029,"Sorry, Alain-san. For making a racket.",XMESS_0029,小早川朝子
+XMESS_0030,"It's fine at this time. Lunch is over, and the restaurant has calmed down.",XMESS_0030,小舟アラン
+XMESS_0031,"What are you going to do, Hizuru? If you're hungry, I can whip something up for you?",XMESS_0031,小舟アラン
+XMESS_0032,"No, just coffee is fine.",XMESS_0032,南方ひづる
+XMESS_0033,Sure thing. I'll get that ready right away.,XMESS_0033,小舟アラン
+XMESS_0034,"Are you enjoying your vacation? I heard you're also doing research for your new work, is it going well?",XMESS_0034,小早川朝子
+XMESS_0035,"Well, I wonder. Honestly, I haven't solidified any concepts for my next work yet, but...",XMESS_0035,南方ひづる
+XMESS_0036,"Well, it'll work out somehow.",XMESS_0036,南方ひづる
+XMESS_0037,"Mama~, look at this for a sec~.",XMESS_0037,小早川しおり
+XMESS_0038,"Yes, yes. Well then, Hizuru, see you later.",XMESS_0038,小早川朝子
 XMESS_0039,Yeah.,XMESS_0039,南方ひづる
-XMESS_0040,Here's your coffee.,XMESS_0040,小舟アラン
-XMESS_0041,"Yeah, thanks.",XMESS_0041,南方ひづる
-XMESS_0042,"Alain, it's about time to start preparing for the evening.
-Help me.",XMESS_0042,網代慎平（収録）
+XMESS_0040,"Sorry for the wait, I'll just set your coffee down here.",XMESS_0040,小舟アラン
+XMESS_0041,"Ah, thank you.",XMESS_0041,南方ひづる
+XMESS_0042,"Alain, it's about time to start prepping for the evening, right. I'll help out.",XMESS_0042,網代慎平（収録）
 XMESS_0043,…!,XMESS_0043,南方ひづる
-XMESS_0044,"Well, it's kind of you to say that…
-But you should rest a bit more.
-You had lunch, so you must be tired.",XMESS_0044,小舟アラン
-XMESS_0045,"But tonight is the festival.
-It'll get busy, so I think it's better to start early.",XMESS_0045,網代慎平（収録）
-XMESS_0046,"I see.
-You're probably right.",XMESS_0046,小舟アラン
-XMESS_0047,"…Oh!
-You're Nagumo-sensei!",XMESS_0047,網代慎平（収録）
-XMESS_0048,You're the one from that time…,XMESS_0048,南方ひづる
-XMESS_0049,I was really surprised back then.,XMESS_0049,南方ひづる
-XMESS_0050,I'm really sorry!,XMESS_0050,網代慎平（収録）
-XMESS_0051,"Ah, I didn't do it on purpose!
-I think I had a weird dream!",XMESS_0051,網代慎平（収録）
-XMESS_0052,"Ah, that's fine.
-What surprised me was that you figured out my identity without knowing me.",XMESS_0052,南方ひづる
+XMESS_0044,"Well, I appreciate that, but... It's fine if you rest a bit more, you know? Lunch was crowded, so you must be tired.",XMESS_0044,小舟アラン
+XMESS_0045,"But tonight is the festival, right? It's going to get busy, so I thought it'd be better to get moving early.",XMESS_0045,網代慎平（収録）
+XMESS_0046,I see. That might certainly be true.,XMESS_0046,小舟アラン
+XMESS_0047,...Ah! N-Nagumo-sensei!?,XMESS_0047,網代慎平（収録）
+XMESS_0048,You're the boy from that time...,XMESS_0048,南方ひづる
+XMESS_0049,"Good grief, you really surprised me back then.",XMESS_0049,南方ひづる
+XMESS_0050,I'm truly sorry about that!,XMESS_0050,網代慎平（収録）
+XMESS_0051,"U-Um, it definitely wasn't on purpose! It seems I was having a bit of a weird dream!!",XMESS_0051,網代慎平（収録）
+XMESS_0052,"Ah, I don't mind about that. What surprised me was having my identity guessed by a boy I've never met.",XMESS_0052,南方ひづる
 XMESS_0053,Huh…?,XMESS_0053,網代慎平（収録）
-XMESS_0054,"It's a good opportunity.
-Explain why you knew my identity.",XMESS_0054,南方ひづる
-XMESS_0055,"My profile is completely private.
-Yet, how did you figure out I was 'Ryunosuke Nagumo' just by looking at me?",XMESS_0055,南方ひづる
-XMESS_0056,"It's… it's hard to explain…
-I don't really know myself…",XMESS_0056,網代慎平（収録）
-XMESS_0057,"In my dream…
-I felt like I knew the truth.",XMESS_0057,網代慎平（収録）
+XMESS_0054,This is a good opportunity. Explain to me why you knew my true identity.,XMESS_0054,南方ひづる
+XMESS_0055,"My profile is completely private. And yet, how were you able to determine that I was ""Ryunosuke Nagumo"" with just one glance?",XMESS_0055,南方ひづる
+XMESS_0056,"Well... um... I don't really know how to express it myself, but...",XMESS_0056,網代慎平（収録）
+XMESS_0057,I feel like I learned that fact... in my dream.,XMESS_0057,網代慎平（収録）
 XMESS_0058,In a dream…?,XMESS_0058,南方ひづる
-XMESS_0059,"Ugh…
-I'm not joking, really…",XMESS_0059,網代慎平（収録）
-XMESS_0060,You're not normal…,XMESS_0060,南方ひづる
-XMESS_0061,You're right! I'm sorry.,XMESS_0061,網代慎平（収録）
-XMESS_0062,That's really interesting.,XMESS_0062,南方ひづる
+XMESS_0059,"Ugh... Um, I'm really not messing around or anything...",XMESS_0059,網代慎平（収録）
+XMESS_0060,That's certainly not normal...,XMESS_0060,南方ひづる
+XMESS_0061,Right! I'm sorry.,XMESS_0061,網代慎平（収録）
+XMESS_0062,That story is truly fascinating.,XMESS_0062,南方ひづる
 XMESS_0063,Huh?,XMESS_0063,網代慎平（収録）
-XMESS_0064,"Then, tell me in detail!",XMESS_0064,南方ひづる
-XMESS_0065,"…I see.
-You saw a strange dream with a sense of reality on the ferry.",XMESS_0065,南方ひづる
-XMESS_0066,"And it seems that the same dream was also seen by your childhood friend, Ushio…
-That's what it is, right?",XMESS_0066,南方ひづる
-XMESS_0067,"Yes.
-The memories from the dream are already a bit vague.",XMESS_0067,網代慎平（収録）
-XMESS_0068,"The fragments I can remember seem so real, it's hard to believe it was a dream.",XMESS_0068,網代慎平（収録）
-XMESS_0069,"So, you figured out my identity in that dream?",XMESS_0069,南方ひづる
-XMESS_0070,"Maybe…
-I don't really know, but both me and Ushio can't remember the specific details…",XMESS_0070,網代慎平（収録）
-XMESS_0071,A premonition dream… or maybe memories…,XMESS_0071,南方ひづる
-XMESS_0072,Memories of parallel worlds…,XMESS_0072,南方ひづる
-XMESS_0073,"Hoina!
-Return my dad's tablet already!",XMESS_0073,南方竜之介（大人）
+XMESS_0064,"Come now, tell me in detail!",XMESS_0064,南方ひづる
+XMESS_0065,...I see. You had a strange dream accompanied by a sense of reality while on the ferry.,XMESS_0065,南方ひづる
+XMESS_0066,"And apparently, your childhood friend, Ushio Kofune, had the exact same dream-- Is that right?",XMESS_0066,南方ひづる
+XMESS_0067,Yes. Although the memories from the dream are already hazy.,XMESS_0067,網代慎平（収録）
+XMESS_0068,The contents I can remember in fragments don't seem like they could possibly be a dream...,XMESS_0068,網代慎平（収録）
+XMESS_0069,And you learned my true identity in that dream?,XMESS_0069,南方ひづる
+XMESS_0070,"I think that might be the case... Neither Ushio nor I can remember the specific details, though...",XMESS_0070,網代慎平（収録）
+XMESS_0071,"A prophetic dream... or perhaps, a memory...",XMESS_0071,南方ひづる
+XMESS_0072,Memories of a parallel world--,XMESS_0072,南方ひづる
+XMESS_0073,Hoine! Can you give Papa's tablet back soon?,XMESS_0073,南方竜之介（大人）
 XMESS_0074,!!,XMESS_0074,網代慎平（収録）
-XMESS_0075,"Just a little longer!
-We're taking photos with Shiori right now.",XMESS_0075,南方波稲
-XMESS_0076,"Mom, let's take a photo together!",XMESS_0076,小早川しおり
-XMESS_0077,"Okay.
-Then, Ryu-kun, come in too.",XMESS_0077,小早川朝子
-XMESS_0078,"I don't know…
-It might be hard to fit everyone in a self-portrait.",XMESS_0078,南方竜之介（大人）
+XMESS_0075,Just a little bit longer! I'm taking pictures with Shiori-chan right now.,XMESS_0075,南方波稲
+XMESS_0076,"Let's take a picture together too, Mama~!",XMESS_0076,小早川しおり
+XMESS_0077,"Sure. Then why don't you get in too, Ryu-kun?",XMESS_0077,小早川朝子
+XMESS_0078,I wonder? It might be hard to fit this many people in a selfie.,XMESS_0078,南方竜之介（大人）
 XMESS_0079,…,XMESS_0079,網代慎平（収録）
-XMESS_0080,"What's wrong?
-Are you interested?",XMESS_0080,南方ひづる
-XMESS_0081,No… Hoina…,XMESS_0081,網代慎平（収録）
-XMESS_0082,She's my brother Ryuunosuke's daughter.,XMESS_0082,南方ひづる
-XMESS_0083,That's good…,XMESS_0083,網代慎平（収録）
-XMESS_0084,Good?,XMESS_0084,南方ひづる
-XMESS_0085,"It's weird…
-Why do I feel that way…",XMESS_0085,網代慎平（収録）
+XMESS_0080,What's wrong? Does it bother you?,XMESS_0080,南方ひづる
+XMESS_0081,No... that girl Hoine...,XMESS_0081,網代慎平（収録）
+XMESS_0082,"She is the daughter of my younger brother, Ryunosuke.",XMESS_0082,南方ひづる
+XMESS_0083,I'm glad...,XMESS_0083,網代慎平（収録）
+XMESS_0084,Glad?,XMESS_0084,南方ひづる
+XMESS_0085,It's strange... I wonder why I feel that way...,XMESS_0085,網代慎平（収録）
 XMESS_0086,…,XMESS_0086,南方ひづる
-XMESS_0087,"I don't know.
-It doesn't seem like you're just saying random things…",XMESS_0087,南方ひづる
-XMESS_0088,"To some people, it might sound suspicious.",XMESS_0088,南方ひづる
-XMESS_0089,"Heh heh…
-Well, that's true.",XMESS_0089,網代慎平（収録）
-XMESS_0090,"Sister, don't tease Shinpei too much.",XMESS_0090,南方竜之介（大人）
-XMESS_0091,"Shinpei is a big fan of 'Ryunosuke Nagumo.'
-It's not strange that he found out your identity!",XMESS_0091,南方竜之介（大人）
-XMESS_0092,"I'm a masked author!
-I haven't shown my face anywhere…
-Don't make up wild theories and butt in, you idiot!!",XMESS_0092,南方ひづる
-XMESS_0093,"Sorry?
-Sister, you're tense because you're preparing your new work.",XMESS_0093,南方竜之介（大人）
-XMESS_0094,Ah!?,XMESS_0094,南方ひづる
-XMESS_0095,"But you know, I'm happy to see a fan in front of me!",XMESS_0095,南方竜之介（大人）
-XMESS_0096,W-What!?,XMESS_0096,南方ひづる
-XMESS_0097,New work…? Are you writing it now!?,XMESS_0097,網代慎平（収録）
-XMESS_0098,"…Well, yeah.",XMESS_0098,南方ひづる
-XMESS_0099,"Wow, that's amazing!
-Is it the Saint series!?
-Or something else…",XMESS_0099,網代慎平（収録）
-XMESS_0100,How could I tell you that!?,XMESS_0100,南方ひづる
-XMESS_0101,"But, well…",XMESS_0101,南方ひづる
-XMESS_0102,"I came here for research and a break,
-but your story was an unexpected gain.",XMESS_0102,南方ひづる
-XMESS_0103,Tell me more about that story.,XMESS_0103,南方ひづる
+XMESS_0087,"Who knows. It doesn't look to me like you're just saying random things, but...",XMESS_0087,南方ひづる
+XMESS_0088,"Depending on who's listening, it's a suspicious statement.",XMESS_0088,南方ひづる
+XMESS_0089,"Ahaha... Well, I guess so.",XMESS_0089,網代慎平（収録）
+XMESS_0090,Sis. Don't bully Shinpei too much.,XMESS_0090,南方竜之介（大人）
+XMESS_0091,"Shinpei is a huge fan of ""Ryunosuke Nagumo"". It's not strange that your true identity was exposed!",XMESS_0091,南方竜之介（大人）
+XMESS_0092,"I am a masked author! I haven't shown my face anywhere... Don't butt in with your nonsensical deductions, you idiot!!",XMESS_0092,南方ひづる
+XMESS_0093,"Sorry about that, okay? Sis is really on edge right now preparing for her new work.",XMESS_0093,南方竜之介（大人）
+XMESS_0094,Hah!?,XMESS_0094,南方ひづる
+XMESS_0095,"But despite how she seems, she's happy to meet a fan!",XMESS_0095,南方竜之介（大人）
+XMESS_0096,Wh... What are you saying!,XMESS_0096,南方ひづる
+XMESS_0097,A new work... are you writing it right now!?,XMESS_0097,網代慎平（収録）
+XMESS_0098,"...Well, yes.",XMESS_0098,南方ひづる
+XMESS_0099,"Wow, that's amazing...! Is it the Saint series!? Or something else...",XMESS_0099,網代慎平（収録）
+XMESS_0100,L-Like I would tell you!,XMESS_0100,南方ひづる
+XMESS_0101,"However, well...",XMESS_0101,南方ひづる
+XMESS_0102,"I came to Wakayama for both research and rest, but your story was an unexpected harvest.",XMESS_0102,南方ひづる
+XMESS_0103,Let me hear more details about that story from earlier.,XMESS_0103,南方ひづる
 XMESS_0104,Y-Yes!,XMESS_0104,網代慎平（収録）
-XMESS_0105,Hm… I see.,XMESS_0105,南方ひづる
-XMESS_0106,"Multiple parallel worlds and their memories…
-Yeah, not bad.",XMESS_0106,南方ひづる
-XMESS_0107,But that's still weak.,XMESS_0107,南方ひづる
-XMESS_0108,"It's a cliché, after all…
-If there was something more… something newer…",XMESS_0108,南方ひづる
-XMESS_0109,Something…?,XMESS_0109,網代慎平（収録）
-XMESS_0110,"Yes.
-I want an element that makes this story more vivid and standout.
-Just one more push…",XMESS_0110,南方ひづる
-XMESS_0111,Why is this sister making such a complicated face?,XMESS_0111,小早川しおり
-XMESS_0112,"Hizuru-chan,
-you're trying to make an interesting story right now.",XMESS_0112,南方波稲
-XMESS_0113,"A story?
-Hm…",XMESS_0113,小早川しおり
-XMESS_0114,"If it's a story, I want you to make one about this island.",XMESS_0114,小早川しおり
-XMESS_0115,"Ah, that's a good idea!
-Hey, Hizuru-chan, did you hear that!?",XMESS_0115,南方波稲
-XMESS_0116,…What?,XMESS_0116,南方ひづる
-XMESS_0117,"If you're going to write a story,
-why not make it about this island?
-You've gathered so much information about it!",XMESS_0117,南方波稲
-XMESS_0118,Island information――,XMESS_0118,南方ひづる
-XMESS_0119,"Uncertain and incomprehensible, thus a being that shows a new perspective…",XMESS_0119,南方ひづる
-XMESS_0120,Friend… Betrayal…,XMESS_0120,南方ひづる
+XMESS_0105,Hmm... I see...,XMESS_0105,南方ひづる
+XMESS_0106,"Numerous parallel worlds and the memories of them... Yes, not bad.",XMESS_0106,南方ひづる
+XMESS_0107,"But, that alone is still weak.",XMESS_0107,南方ひづる
+XMESS_0108,"It is a well-worn subject, after all... If only there was something more... a newer angle...!",XMESS_0108,南方ひづる
+XMESS_0109,Something...?,XMESS_0109,網代慎平（収録）
+XMESS_0110,"Exactly. I want an element that will make this story stand out more vividly. Just one more push, but...",XMESS_0110,南方ひづる
+XMESS_0111,Why is this lady making such a difficult face?,XMESS_0111,小早川しおり
+XMESS_0112,Hizuru-chan is working hard to create an interesting story right now.,XMESS_0112,南方波稲
+XMESS_0113,A story? Hmm...,XMESS_0113,小早川しおり
+XMESS_0114,"If that's the case, I want her to write a story about this island.",XMESS_0114,小早川しおり
+XMESS_0115,"Ah, that's a great idea! Hey, Hizuru-chan, did you hear that!?",XMESS_0115,南方波稲
+XMESS_0116,...Hear what?,XMESS_0116,南方ひづる
+XMESS_0117,"If you're going to write a story anyway, why not make it about this island! You gathered so much information about the island, too!",XMESS_0117,南方波稲
+XMESS_0118,Information about the island--,XMESS_0118,南方ひづる
+XMESS_0119,"Uncertain and incomprehensible, and therefore an existence that shows a new perspective...",XMESS_0119,南方ひづる
+XMESS_0120,Best friends... Betrayal...,XMESS_0120,南方ひづる
 XMESS_0121,…,XMESS_0121,南方ひづる
-XMESS_0122,Hunger… Time reversal…,XMESS_0122,南方ひづる
-XMESS_0123,A warrior fighting in secret…,XMESS_0123,南方ひづる
-XMESS_0124,Child and parent… Light and shadow…,XMESS_0124,南方ひづる
-XMESS_0125,And… Ajiro boy's memories.,XMESS_0125,南方ひづる
+XMESS_0122,Hunger... Going back in time...,XMESS_0122,南方ひづる
+XMESS_0123,A warrior who fights in secret...,XMESS_0123,南方ひづる
+XMESS_0124,Child and parent... Light and shadow...,XMESS_0124,南方ひづる
+XMESS_0125,And... the Ajiro boy's memories.,XMESS_0125,南方ひづる
 XMESS_0126,Excuse me for a moment…,XMESS_0126,南方ひづる
-XMESS_0127,"S, handstand…",XMESS_0127,網代慎平（収録）
+XMESS_0127,A-A handstand...,XMESS_0127,網代慎平（収録）
 XMESS_0128,…,XMESS_0128,南方ひづる
 XMESS_0129,…,XMESS_0129,南方ひづる
-XMESS_0130,Connected!!!,XMESS_0130,南方ひづる
+XMESS_0130,It's connected!!!!,XMESS_0130,南方ひづる
 XMESS_0131,Whoa!?,XMESS_0131,網代慎平（収録）
-XMESS_0132,"What's going on?
-Shouting all of a sudden…",XMESS_0132,小早川朝子
-XMESS_0133,Connected… Everything is connected!,XMESS_0133,南方ひづる
-XMESS_0134,Interesting idea… Maybe I've had a flash of inspiration…,XMESS_0134,南方ひづる
+XMESS_0132,Wh-What is it? Raising your voice all of a sudden...,XMESS_0132,小早川朝子
+XMESS_0133,It's connected... everything is connected.,XMESS_0133,南方ひづる
+XMESS_0134,I might have... come up with an interesting idea...,XMESS_0134,南方ひづる
 XMESS_0135,Here it comes! Here it comes! Here it comes!!,XMESS_0135,南方ひづる
-XMESS_0136,"Fuhahaha, it's coming down!!
-My victory!!",XMESS_0136,南方ひづる
-XMESS_0137,"S, teacher?",XMESS_0137,網代慎平（収録）
-XMESS_0138,"Hizuru-chan, you're so happy!
-Smiling widely!",XMESS_0138,南方波稲
-XMESS_0139,"Fufu… Ufufu!
-My hands can't stop!",XMESS_0139,南方ひづる
-XMESS_0140,"Fuhahaha!
-Good, good!
-I can do it! This can work!",XMESS_0140,南方ひづる
-XMESS_0141,"It seems the older sister's switch has been turned on.
-Once this happens, there's no stopping it.",XMESS_0141,南方竜之介（大人）
-XMESS_0142,"So, is a new work going to be made?!",XMESS_0142,網代慎平（収録）
+XMESS_0136,"Fuhahaha, it has descended upon me!! This is my victory!!",XMESS_0136,南方ひづる
+XMESS_0137,S-Sensei?,XMESS_0137,網代慎平（収録）
+XMESS_0138,Hizuru-chan looks like she's having so much fun! She's grinning from ear to ear!,XMESS_0138,南方波稲
+XMESS_0139,Fufu... Ufufu! My hands won't stop anymore!,XMESS_0139,南方ひづる
+XMESS_0140,"Fuhahahahahahaha! This is good, this is good! I can do this! This will work!",XMESS_0140,南方ひづる
+XMESS_0141,"It looks like Sis's switch has been flipped. Once she gets like this, there's no stopping her.",XMESS_0141,南方竜之介（大人）
+XMESS_0142,"Then, you'll be able to write your new work!?",XMESS_0142,網代慎平（収録）
 XMESS_0143,"Yes, indeed!",XMESS_0143,南方ひづる
-XMESS_0144,"You are the one who gave me the opportunity to create this work!
-I'll tell you the title at least!",XMESS_0144,南方ひづる
-XMESS_0145,I just thought of a perfect title for this work!,XMESS_0145,南方ひづる
-XMESS_0146,P-please!!,XMESS_0146,網代慎平（収録）
-XMESS_0147,"Listen carefully!
-The title of the next work is!",XMESS_0147,南方ひづる
-XMESS_0148,『Summer Time Render』!,XMESS_0148,南方ひづる
-XMESS_0149,Ooo~~~!!,XMESS_0149,一同（一同Ｂ）
-XMESS_0150,KEY TIPS[<color=#GF_KEY_EPILOGIE_HDR>epilogue: Hizuru Minakata</color>] was obtained.,XMESS_0150,（ト書き）
+XMESS_0144,You are the benefactor who gave me the catalyst to create this work! I will at least tell you the title!,XMESS_0144,南方ひづる
+XMESS_0145,I just thought of the perfect title for this work!,XMESS_0145,南方ひづる
+XMESS_0146,B-By all means!!,XMESS_0146,網代慎平（収録）
+XMESS_0147,Listen well! The title of my next work is!,XMESS_0147,南方ひづる
+XMESS_0148,"""Summer Time Rendering""!",XMESS_0148,南方ひづる
+XMESS_0149,Ooooh~~~!!,XMESS_0149,一同（一同Ｂ）
+XMESS_0150,Key TIPS [<color=#GF_KEY_EPILOGIE_HDR>epilogue: Hizuru Minakata</color>] obtained.,XMESS_0150,（ト書き）

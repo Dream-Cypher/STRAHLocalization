@@ -1,352 +1,246 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,12. Many Sacrifices,XCHAPTITLE_0002,
 XCOMMENTVIEW_0013,Shinpei Ajiro,XCOMMENTVIEW_0013,
-XMESS_0000,"Hello…
-I've been waiting for you.",XMESS_0000,雁切真砂人
-XMESS_0001,Step back… Shin-chan… It's dangerous…,XMESS_0001,ミオ
-XMESS_0002,"Where are Mio and Sou?!
-What happened?!",XMESS_0002,網代慎平
-XMESS_0003,"Of course… you came to see Mio-chan.
-Shinpei-kun!",XMESS_0003,雁切真砂人
-XMESS_0004,!!!,XMESS_0004,網代慎平
-XMESS_0005,"Step back, Shin-chan.
-I'll handle it.",XMESS_0005,ミオ
-XMESS_0006,"Rather than me…
-Killing you would be better for everyone, Mio-chan.",XMESS_0006,雁切真砂人
-XMESS_0007,"Mio and Sou were sent to the Hiruko Cave.
-They're probably being eaten by Mother right now.",XMESS_0007,雁切真砂人
+XMESS_0000,Hello... I'm tired of waiting for you.,XMESS_0000,雁切真砂人
+XMESS_0001,Step back... Shin-chan... It's dangerous...,XMESS_0001,ミオ
+XMESS_0002,What about Mio and Sou!? What happened!?,XMESS_0002,網代慎平
+XMESS_0003,As expected... you came to Mio-chan. Shinpei-kun!,XMESS_0003,雁切真砂人
+XMESS_0004,...!!,XMESS_0004,網代慎平
+XMESS_0005,"I said step back, Shin-chan. I'll do it.",XMESS_0005,ミオ
+XMESS_0006,"Rather than me... wouldn't it be better to kill Shinpei-kun for him, Mio-chan?",XMESS_0006,雁切真砂人
+XMESS_0007,I sent Mio-chan and Sou-kun to Hiruko Cave. Mother is probably eating them right about now.,XMESS_0007,雁切真砂人
 XMESS_0008,!!,XMESS_0008,網代慎平
-XMESS_0009,"Oh, you're late!
-Shinpei-kun!",XMESS_0009,雁切真砂人
-XMESS_0010,"…That's gutsy of Shide…
-Not running away and waiting alone like this…",XMESS_0010,網代慎平
-XMESS_0011,"I can't trust the other shadows…
-I don't want to lose any more companions.
-Since I'm human, they won't hack me.",XMESS_0011,雁切真砂人
+XMESS_0009,You were just a bit too late! Shinpei-kun!,XMESS_0009,雁切真砂人
+XMESS_0010,"...You've got some nerve, Shide... Waiting here all alone instead of running away...",XMESS_0010,網代慎平
+XMESS_0011,"I can't leave this to the other shadows... I don't want to lose any more comrades, you see... Since I'm human, I won't be hacked.",XMESS_0011,雁切真砂人
 XMESS_0012,…What!?,XMESS_0012,網代慎平
-XMESS_0013,"(afraid of hacking? 
-this guy thinks Ushio's still alive!?)",XMESS_0013,網代慎平
-XMESS_0014,Oh…,XMESS_0014,雁切真砂人
-XMESS_0015,"(Stop… think straight!!
-If he thinks they're alive, 
-better let him believe that!!)",XMESS_0015,網代慎平
-XMESS_0016,You figured it out…,XMESS_0016,網代慎平
-XMESS_0017,"…Mio-chan.
-Kill Shinpei-kun and restart the loop quickly.
-Otherwise I'll be…",XMESS_0017,雁切真砂人
+XMESS_0013,(He's afraid of being hacked? This guy... does he think Ushio is still alive...!?),XMESS_0013,網代慎平
+XMESS_0014,Oh...?,XMESS_0014,雁切真砂人
+XMESS_0015,"(Wait... wait a second!! If he thinks she's alive, I should let him keep thinking that...!!)",XMESS_0015,網代慎平
+XMESS_0016,So you saw right through it...,XMESS_0016,網代慎平
+XMESS_0017,...Mio-chan. Hurry up and kill Shinpei-kun to make him loop. Otherwise it'll be too la--,XMESS_0017,雁切真砂人
 XMESS_0018,…,XMESS_0018,ミオ
-XMESS_0019,"…Ah, right.",XMESS_0019,雁切真砂人
-XMESS_0020,"If we loop,
-I'll just come back…",XMESS_0020,雁切真砂人
-XMESS_0021,This is taking too long.,XMESS_0021,ミオ
-XMESS_0022,"(Shinpei… 
-and probably Sou as well…)",XMESS_0022,網代慎平
+XMESS_0019,"...Ah, I see...",XMESS_0019,雁切真砂人
+XMESS_0020,"If we loop, I'll just come back to life anyway...",XMESS_0020,雁切真砂人
+XMESS_0021,You talk too much.,XMESS_0021,ミオ
+XMESS_0022,"(We killed Karikiri... Shide, but...! I have to go save Mio, Sou, and Nagumo-sensei)",XMESS_0022,網代慎平
 XMESS_0023,…?!,XMESS_0023,ミオ
 XMESS_0024,What's wrong?,XMESS_0024,網代慎平
-XMESS_0025,Shin-chan. That guy really said that.,XMESS_0025,ミオ
-XMESS_0026,Now… Mio's dead.,XMESS_0026,ミオ
-XMESS_0027,Do you understand!?,XMESS_0027,網代慎平
-XMESS_0028,I can feel it. When the real one dies.,XMESS_0028,ミオ
-XMESS_0029,…Ku!!!,XMESS_0029,網代慎平
-XMESS_0030,"(Mio…
-and surely Sou too…)",XMESS_0030,網代慎平
-XMESS_0031,If we're going back… kill him?,XMESS_0031,ミオ
+XMESS_0025,Shin-chan. What he said was true.,XMESS_0025,ミオ
+XMESS_0026,Just now... Mio died.,XMESS_0026,ミオ
+XMESS_0027,...You can tell!?,XMESS_0027,網代慎平
+XMESS_0028,I can tell by feeling. When the real one dies.,XMESS_0028,ミオ
+XMESS_0029,...Damn it!!!,XMESS_0029,網代慎平
+XMESS_0030,(Mio... And surely Sou too...),XMESS_0030,網代慎平
+XMESS_0031,If we're going back... should I kill you?,XMESS_0031,ミオ
 XMESS_0032,"…No, not yet…",XMESS_0032,網代慎平
-XMESS_0033,"Let me get the situation straight.
-Check his memories!",XMESS_0033,網代慎平
+XMESS_0033,I need to grasp the situation... Check his memories!,XMESS_0033,網代慎平
 XMESS_0034,Got it.,XMESS_0034,ミオ
-XMESS_0035,…What?,XMESS_0035,ミオ
+XMESS_0035,...Huh?,XMESS_0035,ミオ
 XMESS_0036,…What's wrong?,XMESS_0036,網代慎平
-XMESS_0037,"…Something's off.
-He has no memory…",XMESS_0037,ミオ
-XMESS_0038,What does that mean!?,XMESS_0038,網代慎平
-XMESS_0039,"It's empty.
-No memory of talking to us just a moment ago.",XMESS_0039,ミオ
-XMESS_0040,"What is this…?
-How did he move like that…",XMESS_0040,ミオ
-XMESS_0041,"There are two Shides.
-Not shadows, humans. Like clones.",XMESS_0041,網代慎平
-XMESS_0042,"He didn't have burns on his hands…
-So where's the other one?",XMESS_0042,ミオ
-XMESS_0043,It has to be Nagumo-sensei!,XMESS_0043,網代慎平
-XMESS_0044,"(I don't think the teacher is safe.
-Haine called from his phone…)",XMESS_0044,網代慎平
+XMESS_0037,...Something's wrong. This guy... has no memories...,XMESS_0037,ミオ
+XMESS_0038,What do you mean!?,XMESS_0038,網代慎平
+XMESS_0039,It's empty. He doesn't even have the memory of talking with us... from just a moment ago.,XMESS_0039,ミオ
+XMESS_0040,What is this... How was he even moving...?,XMESS_0040,ミオ
+XMESS_0041,"There are two Shides... Not shadows, but two humans... like clones.",XMESS_0041,網代慎平
+XMESS_0042,This guy definitely didn't have burns on his hands. Then the other one is...,XMESS_0042,ミオ
+XMESS_0043,He must be with Nagumo-sensei...!,XMESS_0043,網代慎平
+XMESS_0044,(I can't imagine Sensei is safe either. Haine called from her phone...),XMESS_0044,網代慎平
 XMESS_0045,…?!,XMESS_0045,ミオ
 XMESS_0046,"Shin-chan, over here!",XMESS_0046,ミオ
-XMESS_0047,"(Toiko collapsed…
-terrible wounds…)",XMESS_0047,網代慎平
+XMESS_0047,(Toki-chan collapsed... She has terrible wounds...!),XMESS_0047,網代慎平
 XMESS_0048,…,XMESS_0048,菱形朱鷺子
-XMESS_0049,Toiko!!!,XMESS_0049,網代慎平
-XMESS_0050,"…Thank goodness.
-You're alive, Shinpei-san…",XMESS_0050,菱形朱鷺子
-XMESS_0051,"…Looking for Mio's presence…
-I made it this far…",XMESS_0051,菱形朱鷺子
-XMESS_0052,Toiko… What happened?,XMESS_0052,ミオ
-XMESS_0053,"Nezu-san and Totsumura…
-they let me go…",XMESS_0053,菱形朱鷺子
-XMESS_0054,"Please… 
-Head to Tiger Island… Head there!!
-Nagumo is fighting Shide…",XMESS_0054,菱形朱鷺子
+XMESS_0049,Toki-chan!!!,XMESS_0049,網代慎平
+XMESS_0050,...Thank goodness. You're alive... Shinpei-san.,XMESS_0050,菱形朱鷺子
+XMESS_0051,...I searched for Mio's presence... and m-made it this far...,XMESS_0051,菱形朱鷺子
+XMESS_0052,Tokiko... what happened?,XMESS_0052,ミオ
+XMESS_0053,Nezu-san and Totsumura-san... they... let me escape...,XMESS_0053,菱形朱鷺子
+XMESS_0054,Please... Head to Torashima... to Torashima...!! Ryunosuke-san is... fighting Shide...!!,XMESS_0054,菱形朱鷺子
 XMESS_0055,!!,XMESS_0055,網代慎平
-XMESS_0056,"Save Nagumo…
-please…",XMESS_0056,菱形朱鷺子
+XMESS_0056,Save Ryunosuke-san... please...,XMESS_0056,菱形朱鷺子
 XMESS_0057,…,XMESS_0057,菱形朱鷺子
 XMESS_0058,…,XMESS_0058,ミオ
 XMESS_0059,…She's dead…,XMESS_0059,ミオ
-XMESS_0060,(Toiko…),XMESS_0060,網代慎平
-XMESS_0061,"Shin-chan, this is Toiko's memory…",XMESS_0061,ミオ
+XMESS_0060,(Toki-chan...),XMESS_0060,網代慎平
+XMESS_0061,"Shin-chan, this is Tokiko's memory...",XMESS_0061,ミオ
 XMESS_0062,…!!,XMESS_0062,網代慎平
-XMESS_0063,(Shide's attack… Roz was gone in an instant…),XMESS_0063,網代慎平
-XMESS_0064,"Hurry!
-To Tiger Island!!",XMESS_0064,ミオ
-XMESS_0065,"Hmm?
-This is…",XMESS_0065,網代慎平
-XMESS_0066,"(Professor Hishigata's pistol!!
-Toiko had it… there was one bullet left…)",XMESS_0066,網代慎平
-XMESS_0067,Hah… hah…,XMESS_0067,網代慎平
+XMESS_0063,"(From Shide's attack, Rosencrantz was... in an instant...)",XMESS_0063,網代慎平
+XMESS_0064,Let's hurry! To Torashima...!!,XMESS_0064,ミオ
+XMESS_0065,Hm? This is...,XMESS_0065,網代慎平
+XMESS_0066,(Dr. Hishigata's handgun...!! Toki-chan had it. There's still one bullet left...),XMESS_0066,網代慎平
+XMESS_0067,*Pant*... *pant*...,XMESS_0067,網代慎平
 XMESS_0068,Shin-chan!,XMESS_0068,ミオ
-XMESS_0069,(What to do… go to Tiger Island?),XMESS_0069,網代慎平
+XMESS_0069,(What do I do... should I go to Torashima?),XMESS_0069,網代慎平
 XMESS_0070,…,XMESS_0070,網代慎平
-XMESS_0071,…Alright then!,XMESS_0071,網代慎平
+XMESS_0071,...Alright.,XMESS_0071,網代慎平
 MSTD_0247-0,"""Don't go""",MSTD_0247-0,
 MSTD_0247-1,"""Let's go""",MSTD_0247-1,
-XMESS_0072,…Don't go!,XMESS_0072,網代慎平
+XMESS_0072,...I'm not going!,XMESS_0072,網代慎平
 XMESS_0073,…?,XMESS_0073,ミオ
-XMESS_0074,"The professor and Nagumo-sensei…
-they're probably already dead.
-From Toiko's memory, I couldn't tell for sure…",XMESS_0074,網代慎平
-XMESS_0075,But there's no time to confirm that!,XMESS_0075,網代慎平
-XMESS_0076,"The only thing I know for sure is Mio died.
-Event Horizon is approaching.
-If we don't act fast, her death will be confirmed!",XMESS_0076,網代慎平
-XMESS_0077,Maybe I can still save both…,XMESS_0077,網代慎平
-XMESS_0078,"If we loop right now,
-I think I'll be able to go back around 10:10.
-They were coming down from Mt. Takanosu…",XMESS_0078,網代慎平
-XMESS_0079,You can see the time to go back!?,XMESS_0079,ミオ
-XMESS_0080,Yeah… vaguely.,XMESS_0080,網代慎平
-XMESS_0081,"But at 10:10,
-Haine will call Mio and the professor…
-and there's nothing I can do to stop that.",XMESS_0081,網代慎平
-XMESS_0082,"We need to hurry down,
-stop Mio and the others from going to the field…",XMESS_0082,網代慎平
-XMESS_0083,"If we loop, I'll go back fast to Kofune,
-and save you.",XMESS_0083,網代慎平
+XMESS_0074,Sensei and Ryunosuke-san are probably already dead. I couldn't tell for sure from Toki-chan's memories...,XMESS_0074,網代慎平
+XMESS_0075,But I don't have time to go and confirm it...!!,XMESS_0075,網代慎平
+XMESS_0076,"The only thing that's certain is that Mio died... The Event Horizon is approaching. If I don't hurry, Mio's death will become fixed...!!",XMESS_0076,網代慎平
+XMESS_0077,"Right now, I might still be able to save ""both"" of them...!!",XMESS_0077,網代慎平
+XMESS_0078,"If I loop right now, I think I can return to around 10:10. Right when we were coming down Mt. Takanosu with the kids...",XMESS_0078,網代慎平
+XMESS_0079,You can see the time you'll return to!?,XMESS_0079,ミオ
+XMESS_0080,"Yeah... vaguely, though.",XMESS_0080,網代慎平
+XMESS_0081,"But at 10:10, Haine calling Mio and Sensei can't be stopped anymore.",XMESS_0081,網代慎平
+XMESS_0082,"I have to hurry down the mountain even faster, and stop Mio and the others from coming to the field...!!",XMESS_0082,網代慎平
+XMESS_0083,"Once I loop, I'll rush back to Kofune and save you.",XMESS_0083,網代慎平
 XMESS_0084,…,XMESS_0084,ミオ
-XMESS_0085,"Then I'll catch up with Mio and Nagumo quickly.
-There won't be time to explain details after we return.",XMESS_0085,網代慎平
-XMESS_0086,"Just follow me quietly.
-I'll save Mio and Nagumo-sensei, both of them.",XMESS_0086,網代慎平
-XMESS_0087,"It's a race against time…
-that's the deal?",XMESS_0087,ミオ
-XMESS_0088,…Then I'm going.,XMESS_0088,網代慎平
+XMESS_0085,Then I'll quickly catch up to Mio and Sou and stop them. There won't be time for detailed explanations after I return.,XMESS_0085,網代慎平
+XMESS_0086,Just follow me without asking questions. I'll save both Mio and Nagumo-sensei.,XMESS_0086,網代慎平
+XMESS_0087,It's a race against time... then.,XMESS_0087,ミオ
+XMESS_0088,"...Then, I'm off.",XMESS_0088,網代慎平
 XMESS_0089,KEY TIPS[<color=#GF_KEY_LOOPEND_08>8th END</color>] was obtained.,XMESS_0089,（ト書き）
-XMESS_0090,"…Let's go!
-To Tiger Island.",XMESS_0090,網代慎平
-XMESS_0091,"(I still need to gather more information about the enemy…
-better not return yet!)",XMESS_0091,網代慎平
+XMESS_0090,...Let's go! To Torashima.,XMESS_0090,網代慎平
+XMESS_0091,(It's too early to go back...! I need to gather as much information on the enemy as possible first!),XMESS_0091,網代慎平
 XMESS_0092,Shin-chan?,XMESS_0092,ミオ
-XMESS_0093,"Ah, hurry up!",XMESS_0093,網代慎平
-XMESS_0094,"Hah… hah…
-hah…",XMESS_0094,凸村哲
-XMESS_0095,"Totsumura-san, run away!",XMESS_0095,南方竜之介
-XMESS_0096,But… but…,XMESS_0096,凸村哲
-XMESS_0097,"As Nagumo said.
-Put that dangerous thing down,
-and hide in the police station…",XMESS_0097,シデ
-XMESS_0098,"Then you could enjoy peace a little longer, 
-even if it's just until tomorrow night.",XMESS_0098,シデ
+XMESS_0093,"Yeah, let's hurry!",XMESS_0093,網代慎平
+XMESS_0094,*Pant*... *pant*... *pant*...!,XMESS_0094,凸村哲
+XMESS_0095,"Totsumura-san, please run away!",XMESS_0095,南方竜之介
+XMESS_0096,B-But...!,XMESS_0096,凸村哲
+XMESS_0097,"Ryunosuke-kun is right. Put down that dangerous thing, and hole up in the police box...",XMESS_0097,シデ
+XMESS_0098,"If you do that, you can spend a little more time in peace. Only until tomorrow night, though.",XMESS_0098,シデ
 XMESS_0099,…,XMESS_0099,南方ひづる
 XMESS_0100,…,XMESS_0100,根津銀次郎
-XMESS_0101,Are you sure it's okay to follow them?,XMESS_0101,シデ
-XMESS_0102,Sister… Nezu-san…,XMESS_0102,南方竜之介
-XMESS_0103,"I want to run, but I do!
-But it's not that simple!!
-As a hero of justice!!!",XMESS_0103,凸村哲
-XMESS_0104,"What an annoying sense of justice,
-it'll be your downfall.
-Why don't you learn from that?",XMESS_0104,シデ
-XMESS_0105,"…Totsumura-san, Nagumo,
-are you okay?!",XMESS_0105,網代慎平
-XMESS_0106,"(I hope the teacher and Nezu-san are safe…
-didn't make it in time… damn!!)",XMESS_0106,網代慎平
-XMESS_0107,"Finally, you showed up Shinpei-kun.
-You're late!",XMESS_0107,シデ
-XMESS_0108,It's been fun so far.,XMESS_0108,シデ
+XMESS_0101,Are you fine with following after them?,XMESS_0101,シデ
+XMESS_0102,Sister... Nezu-san...,XMESS_0102,南方竜之介
+XMESS_0103,I want to run... I really do!! B-But I can't just do that...! As a Champion of Justice...!,XMESS_0103,凸村哲
+XMESS_0104,"Good grief, why don't you learn that a half-baked sense of justice will destroy you...?",XMESS_0104,シデ
+XMESS_0105,"...Totsumura-san, Ryunosuke-san. You're safe...!",XMESS_0105,網代慎平
+XMESS_0106,(Sensei... Nezu-san... I didn't make it in time... damn it!!),XMESS_0106,網代慎平
+XMESS_0107,"Finally making your appearance, Shinpei-kun. You're late...",XMESS_0107,シデ
+XMESS_0108,I've been thoroughly entertained over here.,XMESS_0108,シデ
 XMESS_0109,"Shide…!
 …Haine…",XMESS_0109,網代慎平
-XMESS_0110,"Hm.
-Do you know what happened here from Tokiko's memory?",XMESS_0110,シンペイ
+XMESS_0110,Hm... So you know what happened here from Tokiko's memories.,XMESS_0110,シンペイ
 XMESS_0111,Shin-chan…,XMESS_0111,ミオ
-XMESS_0112,"Understood!
-Just get information, don't push it.",XMESS_0112,網代慎平
-XMESS_0113,"Oh my, since you came all this way,
-why not stay a while and play?",XMESS_0113,シデ
+XMESS_0112,"I know...! We're just getting information, we won't push it.",XMESS_0112,網代慎平
+XMESS_0113,"My, my, since you came all this way, why don't you stay and play a little longer--",XMESS_0113,シデ
 XMESS_0114,Guh?!,XMESS_0114,シデ
-XMESS_0115,"You're looking around too much, Shide.",XMESS_0115,シンペイ
+XMESS_0115,"You're looking away too much, Shide.",XMESS_0115,シンペイ
 XMESS_0116,Tch…!,XMESS_0116,シデ
-XMESS_0117,"Oh right…
-You're still here, huh?
-Siblings with such bad habits…!",XMESS_0117,シデ
-XMESS_0118,"(Ryunosuke's attack is working!
-Wait a minute!?)",XMESS_0118,網代慎平
-XMESS_0119,"(Looking closer, Shide's armor seems…
-a little thinner…!)",XMESS_0119,網代慎平
-XMESS_0120,"(In Toki-chan's memory,
-It seemed like Ryunosuke-san was born from the mud――)",XMESS_0120,網代慎平
-XMESS_0121,"(I see! So he hacked into Shide's armor to use it as material for manifestation…
-)",XMESS_0121,網代慎平
-XMESS_0122,"(That means…
-Shide's armor is thinner than before…)",XMESS_0122,網代慎平
-XMESS_0123,(I'll give him the gun I brought.),XMESS_0123,網代慎平
-XMESS_0124,"(Others weapons… Ryunosuke's hammer and Mio's knife…
-?)",XMESS_0124,網代慎平
-XMESS_0125,"(Nezu's rifle, and that spear-like thing Shide has…
-)",XMESS_0125,網代慎平
-XMESS_0126,(…If I can pull this off…),XMESS_0126,網代慎平
+XMESS_0117,"...Come to think of it, you were still here. Both sister and brother have such bad habits...!",XMESS_0117,シデ
+XMESS_0118,(Ryunosuke-san's attacks are working! ...Wait a second!?),XMESS_0118,網代慎平
+XMESS_0119,"(Looking closely, Shide's armor seems to be a little thinner...!)",XMESS_0119,網代慎平
+XMESS_0120,"(In Toki-chan's memories, it looked like Ryunosuke-san was born from the mud--)",XMESS_0120,網代慎平
+XMESS_0121,(I see...! He hacked Shide's armor and used it as material to materialize),XMESS_0121,網代慎平
+XMESS_0122,"(Which means, Shide's armor is thinner than before...!)",XMESS_0122,網代慎平
+XMESS_0123,(I'll give Totsumura-san the gun I brought.),XMESS_0123,網代慎平
+XMESS_0124,(Other weapons are Ryunosuke-san's hammer and Mio's kitchen knife... huh),XMESS_0124,網代慎平
+XMESS_0125,"(Nezu-san's rifle, and that spear-like thing Shide has...)",XMESS_0125,網代慎平
+XMESS_0126,(...If we can pull this off...!),XMESS_0126,網代慎平
 XMESS_0127,Shin-chan… what do we do?,XMESS_0127,ミオ
 XMESS_0128,Mio… change of plans.,XMESS_0128,網代慎平
 XMESS_0129,…?,XMESS_0129,ミオ
-XMESS_0130,Let's finish Shide here!,XMESS_0130,網代慎平
-XMESS_0131,(Now… I might be able to win!),XMESS_0131,網代慎平
-XMESS_0132,"(IF I can secure victory, loop back…
-? No, better think about that later)",XMESS_0132,網代慎平
-XMESS_0133,"Mio! We need to end this quickly!
-Keep the time loop's buffer while focusing on taking them down now.",XMESS_0133,網代慎平
+XMESS_0130,...We're taking down Shide here!,XMESS_0130,網代慎平
+XMESS_0131,(Right now... we might be able to win!),XMESS_0131,網代慎平
+XMESS_0132,"(If we secure a victory, should I loop and use it for the next time...? No, I can think about that later.)",XMESS_0132,網代慎平
+XMESS_0133,"Mio, we're settling this quickly...! Leave enough time to loop, but focus on defeating them for now.",XMESS_0133,網代慎平
 XMESS_0134,Understood.,XMESS_0134,ミオ
 XMESS_0135,…!,XMESS_0135,南方竜之介
 XMESS_0136,"Please use this, Totsumura-san.",XMESS_0136,網代慎平
-XMESS_0137,"Is… is that the pistol I returned to Tokiko?
-Ah… I must've done it!",XMESS_0137,凸村哲
-XMESS_0138,"You really want to end this here…
-Shide…",XMESS_0138,シンペイ
-XMESS_0139,"Thinking you can beat us?
-Aren't you not even able to do it?",XMESS_0139,シデ
+XMESS_0137,I-Is this the handgun I returned to Tokiko-chan? I... I'll do it...!,XMESS_0137,凸村哲
+XMESS_0138,So you're determined to settle this here. Shide...,XMESS_0138,シンペイ
+XMESS_0139,To think you can beat us. Are you failing to see the big picture?,XMESS_0139,シデ
 XMESS_0140,Then I'll end this for you.,XMESS_0140,シデ
-XMESS_0141,"(Mio, Ryunosuke, Tetsu…!)",XMESS_0141,網代慎平
+XMESS_0141,"(Mio, Ryunosuke-san, Totsumura-san...!)",XMESS_0141,網代慎平
 XMESS_0142,Let's go!!!,XMESS_0142,網代慎平
-XMESS_0143,Huh?!,XMESS_0143,ミオ
-XMESS_0144,"Shide!!
-Mio's movements are a trap!!!",XMESS_0144,シンペイ
-XMESS_0145,I get it!,XMESS_0145,シデ
+XMESS_0143,!,XMESS_0143,ミオ
+XMESS_0144,Shide!! Mio's movements are a decoy!!,XMESS_0144,シンペイ
+XMESS_0145,...I know!,XMESS_0145,シデ
 XMESS_0146,Shide!!!,XMESS_0146,南方竜之介
-XMESS_0147,"(…Great! He's attacking at a perfect timing difference…
-)",XMESS_0147,網代慎平
+XMESS_0147,(...Nice! He's attacking with a perfect time lag that makes it hard for Haine to give instructions!),XMESS_0147,網代慎平
 XMESS_0148,Totsumura-san!,XMESS_0148,網代慎平
 XMESS_0149,W-what?!,XMESS_0149,凸村哲
 XMESS_0150,We'll take on Haine!,XMESS_0150,網代慎平
-XMESS_0151,B-but… this only has two bullets.,XMESS_0151,凸村哲
-XMESS_0152,Just keep him occupied for a little while is enough!,XMESS_0152,網代慎平
-XMESS_0153,W-what?!,XMESS_0153,凸村哲
+XMESS_0151,B-But... This can only be loaded with two shots.,XMESS_0151,凸村哲
+XMESS_0152,Just stalling Haine for a little while is enough!,XMESS_0152,網代慎平
+XMESS_0153,Eeeeeh!?,XMESS_0153,凸村哲
 XMESS_0154,Please!!,XMESS_0154,網代慎平
-XMESS_0155,I-I'll do it!,XMESS_0155,凸村哲
-XMESS_0156,"(Count on me, Totsumura-san!)",XMESS_0156,網代慎平
-XMESS_0157,"Haine!
-You're facing me!!",XMESS_0157,凸村哲
-XMESS_0158,Huh?!,XMESS_0158,シンペイ
+XMESS_0155,A-Alright!,XMESS_0155,凸村哲
+XMESS_0156,"(I'm counting on you, Totsumura-san!)",XMESS_0156,網代慎平
+XMESS_0157,Haine! Your opponent is meeeeeeee!!,XMESS_0157,凸村哲
+XMESS_0158,Nuh!?,XMESS_0158,シンペイ
 XMESS_0159,(Now!),XMESS_0159,網代慎平
-XMESS_0160,"(I picked up the rifle!
-With this――)",XMESS_0160,網代慎平
-XMESS_0161,Clever…,XMESS_0161,シンペイ
+XMESS_0160,(I picked up the rifle! With this--),XMESS_0160,網代慎平
+XMESS_0161,You insolent...,XMESS_0161,シンペイ
 XMESS_0162,Mio! Get Haine!,XMESS_0162,網代慎平
 XMESS_0163,"Goodbye, Mother.",XMESS_0163,ミオ
-XMESS_0164,Tch! This defective piece of junk!,XMESS_0164,シンペイ
-XMESS_0165,"(Stay calm, focus.)",XMESS_0165,網代慎平
-XMESS_0166,(From Haine's front),XMESS_0166,網代慎平
-XMESS_0167,"(From behind, Tetsu…)",XMESS_0167,網代慎平
-XMESS_0168,(and from the side is me),XMESS_0168,網代慎平
-XMESS_0169,"(The actions Haine will take from here…"")",XMESS_0169,網代慎平
-XMESS_0170,"(Mio's attack… dodge to the back… no, that's not it)",XMESS_0170,網代慎平
-XMESS_0171,"(Dodging Tetsu's gun… crouch down… no, that's not right)",XMESS_0171,網代慎平
-XMESS_0172,(The remaining options are up… the sky!!),XMESS_0172,網代慎平
-XMESS_0173,Huh!? He turned into a crow!?,XMESS_0173,凸村哲
-XMESS_0174,"(Right, he transformed into a crow and fled…)",XMESS_0174,網代慎平
+XMESS_0164,Tchhhhh! You defective product!,XMESS_0164,シンペイ
+XMESS_0165,"(Calm down, look at the big picture.)",XMESS_0165,網代慎平
+XMESS_0166,(Mio from Haine's front),XMESS_0166,網代慎平
+XMESS_0167,(Totsumura-san from behind),XMESS_0167,網代慎平
+XMESS_0168,(And me from the side),XMESS_0168,網代慎平
+XMESS_0169,(The action Haine will take from here is...),XMESS_0169,網代慎平
+XMESS_0170,"(To dodge Mio's attack, backwards... no, that's not it.)",XMESS_0170,網代慎平
+XMESS_0171,"(To avoid Totsumura-san's gun, duck... no, that's not it.)",XMESS_0171,網代慎平
+XMESS_0172,"(The remaining option is... up, the sky!!)",XMESS_0172,網代慎平
+XMESS_0173,Huh!? She turned into a crow!?,XMESS_0173,凸村哲
+XMESS_0174,"(Right, she'll turn into a crow and escape...)",XMESS_0174,網代慎平
 XMESS_0175,"Shide, I'm retreating for now!",XMESS_0175,ハイネ
-XMESS_0176,(Then I just need to finish him off…),XMESS_0176,網代慎平
-XMESS_0177,Guhh!!!,XMESS_0177,ハイネ
+XMESS_0176,(Then I just need to finish her off...),XMESS_0176,網代慎平
+XMESS_0177,Ngih!!,XMESS_0177,ハイネ
 XMESS_0178,Haine!!?,XMESS_0178,シデ
-XMESS_0179,Just a scratch…,XMESS_0179,網代慎平
-XMESS_0180,"Shinpei!
-I'll definitely kill you!!",XMESS_0180,ハイネ
+XMESS_0179,It just grazed her!,XMESS_0179,網代慎平
+XMESS_0180,Shinpei Ajiro! I'll definitely kill you!!,XMESS_0180,ハイネ
 XMESS_0181,"(Damn, I let her get away!)",XMESS_0181,網代慎平
-XMESS_0182,"Yare yare, you really do all sorts of things, don't you?",XMESS_0182,シデ
-XMESS_0183,Do you have the luxury to look around?,XMESS_0183,南方竜之介
+XMESS_0182,"Good grief, you really pull all sorts of stunts, don't you?",XMESS_0182,シデ
+XMESS_0183,Do you have the luxury to be looking away?,XMESS_0183,南方竜之介
 XMESS_0184,Tch!?,XMESS_0184,シデ
-XMESS_0185,Ghahhhh!!!?,XMESS_0185,シデ
-XMESS_0186,(The mud on Shide has fallen off---Now!!!),XMESS_0186,網代慎平
-XMESS_0187,"Ryunosuke-san, Mio, Totsumura!!!
-Any attack will do!",XMESS_0187,網代慎平
-XMESS_0188,(Strike at the spot where the mud has flaked off!),XMESS_0188,網代慎平
-XMESS_0189,"Guh…!
-B… stupid… how…!",XMESS_0189,雁切真砂人
-XMESS_0190,Did we do it…? Did I actually…,XMESS_0190,凸村哲
-XMESS_0191,"Huff… I don't understand.
-To be safe, I'll deliver the final blow.",XMESS_0191,網代慎平
-XMESS_0192,"Alright, Shin-chan.
-That's my job.",XMESS_0192,ミオ
-XMESS_0193,"You don't want me to kill them, do you?",XMESS_0193,ミオ
-XMESS_0194,"…Sorry, I'm counting on you.",XMESS_0194,網代慎平
+XMESS_0185,Gwahhh!!!?,XMESS_0185,シデ
+XMESS_0186,(Shide's mud flaked off--Now's the time!!!!),XMESS_0186,網代慎平
+XMESS_0187,"Ryunosuke-san, Mio, Totsumura-san!! Any of your attacks will do!",XMESS_0187,網代慎平
+XMESS_0188,(Land a hit where the mud flaked off!),XMESS_0188,網代慎平
+XMESS_0189,Ugh...! I-Impossible...!,XMESS_0189,雁切真砂人
+XMESS_0190,We did it... did we do it?,XMESS_0190,凸村哲
+XMESS_0191,"*Pant, pant*... I don't know. Just in case, I'll deliver the finishing blow.",XMESS_0191,網代慎平
+XMESS_0192,"It's fine, Shin-chan. I'll do it.",XMESS_0192,ミオ
+XMESS_0193,"You don't want to kill, do you?",XMESS_0193,ミオ
+XMESS_0194,"...Sorry, please do.",XMESS_0194,網代慎平
 XMESS_0195,Yeah.,XMESS_0195,ミオ
-XMESS_0196,"I never thought you could take down Shide,
-Shinpei-kun!!",XMESS_0196,凸村哲
-XMESS_0197,"We're the real deal, aren't we?!",XMESS_0197,凸村哲
+XMESS_0196,"Man, Shinpei-kun, I never dreamed we'd be able to take down that Shide!!",XMESS_0196,凸村哲
+XMESS_0197,We're real Champions of Justice!!,XMESS_0197,凸村哲
 XMESS_0198,(Nagumo-sensei… Nezu-san…),XMESS_0198,網代慎平
 XMESS_0199,(We defeated Shide),XMESS_0199,網代慎平
-XMESS_0200,"(This might let us stop Haine's plan…
-Maybe.)",XMESS_0200,網代慎平
+XMESS_0200,"(With this, we might be able to stop Haine's plan too.)",XMESS_0200,網代慎平
 XMESS_0201,(But…),XMESS_0201,網代慎平
-XMESS_0202,"Mio, Sou, Tokiko… 
-Nagumo-sensei and Nezu-san…
-I couldn't save any of them.",XMESS_0202,網代慎平
-XMESS_0203,Older sister…,XMESS_0203,南方竜之介
-XMESS_0204,S-Shinpei-kun. What if we loop from now on?,XMESS_0204,凸村哲
-XMESS_0205,"Even though there're no bullets left,
-maybe get Mio-chan or Ryuji-kun to handle it…",XMESS_0205,凸村哲
+XMESS_0202,"Mio, Sou, Toki-chan... Nagumo-sensei and Nezu-san... I couldn't save them.",XMESS_0202,網代慎平
+XMESS_0203,Sister...,XMESS_0203,南方竜之介
+XMESS_0204,S-Shinpei-kun. How about we loop right now?,XMESS_0204,凸村哲
+XMESS_0205,"We don't have any bullets, but maybe we can have Mio-chan or Ryunosuke-kun do it...",XMESS_0205,凸村哲
 XMESS_0206,That's impossible…,XMESS_0206,網代慎平
 XMESS_0207,W-why!?,XMESS_0207,凸村哲
 XMESS_0208,The battle lasted longer than I expected.,XMESS_0208,網代慎平
-XMESS_0209,"If we go back now,
-it'll just be during the battle…!",XMESS_0209,網代慎平
-XMESS_0210,It was my mistake in judgment…,XMESS_0210,網代慎平
-XMESS_0211,(How do I apologize to everyone…!),XMESS_0211,網代慎平
-XMESS_0212,Ah… Oh no.,XMESS_0212,ミオ
+XMESS_0209,"Even if we loop now, we'll just return to the middle of the battle...!",XMESS_0209,網代慎平
+XMESS_0210,It was my... mistake in judgment...,XMESS_0210,網代慎平
+XMESS_0211,(How am I supposed to apologize to everyone...!),XMESS_0211,網代慎平
+XMESS_0212,Ah... ahhh.,XMESS_0212,ミオ
 XMESS_0213,Huh? Mio?,XMESS_0213,網代慎平
-XMESS_0214,Shin-chan… run…,XMESS_0214,ミオ
-XMESS_0215,M-Mio-chan was turned into mud…?,XMESS_0215,凸村哲
-XMESS_0216,"He was pierced by the shadow!
-But who…!",XMESS_0216,網代慎平
-XMESS_0217,"Be careful, Shinpe-kun! 
-Shide's not here!",XMESS_0217,南方竜之介
+XMESS_0214,Shin-chan... run... away...,XMESS_0214,ミオ
+XMESS_0215,M-Mio-chan is turning into mud...?,XMESS_0215,凸村哲
+XMESS_0216,H-Her shadow was stabbed! But by who...!,XMESS_0216,網代慎平
+XMESS_0217,"Shinpei-san, be careful! Shide is gone!",XMESS_0217,南方竜之介
 XMESS_0218,Huh?!,XMESS_0218,網代慎平
-XMESS_0219,"No matter how much you see the future,
-your battered body can't avoid it.",XMESS_0219,シデ
-XMESS_0220,Oops!,XMESS_0220,南方竜之介
+XMESS_0219,"No matter how much of the future you can see, you can't dodge with that battered body, can you?",XMESS_0219,シデ
+XMESS_0220,Damn it!,XMESS_0220,南方竜之介
 XMESS_0221,Ryunosuke-san!,XMESS_0221,網代慎平
-XMESS_0222,Curses… my body can't move anymore…,XMESS_0222,南方竜之介
-XMESS_0223,"You were worth the effort, Ryunosuke-kun.",XMESS_0223,シデ
+XMESS_0222,"Damn it, my body... won't move anymore...",XMESS_0222,南方竜之介
+XMESS_0223,"You were worth conquering, Ryunosuke-kun.",XMESS_0223,シデ
 XMESS_0224,Ugh… Ah…,XMESS_0224,南方竜之介
 XMESS_0225,Ryunosuke-san!,XMESS_0225,網代慎平
-XMESS_0226,  I'm sorry… older sister… I'm sorry…,XMESS_0226,南方竜之介
-XMESS_0227,  No… that's not true…,XMESS_0227,凸村哲
-XMESS_0228,"  Kukuku kukku.
-  …It was long, but I'm grateful for it.",XMESS_0228,シデ
-XMESS_0229,"  S-Shide…!?
-  Wh-What's happening…?!",XMESS_0229,網代慎平
-XMESS_0230,"  There are two of me inside…
-  That was all a misunderstanding.",XMESS_0230,シデ
+XMESS_0226,Sorry... sister... sorry...,XMESS_0226,南方竜之介
+XMESS_0227,N-No way...,XMESS_0227,凸村哲
+XMESS_0228,Kukukuku. ...I'm glad the conversation was so long.,XMESS_0228,シデ
+XMESS_0229,S-Shide...!? W-What's going on...!?,XMESS_0229,網代慎平
+XMESS_0230,There are two of me inside... That was a misunderstanding from the start.,XMESS_0230,シデ
 XMESS_0231,What does that mean!?,XMESS_0231,網代慎平
-XMESS_0232,"Well? Looping and using your usual tactics,
-what do you think?",XMESS_0232,シデ
-XMESS_0233,"Of course, even if you loop from now on,
-this ending can't be changed.",XMESS_0233,シデ
-XMESS_0234,  That… is…,XMESS_0234,網代慎平
-XMESS_0235,"  So Shinpei-kun was the final boss.
-  It sure took a long time…",XMESS_0235,シデ
-XMESS_0236,"(What am I supposed to do!?!  
-Just me and Totsumura…!)",XMESS_0236,網代慎平
-XMESS_0237,"(I can't… my head's not working…  
-It's no good anymore…)",XMESS_0237,網代慎平
-XMESS_0238,"That was long…  
-We've finally reached a good ending.",XMESS_0238,シデ
-XMESS_0239,"…?  
-Shinpei-kun…",XMESS_0239,シデ
+XMESS_0232,"Well? How about looping and thinking about it with your favorite ""big picture"" view?",XMESS_0232,シデ
+XMESS_0233,"Though, even if you loop from now on, this outcome won't be overturned.",XMESS_0233,シデ
+XMESS_0234,That... is...,XMESS_0234,網代慎平
+XMESS_0235,That makes Shinpei-kun the final boss. It's been a long time...,XMESS_0235,シデ
+XMESS_0236,(W-What should I do!?!? With just me and Totsumura-san...!),XMESS_0236,網代慎平
+XMESS_0237,"(I-It's no good... my head isn't working...! It's no good, not anymore...!)",XMESS_0237,網代慎平
+XMESS_0238,It's been a long time... It looks like we'll finally reach a good ending.,XMESS_0238,シデ
+XMESS_0239,...Right? Shinpei-kun...,XMESS_0239,シデ

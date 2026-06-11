@@ -1,174 +1,111 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,7. Two Shadows,XCHAPTITLE_0002,
 XMESS_0000,…!?,XMESS_0000,網代慎平
-XMESS_0001,N-n-n-nani ya kono oto…!?,XMESS_0001,凸村哲
-XMESS_0002,"Shi, koe o chiisaku shite kudasai!",XMESS_0002,網代慎平
-XMESS_0003,"Aaa, ano oto… inu ya neko toka nai na.
-Motto ookina…",XMESS_0003,凸村哲
-XMESS_0004,"Moshikashitara, kage no Mio mo.
-Sore de nakereba…",XMESS_0004,網代慎平
-XMESS_0005,"Shi, Shinpei-kun… iya,
-Ooo, ore no nisemono kamo nai tte wake ka.",XMESS_0005,凸村哲
-XMESS_0006,"Ee, sou iu koto ni naru.",XMESS_0006,網代慎平
-XMESS_0007,"Kakak, kage domo me… moshi ore no me no mae ni
-arawareyo tara, sozo, sono toki… sono toki!",XMESS_0007,凸村哲
+XMESS_0001,W-W-W-What was that sound just now...!?,XMESS_0001,凸村哲
+XMESS_0002,"Shh, please keep your voice down!",XMESS_0002,網代慎平
+XMESS_0003,T-That sound... it wasn't a dog or a cat. Something much bigger...,XMESS_0003,凸村哲
+XMESS_0004,It might be Shadow Mio. And if not...,XMESS_0004,網代慎平
+XMESS_0005,"S-Shinpei-kun... wait, y-y-you're saying it might be my fake?",XMESS_0005,凸村哲
+XMESS_0006,"Yes, that's what it means.",XMESS_0006,網代慎平
+XMESS_0007,"D-D-Damn Shadows... if they show up in front of me, t-t-then... then I'll...!",XMESS_0007,凸村哲
 XMESS_0008,Totsumura-san?,XMESS_0008,網代慎平
-XMESS_0009,"Sono toki, sono toki,
-Kono kenjuu de, kono kenjuu de…",XMESS_0009,凸村哲
-XMESS_0010,"Totsumura-san, chikaraite kudasai.",XMESS_0010,網代慎平
-XMESS_0011,"O, o, chikaraite ru wa i.",XMESS_0011,凸村哲
-XMESS_0012,Sou wa miete――,XMESS_0012,網代慎平
-XMESS_0013,"Totsumura-san, kimasu…!",XMESS_0013,網代慎平
-XMESS_0014,…tsu!?,XMESS_0014,凸村哲
-XMESS_0015,"Shin-chan, doko-?
-Sono hen ni kakureteru n ya?
-Dete kite yo-.",XMESS_0015,ミオ
-XMESS_0016,Kiyotta…!,XMESS_0016,凸村哲
-XMESS_0017,"Oii, ano Mio-chan no nisemono,
-Hakoya motteru zo…!",XMESS_0017,凸村哲
-XMESS_0018,"(Kage no Mio…
-Kao ya sugata dake ja naku,
-Koe made Mio sono mono da…)",XMESS_0018,網代慎平
-XMESS_0019,"(Koko de heta toshi,
-Mata kubi o sasareta toki mitai ni…)",XMESS_0019,網代慎平
-XMESS_0020,"(No… I can't let fear get to me!
-Bird's-eye view—I've gotta take a bird's-eye view!)",XMESS_0020,網代慎平
-XMESS_0021,"A, Akan… kiyanna…!",XMESS_0021,凸村哲
-XMESS_0022,Kocchi kiyanna tte…!,XMESS_0022,凸村哲
-XMESS_0023,Totsumura-san… koe ga ooki!,XMESS_0023,網代慎平
-XMESS_0024,"Mite~tsuketa!
-Soko ni ottan ka?",XMESS_0024,ミオ
-XMESS_0025,(Shimatta…!),XMESS_0025,網代慎平
-XMESS_0026,"Shin-chan ni chotto kikinai koto
-ann ya kedo…",XMESS_0026,ミオ
-XMESS_0027,U…u aaaa!! !!,XMESS_0027,凸村哲
-XMESS_0028,"Ko, kono bakenmon…!
-Omoi shita ka, kora!",XMESS_0028,凸村哲
-XMESS_0029,"To, Totsumura-san…!?",XMESS_0029,網代慎平
+XMESS_0009,"Then I'll, then I'll... use this gun, use this gun...",XMESS_0009,凸村哲
+XMESS_0010,"Totsumura-san, please calm down.",XMESS_0010,網代慎平
+XMESS_0011,I-I-I am calm.,XMESS_0011,凸村哲
+XMESS_0012,You don't look like――,XMESS_0012,網代慎平
+XMESS_0013,"Totsumura-san, here they come...!",XMESS_0013,網代慎平
+XMESS_0014,...!?,XMESS_0014,凸村哲
+XMESS_0015,"Shin-chan, where are you~? You're hiding around here, right? Come out~.",XMESS_0015,ミオ
+XMESS_0016,She's here...!,XMESS_0016,凸村哲
+XMESS_0017,"Hey, that fake Mio-chan, she's holding a kitchen knife...!",XMESS_0017,凸村哲
+XMESS_0018,"(Shadow Mio... Not just her face and body, even her voice is exactly like Mio's...)",XMESS_0018,網代慎平
+XMESS_0019,"(If I mess up here, it'll be just like when I got stabbed in the neck...)",XMESS_0019,網代慎平
+XMESS_0020,"(No... I can't be scared! Objective, I have to be objective!)",XMESS_0020,網代慎平
+XMESS_0021,N-No... don't come any closer...!,XMESS_0021,凸村哲
+XMESS_0022,I said don't come any closer...!,XMESS_0022,凸村哲
+XMESS_0023,Totsumura-san... you're too loud!,XMESS_0023,網代慎平
+XMESS_0024,Found~ you! So that's where you were!,XMESS_0024,ミオ
+XMESS_0025,(Damn it...!),XMESS_0025,網代慎平
+XMESS_0026,"I have something I wanna ask you, Shin-chan...",XMESS_0026,ミオ
+XMESS_0027,U... Uwaaaahhh!!!!,XMESS_0027,凸村哲
+XMESS_0028,"Y-You monster...! How do you like that, huh!?",XMESS_0028,凸村哲
+XMESS_0029,T-Totsumura-san...!?,XMESS_0029,網代慎平
 XMESS_0030,…,XMESS_0030,ミオ
-XMESS_0031,(Taorete… ugokanai),XMESS_0031,網代慎平
-XMESS_0032,(Yatta… no ka?),XMESS_0032,網代慎平
-XMESS_0033,Mio no koto… mamoru chatte ne…,XMESS_0033,小舟潮
-XMESS_0034,"(Shizukae, are wa Mio ja nai…)",XMESS_0034,網代慎平
-XMESS_0035,"(Are wa kage no Mio…
-Oretachi o koroshi ni kita nda…!)",XMESS_0035,網代慎平
-XMESS_0036,"Moo~.
-Fuiuchi toka, zuru iwa.",XMESS_0036,ミオ
-XMESS_0037,…epp?,XMESS_0037,網代慎平
-XMESS_0038,"A, Aho na…!
-Tashika ni atatta hazu ya!",XMESS_0038,凸村哲
-XMESS_0039,"Mune no do makana ya zo!?
-Se ya no… konnan ari en nai!!",XMESS_0039,凸村哲
-XMESS_0040,"Urusai naa.
-Ja, kondo wa kocchi no ban.",XMESS_0040,ミオ
+XMESS_0031,(She fell... she's not moving.),XMESS_0031,網代慎平
+XMESS_0032,(Did he... get her?),XMESS_0032,網代慎平
+XMESS_0033,Take good care of Mio...,XMESS_0033,小舟潮
+XMESS_0034,"(Calm down, that's not Mio...)",XMESS_0034,網代慎平
+XMESS_0035,(That's Shadow Mio... She came to kill us...!),XMESS_0035,網代慎平
+XMESS_0036,"Jeez~. A surprise attack, that's not fair.",XMESS_0036,ミオ
+XMESS_0037,...Eh?,XMESS_0037,網代慎平
+XMESS_0038,T-That's impossible...! It definitely hit!,XMESS_0038,凸村哲
+XMESS_0039,"Right in the middle of her chest, too!? And yet... this is impossible!!",XMESS_0039,凸村哲
+XMESS_0040,"You're so noisy. Well, it's my turn now.",XMESS_0040,ミオ
 XMESS_0041,…!,XMESS_0041,網代慎平
-XMESS_0042,Shinpei-kun!! ?,XMESS_0042,凸村哲
-XMESS_0043,"Haya yann toite yo, Shin-chan.
-Ato mo uchi tatta no ni.",XMESS_0043,ミオ
-XMESS_0044,"(Na, nanda, ima no ugoki…!?
-Ningen no hayasa ja nai!)",XMESS_0044,網代慎平
-XMESS_0045,(Sou mo kenjuu de uattara shina nai nante…),XMESS_0045,網代慎平
-XMESS_0046,"(Kono yatsu aite ni tatakatte…
-Hontou ni kateru no ka!?)",XMESS_0046,網代慎平
-XMESS_0047,"Mo, mou Akan…!",XMESS_0047,凸村哲
-XMESS_0048,"Taikyaku ya…!
-Ichiji tetta ya de, Shinpei-kun!",XMESS_0048,凸村哲
+XMESS_0042,Shinpei-kun!?,XMESS_0042,凸村哲
+XMESS_0043,"Don't dodge, Shin-chan. I almost had you.",XMESS_0043,ミオ
+XMESS_0044,(W-What was that movement just now...!? That's not human speed!),XMESS_0044,網代慎平
+XMESS_0045,(And she didn't even die after getting shot...),XMESS_0045,網代慎平
+XMESS_0046,(Can we really win... fighting against something like this!?),XMESS_0046,網代慎平
+XMESS_0047,I-It's no use...!,XMESS_0047,凸村哲
+XMESS_0048,"Retreat...! We're making a temporary retreat, Shinpei-kun!",XMESS_0048,凸村哲
 XMESS_0049,Totsumura-san…!?,XMESS_0049,網代慎平
-XMESS_0050,"A~a.
-Tetsu-san, jibun dake nige te shimata.",XMESS_0050,ミオ
-XMESS_0051,"Maa, eek.
-Chanto soko no bouki mo shi to ita shi.",XMESS_0051,ミオ
-XMESS_0052,E…?,XMESS_0052,網代慎平
-XMESS_0053,"Na, nani ya omae…!
-Ore sojiki ya nke!?",XMESS_0053,凸村哲
-XMESS_0054,"Tte… epp?
-Masaka ore no nisemono?",XMESS_0054,凸村哲
-XMESS_0055,Waaa! !!,XMESS_0055,凸村哲
+XMESS_0050,Ah~a. Tetsu-san ran away all by himself.,XMESS_0050,ミオ
+XMESS_0051,"Well, whatever. I made sure to prepare for that too.",XMESS_0051,ミオ
+XMESS_0052,Eh...?,XMESS_0052,網代慎平
+XMESS_0053,W-What are you...! You look exactly like me!?,XMESS_0053,凸村哲
+XMESS_0054,Wait... eh? Are you my fake?,XMESS_0054,凸村哲
+XMESS_0055,Waaaaaah!?,XMESS_0055,凸村哲
 XMESS_0056,Totsumura-san!!,XMESS_0056,網代慎平
-XMESS_0057,(Kakimiguchi sarete ita no ka…!),XMESS_0057,網代慎平
-XMESS_0058,"Sou iu koto ya kara,
-Shin-chan mo kankan shite kotaete ya.",XMESS_0058,ミオ
-XMESS_0059,"Watashi no koto dowa de toratta ryou ya n.
-Demo, naze watashi no koto…
-Watashi ga kuru koto shitteta n?",XMESS_0059,ミオ
-XMESS_0060,(Dowa no koto… barete ru!?),XMESS_0060,網代慎平
-XMESS_0061,"(Moshikashitara… Koba Mart de tsukurareta
-Ore no kopii kara kiita no ka?)",XMESS_0061,網代慎平
-XMESS_0062,"(Sou doreba… kage wa hoka ni ite,
-Kage douji renkei o toteru kanousei ga…)",XMESS_0062,網代慎平
-XMESS_0063,Kuso…,XMESS_0063,網代慎平
-XMESS_0064,Kotaeru ki i nai mite yane.,XMESS_0064,ミオ
-XMESS_0065,"A~a, Shin-chan hongo no kuchi kara
-kikitakun da kedo naa.",XMESS_0065,ミオ
-XMESS_0066,"(To, tonikaku ima wa,
-Kono joukyou o norikikanai to…)",XMESS_0066,網代慎平
-XMESS_0067,"Naze konna koto o suru…?
-Mokuteki wa nan da!?",XMESS_0067,網代慎平
-XMESS_0068,Sore kiite dou suru n?,XMESS_0068,ミオ
-XMESS_0069,"Kocchi no shitsumon ni kotaete kure.
-Chanto kotaete kure tara kocchi mo――",XMESS_0069,網代慎平
-XMESS_0070,"Aa, muri muri.
-Tatoe Shin-chan de mo sore wa ienai yo.",XMESS_0070,ミオ
-XMESS_0071,"Gomen na.
-Kicchiri koroshicharu kara,
-Sore de kanben shite ya.",XMESS_0071,ミオ
-XMESS_0072,"Omae wa… zettai ni Mio ja nai!
-Mio ga sonna koto, zettai ni iu wake ga nai!",XMESS_0072,網代慎平
-XMESS_0073,"Shinpei-kun, erai koccha!
-A, achi ni ore no nisemono ga…!",XMESS_0073,凸村哲
+XMESS_0057,(We were being pincered...!),XMESS_0057,網代慎平
+XMESS_0058,"So that's how it is. Give up and answer me, Shin-chan.",XMESS_0058,ミオ
+XMESS_0059,"I heard you took a video of me. But, why did you... How did you know I was coming?",XMESS_0059,ミオ
+XMESS_0060,(She knows about the video...!?),XMESS_0060,網代慎平
+XMESS_0061,(Could it be... she heard it from my copy that was made at Koba Mart?),XMESS_0061,網代慎平
+XMESS_0062,"(If that's true... there are other Shadows, and there's a possibility they're coordinating with each other...)",XMESS_0062,網代慎平
+XMESS_0063,Damn it...,XMESS_0063,網代慎平
+XMESS_0064,Looks like you don't feel like answering.,XMESS_0064,ミオ
+XMESS_0065,"Ah~a, I wanted to hear it from Shin-chan himself, though.",XMESS_0065,ミオ
+XMESS_0066,"(A-Anyway, for now, I have to get through this situation...)",XMESS_0066,網代慎平
+XMESS_0067,Why are you doing this...? What's your goal!?,XMESS_0067,網代慎平
+XMESS_0068,What are you going to do if I tell you?,XMESS_0068,ミオ
+XMESS_0069,"Answer my question. If you answer properly, I'll――",XMESS_0069,網代慎平
+XMESS_0070,"Ah, no way. I can't tell you that, even if it's you, Shin-chan.",XMESS_0070,ミオ
+XMESS_0071,"Sorry. I'll kill you properly, so let's leave it at that.",XMESS_0071,ミオ
+XMESS_0072,You're... definitely not Mio! There's no way Mio would ever say something like that!,XMESS_0072,網代慎平
+XMESS_0073,"Shinpei-kun, this is terrible! M-My fake is over there...!",XMESS_0073,凸村哲
 XMESS_0074,Totsumura-san…!?,XMESS_0074,網代慎平
-XMESS_0075,Are? Mada shinde hen katta n?,XMESS_0075,ミオ
-XMESS_0076,"Kora kora, nige tara Akan ya nke.",XMESS_0076,トツムラ
-XMESS_0077,"Shi tte.
-Otona shiyou kanen seee.",XMESS_0077,トツムラ
-XMESS_0078,…kuu!! !,XMESS_0078,凸村哲
-XMESS_0079,(Koitsu ga kage no Totsumura…),XMESS_0079,網代慎平
-XMESS_0080,(Futari no kage ni hasamarete… nigeba ga nai),XMESS_0080,網代慎平
-XMESS_0081,"Hona, koko ra de owari ni shiyo ka.
-Mada mada yaranakya Akan koto ga
-yooku aru sake yo.",XMESS_0081,トツムラ
-XMESS_0082,"Honto ya ne.
-Tetsu-san, kono ato oomawashii ya.",XMESS_0082,ミオ
-XMESS_0083,"Se ya de.
-Honrin kara mata keiji ga kuru ryou na kara na.",XMESS_0083,トツムラ
-XMESS_0084,"Zenpen kita renchuu mitai ni
-Hayai toko shimatsu shi toka Akan jyo.",XMESS_0084,トツムラ
-XMESS_0085,"Shi, shimatsu tte…
-Masaka o ran naku natta keiji ra wa,
-Omae ga! ?",XMESS_0085,凸村哲
-XMESS_0086,Se ya de.,XMESS_0086,トツムラ
-XMESS_0087,"Zouen no shimatsu ga owatta ato,
-Tsugi wa soitsu ga fukudai shita ore ra no yume o
-kesu de mawarana Akan ne n.",XMESS_0087,トツムラ
-XMESS_0088,Honto yaru koto oto de kanwan wa a.,XMESS_0088,トツムラ
-XMESS_0089,"Omae… so, sonna koto made!",XMESS_0089,凸村哲
-XMESS_0090,"Omae no kawari wa,
-Kono ore ga cha~n to tsutomeru.
-Se ya sake, anshin shite shi.",XMESS_0090,トツムラ
-XMESS_0091,"Ko, kono bakenmon ga…!",XMESS_0091,凸村哲
-XMESS_0092,"(Mada da…
-Mada nanika suru koto ga aru hazu…)",XMESS_0092,網代慎平
-XMESS_0093,(Mou kashite minna o tasukeru nda!),XMESS_0093,網代慎平
-MSTD_0317-0,Jibun ga gō ni natte Totsumura o nige masu,MSTD_0317-0,
-MSTD_0317-1,Nan to mo Totsumura o tsurete nigeru,MSTD_0317-1,
-XMESS_0094,"(Moshi ore ga korosarete mo,
-Mata yarinaoseru chansu ga aru kamo nai)",XMESS_0094,網代慎平
-XMESS_0095,(Demo Totsumura-san wa…),XMESS_0095,網代慎平
-XMESS_0096,"(Sou dakedo ima wa ore ga gō ni natte mo,
-Totsumura-san o nige masu shika nai!)",XMESS_0096,網代慎平
-XMESS_0097,"Shinpei-kun, douni shite ee?",XMESS_0097,凸村哲
-XMESS_0098,"Dekitara, ore,
-Mada shini tainai n ya kedo naa…",XMESS_0098,凸村哲
-XMESS_0099,"Daijoubu desu, Totsumura-san.
-Ore ni makasete kudasai…!",XMESS_0099,網代慎平
-XMESS_0100,E…?,XMESS_0100,凸村哲
-XMESS_0101,"(Sono tame ni mo,
-Koko wa dounika shite Totsumura-san o tsurete
-nige kuru shika nai!)",XMESS_0101,網代慎平
-XMESS_0102,"Moshikashitara ore ra, kono mama…",XMESS_0102,凸村哲
-XMESS_0103,"Mada akirame naide kudasai!
-Kibun ni wa futari de ikite kaerimashō.",XMESS_0103,網代慎平
+XMESS_0075,Huh? You're not dead yet?,XMESS_0075,ミオ
+XMESS_0076,"Hey, hey, you can't run away.",XMESS_0076,トツムラ
+XMESS_0077,Death penalty. Give up quietly.,XMESS_0077,トツムラ
+XMESS_0078,...Guh!!,XMESS_0078,凸村哲
+XMESS_0079,(This is Shadow Totsumura...),XMESS_0079,網代慎平
+XMESS_0080,(Pincered by two Shadows... there's nowhere to run.),XMESS_0080,網代慎平
+XMESS_0081,"Well then, let's finish this here. We've still got a lot of things we have to do.",XMESS_0081,トツムラ
+XMESS_0082,That's right. Tetsu-san is going to be very busy after this.,XMESS_0082,ミオ
+XMESS_0083,Yeah. Seems like more detectives are coming from the mainland.,XMESS_0083,トツムラ
+XMESS_0084,Gotta dispose of them quickly like the guys who came before.,XMESS_0084,トツムラ
+XMESS_0085,D-Dispose of... Don't tell me you're the one who got rid of the missing detectives!?,XMESS_0085,凸村哲
+XMESS_0086,Yeah.,XMESS_0086,トツムラ
+XMESS_0087,"After I'm done disposing of the reinforcements, next I have to go around erasing the rumors he spread about us.",XMESS_0087,トツムラ
+XMESS_0088,"I've really got too much to do, it's a pain.",XMESS_0088,トツムラ
+XMESS_0089,You... y-you'd go that far!,XMESS_0089,凸村哲
+XMESS_0090,I'll make sure to take over your place properly. So you can die in peace.,XMESS_0090,トツムラ
+XMESS_0091,Y-You monster...!,XMESS_0091,凸村哲
+XMESS_0092,(Not yet... There must still be something I can do...),XMESS_0092,網代慎平
+XMESS_0093,(I have to find a way to save everyone!),XMESS_0093,網代慎平
+MSTD_0317-0,Act as a decoy and let Totsumura escape,MSTD_0317-0,
+MSTD_0317-1,Escape with Totsumura no matter what,MSTD_0317-1,
+XMESS_0094,"(Even if I get killed, there might be a chance to start over again.)",XMESS_0094,網代慎平
+XMESS_0095,(But Totsumura-san...),XMESS_0095,網代慎平
+XMESS_0096,"(Then right now, even if I have to be a decoy, I have to let Totsumura-san escape!)",XMESS_0096,網代慎平
+XMESS_0097,"Shinpei-kun, what should we do?",XMESS_0097,凸村哲
+XMESS_0098,"If possible, I don't really want to die yet...",XMESS_0098,凸村哲
+XMESS_0099,"It's okay, Totsumura-san. Please leave it to me...!",XMESS_0099,網代慎平
+XMESS_0100,Eh...?,XMESS_0100,凸村哲
+XMESS_0101,"(For that reason too, I have to find a way to escape with Totsumura-san!)",XMESS_0101,網代慎平
+XMESS_0102,Are we going to... just like this...,XMESS_0102,凸村哲
+XMESS_0103,Don't give up yet! We will definitely both make it back alive.,XMESS_0103,網代慎平
 XMESS_0104,Shinpei-kun…,XMESS_0104,凸村哲
-XMESS_0105,"Dakara, shikkari shite kudasai.
-Totsumura-san wa seigi no aibou n desu yo ne?",XMESS_0105,網代慎平
-XMESS_0106,"A, aa…",XMESS_0106,凸村哲
+XMESS_0105,"So, please pull yourself together. You're a hero of justice, right, Totsumura-san?",XMESS_0105,網代慎平
+XMESS_0106,A-Ah...,XMESS_0106,凸村哲

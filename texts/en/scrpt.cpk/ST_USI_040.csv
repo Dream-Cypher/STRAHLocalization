@@ -1,204 +1,122 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,37. Uninvited Visitor?,XCHAPTITLE_0002,
-XMESS_0000,"I'm home!
-Sorry, Mio. I'm late…",XMESS_0000,網代慎平
-XMESS_0001,"Ah~
-Welcome back, Shin-chan…",XMESS_0001,小舟澪
-XMESS_0002,What are you doing in the kitchen?,XMESS_0002,網代慎平
-XMESS_0003,You'll see if you look~,XMESS_0003,小舟澪
-XMESS_0004,"There was onion and chicken in the fridge,
-so I thought I'd stir-fry it…",XMESS_0004,小舟澪
-XMESS_0005,"When I was cutting the onion,
-tears started flowing and I couldn't see anything…",XMESS_0005,小舟澪
-XMESS_0006,"Hey, that's dangerous!
-Don't rub your eyes with the knife!",XMESS_0006,網代慎平
-XMESS_0007,"Ugh, but…",XMESS_0007,小舟澪
-XMESS_0008,(What?),XMESS_0008,網代慎平
-XMESS_0009,"(Up until now, there's never been a scenario where Mio cooks!!)",XMESS_0009,網代慎平
-XMESS_0010,"(This is bad. The future is changing and I can't predict it.
-I need to get back to the usual flow…)",XMESS_0010,網代慎平
-XMESS_0011,"I'll make dinner!
-Why is this…?",XMESS_0011,網代慎平
-XMESS_0012,"Shin-chan, you look unwell this morning…
-So, um…",XMESS_0012,小舟澪
-XMESS_0013,"I wanted to make something for you…
-Guh…",XMESS_0013,小舟澪
-XMESS_0014,(This person… for my sake…),XMESS_0014,網代慎平
+XMESS_0000,"I'm home. Sorry, Mio. I'm late—",XMESS_0000,網代慎平
+XMESS_0001,"Ah~~. Welcome home, Shin-chan...",XMESS_0001,小舟澪
+XMESS_0002,What are you doing standing in the kitchen?,XMESS_0002,網代慎平
+XMESS_0003,"You can tell just by looking, right~~~~.",XMESS_0003,小舟澪
+XMESS_0004,"There were onions and chicken in the fridge, so I thought I'd stir-fry them, but...",XMESS_0004,小舟澪
+XMESS_0005,"When I was cutting the onions, tears started pouring out and I couldn't see anything anymore~~~!",XMESS_0005,小舟澪
+XMESS_0006,"Hey, that's dangerous! Don't rub your eyes with the hand holding the knife!",XMESS_0006,網代慎平
+XMESS_0007,"Ugh, but~~.",XMESS_0007,小舟澪
+XMESS_0008,(Huh?),XMESS_0008,網代慎平
+XMESS_0009,"(Up until the last loop, there was never a development where Mio cooked!!)",XMESS_0009,網代慎平
+XMESS_0010,(It's bad if the future changes and becomes harder to predict. I need to get things back to the same flow as before...),XMESS_0010,網代慎平
+XMESS_0011,I-I'll make dinner! Why are you...,XMESS_0011,網代慎平
+XMESS_0012,"Shin-chan, you've looked sick since this morning... So, um...",XMESS_0012,小舟澪
+XMESS_0013,I thought maybe I could make something for you...!! *Sniffle*...,XMESS_0013,小舟澪
+XMESS_0014,(She was doing this... for me...!!),XMESS_0014,網代慎平
 XMESS_0015,…I see.,XMESS_0015,網代慎平
-XMESS_0016,"Thank you… but leave it to me.
-I can't stand to see you in danger!",XMESS_0016,網代慎平
-XMESS_0017,"Wha-?!
-But…",XMESS_0017,小舟澪
-XMESS_0018,"(No need to worry.
-I'm already fine.
-Come on, lend me the knife.)",XMESS_0018,網代慎平
-XMESS_0019,(The shadow hates contact with the ground's body…),XMESS_0019,網代慎平
-XMESS_0020,"(I think I'm fine, but to be safe, step on Mio's shadow…)",XMESS_0020,網代慎平
-XMESS_0021,…Go wash your face!,XMESS_0021,小舟澪
+XMESS_0016,Thanks... but leave the rest to me. It's too dangerous to watch you!,XMESS_0016,網代慎平
+XMESS_0017,Ugh!? But...,XMESS_0017,小舟澪
+XMESS_0018,"...No need to worry. I'm fine now. Here, let me have the knife.",XMESS_0018,網代慎平
+XMESS_0019,(Shadows hate having their main body on the ground touched...),XMESS_0019,網代慎平
+XMESS_0020,"(I think it's fine, but just in case, I'll step on Mio's shadow...)",XMESS_0020,網代慎平
+XMESS_0021,...G-Go wash your face!,XMESS_0021,小舟澪
 XMESS_0022,…,XMESS_0022,網代慎平
-XMESS_0023,(Good… Mio isn't a shadow yet),XMESS_0023,網代慎平
-XMESS_0024,(But what was that person trying to make?),XMESS_0024,網代慎平
-XMESS_0025,"(Potatoes, onions, chicken…
-Can I still change it to curry?)",XMESS_0025,網代慎平
-XMESS_0026,(Gosh… she has her cute side…),XMESS_0026,網代慎平
-XMESS_0027,"(…No way, Shinpei!!
-Different developments are bad!!)",XMESS_0027,網代慎平
-XMESS_0028,"(Ah… right.
-Because of me, Mio's actions
-have already changed)",XMESS_0028,網代慎平
-XMESS_0029,"(I'll make curry.
-That's the same action as before.)",XMESS_0029,網代慎平
-XMESS_0030,"(Well, considering that Nagumo-sensei and the others
-are armed and waiting outside,
-it's already completely different from before…)",XMESS_0030,網代慎平
-XMESS_0031,"(Anyway, I need to avoid any actions
-other than ""killing the shadow"")",XMESS_0031,網代慎平
-XMESS_0032,"(In particular, if someone sees, hears, or feeds
-the content, it could change people's actions…",XMESS_0032,網代慎平
-XMESS_0033,"That would cause a chain reaction,
-making the future change significantly.
-If that happens, the future I saw
-would be useless)",XMESS_0033,網代慎平
-XMESS_0034,"(If it leads to a better future, that's fine,
-but I can't be that optimistic)",XMESS_0034,網代慎平
-XMESS_0035,…,XMESS_0035,網代慎平
-XMESS_0036,"Hey, Mio.
-You're really hungry…
-Are you that hungry?",XMESS_0036,網代慎平
-XMESS_0037,Huh?,XMESS_0037,網代慎平
+XMESS_0023,(Thank goodness... Mio isn't a Shadow yet.),XMESS_0023,網代慎平
+XMESS_0024,"(Anyway, what was she trying to make?)",XMESS_0024,網代慎平
+XMESS_0025,"(Potatoes, onions, chicken... Can I still pivot this into curry?)",XMESS_0025,網代慎平
+XMESS_0026,(Good grief... She has her cute moments...),XMESS_0026,網代慎平
+XMESS_0027,"(...No, what am I saying, Shinpei!! ""Different developments"" are bad!)",XMESS_0027,網代慎平
+XMESS_0028,"(Ah... that's right. Because of me, Mio's actions have already changed.)",XMESS_0028,網代慎平
+XMESS_0029,(I'll make curry. Because that's the same action I've taken up until now...),XMESS_0029,網代慎平
+XMESS_0030,"(Well, the fact that Nagumo-sensei and the others are waiting outside fully armed makes it completely different from before, though...)",XMESS_0030,網代慎平
+XMESS_0031,"(Anyway, I should try not to change any actions other than those ""to kill the Shadows."")",XMESS_0031,網代慎平
+XMESS_0032,"(In particular, if I change things like what someone sees, hears, or eats, it will cause changes in people's actions...)",XMESS_0032,網代慎平
+XMESS_0033,"(That would cause a chain reaction, making it highly likely that the future changes significantly. If that happens, the future I saw will become useless.)",XMESS_0033,網代慎平
+XMESS_0034,"(It'd be fine if that led to a good future, but I can't be that optimistic.)",XMESS_0034,網代慎平
+XMESS_0035,...!,XMESS_0035,網代慎平
+XMESS_0036,"Hey, Mio. Your stomach is growling super loud... Are you really that hungry—",XMESS_0036,網代慎平
+XMESS_0037,...Huh?,XMESS_0037,網代慎平
 XMESS_0038,…Yeah.,XMESS_0038,ウシオ
 XMESS_0039,…,XMESS_0039,網代慎平
-XMESS_0040,"Oh!
-Could it be, tonight's curry?",XMESS_0040,ウシオ
+XMESS_0040,Ah! Could it be... curry for dinner tonight?,XMESS_0040,ウシオ
 XMESS_0041,Shinpei's curry!?,XMESS_0041,ウシオ
-XMESS_0042,"…
-Ah… Ahh… Ahh…",XMESS_0042,網代慎平
-XMESS_0043,Mio!!?!,XMESS_0043,網代慎平
-XMESS_0044,"(…No, no!!
-It's not Mio… it's the shadow 'Ushio'!!)",XMESS_0044,網代慎平
-XMESS_0045,"Again…!
-You look like you saw a ghost!!",XMESS_0045,ウシオ
-XMESS_0046,"But you…
-Why!?",XMESS_0046,網代慎平
-XMESS_0047,"Why are you here?
-It should be the 24th's festival…",XMESS_0047,網代慎平
-XMESS_0048,"Huh!?
-Why do you know that!?",XMESS_0048,ウシオ
+XMESS_0042,...Ah. Aaaah... ah...,XMESS_0042,網代慎平
+XMESS_0043,Ushio!!!?,XMESS_0043,網代慎平
+XMESS_0044,"(...N-No!! Not Ushio... it's the Shadow ""Ushio""!!)",XMESS_0044,網代慎平
+XMESS_0045,Not this again... Jeez! You look like you've seen a ghost!!,XMESS_0045,ウシオ
+XMESS_0046,"Because, you're... Why!?",XMESS_0046,網代慎平
+XMESS_0047,"Y-You're supposed to show up... at the summer festival on the 24th, right...!?",XMESS_0047,網代慎平
+XMESS_0048,Huh!? How do you know about that!!?,XMESS_0048,ウシオ
 XMESS_0049,Huh…?,XMESS_0049,網代慎平
-XMESS_0050,"Ah…
-Shinpei…
-You might not believe me,
-but listen carefully!",XMESS_0050,ウシオ
-XMESS_0051,Something terrible will happen on the 24th!!!,XMESS_0051,ウシオ
-XMESS_0052,"It'll be a black shadow-like monster…
-Everyone will be swallowed and disappear!!!",XMESS_0052,ウシオ
+XMESS_0050,"Look, Shinpei... You might not believe me, but listen closely!",XMESS_0050,ウシオ
+XMESS_0051,Something terrible is going to happen on the 24th...!!,XMESS_0051,ウシオ
+XMESS_0052,Everyone gets swallowed up by these pitch-black shadow monsters... and disappears...!!!,XMESS_0052,ウシオ
 XMESS_0053,…,XMESS_0053,網代慎平
-XMESS_0054,"…Wait, you.
-Could it be… you're also…",XMESS_0054,網代慎平
-XMESS_0055,That festival… you came from there!!!,XMESS_0055,網代慎平
-XMESS_0056,"…Huh!?
-Could it be Shinpei also!?",XMESS_0056,ウシオ
-XMESS_0057,"Ah~…
-After washing with water, it's a bit better…",XMESS_0057,小舟澪
+XMESS_0054,...W-Wait a minute. D-Don't tell me... you're also...,XMESS_0054,網代慎平
+XMESS_0055,Did you come from that summer festival...!!?,XMESS_0055,網代慎平
+XMESS_0056,"...Huh!? D-Don't tell me you did too, Shinpei!!?",XMESS_0056,ウシオ
+XMESS_0057,"I washed my eyes, so I feel a bit better now...",XMESS_0057,小舟澪
 XMESS_0058,!!!!!!!!,XMESS_0058,網代慎平
-XMESS_0059,"…Huh?
-Why is Shin-chan sitting in the kitchen…",XMESS_0059,小舟澪
-XMESS_0060,"N-no…!
-Nothing!",XMESS_0060,網代慎平
-XMESS_0061,!!!!!!!!,XMESS_0061,ウシオ
-XMESS_0062,…,XMESS_0062,小舟澪
-XMESS_0063,(Stay calm… here…),XMESS_0063,網代慎平
-XMESS_0064,"(Mio can't see Ushio hiding here…
-I need to stay hidden…)",XMESS_0064,網代慎平
-XMESS_0065,…Oh!!!,XMESS_0065,小舟澪
+XMESS_0059,"...Hm? What's wrong, Shin-chan? Why are you sitting on the kitchen floor...",XMESS_0059,小舟澪
+XMESS_0060,N-No...! Nothing!?,XMESS_0060,網代慎平
+XMESS_0061,...!!,XMESS_0061,ウシオ
+XMESS_0062,...?,XMESS_0062,小舟澪
+XMESS_0063,(I-I need to act normal for now...),XMESS_0063,網代慎平
+XMESS_0064,"(From Mio's position, she shouldn't be able to see Ushio hiding here... I can't let her notice—)",XMESS_0064,網代慎平
+XMESS_0065,...Ah!!,XMESS_0065,小舟澪
 XMESS_0066,W-What!?,XMESS_0066,網代慎平
-XMESS_0067,"Could it be… this smell…
-Curry??",XMESS_0067,小舟澪
-XMESS_0068,Y-Yes! Correct!,XMESS_0068,網代慎平
-XMESS_0069,"Wow~!
-That's a good idea~!!",XMESS_0069,小舟澪
-XMESS_0070,(Oh no… Ushio's stomach noise…),XMESS_0070,網代慎平
-XMESS_0071,"Haha!
-Shin-chan, your stomach's so loud~",XMESS_0071,小舟澪
-XMESS_0072,You're like an older sister!,XMESS_0072,小舟澪
-XMESS_0073,!!!!!!!!,XMESS_0073,ウシオ
-XMESS_0074,"Good…
-If you're hungry, you're healthy!",XMESS_0074,小舟澪
-XMESS_0075,I-I guess…,XMESS_0075,網代慎平
-XMESS_0076,"(Calm down, calm down.
-Don't forget the curry steps!)",XMESS_0076,網代慎平
-XMESS_0077,"(Chop the onion finely.
-Grate garlic and ginger.
-Dice the tomato…)",XMESS_0077,網代慎平
-XMESS_0078,"…Well then…
-Next, I'll fry the chicken!!!",XMESS_0078,網代慎平
-XMESS_0079,"(Oh no… this situation is really bad…
-I need to get Ushio out of here somehow…)",XMESS_0079,網代慎平
-XMESS_0080,"(So… right! The memo!
-I'll send a message to Ushio through this…)",XMESS_0080,網代慎平
+XMESS_0067,Could this smell be... C-Curry!!?,XMESS_0067,小舟澪
+XMESS_0068,C-Correct!,XMESS_0068,網代慎平
+XMESS_0069,Wow~~! I didn't think of that...!!,XMESS_0069,小舟澪
+XMESS_0070,(This is bad...! Ushio's stomach is growling...!),XMESS_0070,網代慎平
+XMESS_0071,"Fufu! Shin-chan, your stomach is rumbling so loud~~.",XMESS_0071,小舟澪
+XMESS_0072,Just like Sis...!,XMESS_0072,小舟澪
+XMESS_0073,...!!,XMESS_0073,ウシオ
+XMESS_0074,"Thank goodness... If you're hungry, that means you're doing okay!",XMESS_0074,小舟澪
+XMESS_0075,"W-Well, yeah~~~~.",XMESS_0075,網代慎平
+XMESS_0076,"(Calm down, calm down. Look at the curry-making process objectively and calm down!)",XMESS_0076,網代慎平
+XMESS_0077,(Finely chop the onions. Grate the garlic and ginger. Roughly chop the tomatoes...),XMESS_0077,網代慎平
+XMESS_0078,...W-Well then... Next... I'll fry the chicken~~~.,XMESS_0078,網代慎平
+XMESS_0079,(T-This situation is really bad... I have to get Ushio out of here somehow...),XMESS_0079,網代慎平
+XMESS_0080,(T-That's it...! The notepad! I'll use this to pass a message to Ushio...),XMESS_0080,網代慎平
 XMESS_0081,"(Ugh, why is this happening…)",XMESS_0081,網代慎平
-XMESS_0082,"(Nagumo-sensei…
-This isn't just a ""different development""…
-It's way beyond that!!)",XMESS_0082,網代慎平
-XMESS_0083,"Sorry, Shinpei, I'm late!
-Karikiri-san talked for too long…",XMESS_0083,小舟アラン
-XMESS_0084,"O-Oh, you're back, Alain…
-It'll be ready soon.",XMESS_0084,網代慎平
-XMESS_0085,"Dad, you're back!",XMESS_0085,小舟澪
-XMESS_0086,"Ah, welcome back… Mio!
-You should help too, you know.",XMESS_0086,小舟アラン
-XMESS_0087,I'm just here to eat!!,XMESS_0087,小舟澪
-XMESS_0088,"Honestly…
-Huh, that smells good.
-That's Mio's favorite…",XMESS_0088,小舟アラン
+XMESS_0082,"(Nagumo-sensei... This is way beyond the level of a ""different development""!!)",XMESS_0082,網代慎平
+XMESS_0083,"Sorry Shinpei, I'm late! Karikiri-san's stories are so long...",XMESS_0083,小舟アラン
+XMESS_0084,"W-Welcome back, Alain... It'll be ready soon.",XMESS_0084,網代慎平
+XMESS_0085,"Welcome back, Dad!",XMESS_0085,小舟澪
+XMESS_0086,"Oh, I'm home... Hey, Mio! You should be helping out, too.",XMESS_0086,小舟アラン
+XMESS_0087,I specialize in eating!!,XMESS_0087,小舟澪
+XMESS_0088,"Good grief... Hm, smells good. Ushio's favorite, huh...",XMESS_0088,小舟アラン
 XMESS_0089,…,XMESS_0089,網代慎平
-XMESS_0090,"(Ushio! Pay attention!
-Look at this memo!)",XMESS_0090,網代慎平
-XMESS_0091,"(In five minutes, Alain will go to the bathroom,
-and Mio will go to the toilet--)",XMESS_0091,網代慎平
-XMESS_0092,"(Use that chance to go to my room.
-Don't get caught!!)",XMESS_0092,網代慎平
+XMESS_0090,(Ushio! Notice it! Look at this memo!),XMESS_0090,網代慎平
+XMESS_0091,"(In about 5 minutes, Alain will go to the washroom, and Mio will go to the bathroom—)",XMESS_0091,網代慎平
+XMESS_0092,(Head to my room while they're gone. Don't get caught!!),XMESS_0092,網代慎平
 XMESS_0093,…Got it.,XMESS_0093,ウシオ
-XMESS_0094,"O-Oh…
-It's done…",XMESS_0094,網代慎平
-XMESS_0095,"Wow, it smells good~",XMESS_0095,小舟澪
-XMESS_0096,"You've really improved, Shinpei.",XMESS_0096,小舟アラン
-XMESS_0097,"I-I guess so?
-Well, let's serve it before it gets cold…",XMESS_0097,網代慎平
-XMESS_0098,"(Alain and Mio are moving as expected,
-and Ushio went to my room…)",XMESS_0098,網代慎平
-XMESS_0099,"(I'll go back to my room
-as if nothing happened)",XMESS_0099,網代慎平
+XMESS_0094,A-Alright. It's done...!!,XMESS_0094,網代慎平
+XMESS_0095,"Wow~, looks delicious~!",XMESS_0095,小舟澪
+XMESS_0096,"You've gotten even better, haven't you, Shinpei.",XMESS_0096,小舟アラン
+XMESS_0097,"Y-You think so? Well, let's dish it out before it gets cold~...",XMESS_0097,網代慎平
+XMESS_0098,"(Alain and Mio moved just like I remembered, and Ushio was able to get to my room...)",XMESS_0098,網代慎平
+XMESS_0099,"(I'll just casually head back to my room now, too.)",XMESS_0099,網代慎平
 XMESS_0100,"Huh?
 Where are you going, Shin-chan?",XMESS_0100,小舟澪
-XMESS_0101,"Ah…
-I'll just eat in my room…",XMESS_0101,網代慎平
-XMESS_0102,"…Huh?
-You're carrying two plates!?",XMESS_0102,小舟澪
-XMESS_0103,"I-I…
-No, really, I'm super hungry!!!",XMESS_0103,網代慎平
-XMESS_0104,"Haha! I'm already fine…
-Hahaha~",XMESS_0104,網代慎平
+XMESS_0101,"Oh, uh... I'm gonna eat in my room.",XMESS_0101,網代慎平
+XMESS_0102,...Huh? With two plates!?,XMESS_0102,小舟澪
+XMESS_0103,"U-Uh... Well, you see, I'm super hungry...!!",XMESS_0103,網代慎平
+XMESS_0104,Haha! I'm feeling totally fine now... Ahahahaha~~.,XMESS_0104,網代慎平
 XMESS_0105,Ushio…,XMESS_0105,網代慎平
 XMESS_0106,Curry!,XMESS_0106,ウシオ
-XMESS_0107,"Curry! Curry!
-Curry~!!!",XMESS_0107,ウシオ
-XMESS_0108,"Hmph!
-Hmph!!",XMESS_0108,ウシオ
-XMESS_0109,"(This… this is…
-The rhythm of curry!!)",XMESS_0109,網代慎平
-XMESS_0110,"(The more Mio wants curry,
-the more she gets excited with this weird ritual!)",XMESS_0110,網代慎平
-XMESS_0111,(Gosh… why is this happening!!!),XMESS_0111,網代慎平
-XMESS_0112,"Don't let the shadow's appearance and words move you, Shinpei Ajiro.",XMESS_0112,南方ひづる
-XMESS_0113,"Even if they appear as friends or family…
-Even if they appear as someone you love,
-you mustn't hesitate.",XMESS_0113,南方ひづる
-XMESS_0114,"(I know.
-Otherwise, it's all over…)",XMESS_0114,網代慎平
-XMESS_0115,(When the real Ushio appears before me…),XMESS_0115,網代慎平
-XMESS_0116,"(I'll stab it with the fruit knife I've been hiding…
-!)",XMESS_0116,網代慎平
-XMESS_0117,"Hey, Shinpei.
-Can I eat it?",XMESS_0117,ウシオ
+XMESS_0107,"Curry, curry! Curry~~~~!",XMESS_0107,ウシオ
+XMESS_0108,Hn! Hn!!,XMESS_0108,ウシオ
+XMESS_0109,(Th... this is... The Rhythm of Curry!!),XMESS_0109,網代慎平
+XMESS_0110,(That mysterious ritual Ushio does when her craving for curry hits its peak and she gets super hyped!),XMESS_0110,網代慎平
+XMESS_0111,(Daaamn it~~~~~~~~. W-Why did things turn out like this!!),XMESS_0111,網代慎平
+XMESS_0112,"Do not let the Shadows' appearances and words sway your heart, Shinpei Ajiro.",XMESS_0112,南方ひづる
+XMESS_0113,"From now on, even if they appear in the form of your friends or family... or someone you love, you must not hesitate.",XMESS_0113,南方ひづる
+XMESS_0114,"(I know. If I don't, it's all over...)",XMESS_0114,網代慎平
+XMESS_0115,(When the Ushio in front of me reveals her true nature...),XMESS_0115,網代慎平
+XMESS_0116,(I'll stab her Shadow with the fruit knife I hid and brought with me...!),XMESS_0116,網代慎平
+XMESS_0117,"Hey, Shinpei. Can I eat...?",XMESS_0117,ウシオ
 XMESS_0118,…Yeah…,XMESS_0118,網代慎平

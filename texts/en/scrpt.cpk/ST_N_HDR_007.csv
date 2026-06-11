@@ -1,152 +1,104 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,7. Light and Shadow,XCHAPTITLE_0002,
-XMESS_0000,"Yes, here we go!
-This is the last one!",XMESS_0000,南方波稲
-XMESS_0001,"So it's the Koba Mart again…
-I know this place well too.",XMESS_0001,南方ひづる
-XMESS_0002,"If it's closed, does that mean it's a holiday?
-There's not much to do on a day off anyway.",XMESS_0002,南方ひづる
-XMESS_0003,"Exactly!
-This is my friend's house.",XMESS_0003,南方波稲
-XMESS_0004,That's convenient - this is also my friend's house.,XMESS_0004,南方ひづる
-XMESS_0005,"Wait?
-Is Hizuru-chan also friends with Shiori-chan?",XMESS_0005,南方波稲
-XMESS_0006,"No, it's not like that.
-My friends are…",XMESS_0006,南方ひづる
+XMESS_0000,"Alright, we're heeeere! This is the last stop!",XMESS_0000,南方波稲
+XMESS_0001,"The final stop is Koba Mart, huh... I'm quite familiar with this place as well.",XMESS_0001,南方ひづる
+XMESS_0002,"It's not open for business, so is today their regular day off? There shouldn't be anything we can do here on their day off.",XMESS_0002,南方ひづる
+XMESS_0003,"There is, there is! This is my friend's house.",XMESS_0003,南方波稲
+XMESS_0004,"What a coincidence, this is a friend's house for me as well.",XMESS_0004,南方ひづる
+XMESS_0005,"Huh? Are you friends with Shiori-chan too, Hizuru-chan?",XMESS_0005,南方波稲
+XMESS_0006,"No, that's not it. My friend is...",XMESS_0006,南方ひづる
 XMESS_0007,…Hizuru?,XMESS_0007,小早川朝子
 XMESS_0008,"Ah, Asako.
 It's been a while.",XMESS_0008,南方ひづる
-XMESS_0009,"Ah, you're back!?
-Why didn't you call!?",XMESS_0009,小早川朝子
-XMESS_0010,"Sorry.
-I didn't have the chance--",XMESS_0010,南方ひづる
-XMESS_0011,"No, right now, I really don't have the chance.",XMESS_0011,南方ひづる
+XMESS_0009,Wh-When did you get back!? Why didn't you contact me!,XMESS_0009,小早川朝子
+XMESS_0010,Sorry. I didn't have the time to--,XMESS_0010,南方ひづる
+XMESS_0011,"No, actually, I'm currently in a situation where I don't have the time for that.",XMESS_0011,南方ひづる
 XMESS_0012,Hello~!,XMESS_0012,南方波稲
 XMESS_0013,"Hello, Hoine-chan!
 You came with Hizuru?",XMESS_0013,小早川朝子
-XMESS_0014,"Yeah!
-I'm showing her around the island.",XMESS_0014,南方波稲
-XMESS_0015,"Eh, around the island?",XMESS_0015,小早川朝子
-XMESS_0016,"There's no deep meaning…
-I was forced to take care of Ryunosuke's niece.",XMESS_0016,南方ひづる
-XMESS_0017,"Heh, that's how it is.",XMESS_0017,小早川朝子
-XMESS_0018,"Shiori-chan, is she here~?",XMESS_0018,南方波稲
-XMESS_0019,"Yeah, she's here. She'll play with you!
-Hizuru, come visit me too!",XMESS_0019,小早川朝子
-XMESS_0020,"Ah, okay, just a little.",XMESS_0020,南方ひづる
-XMESS_0021,"Sorry there's nothing else.
-Here, tea.",XMESS_0021,小早川朝子
+XMESS_0014,Yeah! I'm guiding Hizuru-chan around the island.,XMESS_0014,南方波稲
+XMESS_0015,"Huh, around the island?",XMESS_0015,小早川朝子
+XMESS_0016,There's no deep meaning behind it... Ryunosuke forced me to take care of my niece.,XMESS_0016,南方ひづる
+XMESS_0017,"Ahaha, so that's what it is.",XMESS_0017,小早川朝子
+XMESS_0018,Is Shiori-chan here~?,XMESS_0018,南方波稲
+XMESS_0019,"Yeah, she's inside, so go ahead and play with her! Hizuru, you come inside too!",XMESS_0019,小早川朝子
+XMESS_0020,"Alright, just for a bit then.",XMESS_0020,南方ひづる
+XMESS_0021,"Sorry we don't have much to offer. Here, some tea.",XMESS_0021,小早川朝子
 XMESS_0022,"Ah, thanks.",XMESS_0022,南方ひづる
 XMESS_0023,"So, what's up?",XMESS_0023,小早川朝子
-XMESS_0024,Huh? Sudden question.,XMESS_0024,南方ひづる
-XMESS_0025,You seem down.,XMESS_0025,小早川朝子
-XMESS_0026,…It's just from being tired from dealing with kids.,XMESS_0026,南方ひづる
-XMESS_0027,"Even if it's a kid, it's Hoine-chan, right?
-I don't think she'd be that troublesome.",XMESS_0027,小早川朝子
-XMESS_0028,"(With another kid, would that be too much?
-I can't believe it…)",XMESS_0028,南方ひづる
+XMESS_0024,"Huh? What is it, so suddenly.",XMESS_0024,南方ひづる
+XMESS_0025,"You don't seem very energetic, though.",XMESS_0025,小早川朝子
+XMESS_0026,...I'm just tired from dealing with a child when I'm not used to it.,XMESS_0026,南方ひづる
+XMESS_0027,"Even if you say a child, you're dealing with Hoine-chan, right? If it's that girl, I don't think she'd be that much of a handful.",XMESS_0027,小早川朝子
+XMESS_0028,"(If it were another child, it would be even worse than this? Unbelievable...)",XMESS_0028,南方ひづる
 XMESS_0029,"Hey, Hizuru…",XMESS_0029,小早川朝子
-XMESS_0030,"You're not just tired, are you?
-Just be honest.",XMESS_0030,小早川朝子
+XMESS_0030,"You're not really just tired, are you? Come on, tell me honestly.",XMESS_0030,小早川朝子
 XMESS_0031,…,XMESS_0031,南方ひづる
-XMESS_0032,"You can't treat friends like that?
-Even if we haven't seen each other for a while, I know that.",XMESS_0032,小早川朝子
-XMESS_0033,"But I won't push you.
-If you want to talk, I'm always here.",XMESS_0033,小早川朝子
-XMESS_0034,I said it's just tired!,XMESS_0034,南方ひづる
-XMESS_0035,"Haha… Yeah, yeah!
-You're still stubborn as ever!",XMESS_0035,小早川朝子
-XMESS_0036,"Haha!
-Wait, wait~!",XMESS_0036,小早川しおり
-XMESS_0037,"Hehe~!
-You'll never catch me~!",XMESS_0037,南方波稲
-XMESS_0038,"Hey! Don't run around!
-You'll fall!",XMESS_0038,小早川朝子
-XMESS_0039,Yeah~!,XMESS_0039,小早川しおり
-XMESS_0040,"Ugh, at least respond!",XMESS_0040,小早川朝子
-XMESS_0041,That kid's Asako's daughter.,XMESS_0041,南方ひづる
-XMESS_0042,"Yeah, Shiori.
-Sorry, my kid's a bit rowdy.",XMESS_0042,小早川朝子
-XMESS_0043,"No problem.
-Asako was pretty wild too, once.",XMESS_0043,南方ひづる
-XMESS_0044,"W-what, back when we were students!?
-Was I really that loud!?",XMESS_0044,小早川朝子
-XMESS_0045,"No, you're still the same.",XMESS_0045,南方ひづる
-XMESS_0046,Haha! You got me!,XMESS_0046,小早川朝子
-XMESS_0047,"But when you have kids,
-any parent's like that, right?",XMESS_0047,小早川朝子
+XMESS_0032,"Don't underestimate your friends, okay? Even if we haven't seen each other in a while, I can tell that much.",XMESS_0032,小早川朝子
+XMESS_0033,"But I won't force you to tell me. If you ever want to talk about it, just let me know anytime.",XMESS_0033,小早川朝子
+XMESS_0034,Like I said... I'm just tired.,XMESS_0034,南方ひづる
+XMESS_0035,"Hehe... Yeah, yeah! Your stubbornness hasn't changed a bit!",XMESS_0035,小早川朝子
+XMESS_0036,"Ahaha! Wait, wait~~!",XMESS_0036,小早川しおり
+XMESS_0037,Hehe~n! You'll never catch me~~!,XMESS_0037,南方波稲
+XMESS_0038,Hey! Don't run around! You're gonna fall!,XMESS_0038,小早川朝子
+XMESS_0039,Okaaaay!,XMESS_0039,小早川しおり
+XMESS_0040,"Jeez, her replies are the only good thing about her.",XMESS_0040,小早川朝子
+XMESS_0041,"Is that child your daughter, Asako?",XMESS_0041,南方ひづる
+XMESS_0042,"Yeah, Shiori. Sorry, my kid's so loud.",XMESS_0042,小早川朝子
+XMESS_0043,"It's not a problem. You were quite something in the past too, Asako.",XMESS_0043,南方ひづる
+XMESS_0044,"B-By the past, you mean when we were students!? Was I really that loud!?",XMESS_0044,小早川朝子
+XMESS_0045,"No, it seems you're still going strong.",XMESS_0045,南方ひづる
+XMESS_0046,Ahahahahahaha! You got me there!,XMESS_0046,小早川朝子
+XMESS_0047,"But once you have a kid, any parent becomes like this, you know?",XMESS_0047,小早川朝子
 XMESS_0048,Is that how it is?,XMESS_0048,南方ひづる
-XMESS_0049,"Exactly, that's how it is.
-Don't you want kids, Hizuru?",XMESS_0049,小早川朝子
-XMESS_0050,"I don't even have a partner.
-Human asexual reproduction is impossible.",XMESS_0050,南方ひづる
-XMESS_0051,Asexual reproduction?,XMESS_0051,小早川朝子
-XMESS_0052,"Right now, I don't even have the interest or imagination
-to create a family.",XMESS_0052,南方ひづる
-XMESS_0053,"But as a literary theme, it's a universal topic.
-I'm interested in that aspect, though.",XMESS_0053,南方ひづる
-XMESS_0054,( Family… home… parents… children… parent-child… ),XMESS_0054,南方ひづる
-XMESS_0055,"( Family, parents and children… Maybe it's a clue,
-but with just my knowledge, it's insufficient )",XMESS_0055,南方ひづる
+XMESS_0049,"Yeah, yeah, that's how it is. Don't you want kids, Hizuru?",XMESS_0049,小早川朝子
+XMESS_0050,I don't even have a partner in the first place. Parthenogenesis is impossible for humans.,XMESS_0050,南方ひづる
+XMESS_0051,Parthenogenesis?,XMESS_0051,小早川朝子
+XMESS_0052,"Right now, I have neither the interest nor the imagination to create my own family.",XMESS_0052,南方ひづる
+XMESS_0053,"But as a theme for a novel, it's a universal subject. I have an interest in it in that sense, though.",XMESS_0053,南方ひづる
+XMESS_0054,(Family... Household... Parents... Children... Parent and child...),XMESS_0054,南方ひづる
+XMESS_0055,"(Family, parent and child... It might be a hint for something, but my knowledge alone isn't enough information.)",XMESS_0055,南方ひづる
 XMESS_0056,"Asako, what is a child?",XMESS_0056,南方ひづる
-XMESS_0057,"Here it comes!
-A sudden question!",XMESS_0057,小早川朝子
+XMESS_0057,There it is! A sudden question!,XMESS_0057,小早川朝子
 XMESS_0058,…?,XMESS_0058,南方ひづる
-XMESS_0059,"Back when Hizuru was on the island,
-you'd get sudden questions like this and be confused.",XMESS_0059,小早川朝子
-XMESS_0060,So that's how it was?,XMESS_0060,南方ひづる
-XMESS_0061,"Intellectual curiosity?
-That's just your strong point.",XMESS_0061,小早川朝子
-XMESS_0062,"Seriously, you're still the same as before.
-It's reassuring.",XMESS_0062,小早川朝子
-XMESS_0063,"Stop giving me that vague compliment,
-answer my question from before.",XMESS_0063,南方ひづる
-XMESS_0064,"Hmm… Well…
-A child to me is…",XMESS_0064,小早川朝子
+XMESS_0059,"Back when you were on the island, Hizuru, I used to get hit with sudden questions like that all the time and it was really troublesome.",XMESS_0059,小早川朝子
+XMESS_0060,Was that so?,XMESS_0060,南方ひづる
+XMESS_0061,Intellectual curiosity? I guess you just have a lot of that.,XMESS_0061,小早川朝子
+XMESS_0062,"Really, you're exactly the same as you used to be, Hizuru. I'm relieved to see you're still going strong.",XMESS_0062,小早川朝子
+XMESS_0063,"Enough with the incomprehensible admiration, just answer my question from before.",XMESS_0063,南方ひづる
+XMESS_0064,"Hmm, let's see... To me, a child is...",XMESS_0064,小早川朝子
 XMESS_0065,…,XMESS_0065,小早川朝子
 XMESS_0066,"…Light, I guess.",XMESS_0066,小早川朝子
 XMESS_0067,Light…?,XMESS_0067,南方ひづる
-XMESS_0068,"Yes, light.
-The light that illuminates everything.",XMESS_0068,小早川朝子
-XMESS_0069,Just having Shiori around makes every day bright.,XMESS_0069,小早川朝子
-XMESS_0070,"The atmosphere in the house, everyone's feelings and expressions,
-everything becomes brighter because of her.",XMESS_0070,小早川朝子
-XMESS_0071,Hm…,XMESS_0071,南方ひづる
-XMESS_0072,"Then if children are light, what are you parents?",XMESS_0072,南方ひづる
-XMESS_0073,"If children are light, parents are shadows…
-I guess.
-After all, shadows come with light.",XMESS_0073,小早川朝子
-XMESS_0074,"Supporting from beside, watching from afar,
-parents support children in various ways.",XMESS_0074,小早川朝子
-XMESS_0075,"But if a child loses their light,
-parents become the light to illuminate them.",XMESS_0075,小早川朝子
-XMESS_0076,"In that way, they influence each other…
-That's how parents and children grow, right?",XMESS_0076,小早川朝子
-XMESS_0077,"I see… Light and shadow are two sides of the same coin,
-and their forms aren't fixed.",XMESS_0077,南方ひづる
+XMESS_0068,"Yeah, light. A light that brightly illuminates everything.",XMESS_0068,小早川朝子
+XMESS_0069,Just having Shiori around makes every day brighter.,XMESS_0069,小早川朝子
+XMESS_0070,"The atmosphere in the house, the feelings and expressions of the whole family, she brightens everything up.",XMESS_0070,小早川朝子
+XMESS_0071,Hmm...,XMESS_0071,南方ひづる
+XMESS_0072,"Then if the child is the light, what are you parents?",XMESS_0072,南方ひづる
+XMESS_0073,"If the child is the light, then the parent is the shadow... I guess? You know, shadows always accompany light.",XMESS_0073,小早川朝子
+XMESS_0074,"A shadow that stays close, a shadow that watches from afar, I think parents in this world are the ones who continue to support their children in various forms.",XMESS_0074,小早川朝子
+XMESS_0075,"But you know, if a child ever loses their light, then the parent becomes the light and illuminates the child.",XMESS_0075,小早川朝子
+XMESS_0076,By influencing each other like that... I think that's how parents and children grow together.,XMESS_0076,小早川朝子
+XMESS_0077,"I see... Light and shadow are two sides of the same coin, and their forms are not singular, huh.",XMESS_0077,南方ひづる
 XMESS_0078,Was that helpful at all?,XMESS_0078,小早川朝子
 XMESS_0079,…,XMESS_0079,南方ひづる
 XMESS_0080,Hizuru?,XMESS_0080,小早川朝子
-XMESS_0081,( Light and shadow… children and parents… ),XMESS_0081,南方ひづる
-XMESS_0082,( A child who was light will one day become a shadow as a parent… ),XMESS_0082,南方ひづる
-XMESS_0083,"No way, you're lost in your own world.",XMESS_0083,小早川朝子
-XMESS_0084,( Changing how you shine can create shadows of various sizes and shapes… ),XMESS_0084,南方ひづる
-XMESS_0085,"( Light… shadow…
-What am I, exactly, right now? )",XMESS_0085,南方ひづる
-XMESS_0086,"Hey, Hizuru!
-Hizuru!",XMESS_0086,小早川朝子
+XMESS_0081,(Light and shadow... child and parent...),XMESS_0081,南方ひづる
+XMESS_0082,(The child who was the light will also one day become a parent and a shadow...),XMESS_0082,南方ひづる
+XMESS_0083,"Oh boy, she's entered her own world.",XMESS_0083,小早川朝子
+XMESS_0084,"(If you change the way it's illuminated even slightly, the light will create shadows of various sizes and shapes...)",XMESS_0084,南方ひづる
+XMESS_0085,"(Light... Shadow... Which one am I right now, anyway?)",XMESS_0085,南方ひづる
+XMESS_0086,"Hey, Hizuru! Hi~zu~ru!!",XMESS_0086,小早川朝子
 XMESS_0087,"Hizuru-chan, it's time to go!",XMESS_0087,南方波稲
 XMESS_0088,…!,XMESS_0088,南方ひづる
-XMESS_0089,"Are you okay?
-You seem worse than before?",XMESS_0089,小早川朝子
-XMESS_0090,Don't worry…,XMESS_0090,南方ひづる
-XMESS_0091,Thank you for visiting!,XMESS_0091,南方波稲
-XMESS_0092,Bye~!,XMESS_0092,小早川しおり
-XMESS_0093,"Come again anytime, you two!",XMESS_0093,小早川朝子
-XMESS_0094,Yeah~!,XMESS_0094,南方波稲
-XMESS_0095,Hah…,XMESS_0095,南方ひづる
-XMESS_0096,Hizuru-chan's friend was Shiori-chan's mom.,XMESS_0096,南方波稲
-XMESS_0097,That's right…,XMESS_0097,南方ひづる
-XMESS_0098,"( Children and parents… Light and shadow…
-I got some useful words, but…)",XMESS_0098,南方ひづる
-XMESS_0099,( I still seem far from getting out of this slump… ),XMESS_0099,南方ひづる
+XMESS_0089,Are you okay? Haven't you gotten more complicated than before?,XMESS_0089,小早川朝子
+XMESS_0090,Don't worry about it...,XMESS_0090,南方ひづる
+XMESS_0091,Thanks for having us!,XMESS_0091,南方波稲
+XMESS_0092,Bye-bye~!,XMESS_0092,小早川しおり
+XMESS_0093,"Come again, you two.",XMESS_0093,小早川朝子
+XMESS_0094,Okaaaay!,XMESS_0094,南方波稲
+XMESS_0095,*Sigh*...,XMESS_0095,南方ひづる
+XMESS_0096,"So your friend was Shiori-chan's mom, Hizuru-chan.",XMESS_0096,南方波稲
+XMESS_0097,That's right...,XMESS_0097,南方ひづる
+XMESS_0098,"(Child and parent... Light and shadow... I got some words that might be a hint, but...)",XMESS_0098,南方ひづる
+XMESS_0099,(It still seems like I'm far from breaking out of this slump...),XMESS_0099,南方ひづる

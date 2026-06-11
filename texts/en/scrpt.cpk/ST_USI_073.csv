@@ -1,293 +1,189 @@
 source,target,id,developer_comments
-XRETURNTODEATH_0035,Seventh Loop,XRETURNTODEATH_0035,
-XCHAPTITLE_0038,63. First Steps Are Crucial①,XCHAPTITLE_0038,
+XRETURNTODEATH_0035,7th Loop,XRETURNTODEATH_0035,
+XCHAPTITLE_0038,63. First Steps Are Crucial (1),XCHAPTITLE_0038,
 XCOMMENTVIEW_0051,Shinpei Ajiro,XCOMMENTVIEW_0051,
-XMESS_0000,"…This should be fine.
-At least we're far from the Koba Mart.
-I can't say it's safe, but that's true anywhere on this island.",XMESS_0000,南方ひづる
-XMESS_0001,"Shinpei! Show me your memories already!
-Why did we lose??",XMESS_0001,根津銀次郎
-XMESS_0002,"Shinpei-kun, um… what are you talking about…
-That store being dangerous? What does that mean!?",XMESS_0002,小弓場かおり
-XMESS_0003,That's…,XMESS_0003,網代慎平
-XMESS_0004,"(What should I do?
-We've come this far, but how much should I explain…)",XMESS_0004,網代慎平
-XMESS_0005,(I don't want to involve Kaori-san in this),XMESS_0005,網代慎平
-XMESS_0006,(But… it seems the Shide have some knowledge about Kaori-san…),XMESS_0006,網代慎平
-XMESS_0007,"(Knowing that, keeping silent might be more dangerous than telling her)",XMESS_0007,網代慎平
-XMESS_0008,"(But just because of that…
-What should I do?)",XMESS_0008,網代慎平
-XMESS_0009,"(What should I do…?
-What's the right thing to do!?)",XMESS_0009,網代慎平
+XMESS_0000,"…This should be fine. At least we're a good distance from Koba Mart. I can't say it's safe, but that's true anywhere on this island.",XMESS_0000,南方ひづる
+XMESS_0001,"Shinpei, hurry up and show us your memories! Why did we lose!?",XMESS_0001,根津銀次郎
+XMESS_0002,"Ajiro-kun, um... what are you talking about...? What do you mean that store is dangerous...!?",XMESS_0002,小弓場かおり
+XMESS_0003,That's...,XMESS_0003,網代慎平
+XMESS_0004,"(What should I do? I had her follow me this far, but how much should I explain...)",XMESS_0004,網代慎平
+XMESS_0005,(I really don't want to involve Koyuba-san.),XMESS_0005,網代慎平
+XMESS_0006,(But... it seems Shide and the others know about Koyuba-san.),XMESS_0006,網代慎平
+XMESS_0007,"(Knowing that, keeping Koyuba-san in the dark might be even more dangerous...)",XMESS_0007,網代慎平
+XMESS_0008,"(But even so, what should I do...)",XMESS_0008,網代慎平
+XMESS_0009,(What should I do...? What should I do!?),XMESS_0009,網代慎平
 XMESS_0010,"Shinpei, hurry up!!",XMESS_0010,ウシオ
-XMESS_0011,Got it!,XMESS_0011,ウシオ
-XMESS_0012,"Eh!?
-People… where did they come from!?",XMESS_0012,小弓場かおり
+XMESS_0011,Hup!,XMESS_0011,ウシオ
+XMESS_0012,Eh!? A person... wh-where did she come from...!?,XMESS_0012,小弓場かおり
 XMESS_0013,Ushio…,XMESS_0013,網代慎平
-XMESS_0014,"Ushi-o?
-Could it be… that hair… Mio Kofune!",XMESS_0014,小弓場かおり
-XMESS_0015,"Eh, but she's dead!?
-What is this…?!",XMESS_0015,小弓場かおり
-XMESS_0016,"It's been a while, Kaori-chan!
-You know me right?
-Now I'm an idol having great success!",XMESS_0016,ウシオ
-XMESS_0017,Ah… thank you very much…,XMESS_0017,小弓場かおり
+XMESS_0014,Ushio? Could it be... that hair... Ushio Kofune-san!?,XMESS_0014,小弓場かおり
+XMESS_0015,"Eh, wait, didn't she pass away!? Wh-What is going on...?",XMESS_0015,小弓場かおり
+XMESS_0016,"It's been a while, Kaori-chan! I know, you know? You're doing great as an idol now!",XMESS_0016,ウシオ
+XMESS_0017,Th... Thank you... very much...,XMESS_0017,小弓場かおり
 XMESS_0018,An idol?,XMESS_0018,網代慎平
-XMESS_0019,"Eh, you don't know? 
-Now Kaori-chan is a big star!",XMESS_0019,ウシオ
-XMESS_0020,S-so that's the case?,XMESS_0020,網代慎平
-XMESS_0021,"Sorry, I don't really watch TV…",XMESS_0021,網代慎平
-XMESS_0022,"U-uh… never mind that!
-Hey Shinpei-kun, what's going on!?
-It's not a dream… right?!",XMESS_0022,小弓場かおり
-XMESS_0023,"Ah, sorry for scaring you…",XMESS_0023,ウシオ
-XMESS_0024,"Shinpei, should I show her my memories?",XMESS_0024,ウシオ
-XMESS_0025,But involving Kaori-san…,XMESS_0025,網代慎平
-XMESS_0026,But the Shide seem to know about her!,XMESS_0026,ウシオ
-XMESS_0027,"Ah, right…",XMESS_0027,網代慎平
-XMESS_0028,"(At that time, the Shide said…)",XMESS_0028,網代慎平
-XMESS_0029,"""…It's worst to be seen by someone you don't want to see…""",XMESS_0029,網代慎平
-XMESS_0030,(What in the world was that about?),XMESS_0030,網代慎平
-XMESS_0031,"What are you brooding over, Shinpei?",XMESS_0031,南方ひづる
-XMESS_0032,"Hurry up and share the memories.
-They'll be moving while we're standing here.",XMESS_0032,南方ひづる
-XMESS_0033,"Ushio!
-Let me see your memory first, at least!
-If not, we might fall behind.",XMESS_0033,根津銀次郎
-XMESS_0034,"Ah… um, Shinpei-kun!!",XMESS_0034,小弓場かおり
-XMESS_0035,"If I see that memory…
-It would be better if I do?
-I don't mind at all.",XMESS_0035,小弓場かおり
-XMESS_0036,Eh…?,XMESS_0036,網代慎平
-XMESS_0037,"Even if I don't understand…
-Something big is happening, right?
-You can tell by looking at everyone.",XMESS_0037,小弓場かおり
-XMESS_0038,"But… are you sure it's okay?
-It'll show some really painful scenes…",XMESS_0038,網代慎平
-XMESS_0039,"T-possibly, I'm fine!
-If there's any chance I can help,
-please let me see it.",XMESS_0039,小弓場かおり
-XMESS_0040,See? Kaori-chan understands!,XMESS_0040,ウシオ
-XMESS_0041,"You're right…
-Thank you, Kaori-san.
-Ushio, I'm counting on you.",XMESS_0041,網代慎平
-XMESS_0042,"Alright! Then grab my hand!
-Hizuru-senpai, Nezu-san too.",XMESS_0042,ウシオ
-XMESS_0043,Ah.,XMESS_0043,南方ひづる
+XMESS_0019,"Eh, you didn't know? Kaori-chan is super famous right now!",XMESS_0019,ウシオ
+XMESS_0020,I-Is that so?,XMESS_0020,網代慎平
+XMESS_0021,"Sorry, I don't really watch TV or anything...",XMESS_0021,網代慎平
+XMESS_0022,"N-No, more importantly...! Hey, Ajiro-kun, what's going on!? This isn't... a dream, right!?",XMESS_0022,小弓場かおり
+XMESS_0023,"Ah, sorry for surprising you...",XMESS_0023,ウシオ
+XMESS_0024,"Shinpei, should I try showing Kaori-chan my memories too?",XMESS_0024,ウシオ
+XMESS_0025,But I can't just drag Koyuba-san into this...,XMESS_0025,網代慎平
+XMESS_0026,"But it seems like Shide knew about Kaori-chan, you know?",XMESS_0026,ウシオ
+XMESS_0027,Y-Yeah...,XMESS_0027,網代慎平
+XMESS_0028,"(At that time, Shide...)",XMESS_0028,網代慎平
+XMESS_0029,"(He said, ""I've been seen by the person I least wanted to be seen by""...)",XMESS_0029,網代慎平
+XMESS_0030,(What on earth did that mean?),XMESS_0030,網代慎平
+XMESS_0031,"What are you brooding over, Shinpei Ajiro.",XMESS_0031,南方ひづる
+XMESS_0032,I want to share those memories as soon as possible. They're making their move while we're standing here.,XMESS_0032,南方ひづる
+XMESS_0033,"Ushio! Show the memories to just us first. If we stay like this, we might fall behind.",XMESS_0033,根津銀次郎
+XMESS_0034,"U-Um, Ajiro-kun!",XMESS_0034,小弓場かおり
+XMESS_0035,"Should I... see those memories, or whatever? If that's better... I'm fine with it.",XMESS_0035,小弓場かおり
+XMESS_0036,Eh...,XMESS_0036,網代慎平
+XMESS_0037,"I don't really understand, but... something terrible is happening, right? I can tell just by looking at everyone.",XMESS_0037,小弓場かおり
+XMESS_0038,But... are you sure? I think you'll end up seeing some pretty painful scenes.,XMESS_0038,網代慎平
+XMESS_0039,"P-Probably, I'll be fine... If there's even a chance I can be of help, I want you to show me.",XMESS_0039,小弓場かおり
+XMESS_0040,"See, Kaori-chan gets it!",XMESS_0040,ウシオ
+XMESS_0041,"You're right... Thank you, Koyuba-san. Ushio, do it.",XMESS_0041,網代慎平
+XMESS_0042,"Alright! Then grab my hand! Hizuru-san, Nezu-san too.",XMESS_0042,ウシオ
+XMESS_0043,Yeah.,XMESS_0043,南方ひづる
 XMESS_0044,Hmph.,XMESS_0044,根津銀次郎
 XMESS_0045,…,XMESS_0045,小弓場かおり
 XMESS_0046,…,XMESS_0046,根津銀次郎
-XMESS_0047,!!!!!!!!!,XMESS_0047,南方ひづる
-XMESS_0048,!!!!!!!!!,XMESS_0048,南方ひづる
-XMESS_0049,"Damn it!! 
-Haine's also looping!?
-What the hell is this…!!",XMESS_0049,根津銀次郎
-XMESS_0050,Indeed…,XMESS_0050,南方ひづる
+XMESS_0047,...!!,XMESS_0047,南方ひづる
+XMESS_0048,...!!,XMESS_0048,南方ひづる
+XMESS_0049,Damn it!! Haine is looping too!? What a mess...!!,XMESS_0049,根津銀次郎
+XMESS_0050,Just as I thought...,XMESS_0050,南方ひづる
 XMESS_0051,"Sensei, is something wrong?",XMESS_0051,網代慎平
-XMESS_0052,"No, it's fine later.
-Right now, attend to her.",XMESS_0052,南方ひづる
-XMESS_0053,T-the current… ugh…!,XMESS_0053,小弓場かおり
-XMESS_0054,Kaori-san!,XMESS_0054,網代慎平
-XMESS_0055,"I-I'm fine…
-Everything I saw just now… was real, right!?",XMESS_0055,小弓場かおり
-XMESS_0056,"It's true.
-More importantly, what did the Shide say that worries you?",XMESS_0056,南方ひづる
-XMESS_0057,"That ""it was worst to be seen by someone you don't want to see"" thing, right?",XMESS_0057,網代慎平
-XMESS_0058,Do you have any idea what that means?,XMESS_0058,南方ひづる
-XMESS_0059,"No, nothing…
-I was just asked by the chamber of commerce to help with a festival…
-That's all.",XMESS_0059,小弓場かおり
-XMESS_0060,But during that festival… such things happened… ugh!,XMESS_0060,小弓場かおり
-XMESS_0061,"Even if I don't fully understand the intent…
-It's still dangerous for Kaori-san to stay on this island until the festival day.",XMESS_0061,網代慎平
-XMESS_0062,Kaori-san should leave the island as soon as possible.,XMESS_0062,網代慎平
-XMESS_0063,"No, that would be even more dangerous.",XMESS_0063,南方ひづる
+XMESS_0052,"No, it can wait. For now, tend to her.",XMESS_0052,南方ひづる
+XMESS_0053,Th-That just now was... ugh...!,XMESS_0053,小弓場かおり
+XMESS_0054,Koyuba-san!,XMESS_0054,網代慎平
+XMESS_0055,I-I'm fine...! Everything I just saw... was it all real!?,XMESS_0055,小弓場かおり
+XMESS_0056,"It's the truth. More importantly, Shide said something concerning.",XMESS_0056,南方ひづる
+XMESS_0057,"The part about being ""seen by the person I least wanted to be seen by""?",XMESS_0057,網代慎平
+XMESS_0058,Do you have any idea what that could mean?,XMESS_0058,南方ひづる
+XMESS_0059,"No, nothing... My agency got a request from the Chamber of Commerce and I just came to help out with the festival...",XMESS_0059,小弓場かおり
+XMESS_0060,"But at that festival, something like that... ugh!",XMESS_0060,小弓場かおり
+XMESS_0061,"I don't know the exact intent behind what he said, but... It's definitely dangerous for Koyuba-san to stay on the island until the festival under these circumstances.",XMESS_0061,網代慎平
+XMESS_0062,Koyuba-san should leave the island right away.,XMESS_0062,網代慎平
+XMESS_0063,"No, that would actually be more dangerous.",XMESS_0063,南方ひづる
 XMESS_0064,Eh…?,XMESS_0064,小弓場かおり
-XMESS_0065,"This island is already overflowing with Shadows.
-Even if they might ignore an innocent person…",XMESS_0065,南方ひづる
-XMESS_0066,Kaori Koyuba is likely already involved in this incident somehow.,XMESS_0066,南方ひづる
-XMESS_0067,Shinpei-kun…,XMESS_0067,小弓場かおり
+XMESS_0065,"This island is already overflowing with Shadows. They might overlook someone who is truly unrelated, but...",XMESS_0065,南方ひづる
+XMESS_0066,There's a high possibility that Kaori Koyuba is already involved in this incident in some way.,XMESS_0066,南方ひづる
+XMESS_0067,Ajiro-kun...,XMESS_0067,小弓場かおり
 XMESS_0068,…,XMESS_0068,網代慎平
-XMESS_0069,"I'll be fine, you know?
-Even though it's scary… I'll do my best!",XMESS_0069,小弓場かおり
-XMESS_0070,"Hey Shinpei! Let me have your help!
-To defeat Haine, we need more allies right?",XMESS_0070,ウシオ
-XMESS_0071,"But…
-Involving Kaori-san any further is…",XMESS_0071,網代慎平
-XMESS_0072,"You already showed her my memory, so I think she's involved enough!",XMESS_0072,ウシオ
-XMESS_0073,That is true…,XMESS_0073,網代慎平
-XMESS_0074,"Huh… I get it.
-You can be an ally, but we'll still take the lead in protecting you.",XMESS_0074,網代慎平
-XMESS_0075,U-uh! Yes!,XMESS_0075,小弓場かおり
-XMESS_0076,"But for now, be careful with your words.
-Don't let the Shadows notice anything.",XMESS_0076,網代慎平
-XMESS_0077,They probably don't recognize Kaori-san as one of us yet.,XMESS_0077,網代慎平
-XMESS_0078,Understood…!,XMESS_0078,小弓場かおり
-XMESS_0079,Shinpei! Let's get more allies and show them my memories too!,XMESS_0079,ウシオ
-XMESS_0080,"Yes, since the enemy is also looping,
-we don't want to fall behind.",XMESS_0080,南方ひづる
-XMESS_0081,"It would be best to let all the allies experience Ushio's memories,
-simulating a loop.",XMESS_0081,南方ひづる
-XMESS_0082,"They'll find out anyway.
-No matter what, they will sniff us out soon.
-We need to prepare for an ambush.",XMESS_0082,根津銀次郎
-XMESS_0083,"That's right.
-Then where should we set up the ambush?
-How about at school?",XMESS_0083,網代慎平
-XMESS_0084,"Agreed.
-The wide grounds and narrow hallways have many blind spots.",XMESS_0084,南方ひづる
-XMESS_0085,"Even if we don't know how much force they'll bring,
-it's the best place to ambush them.",XMESS_0085,南方ひづる
-XMESS_0086,"That's settled!! 
-Everyone, get ready!!",XMESS_0086,ウシオ
-XMESS_0087,Ah… I…,XMESS_0087,小弓場かおり
-XMESS_0088,You should go back to the inn first.,XMESS_0088,南方ひづる
-XMESS_0089,Isn't it dangerous for you alone?,XMESS_0089,ウシオ
-XMESS_0090,"…It's more dangerous if you don't go back to the inn.
-You might draw unwanted attention.",XMESS_0090,網代慎平
+XMESS_0069,"I'll be fine, you know? I-I'm scared, but... I'll do my best.",XMESS_0069,小弓場かおり
+XMESS_0070,"Hey, Shinpei! Let's have her help us! We need more allies to defeat Haine, right!?",XMESS_0070,ウシオ
+XMESS_0071,But... Dragging Koyuba-san into this any further is...,XMESS_0071,網代慎平
+XMESS_0072,"We already showed her my memories, so I think she's involved enough, don't you?",XMESS_0072,ウシオ
+XMESS_0073,"I guess that's true, but...",XMESS_0073,網代慎平
+XMESS_0074,"*Sigh*... alright. We'll have you join us, but remember that we're the ones protecting you, okay?",XMESS_0074,網代慎平
+XMESS_0075,Y-Yeah!,XMESS_0075,小弓場かおり
+XMESS_0076,"However, regarding the memories you just saw, be careful with your words and actions so the Shadows don't find out.",XMESS_0076,網代慎平
+XMESS_0077,They shouldn't have recognized Koyuba-san as one of our allies yet.,XMESS_0077,網代慎平
+XMESS_0078,G-Got it...!,XMESS_0078,小弓場かおり
+XMESS_0079,Shinpei! Should we gather other allies besides Kaori-chan and show them my memories too?,XMESS_0079,ウシオ
+XMESS_0080,"Yes, since the enemy is also looping, we don't want to fall behind right from the start.",XMESS_0080,南方ひづる
+XMESS_0081,It would be best to let all the gathered allies relive Ushio's memories and simulate a loop.,XMESS_0081,南方ひづる
+XMESS_0082,"Knowing them, they'll probably sniff out our location right away. We have to prepare to intercept them.",XMESS_0082,根津銀次郎
+XMESS_0083,"You're right. In that case, how about we intercept them at the school?",XMESS_0083,網代慎平
+XMESS_0084,I agree. A wide campus with narrow hallways... and plenty of blind spots.,XMESS_0084,南方ひづる
+XMESS_0085,"We don't know how much fighting force the enemy will mobilize, but it's safe to say it's a perfect place to intercept them.",XMESS_0085,南方ひづる
+XMESS_0086,"Then it's decided!! Everyone, let's get ready!!",XMESS_0086,ウシオ
+XMESS_0087,"Um, what about me...?",XMESS_0087,小弓場かおり
+XMESS_0088,You should go back to the inn for now.,XMESS_0088,南方ひづる
+XMESS_0089,Isn't it dangerous for her to be alone?,XMESS_0089,ウシオ
+XMESS_0090,...It's more dangerous if she doesn't return to the inn for a long time. It might draw unwanted attention to her.,XMESS_0090,網代慎平
 XMESS_0091,"Ah, that's true.",XMESS_0091,ウシオ
-XMESS_0092,"Kaori-san,
-I can't escort you back but are you okay?",XMESS_0092,網代慎平
-XMESS_0093,"U-uh! 
-It's not far from here, I'll be fine!",XMESS_0093,小弓場かおり
-XMESS_0094,"Okay.
-Then we'll contact you later.",XMESS_0094,網代慎平
-XMESS_0095,"Yes, Shinpei-kun… don't push yourself too hard!",XMESS_0095,小弓場かおり
-XMESS_0096,Then let's go.,XMESS_0096,網代慎平
+XMESS_0092,"Koyuba-san, I don't think I can escort you back, but will you be okay?",XMESS_0092,網代慎平
+XMESS_0093,"Y-Yeah! It's not that far from here, so I'll be fine!",XMESS_0093,小弓場かおり
+XMESS_0094,I see. Then I'll contact you later.,XMESS_0094,網代慎平
+XMESS_0095,"Yeah. Ajiro-kun... don't push yourself too hard, okay?",XMESS_0095,小弓場かおり
+XMESS_0096,"Well then, shall we get going too?",XMESS_0096,網代慎平
 XMESS_0097,"Before that, there's something I need to talk about…",XMESS_0097,南方ひづる
-XMESS_0098,Something you want to discuss?,XMESS_0098,網代慎平
-XMESS_0099,(…Nagumo-senpai and Nezu-san have already been sent ahead to the school),XMESS_0099,網代慎平
-XMESS_0100,"(…And I went home with Ushio, telling Mio about the situation and making her do a 'pseudo-loop'…)",XMESS_0100,網代慎平
-XCHAPTITLE_0346,64. First Steps Are Crucial②,XCHAPTITLE_0346,
-XMESS_0101,"Eh?
-What… just now!?",XMESS_0101,小舟澪
-XMESS_0102,"It might be hard to believe at first,
-but it's the truth.
-Understand, Mio.",XMESS_0102,ウシオ
+XMESS_0098,Something you want to talk about?,XMESS_0098,網代慎平
+XMESS_0099,(...I had Nagumo-sensei and Nezu-san head to the school first.),XMESS_0099,網代慎平
+XMESS_0100,"(...Then, Ushio and I went home, explained the situation to Mio, and had her ""pseudo-loop""...)",XMESS_0100,網代慎平
+XCHAPTITLE_0346,64. First Steps Are Crucial (2),XCHAPTITLE_0346,
+XMESS_0101,Eh? Wh... what was that just now...!?,XMESS_0101,小舟澪
+XMESS_0102,"...I know it's hard to believe right away, but it's the truth. Please understand, Mio.",XMESS_0102,ウシオ
 XMESS_0103,…,XMESS_0103,小舟澪
-XMESS_0104,"Shinpei, since it's Mio,
-she'll definitely be okay!
-Call the others quickly!",XMESS_0104,ウシオ
-XMESS_0105,(Who else do I want to bring in…),XMESS_0105,網代慎平
-XMESS_0106,"(Sou, Tokiko-chan, Totsumura-san…
-It would be better to call them and tell them to come to the school)",XMESS_0106,網代慎平
-XMESS_0107,"(I need to definitely gather allies!
-Who should I contact first…?)",XMESS_0107,網代慎平
+XMESS_0104,"Shinpei, I'm sure Mio will be fine! Hurry and call the others!",XMESS_0104,ウシオ
+XMESS_0105,(Other people I want to bring in as allies...),XMESS_0105,網代慎平
+XMESS_0106,"(It's probably best to call Sou, Toki-chan, and Totsumura-san and ask them to come to the school.)",XMESS_0106,網代慎平
+XMESS_0107,(I have to make sure to gather allies who will fight with us! Who should I contact first...?),XMESS_0107,網代慎平
 MSTD_0376-0,"""First, let's call Sou""",MSTD_0376-0,
-MSTD_0376-1,"""It should be Tokiko-chan first.""",MSTD_0376-1,
-XMESS_0108,"(Tokiko is currently working with the Shadows.
-Even if I want to tell Haine about her betrayal,
-I absolutely need to call her and show her Ushio's memories)",XMESS_0108,網代慎平
+MSTD_0376-1,"""I should contact Toki-chan first.""",MSTD_0376-1,
+XMESS_0108,"(Right now, Toki-chan is cooperating with the Shadows. To tell her about Haine's betrayal, I absolutely have to call her out and show her Ushio's memories.)",XMESS_0108,網代慎平
 XMESS_0109,…Yes?,XMESS_0109,菱形朱鷺子
-XMESS_0110,"Tokiko-chan, it's me, Shinpei.
-Sorry for calling so suddenly. What were you doing?",XMESS_0110,網代慎平
-XMESS_0111,"Eh… Do I have to say that?
-I was in the bath…",XMESS_0111,菱形朱鷺子
-XMESS_0112,"Oh! Sorry!! 
-I didn't mean to ask such a thing!!",XMESS_0112,網代慎平
-XMESS_0113,( I just asked something weird out of nowhere…),XMESS_0113,網代慎平
-XMESS_0114,Uh… Is something wrong?,XMESS_0114,菱形朱鷺子
-XMESS_0115,"There's something really important I need to tell you right away.
-It's urgent that I speak with Tokiko.",XMESS_0115,網代慎平
-XMESS_0116,Huh? What is it?,XMESS_0116,菱形朱鷺子
-XMESS_0117,"I can't explain over the phone,
-so could you come to the middle and high school gym?",XMESS_0117,網代慎平
-XMESS_0118,"Eh, school…?
-At this time of night?",XMESS_0118,菱形朱鷺子
-XMESS_0119,"I can't explain the details,
-but Mio's already waiting.",XMESS_0119,網代慎平
+XMESS_0110,"Toki-chan, it's Shinpei. Sorry for the sudden call, what were you doing just now?",XMESS_0110,網代慎平
+XMESS_0111,Eh... do I have to say? I was in the bath...,XMESS_0111,菱形朱鷺子
+XMESS_0112,Ah!? S-Sorry!! I didn't mean to pry or anything...!,XMESS_0112,網代慎平
+XMESS_0113,(I ended up asking something weird right off the bat...!),XMESS_0113,網代慎平
+XMESS_0114,"Um, did something happen?",XMESS_0114,菱形朱鷺子
+XMESS_0115,"...Um, I have something important to talk about. Something I need to tell you right away, Toki-chan.",XMESS_0115,網代慎平
+XMESS_0116,"Right, what is it?",XMESS_0116,菱形朱鷺子
+XMESS_0117,"I can't really say it over the phone, so could you come to the elementary and middle school gym?",XMESS_0117,網代慎平
+XMESS_0118,"Eh, the school...? At this time?",XMESS_0118,菱形朱鷺子
+XMESS_0119,"I can't go into details, but Mio is waiting with me too.",XMESS_0119,網代慎平
 XMESS_0120,…Mio too…,XMESS_0120,菱形朱鷺子
-XMESS_0121,"Understood.
-When should I arrive?",XMESS_0121,菱形朱鷺子
-XMESS_0122,"Thanks.
-Then, in about thirty minutes!",XMESS_0122,網代慎平
-XMESS_0123,"Yes, then.",XMESS_0123,菱形朱鷺子
-XMESS_0124,(Good! Successfully called Tokiko…!!),XMESS_0124,網代慎平
-XMESS_0125,"(I contacted Sou and Totsumura without explaining anything,
-and got them to agree to come.)",XMESS_0125,網代慎平
-XMESS_0126,"(It looks like they'll all be here as planned.
-Now…)",XMESS_0126,網代慎平
-XMESS_0127,"(Things are coming together as expected.
-All that's left is…)",XMESS_0127,網代慎平
+XMESS_0121,...Understood. When should I head over?,XMESS_0121,菱形朱鷺子
+XMESS_0122,"Thank you. Then, in about 30 minutes!",XMESS_0122,網代慎平
+XMESS_0123,"Yes, see you then.",XMESS_0123,菱形朱鷺子
+XMESS_0124,(Alright! Successfully called out Toki-chan...!!),XMESS_0124,網代慎平
+XMESS_0125,"(I then contacted Sou and Totsumura-san, and told them I wanted them to come to the school.)",XMESS_0125,網代慎平
+XMESS_0126,"(Sou readily agreed to my request without me explaining anything, and I was able to get a promise from Totsumura-san as well.)",XMESS_0126,網代慎平
+XMESS_0127,(It looks like the group I expected will be gathered. Now all that's left is...),XMESS_0127,網代慎平
 XMESS_0128,…,XMESS_0128,小舟澪
 XMESS_0129,Mio…,XMESS_0129,ウシオ
-XMESS_0130,"…Sorry, older sister.",XMESS_0130,小舟澪
+XMESS_0130,"...I'm sorry, Sis.",XMESS_0130,小舟澪
 XMESS_0131,Eh?,XMESS_0131,ウシオ
-XMESS_0132,"I'm sorry for calling you a monster.
-You were fighting so hard…",XMESS_0132,小舟澪
-XMESS_0133,"Ah~ that summer festival!
-It was great, right?",XMESS_0133,ウシオ
-XMESS_0134,"Look, I'm a monster-like thing!!
-Don't worry about it--",XMESS_0134,ウシオ
-XMESS_0135,Ah! Aaahhh!!!!,XMESS_0135,小舟澪
-XMESS_0136,"Mio…
-Why are you hugging me like that?",XMESS_0136,ウシオ
-XMESS_0137,"Ugh! I thought we'd never meet again!!!
-Sis… aaaaahhh!!!!",XMESS_0137,小舟澪
-XMESS_0138,"Huh! Ugh!
-Uu, uuugh… sniffle…",XMESS_0138,小舟澪
-XMESS_0139,Don't cry so much…,XMESS_0139,ウシオ
-XMESS_0140,"Older sister!!!
-I'll fight too!",XMESS_0140,小舟澪
-XMESS_0141,I'm tired of just being protected by you and older sister!!!,XMESS_0141,小舟澪
+XMESS_0132,I'm sorry for calling you a monster. Even though you were fighting so desperately...,XMESS_0132,小舟澪
+XMESS_0133,"Ahhhh, during the summer festival! It's fine, it's fine!",XMESS_0133,ウシオ
+XMESS_0134,"Look, I'm basically a monster anyway!! I don't really mind—",XMESS_0134,ウシオ
+XMESS_0135,Uwaaaaaah!!!,XMESS_0135,小舟澪
+XMESS_0136,"M-Mio... What's with you, suddenly hugging me...",XMESS_0136,ウシオ
+XMESS_0137,I-I thought I'd never... see you again!! S... Siiiiiiiiis!!!!,XMESS_0137,小舟澪
+XMESS_0138,"*Hic*! *Sob*!! Uh, uuh, *sniffle*...!!",XMESS_0138,小舟澪
+XMESS_0139,You don't have to cry that much...,XMESS_0139,ウシオ
+XMESS_0140,Sis...!! I'll fight too!!,XMESS_0140,小舟澪
+XMESS_0141,I don't want to just be protected by Shin-chan and you anymore!!,XMESS_0141,小舟澪
 XMESS_0142,Mio…,XMESS_0142,ウシオ
-XMESS_0143,"…You've got it!!
-Take them down!!",XMESS_0143,ウシオ
+XMESS_0143,...Let's do this!! Let's take them down!!,XMESS_0143,ウシオ
 XMESS_0144,Yeah!!!,XMESS_0144,小舟澪
-XMESS_0145,"(…Good, Mio's recovered.)",XMESS_0145,網代慎平
+XMESS_0145,(...I'm glad Mio's recovered.),XMESS_0145,網代慎平
 XMESS_0146,…,XMESS_0146,網代慎平
 XMESS_0147,I'm hungry!!!,XMESS_0147,ウシオ
 XMESS_0148,"Oh, me too.",XMESS_0148,小舟澪
 XMESS_0149,…You guys…,XMESS_0149,網代慎平
-XMESS_0150,Got it. Let's make a sandwich or something.,XMESS_0150,網代慎平
-XMESS_0151,Yoshaa! Of course it's curry sandwiches!,XMESS_0151,ウシオ
-XMESS_0152,"Yeah, I'll make some for everyone,
-including Alain.",XMESS_0152,網代慎平
-XMESS_0153,"(Truly, being with these people… it's reassuring!)",XMESS_0153,網代慎平
-XMESS_0154,(…What?),XMESS_0154,網代慎平
+XMESS_0150,"Alright, alright. I'll make some sandwiches or something.",XMESS_0150,網代慎平
+XMESS_0151,"Alright!! Curry sandwiches, of course!?",XMESS_0151,ウシオ
+XMESS_0152,"Yeah, I'll make enough for everyone we gathered and Alain too.",XMESS_0152,網代慎平
+XMESS_0153,"(Honestly, being with these guys... is really reassuring!)",XMESS_0153,網代慎平
+XMESS_0154,(...Huh?),XMESS_0154,網代慎平
 XMESS_0155,My house…!?,XMESS_0155,網代慎平
-XMESS_0156,"Shin-chan, did you finish the curry sandwich?",XMESS_0156,小舟澪
-XMESS_0157,"(Before everyone gathered at school,
-I was making sandwiches!)",XMESS_0157,網代慎平
-XMESS_0158,"(It's going back… Did it loop?
-Dead!? Me?!
-When?!)",XMESS_0158,網代慎平
-XMESS_0159,"?? 
-What's wrong? You're spacing out.",XMESS_0159,小舟澪
+XMESS_0156,"Shin-chan, are the curry sandwiches ready?",XMESS_0156,小舟澪
+XMESS_0157,"(It's right when I was making sandwiches, before we all gathered at the school!)",XMESS_0157,網代慎平
+XMESS_0158,(I'm back... Did I loop? Did I die!? Me...? When!!?),XMESS_0158,網代慎平
+XMESS_0159,?? What's wrong? You're spacing out.,XMESS_0159,小舟澪
 XMESS_0160,Shinpei!!!,XMESS_0160,ウシオ
-XMESS_0161,"Whoa!?
-I was scared!!
-Why are you acting like that, big sister…?",XMESS_0161,小舟澪
-XMESS_0162,"Look… My memory too, Mio?!",XMESS_0162,ウシオ
+XMESS_0161,"Whoa!? You scared me!! What's wrong, Sis...?",XMESS_0161,小舟澪
+XMESS_0162,"Look... at my memories, Mio too!!",XMESS_0162,ウシオ
 XMESS_0163,…,XMESS_0163,網代慎平
 XMESS_0164,…,XMESS_0164,小舟澪
-XMESS_0165,"Shot from outside the window…
-A rifle…!!!",XMESS_0165,網代慎平
-XMESS_0166,"The bullet that pierced Shinpei wasn't a shadow
-It was real!! 
-Real rifle bullets!!",XMESS_0166,ウシオ
-XMESS_0167,Nezu's secret being hidden by Haine got out!!!,XMESS_0167,網代慎平
-XMESS_0168,They killed Nezu and took the rifle…!,XMESS_0168,網代慎平
-XMESS_0169,I was wrong to keep my distance while asking for reconnaissance!!!,XMESS_0169,網代慎平
-XMESS_0170,"Ushio is out of range for detecting presence…
-My fault!!!",XMESS_0170,網代慎平
-XMESS_0171,"Damn!!! 
-I thought they'd target me directly…!",XMESS_0171,網代慎平
-XMESS_0172,"(…This feeling…
-Like a cliff collapsing…)",XMESS_0172,網代慎平
-XMESS_0173,"Wait! 
-Their target was to capture Shin-chan alive, right?",XMESS_0173,小舟澪
-XMESS_0174,"If they kill him, it'll just loop again…
-Why…!",XMESS_0174,小舟澪
-XMESS_0175,"Ah…, Haine is also looping with me…
-They noticed!!!",XMESS_0175,網代慎平
-XMESS_0176,"I told you… 
-The loop's starting point is getting later!",XMESS_0176,網代慎平
-XMESS_0177,It can be seen…,XMESS_0177,網代慎平
-XMESS_0178,"The limit is getting closer…
-The edge of time…",XMESS_0178,網代慎平
-XMESS_0179,"Slowly…, but certainly…
-It's crumbling!!!",XMESS_0179,網代慎平
-XMESS_0180,"If I'm killed in the same time again, probably-",XMESS_0180,網代慎平
-XMESS_0181,"Only one more loop left!!!
-(There was an error with ID ""XESS 0178"" which should be ""XMESS_0178"". The corrected entry is shown above.)",XMESS_0181,網代慎平
+XMESS_0165,I was sniped from outside the window... With a rifle...!!,XMESS_0165,網代慎平
+XMESS_0166,"The bullet that shot through Shinpei wasn't a Shadow, it was real...!! A real rifle bullet!!",XMESS_0166,ウシオ
+XMESS_0167,Haine found out that Nezu-san was hiding...!!,XMESS_0167,網代慎平
+XMESS_0168,They killed Nezu-san and took his rifle...!,XMESS_0168,網代慎平
+XMESS_0169,It was a mistake to have him keep his distance for reconnaissance!!,XMESS_0169,網代慎平
+XMESS_0170,He ended up outside the range where Ushio could detect his presence... It's my mistake!!,XMESS_0170,網代慎平
+XMESS_0171,Damn it!! I thought they'd only target me directly...!,XMESS_0171,網代慎平
+XMESS_0172,(...This feeling...! It's like a cliff is crumbling away...),XMESS_0172,網代慎平
+XMESS_0173,Wait! Weren't they aiming to capture Shin-chan alive?,XMESS_0173,小舟澪
+XMESS_0174,"If they kill him, he'll just loop, so why...",XMESS_0174,小舟澪
+XMESS_0175,"Ngh... Haine is looping along with me, so... She realized it...!!",XMESS_0175,網代慎平
+XMESS_0176,"I told you, didn't I...? The starting point of the loop is getting later...",XMESS_0176,網代慎平
+XMESS_0177,I can see it...,XMESS_0177,網代慎平
+XMESS_0178,The limit is approaching... The edge of time...,XMESS_0178,網代慎平
+XMESS_0179,Slowly... but surely... It's crumbling...!!,XMESS_0179,網代慎平
+XMESS_0180,"If I'm killed at the same time like this, I probably—",XMESS_0180,網代慎平
+XMESS_0181,I can only loop one more time...!!,XMESS_0181,網代慎平

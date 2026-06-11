@@ -1,134 +1,98 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,13. Again with Mio…!?,XCHAPTITLE_0002,
-XMESS_0000,"Shinpei's curry… it's been a while…
-I'll eat it.",XMESS_0000,小舟澪
-XMESS_0001,I'll eat it.,XMESS_0001,小舟アラン
-XMESS_0002,"Hmm, delicious…",XMESS_0002,小舟澪
-XMESS_0003,"Ah, it's different now.
-Only Shinpei can make this taste.",XMESS_0003,小舟アラン
+XMESS_0000,Shin-chan's curry... it's been a while... Thanks for the food.,XMESS_0000,小舟澪
+XMESS_0001,Thanks for the food.,XMESS_0001,小舟アラン
+XMESS_0002,"Mmm, it's delicious...",XMESS_0002,小舟澪
+XMESS_0003,"Ah, it hasn't changed a bit. This is a taste only Shinpei can bring out.",XMESS_0003,小舟アラン
 XMESS_0004,…,XMESS_0004,網代慎平
-XMESS_0005,(…those who see the Shadow die),XMESS_0005,網代慎平
-XMESS_0006,(What if Ushio was killed by the Shadow!?),XMESS_0006,網代慎平
-XMESS_0007,(And that time with Mio too…),XMESS_0007,網代慎平
+XMESS_0005,(...Those who see their Shadow will die),XMESS_0005,網代慎平
+XMESS_0006,(Could Ushio have been killed by a Shadow!?),XMESS_0006,網代慎平
+XMESS_0007,(And Mio back then too...),XMESS_0007,網代慎平
 XMESS_0008,…Shinpei?,XMESS_0008,小舟アラン
-XMESS_0009,"!
-What?",XMESS_0009,網代慎平
+XMESS_0009,! Wh-What?,XMESS_0009,網代慎平
 XMESS_0010,"Are you okay?
 You're all pale…",XMESS_0010,小舟澪
-XMESS_0011,"Ah, I'm just a little…",XMESS_0011,網代慎平
-XMESS_0012,Maybe you should take some medicine?,XMESS_0012,小舟澪
-XMESS_0013,"Probably just stress.
-Eat and go to sleep right away.",XMESS_0013,小舟アラン
+XMESS_0011,"Yeah, I just feel a little...",XMESS_0011,網代慎平
+XMESS_0012,S-Should you take some medicine or something?,XMESS_0012,小舟澪
+XMESS_0013,It's probably just stress. Go to sleep right after you finish eating.,XMESS_0013,小舟アラン
 XMESS_0014,"You can go take a bath first, okay?",XMESS_0014,小舟澪
-XMESS_0015,"I'm fine.
-I think it's just my head being confused from everything.",XMESS_0015,網代慎平
+XMESS_0015,I'm fine. I think my head is just a mess from everything that's happened.,XMESS_0015,網代慎平
 XMESS_0016,Is that so…?,XMESS_0016,小舟澪
-XMESS_0017,"Sorry during dinner.
-I'll go get some fresh air for a bit…",XMESS_0017,網代慎平
-XMESS_0018,"Ah, okay.
-Leave the curry as is.",XMESS_0018,小舟アラン
+XMESS_0017,Sorry to interrupt the meal. I'm going to get some fresh air for a bit...,XMESS_0017,網代慎平
+XMESS_0018,"Ah, okay. I'll leave the curry as it is.",XMESS_0018,小舟アラン
 XMESS_0019,"Yeah.
 I'll eat it later.",XMESS_0019,網代慎平
-XMESS_0020,(…Mio's bicycle brakes…),XMESS_0020,網代慎平
-XMESS_0021,"(A mark that looked like a wire cut…
-If that was someone's work?)",XMESS_0021,網代慎平
+XMESS_0020,(Mio's bicycle brakes...),XMESS_0020,網代慎平
+XMESS_0021,(Those marks that looked like the wire was cut... What if that was someone's doing?),XMESS_0021,網代慎平
 XMESS_0022,(To kill Mio…),XMESS_0022,網代慎平
-XMESS_0023,"(No good… What's going on…
-I can't handle this at all!!!
-I'm going to throw up…)",XMESS_0023,網代慎平
-XMESS_0024,"(Bicycle?
-Someone came?)",XMESS_0024,網代慎平
+XMESS_0023,(This is bad... I don't know what's what anymore... I can't look at the big picture with all this!! I feel like I'm going to throw up...),XMESS_0023,網代慎平
+XMESS_0024,(A bicycle? Did someone come?),XMESS_0024,網代慎平
 XMESS_0025,Huh?,XMESS_0025,凸村哲
 XMESS_0026,(…That voice…),XMESS_0026,網代慎平
-XMESS_0027,"What's wrong with you, Mio!
-Staring blankly at your own house…",XMESS_0027,凸村哲
-XMESS_0028,"(…That's… Tetsu and…
-Mio!?)",XMESS_0028,網代慎平
+XMESS_0027,"What's wrong, Mio-chan! Staring blankly at your own house like that...",XMESS_0027,凸村哲
+XMESS_0028,(That's... Totsumura-san and... Mio!?),XMESS_0028,網代慎平
 XMESS_0029,…,XMESS_0029,小舟澪（ミオ）
-XMESS_0030,"(Who is that guy outside…
-And wearing a uniform…)",XMESS_0030,網代慎平
-XMESS_0031,"Hahah…
-You two fighting or something---",XMESS_0031,凸村哲
+XMESS_0030,"(What is she doing outside...? And wearing her uniform, too...)",XMESS_0030,網代慎平
+XMESS_0031,Aha. Did you get into a fight with someone--,XMESS_0031,凸村哲
 XMESS_0032,…!!,XMESS_0032,網代慎平
 XMESS_0033,!!!!!!!!,XMESS_0033,凸村哲
-XMESS_0034,"Ah… it hurts…
-…",XMESS_0034,凸村哲
+XMESS_0034,Ah... it hurts... ...,XMESS_0034,凸村哲
 XMESS_0035,…,XMESS_0035,小舟澪（ミオ）
-XMESS_0036,~~~~~~~~!! !!,XMESS_0036,凸村哲
-XMESS_0037,"(…N-no… it's not…
-Not him, not him, not him!!!)",XMESS_0037,網代慎平
-XMESS_0038,(It's not Mio!!!),XMESS_0038,網代慎平
-XMESS_0039,(It's a Shadow!!!),XMESS_0039,網代慎平
+XMESS_0036,~~~~~~~~!!!!,XMESS_0036,凸村哲
+XMESS_0037,"(...N... no... No, no, no, no, no!!!!)",XMESS_0037,網代慎平
+XMESS_0038,(That's not Mio!!!!),XMESS_0038,網代慎平
+XMESS_0039,(It's a Shadow...!!),XMESS_0039,網代慎平
 XMESS_0040,…,XMESS_0040,凸村哲
 XMESS_0041,…,XMESS_0041,ミオ
-XMESS_0042,(This light… what is it…?!),XMESS_0042,網代慎平
+XMESS_0042,(Th-This light is...!?),XMESS_0042,網代慎平
 XMESS_0043,…,XMESS_0043,ミオ
-XMESS_0044,"(Wh-what was that…?
-Mio's Shadow got up…!!!)",XMESS_0044,網代慎平
-XMESS_0045,"(No, the Shadow split into two…
-One of them got up…?)",XMESS_0045,網代慎平
-XMESS_0046,"(And it looked just like Tetsu…
-What's going on…!?)",XMESS_0046,網代慎平
+XMESS_0044,(Wh... what is that... Mio's Shadow is getting up...!!),XMESS_0044,網代慎平
+XMESS_0045,"(No, the Shadow multiplied into two and one of them got up...?)",XMESS_0045,網代慎平
+XMESS_0046,(It looks exactly like Totsumura-san...! What is going on...!?),XMESS_0046,網代慎平
 XMESS_0047,Hurry up and finish it.,XMESS_0047,ミオ
-XMESS_0048,"(""Finish it"" - what exactly…?)",XMESS_0048,網代慎平
-XMESS_0049,"I get it, I get it.
-Mio's always impatient.",XMESS_0049,トツムラ
-XMESS_0050,"If someone sees, it'll cause a commotion.",XMESS_0050,ミオ
-XMESS_0051,"Alright, let's go.",XMESS_0051,トツムラ
-XMESS_0052,"(Curses, can't see clearly…
-Was it the Shadow Tetsu touching Tetsu's body?)",XMESS_0052,網代慎平
-XMESS_0053,"(Tetsu's body… vanished…
-Just by the Shadow Tetsu touching it…)",XMESS_0053,網代慎平
+XMESS_0048,"(""Finish it""... finish what, exactly...?)",XMESS_0048,網代慎平
+XMESS_0049,"I know, I know. You're so impatient, Mio-chan.",XMESS_0049,トツムラ
+XMESS_0050,It'll cause a commotion if someone sees us.,XMESS_0050,ミオ
+XMESS_0051,All righty then.,XMESS_0051,トツムラ
+XMESS_0052,"(Damn it, I can't see well... Did the Shadow Totsumura touch Totsumura-san's dead body?)",XMESS_0052,網代慎平
+XMESS_0053,(Totsumura-san's dead body... disappeared...! Just from the Shadow Totsumura touching it with his hand...),XMESS_0053,網代慎平
 XMESS_0054,…,XMESS_0054,トツムラ
-XMESS_0055,"(The only thing left was a
-<color=#GF_TIPS_091>stain</color> where Tetsu vanished!!!)",XMESS_0055,網代慎平
-XMESS_0056,You're Officer Tetsu right now.,XMESS_0056,ミオ
-XMESS_0057,"Hm…
-I'm Tetsu… 34 years old…",XMESS_0057,トツムラ
-XMESS_0058,No chance of promotion without her…,XMESS_0058,トツムラ
-XMESS_0059,S-shut up!!!,XMESS_0059,トツムラ
+XMESS_0055,(Only a <color=#GF_TIPS_091>stain</color> was left behind where Totsumura-san vanished...!),XMESS_0055,網代慎平
+XMESS_0056,You are now the police officer Tetsu Totsumura.,XMESS_0056,ミオ
+XMESS_0057,"Hm... Ah, <color=#GF_TIPS_075>I'm Tetsu Totsumura</color>... 34 years old...",XMESS_0057,トツムラ
+XMESS_0058,"No girlfriend, no prospects for promotion--",XMESS_0058,トツムラ
+XMESS_0059,"Hey, shut up!!",XMESS_0059,トツムラ
 XMESS_0060,…,XMESS_0060,ミオ
-XMESS_0061,(He's perfectly copied Tetsu's inner self!!!),XMESS_0061,網代慎平
-XMESS_0062,(The Shadow was replacing people like this…),XMESS_0062,網代慎平
-XMESS_0063,"Mio, you're so cute today~!!!",XMESS_0063,トツムラ
+XMESS_0061,(He perfectly copied Totsumura-san... even his inner thoughts...!!),XMESS_0061,網代慎平
+XMESS_0062,(So this is how the Shadows were replacing people...!),XMESS_0062,網代慎平
+XMESS_0063,"Mio-chan, you're so cute today too~~~~!",XMESS_0063,トツムラ
 XMESS_0064,Give me the gun.,XMESS_0064,ミオ
-XMESS_0065,"Huh?
-Did you not switch back yet?",XMESS_0065,トツムラ
-XMESS_0066,"…I failed this morning.
-It would've been easier if they sent me to the hospital…",XMESS_0066,ミオ
-XMESS_0067,"I hate being slow.
-Let's go in now!
-You have the gun too~! Here.",XMESS_0067,トツムラ
-XMESS_0068,"Firing in this quiet night would make a huge noise…
-We're not in America, you know!!!",XMESS_0068,ミオ
-XMESS_0069,That's right.,XMESS_0069,トツムラ
+XMESS_0065,Huh? Could it be you haven't switched places yet?,XMESS_0065,トツムラ
+XMESS_0066,...I failed this morning. It would have been easier to do if she was sent to the hospital...,XMESS_0066,ミオ
+XMESS_0067,"I hate doing things the slow way~. Let's just barge in right now! We've got a gun too~~~~, see?",XMESS_0067,トツムラ
+XMESS_0068,"Firing a gun on such a quiet night would echo really loudly... This isn't America, you know!!",XMESS_0068,ミオ
+XMESS_0069,True that.,XMESS_0069,トツムラ
 XMESS_0070,…,XMESS_0070,ミオ
-XMESS_0071,"…So this is a reconnaissance, huh? Today…",XMESS_0071,ミオ
-XMESS_0072,"(Oh… impossible…
-Reality!? This is…!!)",XMESS_0072,網代慎平
-XMESS_0073,"(!! Phone!
-…From the window!!!)",XMESS_0073,網代慎平
-XMESS_0074,"(So that's it!
-At this time… it's the same as when we talked about the window and the Yoshikawa line before!!)",XMESS_0074,網代慎平
-XMESS_0075,"Hey, Shinpei.",XMESS_0075,ミオ
-XMESS_0076,I'm caught--,XMESS_0076,網代慎平
+XMESS_0071,...I guess I'll just be scouting today...,XMESS_0071,ミオ
+XMESS_0072,(I... impossible... This is... reality!?--),XMESS_0072,網代慎平
+XMESS_0073,(!! My phone! ...From Sou...!!),XMESS_0073,網代慎平
+XMESS_0074,(I-I see! This time... it's the exact same time I talked to Sou about the Yoshikawa lines last loop--!),XMESS_0074,網代慎平
+XMESS_0075,"Oh, Shin-chan.",XMESS_0075,ミオ
+XMESS_0076,Crap--,XMESS_0076,網代慎平
 XMESS_0077,!!,XMESS_0077,網代慎平
-XMESS_0078,G…,XMESS_0078,網代慎平
-XMESS_0079,"You were there, Shinpei.",XMESS_0079,ミオ
-XMESS_0080,"Eavesdropping is bad, Shinpei-kun.
-You'll get the death penalty!",XMESS_0080,トツムラ
-XMESS_0081,…Is this also a copy?,XMESS_0081,トツムラ
-XMESS_0082,No… it's already…,XMESS_0082,ミオ
-XMESS_0083,(…This blood… mine…?),XMESS_0083,網代慎平
-XMESS_0084,(So red… I'm going to die… like this…),XMESS_0084,網代慎平
-XMESS_0085,(Ah… finally I can relax…),XMESS_0085,網代慎平
+XMESS_0078,G...uh.,XMESS_0078,網代慎平
+XMESS_0079,"So this is where you were, Shin-chan.",XMESS_0079,ミオ
+XMESS_0080,"Eavesdropping is a no-no, Shinpei-ku~n. That's the death penalty!",XMESS_0080,トツムラ
+XMESS_0081,...You wanna copy him too?,XMESS_0081,トツムラ
+XMESS_0082,No... this one is already...,XMESS_0082,ミオ
+XMESS_0083,(...This blood... is it mine...?),XMESS_0083,網代慎平
+XMESS_0084,(It's so red... I'm gonna die... from this...),XMESS_0084,網代慎平
+XMESS_0085,(Ah... I can finally look at the big picture...),XMESS_0085,網代慎平
 XMESS_0086,"(…What?
 …What is this…)",XMESS_0086,網代慎平
 XMESS_0087,Shinpei…,XMESS_0087,？？？（ウシオ）
-XMESS_0088,"!!
-Who are you!?",XMESS_0088,網代慎平
-XMESS_0089,Be… careful… for… her…,XMESS_0089,？？？（ウシオ）
-XMESS_0090,"Ushio!?
-What…! I can't hear you…!!!",XMESS_0090,網代慎平
-XMESS_0091,Protect… Mio…,XMESS_0091,？？？（ウシオ）
+XMESS_0088,!! Wh... Who's there!!?,XMESS_0088,網代慎平
+XMESS_0089,Be... care... ful...,XMESS_0089,？？？（ウシオ）
+XMESS_0090,Ushio!? What...!? I can't hear you well...!!,XMESS_0090,網代慎平
+XMESS_0091,Take good care of Mio...,XMESS_0091,？？？（ウシオ）
 XMESS_0092,KEY TIPS[<color=#GF_KEY_LOOPEND_02>2nd END</color>] acquired.,XMESS_0092,（ト書き）

@@ -1,250 +1,175 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,9. The Island's Hero,XCHAPTITLE_0002,
-XMESS_0000,"(Just be careful…
-Trying to buy time…)",XMESS_0000,網代慎平
-XMESS_0001,(I need to think of a way to break this situation),XMESS_0001,網代慎平
+XMESS_0000,"(Anyway, I need to be careful... and somehow buy time...)",XMESS_0000,網代慎平
+XMESS_0001,(I need to think of a way to break out of this situation.),XMESS_0001,網代慎平
 XMESS_0002,Have you made up your mind?,XMESS_0002,ミオ
 XMESS_0003,Ugh…!,XMESS_0003,凸村哲
-XMESS_0004,"No matter what, you're going to take us down here, aren't you?",XMESS_0004,網代慎平
-XMESS_0005,"Shinpai's in trouble.
-It's because you meddle in things you shouldn't.",XMESS_0005,ミオ
-XMESS_0006,Meddling in things…!,XMESS_0006,網代慎平
-XMESS_0007,"Hey… who the hell are you!?
-How many of you are there!?",XMESS_0007,凸村哲
-XMESS_0008,"You're going to kill everyone on the island,
-and pretend to be them?",XMESS_0008,凸村哲
-XMESS_0009,"Shut up.
-You don't need to say that.",XMESS_0009,トツムラ
-XMESS_0010,That kind of thing…,XMESS_0010,凸村哲
-XMESS_0011,"I won't let you do that, you idiot!!!",XMESS_0011,凸村哲
+XMESS_0004,"So you're determined to... finish us off here, huh.",XMESS_0004,網代慎平
+XMESS_0005,"It's your own fault, Shin-chan. Because you stuck your nose where it didn't belong.",XMESS_0005,ミオ
+XMESS_0006,Where it didn't belong...!,XMESS_0006,網代慎平
+XMESS_0007,H-Hey... what the hell are you guys!? How many of you are there!?,XMESS_0007,凸村哲
+XMESS_0008,Are you planning to kill everyone on the island and take their places!?,XMESS_0008,凸村哲
+XMESS_0009,Shut up. I don't need to tell you that.,XMESS_0009,トツムラ
+XMESS_0010,Like I'd let you...,XMESS_0010,凸村哲
+XMESS_0011,"Like I'd let you do that, you punk!!!",XMESS_0011,凸村哲
 XMESS_0012,Totsumura-san…!?,XMESS_0012,網代慎平
-XMESS_0013,"I'm the hero of justice!
-I won't let you do whatever you want!",XMESS_0013,凸村哲
-XMESS_0014,"I'm the town's police officer!
-I'll protect the peace of Hitogashima Island!",XMESS_0014,凸村哲
-XMESS_0015,"No matter what monster I face!
-The hero of justice will never lose!!!",XMESS_0015,凸村哲
+XMESS_0013,I'm a hero of justice! I won't let you guys do whatever you want!,XMESS_0013,凸村哲
+XMESS_0014,I'm the local cop on this island! I'll protect the peace of Hitogashima!,XMESS_0014,凸村哲
+XMESS_0015,No matter what kind of monster I'm up against! A hero of justice will never lose!!!,XMESS_0015,凸村哲
 XMESS_0016,What…!?,XMESS_0016,トツムラ
-XMESS_0017,(Seemed like the bullet hit him…),XMESS_0017,網代慎平
-XMESS_0018,"(I ducked instinctively, so I can't see clearly…)",XMESS_0018,網代慎平
-XMESS_0019,(Those guys… what happened to the Shadows!?),XMESS_0019,網代慎平
-XMESS_0020,Hah… hah… hah…,XMESS_0020,凸村哲
-XMESS_0021,"I did it…
-I did it, Shinpai-kun!",XMESS_0021,凸村哲
-XMESS_0022,"I defeated the fake!
-The real me defeated my own fake!",XMESS_0022,凸村哲
+XMESS_0017,"(It looked like the bullets hit, but...)",XMESS_0017,網代慎平
+XMESS_0018,"(I ducked instinctively, so I don't really know what happened...!)",XMESS_0018,網代慎平
+XMESS_0019,(What happened to them... What happened to the Shadows!?),XMESS_0019,網代慎平
+XMESS_0020,*Pant*... *pant*... *pant*...,XMESS_0020,凸村哲
+XMESS_0021,"I did it... I did it, Shinpei-kun!",XMESS_0021,凸村哲
+XMESS_0022,I beat the fake...! The real me defeated my fake!,XMESS_0022,凸村哲
 XMESS_0023,Totsumura-san…,XMESS_0023,網代慎平
-XMESS_0024,"(Seemed like the first shot hit him, but
-the second only grazed the Shadow's leg…)",XMESS_0024,網代慎平
-XMESS_0025,"(No sign of the Shadow Totsumura, but
-maybe I actually defeated him?)",XMESS_0025,網代慎平
-XMESS_0026,"(The Shadow Mio wasn't even affected
-by the bullet…)",XMESS_0026,網代慎平
-XMESS_0027,"What are you doing, Tetsu?
-You're really an idiot.",XMESS_0027,ミオ
-XMESS_0028,"Put your hands up!
-Mio… no, the fake Mio
-can't come here!",XMESS_0028,凸村哲
-XMESS_0029,Surrender already!,XMESS_0029,凸村哲
-XMESS_0030,"Ugh, this is the worst.
-Everything's gone wrong.",XMESS_0030,ミオ
-XMESS_0031,"How long are you going to be so calm!?
-I'm serious!",XMESS_0031,凸村哲
-XMESS_0032,"I'll shoot for real!
-You think that's okay!?",XMESS_0032,凸村哲
-XMESS_0033,"Because of you, the rumors about us
-spread all over. We needed you to explain
-that it was all a lie to the people.",XMESS_0033,ミオ
-XMESS_0034,"Hey, Tetsu.
-Tell the Shadow Tetsu
-that it was all a lie.",XMESS_0034,ミオ
-XMESS_0035,"Are you crazy!?
-I'm not saying that!",XMESS_0035,凸村哲
+XMESS_0024,(It looked like one shot hit him... but the other just grazed the Shadow's leg...),XMESS_0024,網代慎平
+XMESS_0025,(I don't see Shadow Totsumura around... Could he have actually defeated him?),XMESS_0025,網代慎平
+XMESS_0026,(Even though Shadow Mio was completely unfazed even after getting hit by a bullet...),XMESS_0026,網代慎平
+XMESS_0027,"What are you doing, Tetsu-san. You really are an idiot.",XMESS_0027,ミオ
+XMESS_0028,"P-Put your hands up! Mio-cha... no, fake Mio-chan, if you don't want to end up like this...!",XMESS_0028,凸村哲
+XMESS_0029,Hurry up and surrender!,XMESS_0029,凸村哲
+XMESS_0030,"*Sigh*, this is the worst. My plans are completely ruined.",XMESS_0030,ミオ
+XMESS_0031,How long are you gonna act so smug! I-I'm serious!,XMESS_0031,凸村哲
+XMESS_0032,"I'll shoot you for real! Y-You're okay with that, right!?",XMESS_0032,凸村哲
+XMESS_0033,"Those rumors about us that you spread, Tetsu-san. To make that story go away, we needed you to go around explaining it yourself.",XMESS_0033,ミオ
+XMESS_0034,"Hey, Tetsu-san. Instead of Shadow Tetsu-san, could you go around saying 'that was a lie'?",XMESS_0034,ミオ
+XMESS_0035,Are you an idiot!? Like hell I'd say that!,XMESS_0035,凸村哲
 XMESS_0036,"I see.
 Well, it's fine.",XMESS_0036,ミオ
-XMESS_0037,"If someone's a bother to you, just kill them.",XMESS_0037,ミオ
-XMESS_0038,"Tetsu, Shinpai,
-everyone who knows about us,
-and the police from the mainland
-who'll arrive first.",XMESS_0038,ミオ
-XMESS_0039,"Kill them all.
-That'll solve everything.",XMESS_0039,ミオ
-XMESS_0040,You want to kill everyone!?,XMESS_0040,網代慎平
-XMESS_0041,It's my punishment for killing that fake!,XMESS_0041,凸村哲
-XMESS_0042,"That's right.
-You made things worse.",XMESS_0042,ミオ
-XMESS_0043,"If I had killed the police from the mainland
-it would have been better.",XMESS_0043,ミオ
-XMESS_0044,So that's why…!,XMESS_0044,網代慎平
-XMESS_0045,"This… because of me, everyone on the island…
-It can't be…",XMESS_0045,凸村哲
-XMESS_0046,"Totsumura-san! Stay focused!
-It's not too late to give up!",XMESS_0046,網代慎平
+XMESS_0037,"If someone is inconvenient alive, we just have to kill them.",XMESS_0037,ミオ
+XMESS_0038,"Tetsu-san, Shin-chan, the people who found out about us, and the mainland detectives coming first thing in the morning.",XMESS_0038,ミオ
+XMESS_0039,We'll just kill every last one of them. Then there won't be any problems.,XMESS_0039,ミオ
+XMESS_0040,Y-You're gonna massacre everyone!?,XMESS_0040,網代慎平
+XMESS_0041,Is this... retaliation for me killing that fake!?,XMESS_0041,凸村哲
+XMESS_0042,I guess so. You just created more unnecessary work for us.,XMESS_0042,ミオ
+XMESS_0043,We were supposed to just have to take care of the detectives coming from the mainland.,XMESS_0043,ミオ
+XMESS_0044,E-Even so...!,XMESS_0044,網代慎平
+XMESS_0045,"That's... because of me, everyone on the island... You're lying...",XMESS_0045,凸村哲
+XMESS_0046,Totsumura-san! Pull yourself together! It's too early to give up!,XMESS_0046,網代慎平
 XMESS_0047,Eh…?,XMESS_0047,凸村哲
-XMESS_0048,"That one!
-If you destroy this Shadow that looks just like Mio
-right now, it'll be over!",XMESS_0048,網代慎平
-XMESS_0049,"Then no more damage will happen!
-We can save everyone!",XMESS_0049,網代慎平
-XMESS_0050,"You have some spirit.
-But how are you going to kill me?",XMESS_0050,ミオ
-XMESS_0051,"I was hit in the chest earlier.
-Where will you shoot next?",XMESS_0051,ミオ
-XMESS_0052,Shinpai-kun…,XMESS_0052,凸村哲
-XMESS_0053,(Even shooting the chest didn't affect the Shadow Mio),XMESS_0053,網代慎平
-XMESS_0054,"(But for some reason, I was able to defeat the Shadow Totsumura)",XMESS_0054,網代慎平
-XMESS_0055,"(Watch out!
-There must be a weakness… if you hit that, it'll work!)",XMESS_0055,網代慎平
-XMESS_0056,"Totsumura-san!
-Where did the two bullets you shot hit the Shadow!?",XMESS_0056,網代慎平
-XMESS_0057,"Eh, um… One hit the ground…",XMESS_0057,凸村哲
-XMESS_0058,The other hit the head!,XMESS_0058,凸村哲
-XMESS_0059,"(The head… right, the head…)",XMESS_0059,網代慎平
-XMESS_0060,How many bullets are left?,XMESS_0060,網代慎平
-XMESS_0061,"Eh, um… The revolver has five rounds,
-and I've already fired four…",XMESS_0061,凸村哲
-XMESS_0062,Just one left…,XMESS_0062,網代慎平
-XMESS_0063,"Totsumura-san, I'll take the hit
-to stop its movements.",XMESS_0063,網代慎平
-XMESS_0064,"While that happens, shoot its head accurately.
-The Shadow's weakness is probably the head!",XMESS_0064,網代慎平
-XMESS_0065,Oh… right.,XMESS_0065,凸村哲
-XMESS_0066,"Wait! Hold on!
-If I mess up, what am I supposed to do!?",XMESS_0066,凸村哲
-XMESS_0067,"A headshot…
-You can't just do that easily!",XMESS_0067,凸村哲
-XMESS_0068,"Please… do your best!
-This is the decisive moment!",XMESS_0068,網代慎平
+XMESS_0048,"This one...! If we just defeat this Shadow that looks exactly like Mio right here and now, it'll be fine!",XMESS_0048,網代慎平
+XMESS_0049,"If we do that, there won't be any more casualties! We can save everyone!",XMESS_0049,網代慎平
+XMESS_0050,That's some enthusiasm. But how are you planning to kill me?,XMESS_0050,ミオ
+XMESS_0051,"Earlier it was the chest, right. Where are you going to shoot next?",XMESS_0051,ミオ
+XMESS_0052,S-Shinpei-kun...,XMESS_0052,凸村哲
+XMESS_0053,(It's true that shooting the chest didn't work on Shadow Mio.),XMESS_0053,網代慎平
+XMESS_0054,"(But for some reason, we were able to defeat Shadow Totsumura...)",XMESS_0054,網代慎平
+XMESS_0055,(Look at it objectively...! There has to be a weakness... if we can just aim for that!),XMESS_0055,網代慎平
+XMESS_0056,Totsumura-san! Where did those two shots from earlier hit the Shadow!?,XMESS_0056,網代慎平
+XMESS_0057,"E-Erm... One missed low and hit the ground, but...",XMESS_0057,凸村哲
+XMESS_0058,The other one definitely hit him in the head!,XMESS_0058,凸村哲
+XMESS_0059,"(The head... right, the head.)",XMESS_0059,網代慎平
+XMESS_0060,How many bullets are left!?,XMESS_0060,網代慎平
+XMESS_0061,"E-Erm...! The New Nambu holds five rounds, and I've already fired four, so――",XMESS_0061,凸村哲
+XMESS_0062,Just one left... huh.,XMESS_0062,網代慎平
+XMESS_0063,"Totsumura-san, I'll put my body on the line to hold her down.",XMESS_0063,網代慎平
+XMESS_0064,"In the meantime, please shoot her accurately in the head. The Shadow's weakness is... probably the head!",XMESS_0064,網代慎平
+XMESS_0065,O-Oh...,XMESS_0065,凸村哲
+XMESS_0066,"Wait, hold on a sec! What happens if I mess up!?",XMESS_0066,凸村哲
+XMESS_0067,"A headshot, that's not something you can just easily pull off!?",XMESS_0067,凸村哲
+XMESS_0068,Please... you have to manage it somehow! This is the decisive moment!,XMESS_0068,網代慎平
 XMESS_0069,…,XMESS_0069,凸村哲
-XMESS_0070,"Have we finished talking?
-I've given you enough time.",XMESS_0070,ミオ
-XMESS_0071,"Ah, yeah…",XMESS_0071,網代慎平
-XMESS_0072,"Shinpai-kun.
-That plan… it's not going to work.",XMESS_0072,凸村哲
-XMESS_0073,Huh…?,XMESS_0073,網代慎平
-XMESS_0074,I'll go instead of you!,XMESS_0074,凸村哲
-XMESS_0075,"If I get close to that monster…
-It's the elder's job to do that!",XMESS_0075,凸村哲
-XMESS_0076,Totsumura-san…!,XMESS_0076,網代慎平
-XMESS_0077,"Is it because you're the elder… or
-because you're the island's hero?",XMESS_0077,網代慎平
-XMESS_0078,"Haha… Yeah, that's it.",XMESS_0078,凸村哲
-XMESS_0079,"Then, I'm counting on you. Take care of this.",XMESS_0079,凸村哲
-XMESS_0080,"(This real gun… I've never held one before.
-It's heavier than I thought)",XMESS_0080,網代慎平
-XMESS_0081,(Now I'm going to…),XMESS_0081,網代慎平
-XMESS_0082,"Then, it's about time…",XMESS_0082,ミオ
-XMESS_0083,"I won't let you!
-Uwaaaaa!!!",XMESS_0083,凸村哲
-XMESS_0084,(Totsumura-san went in…),XMESS_0084,網代慎平
-XMESS_0085,(Then I should…),XMESS_0085,網代慎平
-XMESS_0086,Got you!,XMESS_0086,凸村哲
-XMESS_0087,"What's wrong, Tetsu?
-You're hugging my leg, that's harassment.",XMESS_0087,ミオ
-XMESS_0088,"Hurry up!
-Hurry and shoot, Shinpai-kun!",XMESS_0088,凸村哲
-XMESS_0089,Yes!!!,XMESS_0089,網代慎平
-XMESS_0090,"(Curses, but the Shadow Mio is moving…)",XMESS_0090,網代慎平
-XMESS_0091,This is annoying.,XMESS_0091,ミオ
+XMESS_0070,Are you done talking? I think I gave you plenty of time.,XMESS_0070,ミオ
+XMESS_0071,A-Ah...,XMESS_0071,網代慎平
+XMESS_0072,S-Shinpei-kun. That plan from earlier... I can't do it.,XMESS_0072,凸村哲
+XMESS_0073,Eh...?,XMESS_0073,網代慎平
+XMESS_0074,"Instead of you, Shinpei-kun, I'll go!",XMESS_0074,凸村哲
+XMESS_0075,Putting your body on the line against a monster like that... Something that dangerous is the elder's job!,XMESS_0075,凸村哲
+XMESS_0076,T-Totsumura-san...,XMESS_0076,網代慎平
+XMESS_0077,Is it less because you're the elder... and more because you're the island's hero?,XMESS_0077,網代慎平
+XMESS_0078,"Hahaha... Well, something like that.",XMESS_0078,凸村哲
+XMESS_0079,"Alright, I'm counting on you. I'm leaving this... to you.",XMESS_0079,凸村哲
+XMESS_0080,(A real gun... this is my first time holding one. It's much heavier than I thought.),XMESS_0080,網代慎平
+XMESS_0081,"(Now, with this, I'm going to...)",XMESS_0081,網代慎平
+XMESS_0082,"Well then, it's about time――",XMESS_0082,ミオ
+XMESS_0083,I won't let you! Uwoooooohhh!!,XMESS_0083,凸村哲
+XMESS_0084,(Totsumura-san went...!),XMESS_0084,網代慎平
+XMESS_0085,(Then I have to...!),XMESS_0085,網代慎平
+XMESS_0086,"How's that, I caught you!",XMESS_0086,凸村哲
+XMESS_0087,"What's this, Tetsu-san? Hugging my leg, that's sexual harassment.",XMESS_0087,ミオ
+XMESS_0088,"Hurry! Hurry and shoot, Shinpei-kun!!",XMESS_0088,凸村哲
+XMESS_0089,Right...!!,XMESS_0089,網代慎平
+XMESS_0090,"(Damn it, but Shadow Mio is moving...!)",XMESS_0090,網代慎平
+XMESS_0091,This is getting annoying.,XMESS_0091,ミオ
 XMESS_0092,Guh!,XMESS_0092,凸村哲
 XMESS_0093,Totsumura-san!,XMESS_0093,網代慎平
-XMESS_0094,I'm uncomfortable. Get off me!,XMESS_0094,ミオ
-XMESS_0095,"Guh, gah!",XMESS_0095,凸村哲
-XMESS_0096,"(Why, why can it just kill people so calmly…)",XMESS_0096,網代慎平
-XMESS_0097,(What the hell are the Shadows…?),XMESS_0097,網代慎平
-XMESS_0098,Shinpai-kun…,XMESS_0098,凸村哲
-XMESS_0099,!!!,XMESS_0099,網代慎平
-XMESS_0100,Hurry… hurry…,XMESS_0100,凸村哲
-XMESS_0101,Damn it!!!,XMESS_0101,網代慎平
+XMESS_0094,It's unpleasant. Can you let go already?,XMESS_0094,ミオ
+XMESS_0095,"Guh, gah...!",XMESS_0095,凸村哲
+XMESS_0096,"(Why, why can she stab a person so calmly...)",XMESS_0096,網代慎平
+XMESS_0097,(What the hell are the Shadows...),XMESS_0097,網代慎平
+XMESS_0098,S-S-Shinpei-kun...,XMESS_0098,凸村哲
+XMESS_0099,!!,XMESS_0099,網代慎平
+XMESS_0100,Hurry... hurry...,XMESS_0100,凸村哲
+XMESS_0101,Daaaaaamn it!!!,XMESS_0101,網代慎平
 XMESS_0102,…,XMESS_0102,ミオ
-XMESS_0103,Did you… did you do it!?,XMESS_0103,網代慎平
-XMESS_0104,…,XMESS_0104,凸村哲
-XMESS_0105,Totsumura-san!!!,XMESS_0105,網代慎平
-XMESS_0106,Guh… Shinpai-kun… it worked…,XMESS_0106,凸村哲
-XMESS_0107,Yes… yes…,XMESS_0107,網代慎平
-XMESS_0108,"I'm okay…
-The hero of justice… won't die…",XMESS_0108,凸村哲
+XMESS_0103,D-Did I do it...!?,XMESS_0103,網代慎平
+XMESS_0104,...Ugh.,XMESS_0104,凸村哲
+XMESS_0105,Totsumura-san!!,XMESS_0105,網代慎平
+XMESS_0106,"Guh...! Shinpei-kun... it went... well, right?",XMESS_0106,凸村哲
+XMESS_0107,Y-Yes...,XMESS_0107,網代慎平
+XMESS_0108,I'm fine... A hero of justice... won't die from something like this...,XMESS_0108,凸村哲
 XMESS_0109,Totsumura-san…,XMESS_0109,網代慎平
-XMESS_0110,"Hey… Shinpai-kun…
-Did I protect everyone on the island…",XMESS_0110,凸村哲
-XMESS_0111,I think so…,XMESS_0111,網代慎平
-XMESS_0112,"Erika… chan…
-Will she praise me?",XMESS_0112,凸村哲
-XMESS_0113,"She'll definitely praise you!
-So… so… please keep going…",XMESS_0113,網代慎平
-XMESS_0114,…Tell Erika-chan…,XMESS_0114,凸村哲
-XMESS_0115,"Totsumura… 
-I did everything I could for the island…",XMESS_0115,凸村哲
-XMESS_0116,You tell her yourself!,XMESS_0116,網代慎平
-XMESS_0117,"I want to, but I don't think I can…",XMESS_0117,凸村哲
+XMESS_0110,Say... Shinpei-kun... Did I... manage to protect everyone on the island...?,XMESS_0110,凸村哲
+XMESS_0111,"Yes, I think you protected them...",XMESS_0111,網代慎平
+XMESS_0112,Erika... chan... I wonder if she'll praise me.,XMESS_0112,凸村哲
+XMESS_0113,She will definitely praise you! So... so... hang in there...,XMESS_0113,網代慎平
+XMESS_0114,...Tell... Erika-chan.,XMESS_0114,凸村哲
+XMESS_0115,That Tetsu Totsumura... did his best for the island... until the very end...,XMESS_0115,凸村哲
+XMESS_0116,Please tell her that yourself!,XMESS_0116,網代慎平
+XMESS_0117,"I'd like to, but... it doesn't look like I can...",XMESS_0117,凸村哲
 XMESS_0118,Totsumura-san!,XMESS_0118,網代慎平
-XMESS_0119,"I'm counting on you… Shinpei, k…",XMESS_0119,凸村哲
-XMESS_0120,Totsumura-san…? Totsumura-san?!,XMESS_0120,網代慎平
-XMESS_0121,Totsumura-saaan!!,XMESS_0121,網代慎平
-XMESS_0122,Shouting like that's pointless.,XMESS_0122,ミオ
+XMESS_0119,"I'm counting on you... Shinpei, ku――",XMESS_0119,凸村哲
+XMESS_0120,Totsumura-san...? Totsumura-san!!,XMESS_0120,網代慎平
+XMESS_0121,Totsumura-saaaaaaaan!!,XMESS_0121,網代慎平
+XMESS_0122,It's useless to shout so loud.,XMESS_0122,ミオ
 XMESS_0123,…?!,XMESS_0123,網代慎平
-XMESS_0124,"Don't you get it?
-That person's already dead.",XMESS_0124,ミオ
-XMESS_0125,Y-you…!,XMESS_0125,網代慎平
-XMESS_0126,(That guy… is still alive!?),XMESS_0126,網代慎平
-XMESS_0127,(His head… wasn't the Shadow's weakness!?),XMESS_0127,網代慎平
-XMESS_0128,"Too bad, Shin-chan.
-You should've paid more attention to the hints.",XMESS_0128,ミオ
-XMESS_0129,(Wh-what's going on…?),XMESS_0129,網代慎平
-XMESS_0130,"Alright, it's over.
-This time, accept your fate, okay?",XMESS_0130,ミオ
-XMESS_0131,…I see.,XMESS_0131,網代慎平
-XMESS_0132,"(Even if I'm killed…
-If things go well, I can go back in time
-and try again)",XMESS_0132,網代慎平
-XMESS_0133,"(Then…)
-This time, I'll accept it.
-Just do it quickly.",XMESS_0133,網代慎平
-XMESS_0134,"Now that I've accepted it…
-Do it.",XMESS_0134,網代慎平
-XMESS_0135,"That's a good attitude.
-See you later.",XMESS_0135,ミオ
+XMESS_0124,Can't you tell by looking? That person is already dead.,XMESS_0124,ミオ
+XMESS_0125,Y-You...!,XMESS_0125,網代慎平
+XMESS_0126,(She... she's still alive!?),XMESS_0126,網代慎平
+XMESS_0127,(The head... wasn't the Shadow's weakness!?),XMESS_0127,網代慎平
+XMESS_0128,"Too bad, Shin-chan. There was a proper hint, though.",XMESS_0128,ミオ
+XMESS_0129,(W-What does that mean...?),XMESS_0129,網代慎平
+XMESS_0130,"Well, this is the end. Give up for real this time, okay?",XMESS_0130,ミオ
+XMESS_0131,...I understand.,XMESS_0131,網代慎平
+XMESS_0132,"(Even if I'm killed... If things go well, I should be able to go back in time and try again.)",XMESS_0132,網代慎平
+XMESS_0133,(In that case――),XMESS_0133,網代慎平
+XMESS_0134,I'll give up this time. Make it quick.,XMESS_0134,網代慎平
+XMESS_0135,That's a good attitude. Here I go.,XMESS_0135,ミオ
 XMESS_0136,…,XMESS_0136,網代慎平
-XMESS_0137,…Ah.,XMESS_0137,ミオ
+XMESS_0137,...Ah.,XMESS_0137,ミオ
 XMESS_0138,…?,XMESS_0138,網代慎平
 XMESS_0139,Yeah… yeah…,XMESS_0139,ミオ
-XMESS_0140,"Wait, you can't kill me?
-Yeah, yeah…",XMESS_0140,ミオ
-XMESS_0141,(Who is she talking to…?),XMESS_0141,網代慎平
-XMESS_0142,"Who are you talking to?
-Are you going to kill me?",XMESS_0142,網代慎平
-XMESS_0143,"You can't kill me, you know.",XMESS_0143,ミオ
-XMESS_0144,…Huh?,XMESS_0144,網代慎平
-XMESS_0145,"Shin-chan, you can go back in time
-even if you die, right?",XMESS_0145,ミオ
+XMESS_0140,"Eh, I can't kill him? Yeah, yeah...",XMESS_0140,ミオ
+XMESS_0141,(Who is she talking to...?),XMESS_0141,網代慎平
+XMESS_0142,Who are you talking to? Aren't you going to kill me?,XMESS_0142,網代慎平
+XMESS_0143,"Yeah, I've been told I can't kill you.",XMESS_0143,ミオ
+XMESS_0144,...Eh?,XMESS_0144,網代慎平
+XMESS_0145,"Shin-chan, even if you die, you go back in time and come back to life?",XMESS_0145,ミオ
 XMESS_0146,…?!,XMESS_0146,網代慎平
-XMESS_0147,(Why… does she know that…?),XMESS_0147,網代慎平
+XMESS_0147,(Why... does she know about that...),XMESS_0147,網代慎平
 XMESS_0148,"So there's no punishment for you, Shin-chan.",XMESS_0148,ミオ
-XMESS_0149,"(There's gotta be something…
-Some way to kill her…)",XMESS_0149,網代慎平
-XMESS_0150,"(I've got it!
-That knife she dropped earlier…)",XMESS_0150,網代慎平
-XMESS_0151,U-uhhhhhhhhh!!,XMESS_0151,網代慎平
+XMESS_0149,(Something... isn't there something!? Something that could possibly kill her...),XMESS_0149,網代慎平
+XMESS_0150,(Perfect! The kitchen knife she dropped earlier is...!),XMESS_0150,網代慎平
+XMESS_0151,U... Uwoooooohhh!!,XMESS_0151,網代慎平
 XMESS_0152,…,XMESS_0152,ミオ
-XMESS_0153,You okay?,XMESS_0153,ミオ
-XMESS_0154,Ah… ahhhh…!,XMESS_0154,網代慎平
-XMESS_0155,"(The wound from that deep stab…
-It's already gone…!?)",XMESS_0155,網代慎平
-XMESS_0156,I've got you…,XMESS_0156,ミオ
-XMESS_0157,Guh…?!,XMESS_0157,網代慎平
-XMESS_0158,S-stop! Let go…!,XMESS_0158,網代慎平
-XMESS_0159,"Ugh, stop flailing around.
-No matter how you resist, it's pointless.",XMESS_0159,ミオ
+XMESS_0153,Are you satisfied?,XMESS_0153,ミオ
+XMESS_0154,A... Ahh...!,XMESS_0154,網代慎平
+XMESS_0155,(The wound from stabbing her so deeply with the knife... It's already gone...!?),XMESS_0155,網代慎平
+XMESS_0156,Caught you...!,XMESS_0156,ミオ
+XMESS_0157,Guh...!?,XMESS_0157,網代慎平
+XMESS_0158,S-Stop! Let go...!,XMESS_0158,網代慎平
+XMESS_0159,"Jeez, don't struggle so much. No matter how much you resist, it's useless.",XMESS_0159,ミオ
 XMESS_0160,What are you going to do with me?,XMESS_0160,網代慎平
-XMESS_0161,I'm taking you to Mom's.,XMESS_0161,ミオ
-XMESS_0162,(…Mom…),XMESS_0162,網代慎平
-XMESS_0163,"Shin-chan, you need to stay alive
-for Mom's sake.",XMESS_0163,ミオ
-XMESS_0164,"Well, let's go, Shin-chan.",XMESS_0164,ミオ
-XMESS_0165,"Hey, just one thing.",XMESS_0165,網代慎平
+XMESS_0161,I'm taking you to Mother's.,XMESS_0161,ミオ
+XMESS_0162,(Mother...?),XMESS_0162,網代慎平
+XMESS_0163,"You have to stay alive forever at Mother's place, Shin-chan.",XMESS_0163,ミオ
+XMESS_0164,"Alright, let's go, Shin-chan.",XMESS_0164,ミオ
+XMESS_0165,"Hey, tell me just one thing.",XMESS_0165,網代慎平
 XMESS_0166,What?,XMESS_0166,ミオ
-XMESS_0167,How do you kill you guys?,XMESS_0167,網代慎平
-XMESS_0168,The way to kill us?,XMESS_0168,ミオ
+XMESS_0167,How... do we kill you guys?,XMESS_0167,網代慎平
+XMESS_0168,How to kill us?,XMESS_0168,ミオ
 XMESS_0169,"That's obvious, isn't it?",XMESS_0169,ミオ
-XMESS_0170,It's a secret even from Shin-chan.,XMESS_0170,ミオ
-XMESS_0171,KEY TIPS [Route: Tetsu Totsumura] acquired.,XMESS_0171,（ト書き）
+XMESS_0170,"It's a secret, even from you, Shin-chan.",XMESS_0170,ミオ
+XMESS_0171,Key TIPS [<color=#GF_KEY_ROOTCLEAR_TET>route: Tetsu Totsumura</color>] obtained.,XMESS_0171,（ト書き）

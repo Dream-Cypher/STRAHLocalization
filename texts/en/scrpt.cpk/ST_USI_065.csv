@@ -1,392 +1,240 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,55. Haine,XCHAPTITLE_0002,
 XCOMMENTVIEW_0013,Shinpei Ajiro,XCOMMENTVIEW_0013,
-XMESS_0000,"(…When did I start seeing without the light?)
-(Things around me are visible now.)",XMESS_0000,網代慎平
-XMESS_0001,"The walls… they're glowing faintly…
-It's probably some bioluminescent bacteria.",XMESS_0001,菱形窓
-XMESS_0002,Maybe that's true…,XMESS_0002,網代慎平
-XMESS_0003,(Toiki-chan was killed by the four-armed shadow during the festival last time),XMESS_0003,網代慎平
-XMESS_0004,"(In other words… it seems Toiki-chan is being used by them
-and will be betrayed in the end…
-And she still doesn't know about this!)",XMESS_0004,網代慎平
-XMESS_0005,"This… This kind of thing…
-Why did I get my hands dirty with this?!",XMESS_0005,菱形朱鷺子
+XMESS_0000,"(…Before I knew it, I can see my surroundings even without a light.)",XMESS_0000,網代慎平
+XMESS_0001,The walls are glowing faintly... It must be some kind of bioluminescent bacteria.,XMESS_0001,菱形窓
+XMESS_0002,Maybe...,XMESS_0002,網代慎平
+XMESS_0003,"(Toki-chan was killed by the four-armed Shadow at the summer festival ""last time"".)",XMESS_0003,網代慎平
+XMESS_0004,"(In other words, it's likely that ""Toki-chan is being used by them and will be betrayed in the end""... And she doesn't know that yet!)",XMESS_0004,網代慎平
+XMESS_0005,This... I didn't get my hands dirty... for something like this...,XMESS_0005,菱形朱鷺子
 XMESS_0006,!!,XMESS_0006,菱形朱鷺子
-XMESS_0007,"(Those tears… If I understand the reason behind them,
-I might be able to convince Toiki-chan and save her!)",XMESS_0007,網代慎平
+XMESS_0007,"(Those tears... If I can figure out the reason behind those tears, I might be able to convince Toki-chan, and maybe even save her!)",XMESS_0007,網代慎平
 XMESS_0008,…,XMESS_0008,ウシオ
-XMESS_0009,(The tide who was captured by the shadow is looking at me…),XMESS_0009,網代慎平
-XMESS_0010,"(Stay still, Tide…
-It's not time yet.
-I need to find out the truth!)",XMESS_0010,網代慎平
-XMESS_0011,"(I can't let this loop continue
-Once I get information… I'll fight with all my might!)",XMESS_0011,網代慎平
+XMESS_0009,(Ushio is looking at me while still captured by the Shadows...),XMESS_0009,網代慎平
+XMESS_0010,"(Don't move yet, Ushio... Now isn't the time. I have to find out the truth!)",XMESS_0010,網代慎平
+XMESS_0011,(I can't loop just yet. Once I get information... I'll struggle with everything I have!),XMESS_0011,網代慎平
 XMESS_0012,…!,XMESS_0012,ウシオ
-XMESS_0013,"(He nodded…
-I believe he understood what I meant, Tide!)",XMESS_0013,網代慎平
-XMESS_0014,Wah… It's not me!!,XMESS_0014,ウシオ
-XMESS_0015,"It's Lady Hiruko.
-The worm in her belly.",XMESS_0015,菱形朱鷺子
-XMESS_0016,"(It sounds like it's coming from the bottom of the earth…
-My whole body is covered with goosebumps
-This isn't something of this world…)",XMESS_0016,網代慎平
-XMESS_0017,I'm satisfied with what I did.,XMESS_0017,菱形朱鷺子
-XMESS_0018,"I won't ask for forgiveness…
-Now that this has happened, all I want is everyone to be convinced like me.",XMESS_0018,菱形朱鷺子
-XMESS_0019,"Father… he opposed telling my brother about it
-But even without his warning,
-nobody would tell anyone anyway?",XMESS_0019,菱形朱鷺子
-XMESS_0020,"…But you, Shinpei-san.
-Don't tell Mio…",XMESS_0020,菱形朱鷺子
-XMESS_0021,"Everything I'll see and learn…
-Just don't let Mio know about it…",XMESS_0021,菱形朱鷺子
+XMESS_0013,"(She nodded... I'm trusting that you understood my intentions, Ushio!)",XMESS_0013,網代慎平
+XMESS_0014,I-It's not me!!,XMESS_0014,ウシオ
+XMESS_0015,It's Hiruko-sama. Her stomach growling.,XMESS_0015,菱形朱鷺子
+XMESS_0016,(It sounds like it's echoing from the depths of the earth... It's giving me goosebumps all over. It's not... of this world.),XMESS_0016,網代慎平
+XMESS_0017,I've made peace with <color=#GF_TIPS_031>what I'm doing</color>.,XMESS_0017,菱形朱鷺子
+XMESS_0018,"I won't ask for your forgiveness... Now that it's come to this, all I want is for everyone to accept it just like I have.",XMESS_0018,菱形朱鷺子
+XMESS_0019,"Father... is against telling my brother, though. But even without warning you not to tell anyone, it's not like you can, right?",XMESS_0019,菱形朱鷺子
+XMESS_0020,"…But, Shinpei-san. Please don't tell Mio...",XMESS_0020,菱形朱鷺子
+XMESS_0021,"What you're about to see, what you're about to learn... Keep it from Mio...",XMESS_0021,菱形朱鷺子
 XMESS_0022,…,XMESS_0022,網代慎平
-XMESS_0023,I have no intention of involving Mio…!!,XMESS_0023,網代慎平
-XMESS_0024,"Good…
-You're a kind person…",XMESS_0024,菱形朱鷺子
+XMESS_0023,I won't get Mio involved with this.,XMESS_0023,網代慎平
+XMESS_0024,I'm glad... You really are kind...,XMESS_0024,菱形朱鷺子
 XMESS_0025,…We've arrived.,XMESS_0025,菱形朱鷺子
-XMESS_0026,"(The space before my eyes,
-long shadows stretching all the way to the ceiling…
-At their root…)",XMESS_0026,網代慎平
-XMESS_0027,"It's exactly 9 o'clock now…
-Feeding time.",XMESS_0027,？？？（ハイネ）
-XMESS_0028,"(A girl in a red kimono…
-I finally found her… the one from the festival!!)",XMESS_0028,網代慎平
-XMESS_0029,"(What did this child do during that summer festival?
-No, what's she planning to do?!!)",XMESS_0029,網代慎平
-XMESS_0030,"(If I know that, I can stop her!
-I have to grab any clue from this situation!!
-)",XMESS_0030,網代慎平
-XMESS_0031,"That girl is the first one Lady Hiruko copied…
-She's called ""Haine.""
-She prefers being addressed by that name.",XMESS_0031,菱形朱鷺子
-XMESS_0032,"She is the deity of Hitogashima Island, Lady Hiruko.
-The mother of shadows.",XMESS_0032,菱形朱鷺子
-XMESS_0033,"…Just a normal girl…
-About Shiori's age…
-This child… This child is a god??",XMESS_0033,菱形窓
-XMESS_0034,"It has to be her!!
-I've been feeling that bad vibe all along… it's this one!
-She’s the source of it!!!",XMESS_0034,ウシオ
-XMESS_0035,"(Lady Hiruko is the mother of shadows!! 
-So Hitogashima Island was an island that worshipped shadows!?)",XMESS_0035,網代慎平
-XMESS_0036,"Hmph… You traitorous bastard who's about to die!!
-Keho. Calling me a bad vibe…
-You're talking big for someone.",XMESS_0036,ハイネ
-XMESS_0037,"Why did that child get blood transfusions!?
-Is she sick or something?",XMESS_0037,菱形窓
-XMESS_0038,"…As you can see,
-<color=#GF_TIPS_019>Haine</color> is weak.
-The main cause is malnutrition due to lack of food.",XMESS_0038,菱形朱鷺子
-XMESS_0039,"Hunger has been giving Haine unbearable pain
-Ushio-san should understand, right?",XMESS_0039,菱形朱鷺子
+XMESS_0026,"(The space spreading out before me, long, long shadows stretch all the way to the ceiling. At the base of those shadows...)",XMESS_0026,網代慎平
+XMESS_0027,It's exactly 9 o'clock... Time to eat.,XMESS_0027,？？？（ハイネ）
+XMESS_0028,(The girl in the red kimono... I finally found her... the girl from the summer festival!!),XMESS_0028,網代慎平
+XMESS_0029,"(What did this girl do at that summer festival...? No, what I need to know is ""what she plans to do""!!)",XMESS_0029,網代慎平
+XMESS_0030,"(If I know that, I can stop her! I have to grasp any clue I can from this situation...!!)",XMESS_0030,網代慎平
+XMESS_0031,"That form is the first person Hiruko-sama copied... ""Haine."" She prefers to be called by that name.",XMESS_0031,菱形朱鷺子
+XMESS_0032,"She is the god of Hitogashima, Hiruko-no-Mikoto. The mother of the Shadows.",XMESS_0032,菱形朱鷺子
+XMESS_0033,...She's just... a little girl... About Shiori-chan's age... This kid... this kid is a god!!?,XMESS_0033,菱形窓
+XMESS_0034,No doubt about it!! The bad presence I've been feeling all along... it's her! It's coming from her!!,XMESS_0034,ウシオ
+XMESS_0035,(Hiruko-sama is the mother of Shadows...!! Was Hitogashima an island that worshipped Shadows!?),XMESS_0035,網代慎平
+XMESS_0036,Hmph... you half-dead traitor...!! *Cough*. Calling my presence bad... You've got some nerve...,XMESS_0036,ハイネ
+XMESS_0037,Why is she getting a blood transfusion!? Is she sick or something?,XMESS_0037,菱形窓
+XMESS_0038,"…As you can see, <color=#GF_TIPS_019>Haine</color> is weak. The main cause is malnutrition due to a lack of food.",XMESS_0038,菱形朱鷺子
+XMESS_0039,"Hunger constantly subjects Haine to unbearable pain. Ushio-san, you should understand, right?",XMESS_0039,菱形朱鷺子
 XMESS_0040,…!,XMESS_0040,ウシオ
-XMESS_0041,"Recently her legs have been weak and she's had difficulty walking.
-So… we needed to find another body for her.",XMESS_0041,菱形朱鷺子
-XMESS_0042,That’s how we meet—,XMESS_0042,ハイネ
-XMESS_0043,"How many times is this, Shinpei?",XMESS_0043,シオリ
-XMESS_0044,"N…!
-You're still alive… you…",XMESS_0044,網代慎平
+XMESS_0041,"Recently, her legs have grown weak, making it hard to walk. So... she needed to acquire a replacement body.",XMESS_0041,菱形朱鷺子
+XMESS_0042,How many times have we met like this?,XMESS_0042,ハイネ
+XMESS_0043,Shinpei Ajiro.,XMESS_0043,シオリ
+XMESS_0044,Wh...! You're alive... you...,XMESS_0044,網代慎平
 XMESS_0045,…It was you!!,XMESS_0045,ウシオ
-XMESS_0046,"(She killed Tide, murdered Mio—  
-Everyone… the island itself… a monster…
-That's what this island’s god is?!!)",XMESS_0046,網代慎平
-XMESS_0047,(This guy has been… all along…),XMESS_0047,網代慎平
-XMESS_0048,"All the time right in front of me!! 
-I found you!!!",XMESS_0048,網代慎平
-XMESS_0049,Ugh??,XMESS_0049,網代慎平
-XMESS_0050,(A huge shadow is approaching… same as during the festival!!),XMESS_0050,網代慎平
+XMESS_0046,"(She killed Ushio, killed Mio— The monster that swallowed everyone... the whole island... That's... the god of this island...?)",XMESS_0046,網代慎平
+XMESS_0047,(She's been here all along... from the very beginning...),XMESS_0047,網代慎平
+XMESS_0048,You were right in front of me...! This whole time!!!,XMESS_0048,網代慎平
+XMESS_0049,Ugh!!?,XMESS_0049,網代慎平
+XMESS_0050,(A giant Shadow is approaching... just like at the festival!!),XMESS_0050,網代慎平
 XMESS_0051,"Shinpei, get back!!",XMESS_0051,ウシオ
-XMESS_0052,"No good, Haine!!",XMESS_0052,菱形朱鷺子
-XMESS_0053,"…Because…
-His loud voice is echoing in my head and making me angry.
-I might end up killing him by accident…",XMESS_0053,ハイネ
-XMESS_0054,Ku…,XMESS_0054,網代慎平
-XMESS_0055,"Talking while eating is impolite,
-wasn't you taught that by your parents?",XMESS_0055,ハイネ
-XMESS_0056,"I like to eat in silence…
-Never speak to me again.",XMESS_0056,ハイネ
+XMESS_0052,"Don't, Haine!!",XMESS_0052,菱形朱鷺子
+XMESS_0053,…But… His loud voice echoes in my head and gets on my nerves... I might just accidentally kill him...,XMESS_0053,ハイネ
+XMESS_0054,Ngh...,XMESS_0054,網代慎平
+XMESS_0055,Didn't your parents teach you that talking while eating is bad manners?,XMESS_0055,ハイネ
+XMESS_0056,I like to eat in silence... Don't ever speak to me again.,XMESS_0056,ハイネ
 XMESS_0057,—Tokiko.,XMESS_0057,ハイネ
 XMESS_0058,…,XMESS_0058,菱形朱鷺子
 XMESS_0059,…,XMESS_0059,看護服の女性（根来）
-XMESS_0060,(A nurse… a woman…),XMESS_0060,網代慎平
-XMESS_0061,"(Her arms are melting black… she's a shadow!
-Using the power of shadows, carrying two coffins!)",XMESS_0061,網代慎平
-XMESS_0062,…<color=#GF_TIPS_015>Negoro</color>…-san…,XMESS_0062,菱形窓
-XMESS_0063,Huh?,XMESS_0063,網代慎平
-XMESS_0064,She's a nurse… our…,XMESS_0064,菱形窓
+XMESS_0060,(A woman... in a nurse's uniform...?),XMESS_0060,網代慎平
+XMESS_0061,(Her arms are melting black... she's a Shadow! She's carrying two coffins with the power of the Shadows...!),XMESS_0061,網代慎平
+XMESS_0062,…<color=#GF_TIPS_015>Negoro</color>...-san...,XMESS_0062,菱形窓
+XMESS_0063,Eh?,XMESS_0063,網代慎平
+XMESS_0064,She's a nurse... at our clinic...,XMESS_0064,菱形窓
 XMESS_0065,…,XMESS_0065,ネゴロ
-XMESS_0066,"Do you know that shadows feed on ""information""?",XMESS_0066,菱形朱鷺子
-XMESS_0067,"Especially Haine likes the taste of people.
-Her nutrition comes from her sense of taste.",XMESS_0067,菱形朱鷺子
-XMESS_0068,"But back then, it was different,
-gaining food has become increasingly difficult year by year",XMESS_0068,菱形朱鷺子
+XMESS_0066,"Did you know that Shadows live by eating ""information""?",XMESS_0066,菱形朱鷺子
+XMESS_0067,"Haine in particular prefers the ""taste"" of humans. Taste itself is her source of nutrition.",XMESS_0067,菱形朱鷺子
+XMESS_0068,"However, whatever it may have been like in the past, procuring food has become more difficult every year.",XMESS_0068,菱形朱鷺子
 XMESS_0069,(…!),XMESS_0069,網代慎平
-XMESS_0070,"(Speaking of which, Nezu-san said…
-Even though it's less now than before,
-there were many sightings of shadows in the past)",XMESS_0070,網代慎平
-XMESS_0071,(That’s why…),XMESS_0071,網代慎平
-XMESS_0072,"On average, four people die each year on Hitogashima Island…
-from illness or accidents.",XMESS_0072,菱形朱鷺子
-XMESS_0073,"You already understand, right?
-The hospital has been giving her these dead bodies all along",XMESS_0073,菱形朱鷺子
-XMESS_0074,"Father. Grandfather. Great-grandfather.
-And even long before that…",XMESS_0074,菱形朱鷺子
-XMESS_0075,"…Wait! Those coffins…
-You mean to say she eats people?!
-That child?!",XMESS_0075,菱形窓
+XMESS_0070,"(Come to think of it, Nezu-san said that. They've decreased recently, but there were many Shadow sightings before the war.)",XMESS_0070,網代慎平
+XMESS_0071,(So that's what it was...),XMESS_0071,網代慎平
+XMESS_0072,An average of four people a year... die on Hitogashima. From illness or accidents.,XMESS_0072,菱形朱鷺子
+XMESS_0073,"You understand now, right? Hishigata Clinic has been continuously feeding those corpses to her.",XMESS_0073,菱形朱鷺子
+XMESS_0074,My father. My grandfather. My great-grandfather. And even long before that...,XMESS_0074,菱形朱鷺子
+XMESS_0075,…Wait… those coffins... D-Don't tell me you're feeding people to her!? To that kid!!,XMESS_0075,菱形窓
 XMESS_0076,…,XMESS_0076,菱形朱鷺子
-XMESS_0077,"Stop!!  
-What are you thinking…!!",XMESS_0077,菱形窓
-XMESS_0078,"Sou, stop it!",XMESS_0078,網代慎平
-XMESS_0079,Ah!,XMESS_0079,ローゼンクランツ
-XMESS_0080,"Damn!!  
-If that's the case I can't do anything!!",XMESS_0080,菱形窓
-XMESS_0081,…I'm sorry for making you wait.,XMESS_0081,ネゴロ
-XMESS_0082,"Ho!  I was waiting!
-Today's feast is great, isn't it?",XMESS_0082,ハイネ
-XMESS_0083,"Tomorrow will be even better for you, Haine…",XMESS_0083,ネゴロ
-XMESS_0084,"Haha… Hahaha!  
-This coffin is from a police officer who came from the mainland.",XMESS_0084,ハイネ
+XMESS_0077,Stop it!!! What are you thinking...!!,XMESS_0077,菱形窓
+XMESS_0078,"Sou, don't!",XMESS_0078,網代慎平
+XMESS_0079,Aaah...!,XMESS_0079,ローゼンクランツ
+XMESS_0080,Damn it!! I can't do anything with these guys here...!,XMESS_0080,菱形窓
+XMESS_0081,…Sorry to keep you waiting.,XMESS_0081,ネゴロ
+XMESS_0082,Oho! I've been waiting! Quite the feast again today!,XMESS_0082,ハイネ
+XMESS_0083,"Tomorrow will be even better, Haine...",XMESS_0083,ネゴロ
+XMESS_0084,"Hehe... Ufufufufufu! This coffin is... the detective from the mainland, huh.",XMESS_0084,ハイネ
 XMESS_0085,…!,XMESS_0085,網代慎平
-XMESS_0086,"Shinpei-san,
-I told you it's impossible for you to kill someone.",XMESS_0086,菱形朱鷺子
-XMESS_0087,Eh…?,XMESS_0087,網代慎平
-XMESS_0088,"But…
-I'm ready to be killed by you, Shinpei-san.",XMESS_0088,菱形朱鷺子
-XMESS_0089,"M… wait a second… 
-Toiki-chan…could it really be…",XMESS_0089,網代慎平
-XMESS_0090,"Then this coffin…
-Hahaha!",XMESS_0090,ハイネ
+XMESS_0086,"Shinpei-san. I told you murder is impossible for you, right?",XMESS_0086,菱形朱鷺子
+XMESS_0087,Eh...,XMESS_0087,網代慎平
+XMESS_0088,"But... I'm prepared to be killed by you, Shinpei-san.",XMESS_0088,菱形朱鷺子
+XMESS_0089,W-Wait a second... Toki-chan... don't tell me...,XMESS_0089,網代慎平
+XMESS_0090,And... this coffin is... Hehehe...!,XMESS_0090,ハイネ
 XMESS_0091,!!,XMESS_0091,ウシオ
-XMESS_0092,"Come closer and take a look, Ushio…",XMESS_0092,ハイネ
-XMESS_0093,"This is the real one…
-the one I missed eating back then.",XMESS_0093,ハイネ
-XMESS_0094,"So… that’s it!! 
-Tide!!!",XMESS_0094,ウシオ
-XMESS_0095,(The real… Tide's corpse!?),XMESS_0095,網代慎平
-XMESS_0096,"Hahaha!  
-Kukuku… Hahaaa!",XMESS_0096,ハイネ
-XMESS_0097,"Hey… wait a second!!
-Is that really Tide??",XMESS_0097,網代慎平
-XMESS_0098,"But… the corpse I burned yesterday!
-The bones we collected!!",XMESS_0098,網代慎平
-XMESS_0099,"Father replaced the body.
-The bones are prints of someone else's from long ago, not real ones.",XMESS_0099,菱形朱鷺子
-XMESS_0100,"Dead bodies are important food for her
-We couldn't burn them anyway",XMESS_0100,菱形朱鷺子
+XMESS_0092,"Come closer and take a good look, Ushio...",XMESS_0092,ハイネ
+XMESS_0093,"It's your original body, the one I missed eating back then.",XMESS_0093,ハイネ
+XMESS_0094,N-No way!! Ushio!!!,XMESS_0094,ウシオ
+XMESS_0095,(The real... Ushio's corpse!?),XMESS_0095,網代慎平
+XMESS_0096,Ufufufufufu! Fukukukukuku... Fufufu...,XMESS_0096,ハイネ
+XMESS_0097,H-Hey! Is that really Ushio!?,XMESS_0097,網代慎平
+XMESS_0098,But... what about the body we cremated yesterday!? The bones we gathered!!?,XMESS_0098,網代慎平
+XMESS_0099,"Father swapped the body. The bones were printed by Haine, they belonged to someone from a long time ago. They aren't real.",XMESS_0099,菱形朱鷺子
+XMESS_0100,Corpses are important food. We wouldn't just burn them.,XMESS_0100,菱形朱鷺子
 XMESS_0101,…!,XMESS_0101,菱形窓
-XMESS_0102,"Why!?
-Why do you have to take care of her like this…!
-She's just a child!!",XMESS_0102,菱形窓
-XMESS_0103,"Toiki-chan… did you know everything? 
-About Shiori being targeted…
-about Tide getting killed!!",XMESS_0103,網代慎平
-XMESS_0104,"I didn't know about Tide.
-Who would have thought she'd be helping save Shiori by teaming up with her own shadow?",XMESS_0104,菱形朱鷺子
-XMESS_0105,"You got involved in things you shouldn’t
-That’s why you died.",XMESS_0105,菱形朱鷺子
+XMESS_0102,Why!? Why do you have to go that far... to take care of that kid...!,XMESS_0102,菱形窓
+XMESS_0103,Toki-chan... did you know everything? About Shiori-chan being targeted... And about Ushio being killed!!,XMESS_0103,網代慎平
+XMESS_0104,I didn't know about Ushio-san. To think she was working with her own Shadow to try and save Shiori-chan...,XMESS_0104,菱形朱鷺子
+XMESS_0105,"She died because she stuck her nose into things she shouldn't have, acting like some hero of justice.",XMESS_0105,菱形朱鷺子
 XMESS_0106,!!,XMESS_0106,菱形窓
-XMESS_0107,…What??,XMESS_0107,網代慎平
-XMESS_0108,…Everything is for Haine.,XMESS_0108,菱形朱鷺子
-XMESS_0109,"You're joking!!  
-There's no way I can accept this!!",XMESS_0109,菱形窓
-XMESS_0110,"Where is father?! Even if the god allows it!
-I won't forgive you!!!",XMESS_0110,菱形窓
+XMESS_0107,…What did you say...?,XMESS_0107,網代慎平
+XMESS_0108,This was all for Haine.,XMESS_0108,菱形朱鷺子
+XMESS_0109,Don't mess with me!!! There's no way this is unforgivable!!,XMESS_0109,菱形窓
+XMESS_0110,Where's Dad!!! Even if God forgives him!! I won't forgive him!!!!,XMESS_0110,菱形窓
 XMESS_0111,…,XMESS_0111,菱形朱鷺子
-XMESS_0112,…Don’t act like you don’t know anything…,XMESS_0112,菱形朱鷺子
-XMESS_0113,"Geez… I'm so fed up!!  
-You idiot!!",XMESS_0113,菱形朱鷺子
+XMESS_0112,…You don't know anything...,XMESS_0112,菱形朱鷺子
+XMESS_0113,"Stop screaming, you're so annoying!! You idiot!!",XMESS_0113,菱形朱鷺子
 XMESS_0114,…!!,XMESS_0114,菱形窓
-XMESS_0115,"Because my older brother is like that!!!
-I'm the one who has to do it, right?!",XMESS_0115,菱形朱鷺子
-XMESS_0116,"Kho… Kho…
-Gob!",XMESS_0116,ハイネ
-XMESS_0117,"Haa… Haa…
-</think>",XMESS_0117,ハイネ
-XMESS_0118,Haine… again with the blood…,XMESS_0118,ネゴロ
-XMESS_0119,W-what's going on here?!,XMESS_0119,菱形窓
-XMESS_0120,"There's no other way… there's nothing else!!!
-Otherwise Mom'll…
-Mom will die too!!!",XMESS_0120,菱形朱鷺子
-XMESS_0121,"If Haine dies…  
-Then Mom's going to die too…",XMESS_0121,菱形朱鷺子
-XMESS_0122,W-what?!,XMESS_0122,菱形窓
-XMESS_0123,Mom's alive not because the illness is gone…,XMESS_0123,菱形朱鷺子
-XMESS_0124,"Dad asked Haine to…  
-Became a Shadow and stopped dying.",XMESS_0124,菱形朱鷺子
-XMESS_0125,"…
-No way!?",XMESS_0125,菱形窓
-XMESS_0126,"But… what does that mean?!
-I don't get it!!!  
-Mom's?! What?!",XMESS_0126,菱形窓
-XMESS_0127,"Shadows… something!?
-So that means the real one is…",XMESS_0127,網代慎平
-XMESS_0128,"Another stupid question.
-Mom's still Mom… nothing changed!!!",XMESS_0128,菱形朱鷺子
-XMESS_0129,"Even my older brother and Shinpei-san!!
-Do you think of Ushiyo as the real Mio?!",XMESS_0129,菱形朱鷺子
-XMESS_0130,!!!!!!!!!!!,XMESS_0130,菱形窓
-XMESS_0131,Tokiko…,XMESS_0131,ウシオ
+XMESS_0115,"Because you're like that, Big Brother!!! I'm the one who has to do it!!!!",XMESS_0115,菱形朱鷺子
+XMESS_0116,"*Cough, cough*... *cough*. *Gobo*!",XMESS_0116,ハイネ
+XMESS_0117,*Pant*... *pant*...,XMESS_0117,ハイネ
+XMESS_0118,"Haine, you're bleeding again...",XMESS_0118,ネゴロ
+XMESS_0119,Wh... What do you mean...?,XMESS_0119,菱形窓
+XMESS_0120,"We have no other choice, no other choice...!! Otherwise Mom... Mom will die...!!",XMESS_0120,菱形朱鷺子
+XMESS_0121,If Haine dies... Mom will die too...,XMESS_0121,菱形朱鷺子
+XMESS_0122,What...!?,XMESS_0122,菱形窓
+XMESS_0123,Mom isn't alive because her illness was cured.,XMESS_0123,菱形朱鷺子
+XMESS_0124,Dad asked Haine... She just became a <color=#GF_TIPS_029>Shadow</color> and stopped dying.,XMESS_0124,菱形朱鷺子
+XMESS_0125,…Huh? Wait... huh!?,XMESS_0125,菱形窓
+XMESS_0126,But... what do you mean... I... I don't understand...!! Mom is? ...Eh!?,XMESS_0126,菱形窓
+XMESS_0127,A Shadow...!? Then don't tell me the real one is...!?,XMESS_0127,網代慎平
+XMESS_0128,Another stupid question... Mom is Mom... nothing's changed...!!,XMESS_0128,菱形朱鷺子
+XMESS_0129,"Both you and Shinpei-san!! You think of Ushio-san as the real Ushio-san, right!?",XMESS_0129,菱形朱鷺子
+XMESS_0130,...!!,XMESS_0130,菱形窓
+XMESS_0131,Toki-chan......,XMESS_0131,ウシオ
 XMESS_0132,…,XMESS_0132,ハイネ
-XMESS_0133,!!!!!!!!!,XMESS_0133,網代慎平
-XMESS_0134,(Haine… is going to eat the detective!),XMESS_0134,網代慎平
-XMESS_0135,"S-stop!!  
-You can't eat him!!!",XMESS_0135,菱形窓
-XMESS_0136,"Why?!
-I washed my hands properly!!",XMESS_0136,ハイネ
-XMESS_0137,This is all wrong!!!,XMESS_0137,菱形窓
+XMESS_0133,...!,XMESS_0133,網代慎平
+XMESS_0134,(Haine... is going to eat the detective!),XMESS_0134,網代慎平
+XMESS_0135,S-Stop!! You can't eat him!!!,XMESS_0135,菱形窓
+XMESS_0136,"Why? I washed my hands properly, you know?",XMESS_0136,ハイネ
+XMESS_0137,This is wrong!!!,XMESS_0137,菱形窓
 XMESS_0138,!!,XMESS_0138,網代慎平
-XMESS_0139,"(The body… disappeared.  
-It was eaten!!)",XMESS_0139,網代慎平
-XMESS_0140,Hnnn!!,XMESS_0140,ハイネ
-XMESS_0141,Ah… ahh!!!,XMESS_0141,菱形窓
-XMESS_0142,"It's not about being right or wrong…
-We have to live with it here on this island.",XMESS_0142,菱形朱鷺子
+XMESS_0139,(The corpse... disappeared... She ate it...),XMESS_0139,網代慎平
+XMESS_0140,Mmm!,XMESS_0140,ハイネ
+XMESS_0141,A... Aah...!!,XMESS_0141,菱形窓
+XMESS_0142,"Whether it's right or wrong, we're not talking on that level. We have no choice but to accept it and live on this island.",XMESS_0142,菱形朱鷺子
 XMESS_0143,(…Accept?),XMESS_0143,網代慎平
-XMESS_0144,"It's no good…
-If that guy devours Mio and she disappears,
-such a thing can't happen!!!",XMESS_0144,網代慎平
-XMESS_0145,"Then think! 
-How to save Mio!!",XMESS_0145,網代慎平
-XMESS_0146,The way to retrieve Mio!!!,XMESS_0146,網代慎平
-XMESS_0147,"Then, I'll take Mio next.",XMESS_0147,ハイネ
-XMESS_0148,"(The Shadow can't move during scanning!  
-I saw it with my own eyes just now!  
-Haine's no exception!!)",XMESS_0148,網代慎平
-XMESS_0149,Then…,XMESS_0149,網代慎平
-XMESS_0150,"…Mio, now!!
-Print it out!!!",XMESS_0150,網代慎平
-XMESS_0151,Waited for that word!!!,XMESS_0151,ウシオ
-XMESS_0152,Wh-what?!,XMESS_0152,菱形朱鷺子
-XMESS_0153,"(Now!  
-Reprint the nail gun I just threw!)",XMESS_0153,網代慎平
-XMESS_0154,(Stalling the shadow's movements by capturing Mio!),XMESS_0154,網代慎平
-XMESS_0155,Take this!!!,XMESS_0155,網代慎平
-XMESS_0156,Ah!,XMESS_0156,巨大な影（ロズ）
-XMESS_0157,"Good, I've stopped it!
-Then rely on you, Mio!!",XMESS_0157,網代慎平
-XMESS_0158,Now!!!,XMESS_0158,ウシオ
-XMESS_0159,"Scan successful!  
-This way, I can get my arm back!",XMESS_0159,ウシオ
-XMESS_0160,"(Got it… recovered!!!  
-Perfect!)",XMESS_0160,網代慎平
-XMESS_0161,"Haine, are you okay?",XMESS_0161,ネゴロ
-XMESS_0162,"Chee! Cheeeeee!!!  
-You stole my meal!!!",XMESS_0162,ハイネ
-XMESS_0163,"Thank you, Mio!!!
-It worked out!",XMESS_0163,網代慎平
-XMESS_0164,"Hehe, I saw through your plan!!!",XMESS_0164,ウシオ
-XMESS_0165,"But it's about time for the tides…
-Right now I need you to--",XMESS_0165,網代慎平
+XMESS_0144,(No... I won't let Ushio get eaten by her and disappear! Like hell I'll let that happen!!!),XMESS_0144,網代慎平
+XMESS_0145,(Then think! How to save Ushio...!),XMESS_0145,網代慎平
+XMESS_0146,(How to get Ushio back!!),XMESS_0146,網代慎平
+XMESS_0147,"Well then, I suppose I'll have Ushio next.",XMESS_0147,ハイネ
+XMESS_0148,(Shadows can't move for a few seconds while scanning! I just saw it with my own eyes! Haine is no exception!!),XMESS_0148,網代慎平
+XMESS_0149,(In that case...!),XMESS_0149,網代慎平
+XMESS_0150,"…Ushio, now! Print it!!",XMESS_0150,網代慎平
+XMESS_0151,I was waiting fer ya to say that!!!,XMESS_0151,ウシオ
+XMESS_0152,Eh!!?,XMESS_0152,菱形朱鷺子
+XMESS_0153,(She's re-printing the nail gun I threw earlier right into my hands now!),XMESS_0153,網代慎平
+XMESS_0154,(I'll use this to stop the Shadow holding Ushio!),XMESS_0154,網代慎平
+XMESS_0155,Eat this!!,XMESS_0155,網代慎平
+XMESS_0156,Agh!,XMESS_0156,巨大な影（ロズ）
+XMESS_0157,"(Alright, it stopped moving! I'm counting on you for the rest, Ushio!)",XMESS_0157,網代慎平
+XMESS_0158,Now!!,XMESS_0158,ウシオ
+XMESS_0159,Scan successful! Now I can get my arm back too!,XMESS_0159,ウシオ
+XMESS_0160,(We did it... we got it back!! Perfect!),XMESS_0160,網代慎平
+XMESS_0161,"Haine, are you hurt?",XMESS_0161,ネゴロ
+XMESS_0162,Cheater!! Cheaterrrr!!! You stole my food...!!,XMESS_0162,ハイネ
+XMESS_0163,"Thank you, Ushio...!! It worked perfectly!",XMESS_0163,網代慎平
+XMESS_0164,"Hehe, I saw right through your plan!",XMESS_0164,ウシオ
+XMESS_0165,"But it's about time we left... Right now, I need you to—",XMESS_0165,網代慎平
 XMESS_0166,Why!?,XMESS_0166,菱形朱鷺子
-XMESS_0167,!!!!!!!!!,XMESS_0167,網代慎平
-XMESS_0168,"You're going against the Shadow!  
-What's wrong with you?!!  
-It'll just kill you!!!
-You can't win… absolutely…",XMESS_0168,菱形朱鷺子
-XMESS_0169,…The Tokiko I know wouldn't do something like this.,XMESS_0169,ウシオ
-XMESS_0170,"It's just using them…  
-Taking advantage of their weaknesses…",XMESS_0170,ウシオ
-XMESS_0171,"For his own hunger!  
-Manipulating Tokiko's feelings!!!  
-Can you accept that?!",XMESS_0171,ウシオ
-XMESS_0172,It's absolutely impossible!!!,XMESS_0172,ウシオ
-XMESS_0173,"You dare look down on my dear friend?!  
-God or Hiruko, I don't care…!!!  
-Don't underestimate humans!!!",XMESS_0173,ウシオ
-XMESS_0174,"…!!
-Mio, s-…",XMESS_0174,菱形朱鷺子
+XMESS_0167,...!,XMESS_0167,網代慎平
+XMESS_0168,"Defying the Shadows... are you stupid!? You'll only end up dead, you know...? You can't win... absolutely not...",XMESS_0168,菱形朱鷺子
+XMESS_0169,...The Toki-chan I know wouldn't do something like this willingly.,XMESS_0169,ウシオ
+XMESS_0170,She's just using you...!! Taking advantage of your weaknesses...,XMESS_0170,ウシオ
+XMESS_0171,Just to satisfy her own hunger! She's playing with your feelings!! ...And you're just going to accept that and live with it?,XMESS_0171,ウシオ
+XMESS_0172,That's absolutely impossible!!!,XMESS_0172,ウシオ
+XMESS_0173,Don't you dare look down on my sister's precious best friend!! I don't care if you're a god or Hiruko-sama...!! Don't underestimate humans!!!!,XMESS_0173,ウシオ
+XMESS_0174,...!! Ushio-sa...,XMESS_0174,菱形朱鷺子
 XMESS_0175,…,XMESS_0175,ハイネ
-XMESS_0176,How boring…,XMESS_0176,ハイネ
-XMESS_0177,…Ugh!!!,XMESS_0177,ネゴロ
+XMESS_0176,Boring...,XMESS_0176,ハイネ
+XMESS_0177,...Ugh!!,XMESS_0177,ネゴロ
 XMESS_0178,!?,XMESS_0178,網代慎平
-XMESS_0179,Uu… Aaaaahhh!!!,XMESS_0179,ネゴロ
-XMESS_0180,"(What is this…  
-It's changing into a monster…  
-Is it Haine?!!)",XMESS_0180,網代慎平
-XMESS_0181,No need to pretend anymore!!!,XMESS_0181,網代慎平
-XMESS_0182,"I want her memories.  
-Half-dead.",XMESS_0182,ハイネ
-XMESS_0183,…Oooohhh!!!,XMESS_0183,ネゴロ
-XMESS_0184,Ku…!,XMESS_0184,網代慎平
-XMESS_0185,"(Coming in!! 
-If I'm to do my best hand,
-now is the time for Mio to cut off my head and break this loop--)",XMESS_0185,網代慎平
-XMESS_0186,Shinpei!! Leave it to me!!!,XMESS_0186,ウシオ
+XMESS_0179,Uu... Aaaaaaahhh!!!,XMESS_0179,ネゴロ
+XMESS_0180,(What is... that... She's transforming into a monster... Is this Haine's doing!?),XMESS_0180,網代慎平
+XMESS_0181,(I guess she doesn't need to mimic a human anymore!!),XMESS_0181,網代慎平
+XMESS_0182,I want to eat her memories. Beat her half to death.,XMESS_0182,ハイネ
+XMESS_0183,...Oooooohhh!!!!,XMESS_0183,ネゴロ
+XMESS_0184,Ngh...!,XMESS_0184,網代慎平
+XMESS_0185,"(She's charging at us...!! If I'm to play the best move, I need Ushio to cut off my head right now and loop—)",XMESS_0185,網代慎平
+XMESS_0186,Shinpei!! Leave it to me!!,XMESS_0186,ウシオ
 XMESS_0187,…!?,XMESS_0187,網代慎平
-XMESS_0188,"(I can't stop it even though I should…
-Because, deep down, my feelings are exactly the same as Mio's)",XMESS_0188,網代慎平
-XMESS_0189,If it's going to end…,XMESS_0189,網代慎平
-XMESS_0190,Oooohhh!!!,XMESS_0190,ネゴロ
-XMESS_0191,(To fight and die!),XMESS_0191,網代慎平
-XMESS_0192,Here I come!!!,XMESS_0192,ウシオ
-XMESS_0193,(Mio's right arm has returned!!!),XMESS_0193,網代慎平
-XMESS_0194,Humans… don't underestimate us!!!,XMESS_0194,ウシオ
-XMESS_0195,!!!!!!!!!,XMESS_0195,ネゴロ
-XMESS_0196,(Got it!!!),XMESS_0196,網代慎平
-XMESS_0197,"Now for Haine!!!
-If I shoot the nail gun--",XMESS_0197,網代慎平
-XMESS_0198,…,XMESS_0198,ハイネ
-XMESS_0199,Huh?,XMESS_0199,網代慎平
-XMESS_0200,"(The nail gun… it's been cut in two?!
-My fingers too?!)",XMESS_0200,網代慎平
+XMESS_0188,"(I should stop Ushio, but I can't— Because I feel exactly the same way she does.)",XMESS_0188,網代慎平
+XMESS_0189,(If we're going to die anyway—),XMESS_0189,網代慎平
+XMESS_0190,Oooooooooohh!!,XMESS_0190,ネゴロ
+XMESS_0191,(We'll go down fighting!),XMESS_0191,網代慎平
+XMESS_0192,She's here!! Let's gooooo!!!,XMESS_0192,ウシオ
+XMESS_0193,(Ushio's right arm is back to normal...!!),XMESS_0193,網代慎平
+XMESS_0194,Don't underestimate... humans!!!!,XMESS_0194,ウシオ
+XMESS_0195,!!!!!!!,XMESS_0195,ネゴロ
+XMESS_0196,(We did it...!!),XMESS_0196,網代慎平
+XMESS_0197,(Now just Haine!! If I shoot her with the nail gun—),XMESS_0197,網代慎平
+XMESS_0198,……Tch!,XMESS_0198,ハイネ
+XMESS_0199,Eh?,XMESS_0199,網代慎平
+XMESS_0200,(The nail gun... was sliced in two...? Along with... my fingers!?),XMESS_0200,網代慎平
 XMESS_0201,"Stop, Haine. That's enough.",XMESS_0201,四本腕の影（シデ）
-XMESS_0202,"…Ugh!!  
-Ah! Ahhh!!!
-What the hell is this?!",XMESS_0202,網代慎平
+XMESS_0202,…U-Guh!!! Aaaah...!! Aaaaaaah!!!!,XMESS_0202,網代慎平
 XMESS_0203,S-Shinpei!?,XMESS_0203,ウシオ
-XMESS_0204,"You tried to eat Shinpei, didn't you?",XMESS_0204,四本腕の影（シデ）
-XMESS_0205,"But but!  
-They took my food!",XMESS_0205,ハイネ
-XMESS_0206,"It's not ""but""!!!",XMESS_0206,四本腕の影（シデ）
-XMESS_0207,"Puuuut!
-You're just late, that's all…",XMESS_0207,ハイネ
-XMESS_0208,"Forgive me…  
-It was so interesting, I couldn't help watching.",XMESS_0208,ハイネ
-XMESS_0209,Guh… ahh…,XMESS_0209,四本腕の影（シデ）
-XMESS_0210,"Haine.  
-The body of Mio will be retrieved later, so don't worry…",XMESS_0210,網代慎平
-XMESS_0211,"You can't eat this.  
-It's a valuable hostage.",XMESS_0211,四本腕の影（シデ）
-XMESS_0212,!!!!!!!!!,XMESS_0212,四本腕の影（シデ）
-XMESS_0213,Mio!!!,XMESS_0213,網代慎平
-XMESS_0214,…What?,XMESS_0214,ウシオと窓
-XMESS_0215,"Persistent!  
-You know that already!!!",XMESS_0215,菱形朱鷺子
-XMESS_0216,Ku…,XMESS_0216,ハイネ
-XMESS_0217,"Yes, you're smart.  
-It's better not to move.",XMESS_0217,網代慎平
-XMESS_0218,"Don't worry…  
-Mio is alive.  
-But if you move even a step, I'll smash her head like an egg.",XMESS_0218,四本腕の影（シデ）
-XMESS_0219,"We won't let you interfere anymore.  
-Just give up everything.",XMESS_0219,四本腕の影（シデ）
-XMESS_0220,You bastard!!!,XMESS_0220,四本腕の影（シデ）
-XMESS_0221,Hey… what's going on here?!,XMESS_0221,ウシオ
-XMESS_0222,"You can't touch Mio!!!
-That's what I said!!!",XMESS_0222,菱形朱鷺子
-XMESS_0223,"What's there to say?  
-You all only have one day left anyway.",XMESS_0223,菱形朱鷺子
-XMESS_0224,"What… what are you saying?! 
-Tomorrow, the last meal for Haine to heal his body…
-To make Mom alive again!!!",XMESS_0224,四本腕の影（シデ）
-XMESS_0225,"No one will find out…  
-Then everything goes back to normal…
-Back to how it was!!!
-That's Dad's plan, right?!",XMESS_0225,菱形朱鷺子
-XMESS_0226,"Thank you for the kindness of the Hishigata family.  
-But that's all over now.",XMESS_0226,菱形朱鷺子
-XMESS_0227,"…You betrayed us…
-What are you going to do with everyone--",XMESS_0227,四本腕の影（シデ）
-XMESS_0228,How annoying.,XMESS_0228,菱形朱鷺子
-XMESS_0229,Tokiko!!!,XMESS_0229,四本腕の影（シデ）
-XMESS_0230,"…!
-Brother…",XMESS_0230,菱形窓
-XMESS_0231,Father already knows everything.,XMESS_0231,菱形朱鷺子
-XMESS_0232,…!!!,XMESS_0232,四本腕の影（シデ）
-XMESS_0233,Sou…,XMESS_0233,網代慎平
-XMESS_0234,Brother…?,XMESS_0234,菱形朱鷺子
-XMESS_0235,Father already knows everything.,XMESS_0235,四本腕の影（シデ）
-XMESS_0236,…!!!,XMESS_0236,菱形朱鷺子
+XMESS_0204,"You were just about to eat Shinpei-kun, weren't you?",XMESS_0204,四本腕の影（シデ）
+XMESS_0205,"But, but! They took my food!",XMESS_0205,ハイネ
+XMESS_0206,That's not a good reason.,XMESS_0206,四本腕の影（シデ）
+XMESS_0207,Pffft!,XMESS_0207,ハイネ
+XMESS_0208,This only happened because you were so slow to come out...,XMESS_0208,ハイネ
+XMESS_0209,"Forgive me... It was so interesting, I couldn't help but watch for a while.",XMESS_0209,四本腕の影（シデ）
+XMESS_0210,G-A-Ah...!,XMESS_0210,網代慎平
+XMESS_0211,"Haine. I'll get Ushio Kofune's body back for you later, so...",XMESS_0211,四本腕の影（シデ）
+XMESS_0212,You can't eat this one. She's a valuable hostage.,XMESS_0212,四本腕の影（シデ）
+XMESS_0213,...!?,XMESS_0213,網代慎平
+XMESS_0214,...Mio!!,XMESS_0214,ウシオと窓
+XMESS_0215,...Huh?,XMESS_0215,菱形朱鷺子
+XMESS_0216,You're so persistent! I know already...,XMESS_0216,ハイネ
+XMESS_0217,Ngh...,XMESS_0217,網代慎平
+XMESS_0218,Yes... you're all very smart. It's best not to move...,XMESS_0218,四本腕の影（シデ）
+XMESS_0219,"Don't worry... Mio-chan is alive. However, if you take even one step, I'll crush her head like a raw egg.",XMESS_0219,四本腕の影（シデ）
+XMESS_0220,We won't let you interfere with us anymore. Please give up on everything.,XMESS_0220,四本腕の影（シデ）
+XMESS_0221,Y-You...!!,XMESS_0221,ウシオ
+XMESS_0222,Hey. What's going on?,XMESS_0222,菱形朱鷺子
+XMESS_0223,You said you wouldn't lay a hand on Mio!! Didn't you!!!,XMESS_0223,菱形朱鷺子
+XMESS_0224,What do you mean...? You all only have until tomorrow to live anyway.,XMESS_0224,四本腕の影（シデ）
+XMESS_0225,"What... What are you saying? Tomorrow... at the summer festival, the final meal will heal Haine's body... So that Mom can live...!!",XMESS_0225,菱形朱鷺子
+XMESS_0226,Without anyone finding out... everything will go back to normal... Just like it was...! That was Dad's plan... wasn't it!!,XMESS_0226,菱形朱鷺子
+XMESS_0227,We are very grateful to the Hishigata family. But that is also over now.,XMESS_0227,四本腕の影（シデ）
+XMESS_0228,…You betrayed us... What are you going to do to everyone—,XMESS_0228,菱形朱鷺子
+XMESS_0229,You're annoying.,XMESS_0229,四本腕の影（シデ）
+XMESS_0230,Tokiko!!,XMESS_0230,菱形窓
+XMESS_0231,...!!,XMESS_0231,菱形朱鷺子
+XMESS_0232,Wow!,XMESS_0232,四本腕の影（シデ）
+XMESS_0233,Sou...!!,XMESS_0233,網代慎平
+XMESS_0234,Big... brother...?,XMESS_0234,菱形朱鷺子
+XMESS_0235,Your father has already agreed to everything.,XMESS_0235,四本腕の影（シデ）
+XMESS_0236,...!!,XMESS_0236,菱形朱鷺子

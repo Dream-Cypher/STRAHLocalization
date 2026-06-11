@@ -1,102 +1,65 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,9. Shadow Sickness,XCHAPTITLE_0002,
-XMESS_0000,"Hah, hah…",XMESS_0000,網代慎平
-XMESS_0001,"(As Totsumura-san said.
-The Koba Mart's shutter is closed…)",XMESS_0001,網代慎平
+XMESS_0000,"Haa, haa...",XMESS_0000,網代慎平
+XMESS_0001,(Just like Totsumura-san said. Koba Mart's shutters are closed...),XMESS_0001,網代慎平
 XMESS_0002,…,XMESS_0002,小舟澪
 XMESS_0003,…Mio.,XMESS_0003,網代慎平
 XMESS_0004,Shin-chan…,XMESS_0004,小舟澪
-XMESS_0005,"…Even yesterday, you came to the funeral.
-At the Kobayakawa's…",XMESS_0005,網代慎平
+XMESS_0005,...They even came to the funeral yesterday. The Kobayakawas...,XMESS_0005,網代慎平
 XMESS_0006,…Yeah…,XMESS_0006,小舟澪
-XMESS_0007,"Sorry.
-The store…I ran out…",XMESS_0007,小舟澪
+XMESS_0007,Sorry. For running out of the shop...,XMESS_0007,小舟澪
 XMESS_0008,It's fine.,XMESS_0008,網代慎平
-XMESS_0009,"Shiori-chan…
-She's been acting strange lately.",XMESS_0009,小舟澪
-XMESS_0010,"Ah, she's been like that since the shock
-couldn't speak…",XMESS_0010,網代慎平
-XMESS_0011,"No, it's not that.",XMESS_0011,小舟澪
-XMESS_0012,Huh?,XMESS_0012,網代慎平
-XMESS_0013,"It started before that…
-Last week maybe…she said something weird…",XMESS_0013,小舟澪
-XMESS_0014,"At Mt. Takanosu,
-while catching insects she saw…",XMESS_0014,小舟澪
+XMESS_0009,Shiori-chan... She's been acting strange lately.,XMESS_0009,小舟澪
+XMESS_0010,"Yeah, I heard she became unable to speak from the shock...",XMESS_0010,網代慎平
+XMESS_0011,That's not it.,XMESS_0011,小舟澪
+XMESS_0012,Eh?,XMESS_0012,網代慎平
+XMESS_0013,Since before that... Maybe last week... she was saying something weird...,XMESS_0013,小舟澪
+XMESS_0014,She said she saw it while catching bugs at Mt. Takanosu.,XMESS_0014,小舟澪
 XMESS_0015,"…Saw?
 What?",XMESS_0015,網代慎平
-XMESS_0016,A girl who looked just like me.,XMESS_0016,小舟澪
-XMESS_0017,…From the next day on…,XMESS_0017,小舟澪
-XMESS_0018,"At school, on the way to school…
-I've felt like I've been watched…",XMESS_0018,小舟澪
-XMESS_0019,"That…what?
-Like a Doppelgänger…?",XMESS_0019,網代慎平
-XMESS_0020,"(Another version of myself---
-I think I read somewhere that people who see a Doppelgänger die…)",XMESS_0020,網代慎平
-XMESS_0021,"(Suddenly being asked such a thing
-I don't know how to react…)",XMESS_0021,網代慎平
-XMESS_0022,"Hey, you, there's a shadow…",XMESS_0022,男の声（根津銀次郎）
-XMESS_0023,…Huh?,XMESS_0023,網代慎平
+XMESS_0016,A girl... who looked exactly like her.,XMESS_0016,小舟澪
+XMESS_0017,...From the day after that.,XMESS_0017,小舟澪
+XMESS_0018,"At school, or on the way to school... She said she felt like she was constantly being watched...",XMESS_0018,小舟澪
+XMESS_0019,What is that...? Like a <color=#GF_TIPS_060>doppelganger</color>...?,XMESS_0019,網代慎平
+XMESS_0020,"(Another version of yourself— I read in some book that people who see their doppelganger die, but...)",XMESS_0020,網代慎平
+XMESS_0021,"(Even if she suddenly tells me a story like that, I don't know how to react...)",XMESS_0021,網代慎平
+XMESS_0022,"That's a Shadow, of course...",XMESS_0022,男の声（根津銀次郎）
+XMESS_0023,...Eh?,XMESS_0023,網代慎平
 XMESS_0024,…,XMESS_0024,根津銀次郎
-XMESS_0025,"…Hey, Mio.
-Who is that guy…?",XMESS_0025,網代慎平
-XMESS_0026,"It's Nezu-san.
-The hunter…",XMESS_0026,小舟澪
-XMESS_0027,"What that girl saw was
-a disease called Shadow Sickness…",XMESS_0027,根津銀次郎
-XMESS_0028,…Shadow…?,XMESS_0028,網代慎平
-XMESS_0029,It's like a local disease passed down on this island.,XMESS_0029,根津銀次郎
-XMESS_0030,"These days, there are fewer people who see it…
-But before the war, it was common.",XMESS_0030,根津銀次郎
-XMESS_0031,"If you get the Shadow Sickness,
-you start seeing shadows…",XMESS_0031,根津銀次郎
-XMESS_0032,"Those who see shadows die.
-They're killed by the shadow.",XMESS_0032,根津銀次郎
-XMESS_0033,…!!,XMESS_0033,小舟澪
-XMESS_0034,"Then, pretending to be the victim,
-they kill everyone in the family.
-That's the legend…",XMESS_0034,根津銀次郎
-XMESS_0035,"So, the sick people go to Hiruko Shrine for exorcism.
-My grandfather used to say…",XMESS_0035,根津銀次郎
-XMESS_0036,(He left…),XMESS_0036,網代慎平
-XMESS_0037,"What…?
-That conversation just now…",XMESS_0037,網代慎平
-XMESS_0038,"Hey Shin-chan.
-I also…when I was little,
-my grandma told me about it…",XMESS_0038,小舟澪
-XMESS_0039,The shadow story?,XMESS_0039,網代慎平
-XMESS_0040,"Yeah…
-Shin-chan, you don't know?",XMESS_0040,小舟澪
-XMESS_0041,"No…but it's probably just
-superstition, right?",XMESS_0041,網代慎平
-XMESS_0042,"Yeah…but…
-I saw my sister's shadow.",XMESS_0042,小舟澪
-XMESS_0043,…!!,XMESS_0043,網代慎平
-XMESS_0044,"Three days before my sister died.
-We went to the Omoto Beach garbage collection event together.
-At that time---",XMESS_0044,小舟澪
+XMESS_0025,"...H-Hey, Mio. Who was that person again...?",XMESS_0025,網代慎平
+XMESS_0026,It's <color=#GF_TIPS_017>Nezu-san</color>. The hunter...,XMESS_0026,小舟澪
+XMESS_0027,What that girl said she saw. It's called the Shadow Sickness...,XMESS_0027,根津銀次郎
+XMESS_0028,...Shadow...?,XMESS_0028,網代慎平
+XMESS_0029,It's like an endemic disease passed down on this island.,XMESS_0029,根津銀次郎
+XMESS_0030,"Lately, there are fewer people who say they've seen it, but... It was common up until before the war.",XMESS_0030,根津銀次郎
+XMESS_0031,"If you catch the Shadow Sickness, you start seeing Shadows...",XMESS_0031,根津銀次郎
+XMESS_0032,Those who see a Shadow die. They're killed by the Shadow.,XMESS_0032,根津銀次郎
+XMESS_0033,...!,XMESS_0033,小舟澪
+XMESS_0034,"And then, pretending to be the person they killed, they massacre everyone in that household too. That's the legend...",XMESS_0034,根津銀次郎
+XMESS_0035,"That's why, the sick people had Hiruko-sama exorcise them. That's what my grandpa used to say...",XMESS_0035,根津銀次郎
+XMESS_0036,(He left...),XMESS_0036,網代慎平
+XMESS_0037,What was that...? <color=#GF_TIPS_082>That story just now</color>...,XMESS_0037,網代慎平
+XMESS_0038,"Hey, Shin-chan. I also... heard about it from my grandma when I was little...",XMESS_0038,小舟澪
+XMESS_0039,The story about Shadows?,XMESS_0039,網代慎平
+XMESS_0040,"Yeah... Shin-chan, you didn't know?",XMESS_0040,小舟澪
+XMESS_0041,"No... but, it's just some kind of... superstition, right?",XMESS_0041,網代慎平
+XMESS_0042,Yeah... but you see... I saw it... Onee-chan's Shadow.,XMESS_0042,小舟澪
+XMESS_0043,...!,XMESS_0043,網代慎平
+XMESS_0044,Three days before Onee-chan died. We went to the garbage cleanup event at <color=#GF_TIPS_042>Omoto Beach</color> together. At that time—,XMESS_0044,小舟澪
 XMESS_0045,"Look, Mio!",XMESS_0045,小舟潮
-XMESS_0046,Huh?,XMESS_0046,小舟澪
+XMESS_0046,Eh?,XMESS_0046,小舟澪
 XMESS_0047,…,XMESS_0047,もう１人の潮（影ウシオ）
-XMESS_0048,"…What the hell!! 
-There's a difference between a joke and a bad joke!!",XMESS_0048,網代慎平
-XMESS_0049,Seeing a shadow of Ushio!!,XMESS_0049,網代慎平
-XMESS_0050,"It's true!! 
-But it disappeared right in front of my eyes…
-My…my sister died three days later…!!",XMESS_0050,小舟澪
-XMESS_0051,Ugh…I'm worried about Shiori and the others…!!,XMESS_0051,小舟澪
-XMESS_0052,"(Calm down, calm down, calm down…
-Don't panic…It's Shadow Sickness!?
-That's a ridiculous story, right!)",XMESS_0052,網代慎平
-XMESS_0053,"(But…the Kobayakawa family disappearing is a fact…
-There's something strange about Ushio's death…)",XMESS_0053,網代慎平
-XMESS_0054,"(Anyway, not believing what my cute stepsister says…
-What color is your blood, Shinpei Ajiro!!)",XMESS_0054,網代慎平
-XMESS_0055,"…Mio.
-About what you just said…did you tell anyone?",XMESS_0055,網代慎平
-XMESS_0056,…Nope.,XMESS_0056,小舟澪
+XMESS_0048,...Are you an idiot!! There's a difference between a good joke and a bad joke!!,XMESS_0048,網代慎平
+XMESS_0049,Seeing <color=#GF_TIPS_068>Ushio's Shadow</color>...!,XMESS_0049,網代慎平
+XMESS_0050,It's true!! But it disappeared right in front of my eyes... O-Onee-chan died three days later...!!,XMESS_0050,小舟澪
+XMESS_0051,Ugh... I'm worried... about Shiori-chan and her family...!!,XMESS_0051,小舟澪
+XMESS_0052,"(Calm down, calm down, calm down... Take a bird's-eye view... Shadow Sickness!? What a ridiculous story!)",XMESS_0052,網代慎平
+XMESS_0053,(But... it's a fact that the Kobayakawa family disappeared... It's also a fact that there are unknown aspects to Ushio's death...),XMESS_0053,網代慎平
+XMESS_0054,"(Besides, not being able to believe what your cute little sister says... What color is your blood, Shinpei Ajiro!!)",XMESS_0054,網代慎平
+XMESS_0055,...Mio. That story just now... did you tell anyone else?,XMESS_0055,網代慎平
+XMESS_0056,...No.,XMESS_0056,小舟澪
 XMESS_0057,…,XMESS_0057,網代慎平
-XMESS_0058,Let's go ask Hiruko about the shadows.,XMESS_0058,網代慎平
-XMESS_0059,Huh!?,XMESS_0059,小舟澪
-XMESS_0060,"That guy just now said it.
-About the exorcism…so…",XMESS_0060,網代慎平
-XMESS_0061,"Yeah, thanks Shin-chan.",XMESS_0061,小舟澪
+XMESS_0058,Let's go to Hiruko-sama and ask about the Shadows.,XMESS_0058,網代慎平
+XMESS_0059,Eh!?,XMESS_0059,小舟澪
+XMESS_0060,"That old man from earlier said it, right? About the exorcism... so...",XMESS_0060,網代慎平
+XMESS_0061,"Yeah, thank you, Shin-chan.",XMESS_0061,小舟澪

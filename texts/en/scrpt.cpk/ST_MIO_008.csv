@@ -1,84 +1,54 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,9. Suspicious and Distrustful,XCHAPTITLE_0002,
+XCHAPTITLE_0002,9. Paranoia,XCHAPTITLE_0002,
 XMESS_0000,"Mio, don't go.",XMESS_0000,網代慎平
-XMESS_0001,Shin-chan…?,XMESS_0001,小舟澪（ミオ）
-XMESS_0002,"I understand how much you want to trust Alain.
-But I…",XMESS_0002,網代慎平
-XMESS_0003,I don't want anyone I can't be certain is the real person near Mio.,XMESS_0003,網代慎平
+XMESS_0001,Shin-chan...,XMESS_0001,小舟澪（ミオ）
+XMESS_0002,I understand that you want to believe Alain. But I...,XMESS_0002,網代慎平
+XMESS_0003,I don't want anyone near you unless I'm absolutely sure they're the real deal.,XMESS_0003,網代慎平
 XMESS_0004,…,XMESS_0004,小舟アラン（影アラン）
-XMESS_0005,"Go ahead, Alain.
-I'll catch up with Mio later.",XMESS_0005,網代慎平
+XMESS_0005,"Go on ahead, Alain. Mio and I will follow later.",XMESS_0005,網代慎平
 XMESS_0006,…I see.,XMESS_0006,小舟アラン（影アラン）
-XMESS_0007,Sorry…,XMESS_0007,網代慎平
-XMESS_0008,"It's fine, I don't mind being doubted.
-Just…",XMESS_0008,小舟アラン（影アラン）
-XMESS_0009,"Promise me both of you will be safe.
-That's all I ask.",XMESS_0009,小舟アラン（影アラン）
+XMESS_0007,I'm sorry...,XMESS_0007,網代慎平
+XMESS_0008,"It's fine, I don't mind if you doubt me. Just...",XMESS_0008,小舟アラン（影アラン）
+XMESS_0009,Make sure the two of you stay safe. Just promise me that.,XMESS_0009,小舟アラン（影アラン）
 XMESS_0010,Dad…,XMESS_0010,小舟澪（ミオ）
 XMESS_0011,"Yeah, I promise.",XMESS_0011,網代慎平
-XMESS_0012,Then I'll see you later.,XMESS_0012,小舟アラン（影アラン）
+XMESS_0012,"Alright, see you later.",XMESS_0012,小舟アラン（影アラン）
 XMESS_0013,Yeah…,XMESS_0013,小舟澪（ミオ）
-XMESS_0014,"Take care, Alain.",XMESS_0014,網代慎平
+XMESS_0014,"You take care too, Alain.",XMESS_0014,網代慎平
 XMESS_0015,…,XMESS_0015,小舟澪（ミオ）
-XMESS_0016,"I'm sorry, Mio.
-I just couldn't believe that was the real Alain.",XMESS_0016,網代慎平
-XMESS_0017,"If what that Alain said was true,
-and there really was a burglar who broke into Kofune
-and a shadow that attacked them…",XMESS_0017,網代慎平
-XMESS_0018,"It's suspicious that they ignored the Alain at the store
-and just left.",XMESS_0018,網代慎平
-XMESS_0019,"If they were looking for us, they could just call either my phone or Mio's.",XMESS_0019,網代慎平
-XMESS_0020,"I didn't get any calls from Alain.
-What about you, Mio?",XMESS_0020,網代慎平
-XMESS_0021,Me too…it doesn't make sense.,XMESS_0021,小舟澪（ミオ）
-XMESS_0022,"…If there's even the slightest doubt,
-I won't consider them the real thing.",XMESS_0022,網代慎平
-XMESS_0023,If I'm wrong…,XMESS_0023,網代慎平
-XMESS_0024,"Yeah, in that case I'll apologize to everyone who I doubted.",XMESS_0024,網代慎平
-XMESS_0025,"If that's the case, I'll check too.",XMESS_0025,小舟澪（ミオ）
-XMESS_0026,"I mean, could it really be Shin-chan who's a shadow?
-That's not possible, right?",XMESS_0026,小舟澪（ミオ）
-XMESS_0027,Me…a shadow?,XMESS_0027,網代慎平
-XMESS_0028,"I'm sorry…
-I'm saying such terrible things.",XMESS_0028,小舟澪（ミオ）
+XMESS_0016,"I'm sorry, Mio. I just couldn't bring myself to believe that was the real Alain.",XMESS_0016,網代慎平
+XMESS_0017,"Even if what that Alain said was true, and there really was a burglar who broke into Kofune and a Shadow that attacked them...",XMESS_0017,網代慎平
+XMESS_0018,I think it's unnatural that they would just ignore the Alain who was in the store and leave.,XMESS_0018,網代慎平
+XMESS_0019,"Besides, if he was looking for us, he should have just called either my smartphone or yours first.",XMESS_0019,網代慎平
+XMESS_0020,"I haven't had a single call from Alain. What about you, Mio?",XMESS_0020,網代慎平
+XMESS_0021,I haven't... either.,XMESS_0021,小舟澪（ミオ）
+XMESS_0022,"...If there's even the slightest thing to be suspicious of, I have no intention of judging him to be the real deal.",XMESS_0022,網代慎平
+XMESS_0023,If my judgment is wrong...,XMESS_0023,網代慎平
+XMESS_0024,"Yeah, in that case I'll apologize with everything I have. To everyone I ended up doubting.",XMESS_0024,網代慎平
+XMESS_0025,"If that's the case, let me just confirm something too.",XMESS_0025,小舟澪（ミオ）
+XMESS_0026,"You're not a Shadow, are you, Shin-chan...? That's not possible, right?",XMESS_0026,小舟澪（ミオ）
+XMESS_0027,Me... a Shadow?,XMESS_0027,網代慎平
+XMESS_0028,"I'm sorry... I'm saying some terrible things, aren't I.",XMESS_0028,小舟澪（ミオ）
 XMESS_0029,…,XMESS_0029,網代慎平
-XMESS_0030,"Even after being helped so much,
-and being given kind words…",XMESS_0030,小舟澪（ミオ）
-XMESS_0031,"But if that dad might be a shadow,
-I don't know what to believe anymore.",XMESS_0031,小舟澪（ミオ）
-XMESS_0032,"Right now, the Shin-chan in front of me…",XMESS_0032,小舟澪（ミオ）
-XMESS_0033,"He's not a shadow, right?
-I can trust him, right?",XMESS_0033,小舟澪（ミオ）
-XMESS_0034,"Yeah, you can trust him.
-I'm the real Shinpei Ajiro.",XMESS_0034,網代慎平
-XMESS_0035,"Yeah…I trust you.
-Sorry, Shin-chan.",XMESS_0035,小舟澪（ミオ）
-XMESS_0036,"Don't apologize.
-Come on, let's go to the harbor.",XMESS_0036,網代慎平
-XMESS_0037,"Yeah, let's go.
-It'd be good to meet Tokiko and the others.",XMESS_0037,小舟澪（ミオ）
-XMESS_0038,"(While heading to the harbor, I'll try to organize my thoughts.
-I need to think about the worst case scenario too)",XMESS_0038,網代慎平
-XMESS_0039,"(I don't want to imagine it, but
-if something happened to Sou, Tokiko, and even…
-Mio…)",XMESS_0039,網代慎平
-XMESS_0040,"(If that happens, I'll have no choice but to try 'that')",XMESS_0040,網代慎平
-XMESS_0041,"(I don't have any proof it'll work.
-But…)",XMESS_0041,網代慎平
-XMESS_0042,"(If I can't protect anything
-and end up in despair, then
-there's nothing left but 'that')",XMESS_0042,網代慎平
-XMESS_0043,"(Well, if things have gotten this bad,
-I'm probably in serious danger too)",XMESS_0043,網代慎平
-XMESS_0044,"(…No matter what, I'll protect Mio)",XMESS_0044,網代慎平
-XMESS_0045,"Shin-chan?
-You're thinking about something?",XMESS_0045,小舟澪（ミオ）
-XMESS_0046,"…Yeah.
-I'm just thinking about what to do next.",XMESS_0046,網代慎平
-XMESS_0047,Don't you ever think about me?,XMESS_0047,小舟澪（ミオ）
+XMESS_0030,"Even after you've helped me so much, and said such kind things to me.",XMESS_0030,小舟澪（ミオ）
+XMESS_0031,"But after being told that Dad might be a Shadow, I don't know what to believe anymore.",XMESS_0031,小舟澪（ミオ）
+XMESS_0032,The Shin-chan in front of me right now is...,XMESS_0032,小舟澪（ミオ）
+XMESS_0033,"You're not a Shadow, right? I can trust you, right?",XMESS_0033,小舟澪（ミオ）
+XMESS_0034,"Yeah, you can trust me. I'm the real Shinpei Ajiro.",XMESS_0034,網代慎平
+XMESS_0035,"Yeah... I believe you. I'm sorry, Shin-chan.",XMESS_0035,小舟澪（ミオ）
+XMESS_0036,"You don't have to apologize. Come on, let's head to the harbor.",XMESS_0036,網代慎平
+XMESS_0037,"Yeah, let's go. I hope we can meet up with Tokiko and the others.",XMESS_0037,小舟澪（ミオ）
+XMESS_0038,(I should organize my thoughts while we head to the harbor. I need to think about what to do in the worst-case scenario too.),XMESS_0038,網代慎平
+XMESS_0039,"(I don't want to imagine it, but if I were to lose Sou, Tokiko, and even... Mio...)",XMESS_0039,網代慎平
+XMESS_0040,"(If that happens, I'll have no choice but to try ""that"".)",XMESS_0040,網代慎平
+XMESS_0041,(I have no proof that I can really go back. But...),XMESS_0041,網代慎平
+XMESS_0042,"(If I'm going to fall into the depths of despair without being able to protect a single thing, then ""that"" is my only option.)",XMESS_0042,網代慎平
+XMESS_0043,"(Well, if it comes to a situation where I've lost everyone, I'd probably be in a pretty dangerous situation myself.)",XMESS_0043,網代慎平
+XMESS_0044,"(...No matter what it takes, I will protect Mio to the end.)",XMESS_0044,網代慎平
+XMESS_0045,Shin-chan? Are you thinking about something?,XMESS_0045,小舟澪（ミオ）
+XMESS_0046,...Yeah. Just a bit about what we should do next.,XMESS_0046,網代慎平
+XMESS_0047,I wonder if you ever think about me sometimes.,XMESS_0047,小舟澪（ミオ）
 XMESS_0048,Huh? What?,XMESS_0048,網代慎平
-XMESS_0049,"N-nothing! It's nothing!
-Let's hurry!",XMESS_0049,小舟澪（ミオ）
-XMESS_0050,"If we miss the ferry, it'll be all over!",XMESS_0050,小舟澪（ミオ）
-XMESS_0051,"Wait! Hold on!
-Mio, don't go!",XMESS_0051,網代慎平
+XMESS_0049,"N-Nothing! More importantly, let's hurry!",XMESS_0049,小舟澪（ミオ）
+XMESS_0050,"If we don't make it to the ferry in time, it'll all be for nothing!",XMESS_0050,小舟澪（ミオ）
+XMESS_0051,"H-Hey, wait a sec! Mio, you can't wander away from me!",XMESS_0051,網代慎平

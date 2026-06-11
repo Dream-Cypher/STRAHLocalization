@@ -1,462 +1,350 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,38. Ushio and Mio,XCHAPTITLE_0002,
 XMESS_0000,(Ushio…),XMESS_0000,網代慎平
-XMESS_0001,"(Why is this guy looping with me…)
- (That's natural to think, I guess…)",XMESS_0001,網代慎平
-XMESS_0002,"(From his words, it's natural to think…)
- (But…)",XMESS_0002,網代慎平
-XMESS_0003,I'll be eating it!!,XMESS_0003,ウシオ
-XMESS_0004,"…Hmm~~~~!! 
-(That's delicious~~~~~~~~!!)",XMESS_0004,ウシオ
-XMESS_0005,"(She's completely relaxed…
- Now's my chance…?)",XMESS_0005,網代慎平
-XMESS_0006,"(No…Wait…
- Is he watching my move?)",XMESS_0006,網代慎平
-XMESS_0007,"(If that's the case, 
- It's dangerous to move recklessly…)",XMESS_0007,網代慎平
-XMESS_0008,(I'll let him swim a bit longer…),XMESS_0008,網代慎平
-XMESS_0009,"…You.
-Where the hell did you get here from?",XMESS_0009,網代慎平
+XMESS_0001,"(For some reason, she looped back with me.)",XMESS_0001,網代慎平
+XMESS_0002,"(Judging from what she said, it's natural to think that...)",XMESS_0002,網代慎平
+XMESS_0003,Thanks for the food!!,XMESS_0003,ウシオ
+XMESS_0004,...Mmm~~~~!! So delicious~~~~~~~~.,XMESS_0004,ウシオ
+XMESS_0005,(She's completely off her guard... C-Could I do it now...?),XMESS_0005,網代慎平
+XMESS_0006,(No... wait... Is she trying to see what I'll do?),XMESS_0006,網代慎平
+XMESS_0007,"(If that's the case, making a careless move is dangerous...)",XMESS_0007,網代慎平
+XMESS_0008,(I'll let her think she has the upper hand a bit longer...),XMESS_0008,網代慎平
+XMESS_0009,"...You. Where did you come from, and how did you get here?",XMESS_0009,網代慎平
 XMESS_0010,"Huh?
 I walked, of course!",XMESS_0010,ウシオ
-XMESS_0011,"When I woke up, I was at Omoto Beach…",XMESS_0011,ウシオ
-XMESS_0012,"Before that, I was at the summer festival.
-I was with Hiruko…
-I thought I was dreaming…",XMESS_0012,ウシオ
-XMESS_0013,"Since there was nowhere else to go,
-I came back…but no one was there…",XMESS_0013,ウシオ
-XMESS_0014,"When I turned on the TV,
-It said today was the 22nd…",XMESS_0014,ウシオ
+XMESS_0011,"When I woke up, I was at Omoto Beach, y'know?",XMESS_0011,ウシオ
+XMESS_0012,"Before that, I was at the summer festival. I was at the Hiruko shrine... I thought maybe I was dreaming, but...",XMESS_0012,ウシオ
+XMESS_0013,"And, since my house was the only place I could go, I came back, but no one was here...",XMESS_0013,ウシオ
+XMESS_0014,"When I turned on the TV, it said today was the 22nd...",XMESS_0014,ウシオ
 XMESS_0015,"Today was my funeral, wasn't it?
 That's why no one was home?",XMESS_0015,ウシオ
-XMESS_0016,Ah…That's right…,XMESS_0016,網代慎平
-XMESS_0017,"Ah! It's okay!!
-No one saw it!
-I already understood enough!!",XMESS_0017,ウシオ
-XMESS_0018,"I'm like a monster, you know.
-I'll make sure no one finds me.",XMESS_0018,ウシオ
-XMESS_0019,…What?!,XMESS_0019,網代慎平
-XMESS_0020,"Monster…That's…
-That's not…",XMESS_0020,網代慎平
+XMESS_0016,Yeah... that's right...,XMESS_0016,網代慎平
+XMESS_0017,Ah! It's okay!! No one saw me! I've figured that much out!!,XMESS_0017,ウシオ
+XMESS_0018,Since I'm... like a monster. I'll make sure no one finds me anymore.,XMESS_0018,ウシオ
+XMESS_0019,...Wha—!,XMESS_0019,網代慎平
+XMESS_0020,A monster... Th-That's not...,XMESS_0020,網代慎平
 XMESS_0021,…,XMESS_0021,網代慎平
-XMESS_0022,"(No no, just stop it!
- Can you really say that?)",XMESS_0022,網代慎平
-XMESS_0023,"(The teacher said it too!
- Don't let the shadow move your heart!)",XMESS_0023,網代慎平
-XMESS_0024,"(First, I'll check…
- I'll pretend to put my hand on the floor
- And touch its shadow…)",XMESS_0024,網代慎平
-XMESS_0025,Yikes!!?,XMESS_0025,ウシオ
-XMESS_0026,"W-What?!
-I just felt it super ticklish!?
-What did I do?!",XMESS_0026,ウシオ
-XMESS_0027,"H-How?
-I didn't do anything.
-My hand is right here.",XMESS_0027,網代慎平
-XMESS_0028,"Really…
-I felt something touch me.
-You're not a ghost, are you??",XMESS_0028,ウシオ
-XMESS_0029,"It's just your imagination, maybe?",XMESS_0029,網代慎平
-XMESS_0030,"Ugh!
-It's so cold!!",XMESS_0030,ウシオ
+XMESS_0022,"(No, no, look at the big picture! Can you really say that for sure?)",XMESS_0022,網代慎平
+XMESS_0023,(Nagumo-sensei said it too! Don't let the Shadows sway your heart!),XMESS_0023,網代慎平
+XMESS_0024,"(First, I need to check... I'll pretend to put my hand on the floor and casually touch her shadow...)",XMESS_0024,網代慎平
+XMESS_0025,Hyan!!?,XMESS_0025,ウシオ
+XMESS_0026,Wh... What!!? That was super ticklish just now!? D-Did you do something!?,XMESS_0026,ウシオ
+XMESS_0027,Huh...? I-I didn't do anything. My hands are right here.,XMESS_0027,網代慎平
+XMESS_0028,"You're right... I felt like I was touched, though. I-It wasn't a ghost, right...?",XMESS_0028,ウシオ
+XMESS_0029,"Probably just your imagination, right?",XMESS_0029,網代慎平
+XMESS_0030,"Jeez, I got goosebumps!!",XMESS_0030,ウシオ
 XMESS_0031,Haha…,XMESS_0031,網代慎平
-XMESS_0032,"(It's definitely…!
- If touching the shadow makes you ticklish,
- Then the weak point of this one is its flat shadow…!)",XMESS_0032,網代慎平
-XMESS_0033,"(That means if I can stab its shadow,
- I can definitely kill it…!)",XMESS_0033,網代慎平
-XMESS_0034,"(Now, if I stab its shadow with a knife,
- This guy will die…!!)",XMESS_0034,網代慎平
-XMESS_0035,"(See…this guy…
- There's no way to escape…!)",XMESS_0035,網代慎平
+XMESS_0032,"(No doubt about it...! If touching her shadow makes her ticklish, then just like the other Shadows, her weak point is the 2D shadow...!)",XMESS_0032,網代慎平
+XMESS_0033,"(Which means as long as I can stab her shadow, I can definitely kill her...!)",XMESS_0033,網代慎平
+XMESS_0034,"(If I stab her shadow with the knife right now, she'll die...!!)",XMESS_0034,網代慎平
+XMESS_0035,(Just look at her... she's... completely wide open...!),XMESS_0035,網代慎平
 XMESS_0036,…!!,XMESS_0036,網代慎平
-XMESS_0037,Hmm~~~~~~~♪,XMESS_0037,ウシオ
-XMESS_0038,(…I can't do it…),XMESS_0038,網代慎平
-XMESS_0039,(That day…),XMESS_0039,網代慎平
-XMESS_0040,"(Just before the loop at the shrine,
- She punched the four-armed shadow and saved me…)",XMESS_0040,網代慎平
-XMESS_0041,(That day two years ago…),XMESS_0041,網代慎平
-XMESS_0042,Tokyo?!,XMESS_0042,小舟潮
-XMESS_0043,Alain's friend is in Tokyo.,XMESS_0043,網代慎平
-XMESS_0044,So I got to stay there…,XMESS_0044,網代慎平
-XMESS_0045,I go to a cooking school from there.,XMESS_0045,網代慎平
+XMESS_0037,Mmm~~~~~~♪,XMESS_0037,ウシオ
+XMESS_0038,"(...Damn it, I can't do it...!)",XMESS_0038,網代慎平
+XMESS_0039,"(She was the one who, back then—)",XMESS_0039,網代慎平
+XMESS_0040,"(Right before I looped at the shrine grounds, she punched the four-armed Shadow and saved me...)",XMESS_0040,網代慎平
+XMESS_0041,(That time two years ago—),XMESS_0041,網代慎平
+XMESS_0042,Tokyo!!?,XMESS_0042,小舟潮
+XMESS_0043,Alain has an acquaintance in Tokyo.,XMESS_0043,網代慎平
+XMESS_0044,And they agreed to let me board there...,XMESS_0044,網代慎平
+XMESS_0045,I'll commute to culinary school from there.,XMESS_0045,網代慎平
 XMESS_0046,What's that…,XMESS_0046,小舟潮
-XMESS_0047,"I'm not taking the high school in Wakayama.
-It's already decided.",XMESS_0047,網代慎平
-XMESS_0048,I didn't hear about it.,XMESS_0048,小舟潮
-XMESS_0049,"It's none of your business.
-You don't need to know.",XMESS_0049,網代慎平
-XMESS_0050,"Why!!?
-How could you decide something so important on your own!?",XMESS_0050,小舟潮
+XMESS_0047,I'm not taking the exams for the high schools in Wakayama. It's already decided.,XMESS_0047,網代慎平
+XMESS_0048,You never told me about this.,XMESS_0048,小舟潮
+XMESS_0049,Whatever. I don't need to tell you.,XMESS_0049,網代慎平
+XMESS_0050,Why!!? How could you decide something so important on your own!?,XMESS_0050,小舟潮
 XMESS_0051,Why can't I decide on my own!!!,XMESS_0051,網代慎平
-XMESS_0052,"I'm not gonna be
-This house's Kofune kid anymore!!",XMESS_0052,網代慎平
-XMESS_0053,"Quickly, I'll get a job
-And earn my own money!",XMESS_0053,網代慎平
-XMESS_0054,"I don't want to keep
-Bugging Alain and you all!!",XMESS_0054,網代慎平
-XMESS_0055,…Bugging?,XMESS_0055,小舟潮
+XMESS_0052,Listen. I'm not going to just stay as a child of this house... of the Kofune family!!,XMESS_0052,網代慎平
+XMESS_0053,I'm going to learn to earn my own money as soon as possible!,XMESS_0053,網代慎平
+XMESS_0054,I don't want to keep being a burden on Alain and you guys forever!!,XMESS_0054,網代慎平
+XMESS_0055,...A burden?,XMESS_0055,小舟潮
 XMESS_0056,"…Shinpei, do you hate this place?",XMESS_0056,小舟潮
-XMESS_0057,H-How did it get to that?!,XMESS_0057,網代慎平
-XMESS_0058,I don't want to talk to you anymore!!,XMESS_0058,網代慎平
-XMESS_0059,I don't want to talk to you either!!,XMESS_0059,小舟潮
+XMESS_0057,Huh!!? How did you come to that conclusion!?,XMESS_0057,網代慎平
+XMESS_0058,Fine!! I have nothing more to say to you!!,XMESS_0058,網代慎平
+XMESS_0059,I'm the one who's had enough!!,XMESS_0059,小舟潮
 XMESS_0060,…,XMESS_0060,網代慎平
-XMESS_0061,"(It's not like that, Ushio…
- I could never hate it…)",XMESS_0061,網代慎平
-XMESS_0062,(…I like you…!),XMESS_0062,網代慎平
-XMESS_0063,"(I don't want to become
- A family member like this…)",XMESS_0063,網代慎平
+XMESS_0061,"(You're wrong, Ushio... There's no way I could hate it here.)",XMESS_0061,網代慎平
+XMESS_0062,(...I love you...!),XMESS_0062,網代慎平
+XMESS_0063,(I just don't want to be family with you in this way...),XMESS_0063,網代慎平
 XMESS_0064,"Hey, Shinpei.",XMESS_0064,小舟潮
-XMESS_0065,"Since today's the last day,
-I think your curry would be best.",XMESS_0065,小舟潮
+XMESS_0065,Since today is your last day. I'd like Shinpei's curry for dinner.,XMESS_0065,小舟潮
 XMESS_0066,Huh?,XMESS_0066,網代慎平
-XMESS_0067,"There's a lot to do
-Like packing and stuff!
-See you later.",XMESS_0067,網代慎平
+XMESS_0067,I've got a lot of packing and stuff to do! Let's do it next time.,XMESS_0067,網代慎平
 XMESS_0068,…,XMESS_0068,小舟潮
-XMESS_0069,Your stupid Shinpei…,XMESS_0069,小舟潮
+XMESS_0069,"Shinpei, you idiot...",XMESS_0069,小舟潮
 XMESS_0070,Hello…,XMESS_0070,小舟澪
-XMESS_0071,"Mio?
-It's been a while.",XMESS_0071,網代慎平
+XMESS_0071,Mio? It's been a while.,XMESS_0071,網代慎平
 XMESS_0072,"Shin-chan, Shin-chan…",XMESS_0072,小舟澪
-XMESS_0073,"What's wrong?
-Did something happen?!",XMESS_0073,網代慎平
-XMESS_0074,"Hic, my sister…",XMESS_0074,小舟澪
-XMESS_0075,Is something wrong with Ushio?,XMESS_0075,網代慎平
-XMESS_0076,My sister died…,XMESS_0076,小舟澪
-XMESS_0077,"(There was no ""next time"".
- I thought that…)",XMESS_0077,網代慎平
-XMESS_0078,(But…),XMESS_0078,網代慎平
-XMESS_0079,"Finally, you made it…",XMESS_0079,ウシオ
-XMESS_0080,"Good…
-I can eat Shinpei's curry again…",XMESS_0080,ウシオ
-XMESS_0081,I'm glad I'm alive…,XMESS_0081,ウシオ
+XMESS_0073,What's wrong? Did something happen!?,XMESS_0073,網代慎平
+XMESS_0074,"*Hic*, Sis...",XMESS_0074,小舟澪
+XMESS_0075,U-Ushio? Did something happen to Ushio?,XMESS_0075,網代慎平
+XMESS_0076,Sis... she died...,XMESS_0076,小舟澪
+XMESS_0077,"(There was no ""next time."" That's what I thought...)",XMESS_0077,網代慎平
+XMESS_0078,(And yet...),XMESS_0078,網代慎平
+XMESS_0079,You finally made it for me...,XMESS_0079,ウシオ
+XMESS_0080,I'm so glad... I got to eat Shinpei's curry again...,XMESS_0080,ウシオ
+XMESS_0081,I'm so glad I'm alive...,XMESS_0081,ウシオ
 XMESS_0082,…,XMESS_0082,網代慎平
-XMESS_0083,Is it delicious…?,XMESS_0083,網代慎平
-XMESS_0084,Second helping!!,XMESS_0084,ウシオ
-XMESS_0085,…,XMESS_0085,網代慎平
-XMESS_0086,"Even if my dad made it,
-It's not the same flavor…
-Shinpei's is definitely the best!",XMESS_0086,ウシオ
+XMESS_0083,Is it... good?,XMESS_0083,網代慎平
+XMESS_0084,Seconds!!,XMESS_0084,ウシオ
+XMESS_0085,...,XMESS_0085,網代慎平
+XMESS_0086,"Even when Dad makes it, the flavor just isn't the same. Shinpei's is definitely the best!",XMESS_0086,ウシオ
 XMESS_0087,…,XMESS_0087,網代慎平
-XMESS_0088,I see…Good.,XMESS_0088,網代慎平
+XMESS_0088,I see... I'm glad.,XMESS_0088,網代慎平
 XMESS_0089,…,XMESS_0089,網代慎平
-XMESS_0090,"(This one is 'Ushio'…
- It's Ushio…)",XMESS_0090,網代慎平
+XMESS_0090,"(She is ""Ushio""... She's Ushio...)",XMESS_0090,網代慎平
 XMESS_0091,"…Hey, Shinpei?",XMESS_0091,ウシオ
 XMESS_0092,Hm?,XMESS_0092,網代慎平
-XMESS_0093,"If we reach the 24th like this,
-Will the same thing happen again?",XMESS_0093,ウシオ
-XMESS_0094,"Ah…
-I'm trying to stop it somehow.",XMESS_0094,網代慎平
-XMESS_0095,"…I see…
-Then I'll help too!!",XMESS_0095,ウシオ
-XMESS_0096,…What!?,XMESS_0096,網代慎平
-XMESS_0097,"I don't want the summer festival on Hitogashima
-To be messed up by that monster…",XMESS_0097,ウシオ
-XMESS_0098,I especially don't want Mio and everyone to disappear…,XMESS_0098,ウシオ
+XMESS_0093,If the 24th comes around like this. Will the same thing happen again?,XMESS_0093,ウシオ
+XMESS_0094,Yeah... I'm planning to stop it somehow.,XMESS_0094,網代慎平
+XMESS_0095,"...I see... Then I'll help, too!!",XMESS_0095,ウシオ
+XMESS_0096,...Huh!?,XMESS_0096,網代慎平
+XMESS_0097,I don't want the Hitogashima summer festival to be ruined by those monsters...!,XMESS_0097,ウシオ
+XMESS_0098,And I definitely don't want Mio and everyone else to disappear!!,XMESS_0098,ウシオ
 XMESS_0099,…!!,XMESS_0099,網代慎平
-XMESS_0100,"That's right…I do too…!!
-Let's stop it together!!",XMESS_0100,網代慎平
+XMESS_0100,You're right... Me too...!! Let's stop them together!!!,XMESS_0100,網代慎平
 XMESS_0101,Yeah…!!,XMESS_0101,ウシオ
-XMESS_0102,"Ah, right…",XMESS_0102,ウシオ
-XMESS_0103,…?,XMESS_0103,網代慎平
-XMESS_0104,"I saw it…!!
-Before the real Shinpei came, in that shrine…",XMESS_0104,ウシオ
-XMESS_0105,Tokiko was talking to the shadow…,XMESS_0105,ウシオ
-XMESS_0106,…?!,XMESS_0106,網代慎平
-XMESS_0107,"Tokiko…
-That Tokiko!?",XMESS_0107,網代慎平
-XMESS_0108,"Yeah…!!
-It's Sou's younger sister, Tokiko…",XMESS_0108,ウシオ
-XMESS_0109,"Wait! Wait wait wait…
-Tell me in order!",XMESS_0109,網代慎平
-XMESS_0110,"First, I told you to wait
-In the forest behind the tent, right?",XMESS_0110,網代慎平
-XMESS_0111,"Yeah…
-I hid there for a while…",XMESS_0111,ウシオ
-XMESS_0112,"Then suddenly, I heard a strange voice in my head…",XMESS_0112,ウシオ
-XMESS_0113,"I couldn't clearly hear it…
-But it felt like I was being called…",XMESS_0113,ウシオ
-XMESS_0114,I felt like I had to go to Hiruko…,XMESS_0114,ウシオ
-XMESS_0115,"…So when I got to the shrine,
-Sou was confessing to Mio…",XMESS_0115,ウシオ
-XMESS_0116,He actually did it…!!,XMESS_0116,網代慎平
-XMESS_0117,"Then, he got rejected…
-After that, I came out!
-Don't worry!!",XMESS_0117,ウシオ
-XMESS_0118,You're kidding…,XMESS_0118,網代慎平
-XMESS_0119,But something's on my mind… that situation…,XMESS_0119,網代慎平
-XMESS_0120,"Well… then Shinpei… No, it's not Shinpei…",XMESS_0120,ウシオ
-XMESS_0121,It's my shadow…?,XMESS_0121,網代慎平
-XMESS_0122,That Shinpei's body glowed… The shadow from the window…,XMESS_0122,ウシオ
-XMESS_0123,"Then, as if it was a signal, people… turned into black shadows…",XMESS_0123,ウシオ
-XMESS_0124,Screams came from all around… The shadows… started attacking everyone…,XMESS_0124,ウシオ
-XMESS_0125,There were shadows among the people in the shrine… Do you know who the shadow was!?,XMESS_0125,網代慎平
-XMESS_0126,Sorry… It happened in an instant…,XMESS_0126,ウシオ
-XMESS_0127,"Sou tried to escape while protecting Mio, but the escape route was blocked by shadows…",XMESS_0127,ウシオ
-XMESS_0128,Both of them were gradually cornered in the center of the shrine.,XMESS_0128,ウシオ
-XMESS_0129,I was captured… I could only watch…,XMESS_0129,ウシオ
+XMESS_0102,"Ah, right...",XMESS_0102,ウシオ
+XMESS_0103,...?,XMESS_0103,網代慎平
+XMESS_0104,"I saw it...!! Before the real Shinpei arrived, at the shrine grounds...",XMESS_0104,ウシオ
+XMESS_0105,Toki-chan was... talking to the Shadows...,XMESS_0105,ウシオ
+XMESS_0106,...!?,XMESS_0106,網代慎平
+XMESS_0107,Toki-chan... Y-You mean that Toki-chan!?,XMESS_0107,網代慎平
+XMESS_0108,"Yeah...!! Sou's younger sister, Tokiko-chan!",XMESS_0108,ウシオ
+XMESS_0109,"Wait! Wait, wait, wait, wait... Tell me what happened in order!",XMESS_0109,網代慎平
+XMESS_0110,"First, at that time, I told you to wait in the woods behind the tents, right?",XMESS_0110,網代慎平
+XMESS_0111,"Yeah... I was hiding there for a while, but...",XMESS_0111,ウシオ
+XMESS_0112,"Suddenly, I heard a weird voice in my head...",XMESS_0112,ウシオ
+XMESS_0113,I couldn't make it out clearly... But it felt like I was being called...,XMESS_0113,ウシオ
+XMESS_0114,I started feeling like I had to go to the Hiruko shrine...,XMESS_0114,ウシオ
+XMESS_0115,"...And, when I got to the shrine grounds, Sou was confessing to Mio...",XMESS_0115,ウシオ
+XMESS_0116,"He actually went and did it, that guy...!!",XMESS_0116,網代慎平
+XMESS_0117,"And, sure enough, he got rejected... After that, I came out! And told him ""Don't mind it""!!",XMESS_0117,ウシオ
+XMESS_0118,You've gotta be kidding me...,XMESS_0118,網代慎平
+XMESS_0119,"But I can kind of picture it, that situation...",XMESS_0119,網代慎平
+XMESS_0120,"Well... then Shinpei... No, not Shinpei...",XMESS_0120,ウシオ
+XMESS_0121,"My Shadow, huh...",XMESS_0121,網代慎平
+XMESS_0122,"That Shinpei's body flashed with light... And from his feet, Sou's Shadow...",XMESS_0122,ウシオ
+XMESS_0123,"And then, as if that was a signal, people... turned into black Shadows...",XMESS_0123,ウシオ
+XMESS_0124,Screams started coming from all over... The Shadows... started attacking everyone...,XMESS_0124,ウシオ
+XMESS_0125,Shadows were mixed in among the people on the shrine grounds... Do you know who was a Shadow!?,XMESS_0125,網代慎平
+XMESS_0126,Sorry... It all happened in an instant...,XMESS_0126,ウシオ
+XMESS_0127,"Sou tried to escape while protecting Mio, but the Shadows blocked their escape route...",XMESS_0127,ウシオ
+XMESS_0128,The two of them were gradually cornered into the middle of the shrine grounds.,XMESS_0128,ウシオ
+XMESS_0129,I was caught... and all I could do was watch...,XMESS_0129,ウシオ
 XMESS_0130,…,XMESS_0130,網代慎平
-XMESS_0131,"…Well, that's when Tokiko…",XMESS_0131,ウシオ
-XMESS_0132,This isn't part of the promise.,XMESS_0132,菱形朱鷺子
-XMESS_0133,You can't touch my brother and Mio!,XMESS_0133,菱形朱鷺子
-XMESS_0134,I told you!! !!,XMESS_0134,菱形朱鷺子
-XMESS_0135,T… Tokiko?,XMESS_0135,菱形窓
-XMESS_0136,The Hishigata family has been greatly helpful… But that ends today.,XMESS_0136,四本腕の影（シデ）
+XMESS_0131,...And then. That's when Toki-chan—,XMESS_0131,ウシオ
+XMESS_0132,This wasn't the promise.,XMESS_0132,菱形朱鷺子
+XMESS_0133,You weren't supposed to lay a hand... on my brother and Mio!,XMESS_0133,菱形朱鷺子
+XMESS_0134,That's what you said!!!!,XMESS_0134,菱形朱鷺子
+XMESS_0135,T... Tokiko?,XMESS_0135,菱形窓
+XMESS_0136,The Hishigata family has been of great help to us... But that ends today.,XMESS_0136,四本腕の影（シデ）
 XMESS_0137,…,XMESS_0137,網代慎平
-XMESS_0138,(That's impossible… Tokiko is connected to the shadow! ?),XMESS_0138,網代慎平
-XMESS_0139,(What's going on? Damn… ),XMESS_0139,網代慎平
-XMESS_0140,After that… I lost consciousness…,XMESS_0140,ウシオ
+XMESS_0138,(No way... <color=#GF_TIPS_118>Toki-chan</color> is connected to the Shadows!?),XMESS_0138,網代慎平
+XMESS_0139,(What does this mean? Damn it...),XMESS_0139,網代慎平
+XMESS_0140,"After that, I... lost consciousness...",XMESS_0140,ウシオ
 XMESS_0141,I see…,XMESS_0141,網代慎平
-XMESS_0142,"(Then it's as I saw it, right?)",XMESS_0142,網代慎平
+XMESS_0142,"(And the rest is just as I saw it, huh.)",XMESS_0142,網代慎平
 XMESS_0143,…,XMESS_0143,網代慎平
-XMESS_0144,"(Oh right, that time… in the middle of the loop…)",XMESS_0144,網代慎平
-XMESS_0145,A red-haired girl…,XMESS_0145,網代慎平
-XMESS_0146,!,XMESS_0146,ウシオ
-XMESS_0147,"She was floating above Lady Hiruko… A girl with long white hair, in a red kimono…",XMESS_0147,網代慎平
-XMESS_0148,Did you see it!?,XMESS_0148,網代慎平
+XMESS_0144,"(Come to think of it, that time... in the middle of the loop...)",XMESS_0144,網代慎平
+XMESS_0145,A girl in red...,XMESS_0145,網代慎平
+XMESS_0146,...!,XMESS_0146,ウシオ
+XMESS_0147,"She was floating above the Hiruko shrine... A girl with long white hair, in a red kimono...",XMESS_0147,網代慎平
+XMESS_0148,Did you see her!?,XMESS_0148,網代慎平
 XMESS_0149,…Yeah.,XMESS_0149,ウシオ
-XMESS_0150,"It looked like the boss of the shadows… The four-armed guy, right?",XMESS_0150,網代慎平
-XMESS_0151,"That guy… called that red-haired girl ""mother.""",XMESS_0151,網代慎平
-XMESS_0152,Shinpei's shadow said weird things… It asked if you couldn't hear the voice…,XMESS_0152,ウシオ
-XMESS_0153,…Right!,XMESS_0153,網代慎平
-XMESS_0154,"The shadows have a ""mother""… ""Okaasan""!",XMESS_0154,網代慎平
-XMESS_0155,"That's the ""red-haired girl""… The shadows are receiving some kind of telepathy… orders from her?",XMESS_0155,網代慎平
-XMESS_0156,It's because you can't receive the instructions properly…,XMESS_0156,網代慎平
-XMESS_0157,"I don't know… like it's ""faulty"" or something!!",XMESS_0157,網代慎平
-XMESS_0158,…You can't even copy humans at all!?,XMESS_0158,網代慎平
-XMESS_0159,!,XMESS_0159,ウシオ
-XMESS_0160,"…Well, let's try…!! Hah!!",XMESS_0160,ウシオ
+XMESS_0150,"That one who seemed like the boss of the Shadows... the four-armed guy, right?",XMESS_0150,網代慎平
+XMESS_0151,"He... called that girl in red ""Mother.""",XMESS_0151,網代慎平
+XMESS_0152,"Shinpei's Shadow said something weird, too... Asking if you couldn't hear the voice...",XMESS_0152,ウシオ
+XMESS_0153,...I see!,XMESS_0153,網代慎平
+XMESS_0154,"The Shadows have a ""Mother""... an ""Okaasan""!",XMESS_0154,網代慎平
+XMESS_0155,"That's the ""girl in red""... What if the Shadows are receiving some kind of telepathy... orders from her to act?",XMESS_0155,網代慎平
+XMESS_0156,The reason you don't act like a Shadow is because you aren't receiving those orders properly...,XMESS_0156,網代慎平
+XMESS_0157,"Like, um... you're ""broken"" or something...!!",XMESS_0157,網代慎平
+XMESS_0158,...Can you even copy humans in the first place!?,XMESS_0158,網代慎平
+XMESS_0159,...!?,XMESS_0159,ウシオ
+XMESS_0160,...L-Let me try...!! Hah!!,XMESS_0160,ウシオ
 XMESS_0161,…,XMESS_0161,網代慎平
 XMESS_0162,…,XMESS_0162,ウシオ
 XMESS_0163,"…You can't, huh.",XMESS_0163,網代慎平
-XMESS_0164,"The shadows called you a ""traitor."" Do you remember?",XMESS_0164,網代慎平
-XMESS_0165,No… I can only remember meeting Shinpei at Omoto Beach that night…,XMESS_0165,ウシオ
-XMESS_0166,"I don't remember anything about the time I died, or what I did before that…",XMESS_0166,ウシオ
-XMESS_0167,"On July 18th, during the Omoto Beach Trash Collection Event, Ushio was copied. Probably, that's when you were born.",XMESS_0167,網代慎平
-XMESS_0168,"According to Mio's story, you locked eyes with Ushio and immediately ran away, disappearing.",XMESS_0168,網代慎平
+XMESS_0164,"The Shadows called you a ""traitor."" Ring any bells?",XMESS_0164,網代慎平
+XMESS_0165,No... I can only remember up to the point where I met you at Omoto Beach that night...,XMESS_0165,ウシオ
+XMESS_0166,"I don't clearly remember when I died, and I have no idea what I was doing before that...",XMESS_0166,ウシオ
+XMESS_0167,Ushio was copied at the Omoto Beach Trash Cleanup on July 18th. You were probably born then.,XMESS_0167,網代慎平
+XMESS_0168,"According to Mio, you made eye contact with Ushio, then immediately ran away and disappeared.",XMESS_0168,網代慎平
 XMESS_0169,You don't remember that either?,XMESS_0169,網代慎平
-XMESS_0170,…,XMESS_0170,ウシオ
-XMESS_0171,Wait… I remember something…,XMESS_0171,ウシオ
-XMESS_0172,This… this memory?… I was… doing something with myself…,XMESS_0172,ウシオ
-XMESS_0173,…What was it…,XMESS_0173,ウシオ
+XMESS_0170,...Ah.,XMESS_0170,ウシオ
+XMESS_0171,Wait a sec... I remember something...,XMESS_0171,ウシオ
+XMESS_0172,Th... this memory...? ...I was... doing something with... myself...,XMESS_0172,ウシオ
+XMESS_0173,...What was it again...?,XMESS_0173,ウシオ
 XMESS_0174,Don't force it…,XMESS_0174,網代慎平
-XMESS_0175,You'll remember eventually. If something triggers it--,XMESS_0175,網代慎平
-XMESS_0176,!!,XMESS_0176,網代慎平
-XMESS_0177,"(From Nagumo-sensei… ""Is there anything unusual?""…)",XMESS_0177,網代慎平
+XMESS_0175,You'll remember eventually. If there's some kind of trigger—,XMESS_0175,網代慎平
+XMESS_0176,...!!,XMESS_0176,網代慎平
+XMESS_0177,"(It's from Nagumo-sensei... ""Are there any abnormalities?"" huh...)",XMESS_0177,網代慎平
 XMESS_0178,…,XMESS_0178,網代慎平
-XMESS_0179,"(If even a small event different from before happens, I was supposed to tell them…)",XMESS_0179,網代慎平
-XMESS_0180,(Should I tell the teachers about this existence!?),XMESS_0180,網代慎平
-XMESS_0181,"(No, of course… I should tell them…)",XMESS_0181,網代慎平
+XMESS_0179,(I was supposed to tell her if even the slightest thing happened differently from before...),XMESS_0179,網代慎平
+XMESS_0180,(Should I tell Nagumo-sensei and the others about her existence!?),XMESS_0180,網代慎平
+XMESS_0181,"(No, of course... I should tell them...)",XMESS_0181,網代慎平
 XMESS_0182,(…but…),XMESS_0182,網代慎平
 XMESS_0183,Shinpei?,XMESS_0183,ウシオ
 XMESS_0184,"…No, nothing.",XMESS_0184,網代慎平
-XMESS_0185,"Anyway, we've talked a lot. What time is it now?",XMESS_0185,網代慎平
+XMESS_0185,"Anyway, we've been talking for quite a while. What time is it now?",XMESS_0185,網代慎平
 XMESS_0186,"(8:40, huh…)",XMESS_0186,網代慎平
 XMESS_0187,Something's up?,XMESS_0187,ウシオ
 XMESS_0188,"Hm… Yeah, actually…",XMESS_0188,網代慎平
-XMESS_0189,…What? Mio's shadow is coming…!?,XMESS_0189,ウシオ
-XMESS_0190,Yeah… It'll appear in front of me in about five minutes…,XMESS_0190,網代慎平
-XMESS_0191,Lock the door!?,XMESS_0191,ウシオ
-XMESS_0192,It's okay…,XMESS_0192,網代慎平
-XMESS_0193,But I think locking the door isn't very meaningful…,XMESS_0193,網代慎平
-XMESS_0194,They seem to be able to slip through even the smallest gaps by hiding in the shadows…,XMESS_0194,網代慎平
-XMESS_0195,What's that!! I can't do that either!?,XMESS_0195,ウシオ
+XMESS_0189,...Huh? Mio's Shadow is coming...!?,XMESS_0189,ウシオ
+XMESS_0190,Yeah... It'll appear in front of our house in about 5 minutes...,XMESS_0190,網代慎平
+XMESS_0191,Did you lock the doors!?,XMESS_0191,ウシオ
+XMESS_0192,It's fine...,XMESS_0192,網代慎平
+XMESS_0193,But I don't think locking the doors means much...,XMESS_0193,網代慎平
+XMESS_0194,Since they can slip through tiny gaps by submerging into the shadows...,XMESS_0194,網代慎平
+XMESS_0195,"What's up with that!! I-I can't do anything like that, though!?",XMESS_0195,ウシオ
 XMESS_0196,"…Well, don't worry!",XMESS_0196,網代慎平
-XMESS_0197,That guy hasn't entered my house.,XMESS_0197,網代慎平
-XMESS_0198,Not even once before.,XMESS_0198,網代慎平
-XMESS_0199,"And this time, there are friends!",XMESS_0199,網代慎平
-XMESS_0200,Friends!?,XMESS_0200,ウシオ
+XMESS_0197,It has never come inside the house.,XMESS_0197,網代慎平
+XMESS_0198,Not even once.,XMESS_0198,網代慎平
+XMESS_0199,"Besides, this time I have allies!",XMESS_0199,網代慎平
+XMESS_0200,Allies!?,XMESS_0200,ウシオ
 XMESS_0201,Yeah.,XMESS_0201,網代慎平
-XMESS_0202,"(If Mio appears in front of the house, there's a plan for Nezu to snipe from the opposite shore)",XMESS_0202,網代慎平
+XMESS_0202,"(If Mio appears in front of the house, Nezu-san is supposed to snipe her from the opposite shore.)",XMESS_0202,網代慎平
 XMESS_0203,…Shin-chan?,XMESS_0203,小舟澪
-XMESS_0204,"…Mio, hide!",XMESS_0204,網代慎平
+XMESS_0204,...It's Mio. Hide!,XMESS_0204,網代慎平
 XMESS_0205,"Hey, you're here, right?",XMESS_0205,小舟澪
-XMESS_0206,"Ah, yeah, he's here! Wait a second!",XMESS_0206,網代慎平
+XMESS_0206,"A-Ah, yeah, I'm here! Give me a second!",XMESS_0206,網代慎平
 XMESS_0207,"Hey, hurry up and hide!",XMESS_0207,網代慎平
-XMESS_0208,Eh!? Even if you say that…,XMESS_0208,ウシオ
-XMESS_0209,"Ah, right! Let's just cover up with the futon!",XMESS_0209,ウシオ
-XMESS_0210,"Shin-chaan, is it okay~?",XMESS_0210,小舟澪
-XMESS_0211,"Ah, yeah, it's fine.",XMESS_0211,網代慎平
-XMESS_0212,Did you finish eating?,XMESS_0212,小舟澪
+XMESS_0208,Eh!? Even if you say that...,XMESS_0208,ウシオ
+XMESS_0209,"Ah, I know! I'll just hide under the futon for now!",XMESS_0209,ウシオ
+XMESS_0210,"Shin-cha~n, are you ready~?",XMESS_0210,小舟澪
+XMESS_0211,"A-Ah, yeah, it's fine.",XMESS_0211,網代慎平
+XMESS_0212,Are ya finished eating?,XMESS_0212,小舟澪
 XMESS_0213,Hm?,XMESS_0213,網代慎平
-XMESS_0214,"I want to wash the dishes, but…",XMESS_0214,小舟澪
+XMESS_0214,I wanna wash the dishes.,XMESS_0214,小舟澪
 XMESS_0215,"Ah… Ah, dishes! Dishes, right!!",XMESS_0215,網代慎平
-XMESS_0216,Wait! You used two spoons? Two cups…,XMESS_0216,小舟澪
+XMESS_0216,"Huh! You used two spoons? Two cups, too...",XMESS_0216,小舟澪
 XMESS_0217,Huh? Is that so strange? No? It's not strange!,XMESS_0217,網代慎平
-XMESS_0218,"It's not really strange, is it?",XMESS_0218,網代慎平
-XMESS_0219,Why suddenly standard Japanese…,XMESS_0219,小舟澪
-XMESS_0220,Could it be… there's an older sister?,XMESS_0220,小舟澪
-XMESS_0221,!!!!!,XMESS_0221,網代慎平
-XMESS_0222,"Because, Shin-chan, you made this for the older sister too, right?",XMESS_0222,小舟澪
-XMESS_0223,"There's definitely an older sister. In Hitogashima Island, the souls of the deceased return home…",XMESS_0223,小舟澪
-XMESS_0224,They become the guardian spirit of the house! That's what Karikiri said.,XMESS_0224,小舟澪
+XMESS_0218,"N-N-Not strange at all, right?",XMESS_0218,網代慎平
+XMESS_0219,Why'd ya suddenly drop yer accent?,XMESS_0219,小舟澪
+XMESS_0220,"Sis ain't here, is she?",XMESS_0220,小舟澪
+XMESS_0221,!!!!?,XMESS_0221,網代慎平
+XMESS_0222,"I mean, Shin-chan, you made this for Sis too, right?",XMESS_0222,小舟澪
+XMESS_0223,"Sis is definitely here. On Hitogashima, the souls of the deceased return home...",XMESS_0223,小舟澪
+XMESS_0224,And they become the guardian spirit of the house! That's what Karikiri-san said.,XMESS_0224,小舟澪
 XMESS_0225,"Ah, yeah…",XMESS_0225,網代慎平
-XMESS_0226,(So that's what it means…),XMESS_0226,網代慎平
-XMESS_0227,"You can leave the dishes, I'll wash them later…",XMESS_0227,網代慎平
-XMESS_0228,You should take a bath first.,XMESS_0228,網代慎平
-XMESS_0229,"Hm… Thank you, Shin-chan!",XMESS_0229,小舟澪
+XMESS_0226,(S-So that's what she meant...),XMESS_0226,網代慎平
+XMESS_0227,You can just leave the dishes. I'll wash them later...,XMESS_0227,網代慎平
+XMESS_0228,You should go take a bath first.,XMESS_0228,網代慎平
+XMESS_0229,"Hm... Thanks for the meal, Shin-chan!",XMESS_0229,小舟澪
 XMESS_0230,…,XMESS_0230,網代慎平
-XMESS_0231,This is bad… My lifespan is shortening…,XMESS_0231,網代慎平
-XMESS_0232,"Mio, she's sharp in some places…!!",XMESS_0232,ウシオ
-XMESS_0233,"Haha, definitely--",XMESS_0233,網代慎平
-XMESS_0234,Faaaar!!?,XMESS_0234,網代慎平
-XMESS_0235,What… What is it!? Still something--,XMESS_0235,網代慎平
-XMESS_0236,(…What?),XMESS_0236,網代慎平
+XMESS_0231,That was close... My lifespan just shortened...,XMESS_0231,網代慎平
+XMESS_0232,Mio can be pretty sharp sometimes...!!,XMESS_0232,ウシオ
+XMESS_0233,"Fufu, definitely—",XMESS_0233,網代慎平
+XMESS_0234,Gwaaaah!!?,XMESS_0234,網代慎平
+XMESS_0235,Wh... What!? I-I-Is there something else—,XMESS_0235,網代慎平
+XMESS_0236,(...Huh?),XMESS_0236,網代慎平
 XMESS_0237,…,XMESS_0237,小舟澪（ミオ）
-XMESS_0238,(No--),XMESS_0238,網代慎平
+XMESS_0238,(Wait—),XMESS_0238,網代慎平
 XMESS_0239,!?,XMESS_0239,網代慎平
-XMESS_0240,Ku…!!!,XMESS_0240,網代慎平
+XMESS_0240,Guh...!!!!,XMESS_0240,網代慎平
 XMESS_0241,!?,XMESS_0241,ミオ
-XMESS_0242,Ushio!!!,XMESS_0242,網代慎平
-XMESS_0243,"(Oh, she was stabbed in my place…!?)",XMESS_0243,網代慎平
-XMESS_0244,Pain…!,XMESS_0244,ウシオ
-XMESS_0245,Naaa!!!,XMESS_0245,ウシオ
+XMESS_0242,Ushio!!!!,XMESS_0242,網代慎平
+XMESS_0243,(S-She got stabbed in my place...!?),XMESS_0243,網代慎平
+XMESS_0244,It... hurts...,XMESS_0244,ウシオ
+XMESS_0245,Gaaaaaaaah!!!!!,XMESS_0245,ウシオ
 XMESS_0246,…!,XMESS_0246,ミオ
-XMESS_0247,"Ushio!
-Are you okay…!?",XMESS_0247,網代慎平
-XMESS_0248,… .,XMESS_0248,ミオ
-XMESS_0249,.,XMESS_0249,ウシオ
-XMESS_0250,Aaaa!!!,XMESS_0250,ウシオ
-XMESS_0251,"(This is bad! If we keep this up, Ushio will die!)",XMESS_0251,網代慎平
-XMESS_0252,"Hoohoo!!!
-Stay away from Ushio!!!",XMESS_0252,網代慎平
-XMESS_0253,… .,XMESS_0253,ミオ
-XMESS_0254,Hah… Hah… Hah… .,XMESS_0254,網代慎平
-XMESS_0255,(This isn't someone I can fight…!),XMESS_0255,網代慎平
-XMESS_0256,"(I know that… 
-But what of it!?)",XMESS_0256,網代慎平
-XMESS_0257,"(If I'm going to die anyway! 
-Rather than just be killed, 
-Even a little… anything!!!)",XMESS_0257,網代慎平
-XMESS_0258,"(The only thing I can do now… 
-Is give it everything I've got!!!)",XMESS_0258,網代慎平
+XMESS_0247,Ushio! Are you okay...!?,XMESS_0247,網代慎平
+XMESS_0248,...,XMESS_0248,ミオ
+XMESS_0249,...!,XMESS_0249,ウシオ
+XMESS_0250,Aaaaaaaaah!!!!,XMESS_0250,ウシオ
+XMESS_0251,(This is bad! Ushio will die at this rate!),XMESS_0251,網代慎平
+XMESS_0252,Uoooooohhh!! Get away from Ushio!!,XMESS_0252,網代慎平
+XMESS_0253,...,XMESS_0253,ミオ
+XMESS_0254,Hah... hah... hah...,XMESS_0254,網代慎平
+XMESS_0255,(This isn't an opponent I can beat in a fight...!),XMESS_0255,網代慎平
+XMESS_0256,(I know that... But so what!?),XMESS_0256,網代慎平
+XMESS_0257,"(If I'm going to die anyway! Rather than doing nothing and getting killed, I have to do something... anything!!)",XMESS_0257,網代慎平
+XMESS_0258,(The only thing I can do... The best I can do right now is!!),XMESS_0258,網代慎平
 XMESS_0259,(…!),XMESS_0259,網代慎平
-XMESS_0260,"(I've opened the curtain… 
-Now that Mio has appeared, 
-Nezu-san should notice it…)",XMESS_0260,網代慎平
-XMESS_0261,Come on… Mio… !,XMESS_0261,網代慎平
-XMESS_0262,… .,XMESS_0262,ミオ
-XMESS_0263,…Shinpei…,XMESS_0263,ウシオ
-XMESS_0264,I'll take care of it…!!!,XMESS_0264,網代慎平
-XMESS_0265,"(What I can do now… 
-Is let Nezu-san's rays pass through me!)",XMESS_0265,網代慎平
-XMESS_0266,"(And trust Nezu-san, 
-Lure Mio near the window!!!)",XMESS_0266,網代慎平
-XMESS_0267,… .,XMESS_0267,ミオ
-XMESS_0268,"Sister.
-Why are you helping that guy…?",XMESS_0268,ミオ
-XMESS_0269,"Shin-chan, 
-He's the one who killed the Shadow with Nezu and Hizuru…",XMESS_0269,ミオ
-XMESS_0270,…!!!,XMESS_0270,網代慎平
-XMESS_0271,"(You know about it! 
-That we defeated Shiori!!!)",XMESS_0271,網代慎平
-XMESS_0272,"Hah… Hah…
-Why…?",XMESS_0272,ウシオ
-XMESS_0273,"What… 
-A fake isn't that slow!",XMESS_0273,ウシオ
+XMESS_0260,(I opened the curtains...! Now Nezu-san should notice that Mio has appeared...!),XMESS_0260,網代慎平
+XMESS_0261,Come and get me... Mio...!,XMESS_0261,網代慎平
+XMESS_0262,...,XMESS_0262,ミオ
+XMESS_0263,...Sh-Shinpei...,XMESS_0263,ウシオ
+XMESS_0264,I'll be your opponent...!!,XMESS_0264,網代慎平
+XMESS_0265,(What I can do now is... clear the line of fire for Nezu-san!),XMESS_0265,網代慎平
+XMESS_0266,"(And, trusting Nezu-san, lure Mio near the window...!!)",XMESS_0266,網代慎平
+XMESS_0267,...,XMESS_0267,ミオ
+XMESS_0268,Sis. Why are you taking his side...?,XMESS_0268,ミオ
+XMESS_0269,"Shin-chan is allies with Nezu and Minakata, who killed Shadows...",XMESS_0269,ミオ
+XMESS_0270,...!!,XMESS_0270,網代慎平
+XMESS_0271,(She knows! That we defeated Shiori!!),XMESS_0271,網代慎平
+XMESS_0272,"Hah, hah... Wh-Why, you ask...?",XMESS_0272,ウシオ
+XMESS_0273,What's this... Fakes sure are slow on the uptake!,XMESS_0273,ウシオ
 XMESS_0274,!?,XMESS_0274,ミオ
-XMESS_0275,I like Shinpei…,XMESS_0275,ウシオ
-XMESS_0276,"I'm on his side… 
-What's your problem!!!)",XMESS_0276,ウシオ
-XMESS_0277,I… don't want to…,XMESS_0277,網代慎平
-XMESS_0278,… .,XMESS_0278,ミオ
-XMESS_0279,"You're dead, yet…",XMESS_0279,ミオ
-XMESS_0280,"You're dead, yet…
-You're dead, yet…",XMESS_0280,ミオ
-XMESS_0281,"You're dead, yet…!!!",XMESS_0281,ミオ
-XMESS_0282,Shin…,XMESS_0282,ウシオ
+XMESS_0275,I love Shinpei...,XMESS_0275,ウシオ
+XMESS_0276,Got a problem... with me taking the side of the person I love!!!!,XMESS_0276,ウシオ
+XMESS_0277,...!,XMESS_0277,網代慎平
+XMESS_0278,...,XMESS_0278,ミオ
+XMESS_0279,Even though you're dead...,XMESS_0279,ミオ
+XMESS_0280,Even though Sis is dead... Even though Sis is dead...,XMESS_0280,ミオ
+XMESS_0281,Even though you're dead!!!!,XMESS_0281,ミオ
+XMESS_0282,Shin—,XMESS_0282,ウシオ
 XMESS_0283,…!,XMESS_0283,ミオ
-XMESS_0284,What!?,XMESS_0284,ウシオ
-XMESS_0285,"(Mio is staggering!!! 
-This is our chance!!!)",XMESS_0285,網代慎平
-XMESS_0286,Ga…!,XMESS_0286,ミオ
-XMESS_0287,Hah… Hah… Hah…,XMESS_0287,網代慎平
-XMESS_0288,…It hurts…,XMESS_0288,ミオ
-XMESS_0289,…Why?,XMESS_0289,ミオ
-XMESS_0290,"I… 
-Shin-chan's…",XMESS_0290,ミオ
+XMESS_0284,Huh!?,XMESS_0284,ウシオ
+XMESS_0285,(Mio staggered!! This is my chance!!!!),XMESS_0285,網代慎平
+XMESS_0286,Gah...!,XMESS_0286,ミオ
+XMESS_0287,"Hah, hah, hah...",XMESS_0287,網代慎平
+XMESS_0288,...It... hurts...,XMESS_0288,ミオ
+XMESS_0289,...Wh-Why?,XMESS_0289,ミオ
+XMESS_0290,I also... love Shin-chan—,XMESS_0290,ミオ
 XMESS_0291,…Mio.,XMESS_0291,網代慎平
-XMESS_0292,… .,XMESS_0292,網代慎平
+XMESS_0292,...,XMESS_0292,網代慎平
 XMESS_0293,Guh!,XMESS_0293,ミオ
-XMESS_0294,"(The damage to my body 
-Heals quickly. But…)",XMESS_0294,ミオ
-XMESS_0295,… .,XMESS_0295,ミオ
-XMESS_0296,"Hah… Hah…
-Hah! Hah, hah!",XMESS_0296,網代慎平
-XMESS_0297,(I did it… I defeated Mio!?),XMESS_0297,網代慎平
-XMESS_0298,… .,XMESS_0298,ウシオ
-XMESS_0299,Ushio!?,XMESS_0299,網代慎平
-XMESS_0300,… .,XMESS_0300,ウシオ
-XMESS_0301,"Hey…
-Stay with me, Ushio…",XMESS_0301,網代慎平
+XMESS_0294,"Ah, ah, ah...!",XMESS_0294,ミオ
+XMESS_0295,...,XMESS_0295,ミオ
+XMESS_0296,"Hah... hah... Hah, hah, hah...",XMESS_0296,網代慎平
+XMESS_0297,(I did it... I... defeated Mio!?),XMESS_0297,網代慎平
+XMESS_0298,...,XMESS_0298,ウシオ
+XMESS_0299,Ushio!!?,XMESS_0299,網代慎平
+XMESS_0300,...,XMESS_0300,ウシオ
+XMESS_0301,"Hey... Stay with me, Ushio...",XMESS_0301,網代慎平
 XMESS_0302,Ushio!,XMESS_0302,網代慎平
-XMESS_0303,"(The stab wound I took to protect him 
-Is already closing…!!)",XMESS_0303,網代慎平
-XMESS_0304,"(Damage to the body seems to heal quickly.
-But---)",XMESS_0304,網代慎平
-XMESS_0305,"(The bleeding from my arm… 
-The wound from cutting the Shadow 
-Won't heal!!!)",XMESS_0305,網代慎平
-XMESS_0306,"(What should I do!?
-Are you going to die!?)",XMESS_0306,網代慎平
+XMESS_0303,(The stab wound she took protecting me is already closing...!!),XMESS_0303,網代慎平
+XMESS_0304,(Damage to the body seems to regenerate quickly. But—),XMESS_0304,網代慎平
+XMESS_0305,(The bleeding from her arm... The wound from having her shadow cut won't heal...!!),XMESS_0305,網代慎平
+XMESS_0306,(What should I do!? Is she going to die!!?),XMESS_0306,網代慎平
 XMESS_0307,(If this bleeding continues…!!),XMESS_0307,網代慎平
-XMESS_0308,Excuse me!,XMESS_0308,南方ひづる（ポニテ）
-XMESS_0309,"…You, Nagumo-sensei…",XMESS_0309,網代慎平
-XMESS_0310,I've come to eliminate this Shadow.,XMESS_0310,南方ひづる（ポニテ）
-XMESS_0311,!!!,XMESS_0311,網代慎平
-XMESS_0312,Wait! Please!,XMESS_0312,網代慎平
-XMESS_0313,Why are you interfering?,XMESS_0313,南方ひづる（ポニテ）
-XMESS_0314,… .,XMESS_0314,網代慎平
-XMESS_0315,"First, I'm glad you're safe. 
-But what is that?",XMESS_0315,南方ひづる（ポニテ）
-XMESS_0316,"A Shadow, right? 
-Come on, move aside so I can kill it.",XMESS_0316,南方ひづる（ポニテ）
-XMESS_0317,N-no… I don't wanna…,XMESS_0317,網代慎平
-XMESS_0318,Was something whispered into that Shadow?,XMESS_0318,南方ひづる（ポニテ）
-XMESS_0319,"I told you, 
-If you talk to a Shadow too long, you'll be influenced.",XMESS_0319,南方ひづる（ポニテ）
-XMESS_0320,Nagumo-sensei…!!!,XMESS_0320,網代慎平
-XMESS_0321,"I fully understand your hatred for the Shadow, 
-And I understand your goal of eliminating all Shadows on this island!",XMESS_0321,網代慎平
-XMESS_0322,"But!!!
-This one…",XMESS_0322,網代慎平
-XMESS_0323,"Saved me twice… 
-He put himself in front of me… This one…",XMESS_0323,網代慎平
-XMESS_0324,"He doesn't think ahead. 
-He just acts first. 
-He's an idiot, Ushio…",XMESS_0324,網代慎平
-XMESS_0325,"So please, Nagumo-sensei…",XMESS_0325,網代慎平
-XMESS_0326,"Like how you treated my arm… 
-Please treat this one's injury… 
-Please help him!!!",XMESS_0326,網代慎平
-XMESS_0327,… .,XMESS_0327,南方ひづる（ポニテ）
-XMESS_0328,…I'll leave it to your sister.,XMESS_0328,南方ひづる（ポニテ）
-XMESS_0329,"You really are… 
-If you're begging me to let you go, fine. 
-But to tell me to treat it?",XMESS_0329,南方ひづる
-XMESS_0330,Do you think I'll bend just because you push back?,XMESS_0330,南方ひづる
-XMESS_0331,"If you're siding with the Shadow, 
-I'll have to kill you too.",XMESS_0331,南方ひづる
-XMESS_0332,…I don't care…,XMESS_0332,網代慎平
-XMESS_0333,"If that's the case, I'll just loop again, 
-And I'll convince you next time!!!",XMESS_0333,網代慎平
-XMESS_0334,… .,XMESS_0334,南方ひづる
-XMESS_0335,"Shinpei… Mio… 
-The real Mio… Is she okay…?",XMESS_0335,ウシオ
+XMESS_0308,Excuse me~~.,XMESS_0308,南方ひづる（ポニテ）
+XMESS_0309,...N-Nagumo-sensei...!,XMESS_0309,網代慎平
+XMESS_0310,I've come to eliminate that Shadow.,XMESS_0310,南方ひづる（ポニテ）
+XMESS_0311,!!!!,XMESS_0311,網代慎平
+XMESS_0312,"W-Wait, please!!",XMESS_0312,網代慎平
+XMESS_0313,Why are you getting in my way?,XMESS_0313,南方ひづる（ポニテ）
+XMESS_0314,...,XMESS_0314,網代慎平
+XMESS_0315,"First of all, I'm glad you're safe, Shinpei-san. But what is that?",XMESS_0315,南方ひづる（ポニテ）
+XMESS_0316,"That's a Shadow, right? Now, move aside so I can kill it.",XMESS_0316,南方ひづる（ポニテ）
+XMESS_0317,I... I refuse...,XMESS_0317,網代慎平
+XMESS_0318,Did that Shadow whisper something into your ear?,XMESS_0318,南方ひづる（ポニテ）
+XMESS_0319,"I told you, didn't I? If you talk to a Shadow for too long, you'll be led astray.",XMESS_0319,南方ひづる（ポニテ）
+XMESS_0320,Nagumo-sensei...!!,XMESS_0320,網代慎平
+XMESS_0321,"I'm well aware that you hold a grudge against the Shadows, and I believe I understand your goal of eliminating all the Shadows on this island!",XMESS_0321,網代慎平
+XMESS_0322,But!!!! This one...,XMESS_0322,網代慎平
+XMESS_0323,She protected me twice... She put her body on the line for me... She did...,XMESS_0323,網代慎平
+XMESS_0324,"She doesn't think ahead... Even if she thinks, her hands move first... She's the idiot Ushio...",XMESS_0324,網代慎平
+XMESS_0325,"So please, Nagumo-sensei...",XMESS_0325,網代慎平
+XMESS_0326,Just like how you treated my arm... Please treat... her injury too...!,XMESS_0326,網代慎平
+XMESS_0327,...,XMESS_0327,南方ひづる（ポニテ）
+XMESS_0328,...I'll leave the decision to my sister.,XMESS_0328,南方ひづる（ポニテ）
+XMESS_0329,"Honestly, you... It would be one thing if you were begging me to let it go. But to treat it?",XMESS_0329,南方ひづる
+XMESS_0330,"You don't think I'll be swayed just because you're taking a contrarian stance, do you?",XMESS_0330,南方ひづる
+XMESS_0331,"If you side with the Shadows, I will have to kill you too.",XMESS_0331,南方ひづる
+XMESS_0332,...I don't mind...,XMESS_0332,網代慎平
+XMESS_0333,"If you do, I'll just loop again, and next time I'll convince you for sure!!",XMESS_0333,網代慎平
+XMESS_0334,...,XMESS_0334,南方ひづる
+XMESS_0335,Shinpei... What about Mio...? Is the real Mio... safe...?,XMESS_0335,ウシオ
 XMESS_0336,That…,XMESS_0336,網代慎平
-XMESS_0337,"…The real one is in the bath. 
-I just checked. Kofune Mio is alive.",XMESS_0337,南方ひづる
-XMESS_0338,Really?!!!,XMESS_0338,網代慎平
-XMESS_0339,"So… 
-That's good…",XMESS_0339,ウシオ
-XMESS_0340,"Same voice…
-The same voice that lured me to the island…",XMESS_0340,南方ひづる
-XMESS_0341,"The one who whispered that message to me was 
-Kofune Ushio!!!",XMESS_0341,南方ひづる
-XMESS_0342,… .,XMESS_0342,南方ひづる
-XMESS_0343,"…Adaptable… 
-Alright.",XMESS_0343,南方ひづる
-XMESS_0344,!!!,XMESS_0344,網代慎平
+XMESS_0337,...The real one is in the bath. I checked earlier. Mio Kofune is alive.,XMESS_0337,南方ひづる
+XMESS_0338,R-Really!!?,XMESS_0338,網代慎平
+XMESS_0339,I see... Th-Thank goodness...,XMESS_0339,ウシオ
+XMESS_0340,It's the same... This voice. The same voice that lured me to the island...,XMESS_0340,南方ひづる
+XMESS_0341,The one who recorded that message for me was Ushio Kofune...!!,XMESS_0341,南方ひづる
+XMESS_0342,...,XMESS_0342,南方ひづる
+XMESS_0343,"...Adapting to the situation, huh. Very well.",XMESS_0343,南方ひづる
+XMESS_0344,!!,XMESS_0344,網代慎平
 XMESS_0345,Show me the wound.,XMESS_0345,南方ひづる

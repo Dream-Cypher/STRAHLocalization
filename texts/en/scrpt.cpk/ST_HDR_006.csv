@@ -1,118 +1,76 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,6. I Will Accept Everything,XCHAPTITLE_0002,
-XMESS_0000,"Ah, there you are!
-Hizuru-san and Nezu-san!",XMESS_0000,ウシオ
-XMESS_0001,"Ah.
-We should be able to get out of town soon.",XMESS_0001,網代慎平
-XMESS_0002,"Hah, hah…
-It's been a while since I ran like this, hasn't it?",XMESS_0002,根津銀次郎（１４年前）
-XMESS_0003,"Moreover, you're carrying a girl like this, aren't you?",XMESS_0003,根津銀次郎（１４年前）
-XMESS_0004,It might have been tough… but I can't say thanks.,XMESS_0004,南方ひづる（過去）
-XMESS_0005,"Thanks aren't needed.
-I didn't let the monk's spirit go to waste, that's all.",XMESS_0005,根津銀次郎（１４年前）
+XMESS_0000,"Ah, there they are! Hizuru-san and Nezu-san!",XMESS_0000,ウシオ
+XMESS_0001,Yeah. It looks like they'll make it out to the town soon.,XMESS_0001,網代慎平
+XMESS_0002,"*Pant, pant*… It's been a while since I ran like this.",XMESS_0002,根津銀次郎（１４年前）
+XMESS_0003,Especially while carrying a girl like this.,XMESS_0003,根津銀次郎（１４年前）
+XMESS_0004,It might have been tough… but I'm not going to thank you.,XMESS_0004,南方ひづる（過去）
+XMESS_0005,"I don't need your thanks. I just didn't want the boy's resolve to go to waste, that's all.",XMESS_0005,根津銀次郎（１４年前）
 XMESS_0006,…,XMESS_0006,南方ひづる（過去）
 XMESS_0007,You don't seem convinced.,XMESS_0007,根津銀次郎（１４年前）
 XMESS_0008,…What should I do?,XMESS_0008,南方ひづる（過去）
-XMESS_0009,"It's already decided.
-The foothill is near.
-Just go down to town like this.",XMESS_0009,根津銀次郎（１４年前）
-XMESS_0010,Really… you think that's okay?,XMESS_0010,南方ひづる（過去）
+XMESS_0009,It's obvious. The foot of the mountain is just ahead. Just keep heading down to the town.,XMESS_0009,根津銀次郎（１４年前）
+XMESS_0010,Do you really… think that's okay?,XMESS_0010,南方ひづる（過去）
 XMESS_0011,What are you trying to say?,XMESS_0011,根津銀次郎（１４年前）
-XMESS_0012,"Is this the only ending?
-Wasn't there something else I could have done?",XMESS_0012,南方ひづる（過去）
-XMESS_0013,Did Ryunosuke have to be the sacrifice?,XMESS_0013,南方ひづる（過去）
-XMESS_0014,"If I had more power,
-if I had the knowledge to break the deadlock,
-maybe I could have saved Ryunosuke.",XMESS_0014,南方ひづる（過去）
-XMESS_0015,And… Haine's situation too…,XMESS_0015,南方ひづる（過去）
-XMESS_0016,Teacher…,XMESS_0016,網代慎平
-XMESS_0017,"If you say things like that…
-We'd be…",XMESS_0017,ウシオ
-XMESS_0018,"(The past can't be changed, can it…)",XMESS_0018,網代慎平
-XMESS_0019,"(We knew the ending.
-Yet we couldn't save Ryunosuke-san…)",XMESS_0019,網代慎平
-XMESS_0020,"(Maybe by interfering halfway, we only made things worse for the teacher)",XMESS_0020,網代慎平
+XMESS_0012,Is this the only possible ending? Couldn't we have done something more?,XMESS_0012,南方ひづる（過去）
+XMESS_0013,Did Ryunosuke have to be sacrificed?,XMESS_0013,南方ひづる（過去）
+XMESS_0014,"If I had more power, if I had the knowledge to overcome this situation, maybe I could have saved Ryunosuke.",XMESS_0014,南方ひづる（過去）
+XMESS_0015,And… Haine too…,XMESS_0015,南方ひづる（過去）
+XMESS_0016,Nagumo-sensei…,XMESS_0016,網代慎平
+XMESS_0017,If you say that… then we…,XMESS_0017,ウシオ
+XMESS_0018,(Can the past really not be changed…?),XMESS_0018,網代慎平
+XMESS_0019,(We knew the ending. And yet we still couldn't save Ryunosuke-san…),XMESS_0019,網代慎平
+XMESS_0020,"(If anything, maybe our half-baked interference only made Nagumo-sensei suffer more.)",XMESS_0020,網代慎平
 XMESS_0021,…,XMESS_0021,南方ひづる（過去）
-XMESS_0022,That kind of…,XMESS_0022,根津銀次郎（１４年前）
-XMESS_0023,"Just be quiet for a while…
-I need to think.",XMESS_0023,南方ひづる（過去）
-XMESS_0024,Hmph. Do whatever you want.,XMESS_0024,根津銀次郎（１４年前）
-XMESS_0025,"…Straw.
-You have some, don't you?",XMESS_0025,南方ひづる（過去）
-XMESS_0026,Yes… here it is.,XMESS_0026,網代慎平
-XMESS_0027,"If you're really a time traveler,
-can you guide me?",XMESS_0027,南方ひづる（過去）
+XMESS_0022,Look—,XMESS_0022,根津銀次郎（１４年前）
+XMESS_0023,Just be quiet for a bit… I'm trying to gather my thoughts.,XMESS_0023,南方ひづる（過去）
+XMESS_0024,Hmph. Suit yourself.,XMESS_0024,根津銀次郎（１４年前）
+XMESS_0025,"…Straw. You're there, right?",XMESS_0025,南方ひづる（過去）
+XMESS_0026,Yes… I'm here.,XMESS_0026,網代慎平
+XMESS_0027,"If you're really a time traveler, won't you guide me?",XMESS_0027,南方ひづる（過去）
 XMESS_0028,To the best possible future.,XMESS_0028,南方ひづる（過去）
-XMESS_0029,Eh…?,XMESS_0029,網代慎平
-XMESS_0030,"Really… am I allowed to just go back to town?
-Leaving Ryunosuke and Haine behind?",XMESS_0030,南方ひづる（過去）
+XMESS_0029,Huh…?,XMESS_0029,網代慎平
+XMESS_0030,Is it really okay for me… to just go back to town like this? Leaving Ryunosuke and Haine behind.,XMESS_0030,南方ひづる（過去）
 XMESS_0031,I know that's what Ryunosuke wanted…,XMESS_0031,南方ひづる（過去）
-XMESS_0032,"But is this the future you knew?
-Can we really end it like this?",XMESS_0032,南方ひづる（過去）
-XMESS_0033,Wouldn't that just bring worse futures?,XMESS_0033,南方ひづる（過去）
+XMESS_0032,But is this the ending you guys knew? Is it okay to end it like this?,XMESS_0032,南方ひづる（過去）
+XMESS_0033,Couldn't this end up bringing about an even worse future?,XMESS_0033,南方ひづる（過去）
 XMESS_0034,Hizuru-san…,XMESS_0034,ウシオ
-XMESS_0035,"The last words of Ryunosuke,
-and Haine's cries of pain…
-They're still in my ears.",XMESS_0035,南方ひづる（過去）
-XMESS_0036,"Ryunosuke's thoughts weren't in vain.
-But if there's any chance to create a better future…",XMESS_0036,南方ひづる（過去）
-XMESS_0037,"I won't hesitate anymore.
-Hey, straw, what should I do?",XMESS_0037,南方ひづる（過去）
+XMESS_0035,"They're still echoing in my ears. Ryunosuke's last words, and… Haine's cries of pain.",XMESS_0035,南方ひづる（過去）
+XMESS_0036,I don't want Ryunosuke's feelings to go to waste. But if there's even a slight chance of making a better future…,XMESS_0036,南方ひづる（過去）
+XMESS_0037,"I won't hesitate anymore. Tell me, Straw, what should I do?",XMESS_0037,南方ひづる（過去）
 XMESS_0038,…,XMESS_0038,網代慎平
-XMESS_0039,Shinpei… what are we going to do?,XMESS_0039,ウシオ
-XMESS_0040,(It's not a question with an easy answer),XMESS_0040,網代慎平
-XMESS_0041,"(The best future for the teacher…
-What kind of future is that?)",XMESS_0041,網代慎平
-XMESS_0042,"(Ryunosuke-san probably won't be saved.
-And this incident will make the teacher and Nezu get involved with the Shadow…)",XMESS_0042,網代慎平
-XMESS_0043,"(In 14 years, we'll fight the Shadow again on this island)",XMESS_0043,網代慎平
-XMESS_0044,"If we defeat Haine now…
-Maybe we can avoid that future.",XMESS_0044,網代慎平
-XMESS_0045,"Wait… Shinpei.
-You said to defeat Haine?",XMESS_0045,ウシオ
-XMESS_0046,"Yeah, I don't know why,
-but Haine seems to regret attacking Ryunosuke-san
-and is in a state of confusion.",XMESS_0046,網代慎平
-XMESS_0047,"Either way, now is the chance
-to defeat Haine while she's confused.",XMESS_0047,網代慎平
-XMESS_0048,"That might be true…
-But we can't defeat Haine.",XMESS_0048,ウシオ
-XMESS_0049,"In the end, it might just send Hizuru-san and Nezu-san
-back to Haine again.",XMESS_0049,ウシオ
-XMESS_0050,"I know that.
-And if we do that, we don't know
-what will happen to our future.",XMESS_0050,網代慎平
-XMESS_0051,So we need to think carefully…,XMESS_0051,網代慎平
-XMESS_0052,"Straw, can't you reach a conclusion yet?",XMESS_0052,南方ひづる（過去）
-XMESS_0053,"Eh, yeah…",XMESS_0053,網代慎平
-XMESS_0054,"I promise.
-No matter the result of following your guidance,
-I'll accept everything.",XMESS_0054,南方ひづる（過去）
-XMESS_0055,"So I'm asking you.
-Please guide me.",XMESS_0055,南方ひづる（過去）
-XMESS_0056,"(You trust us this much, Teacher…)",XMESS_0056,網代慎平
-XMESS_0057,"(You just appeared out of nowhere,
-and all you do is meddle…)",XMESS_0057,網代慎平
-XMESS_0058,"(You even consider my judgment
-as something you truly need…)",XMESS_0058,網代慎平
-XMESS_0059,(Then I'll…),XMESS_0059,網代慎平
-XMESS_0060,Teacher Nagumo…,XMESS_0060,網代慎平
-MSTD_0183-0,"""Please think about surviving.""",MSTD_0183-0,
+XMESS_0039,Shinpei… what do we do?,XMESS_0039,ウシオ
+XMESS_0040,(It's not a question I can easily answer.),XMESS_0040,網代慎平
+XMESS_0041,"(The best possible future for Nagumo-sensei… What kind of future is that, exactly?)",XMESS_0041,網代慎平
+XMESS_0042,"(Ryunosuke-san can't be saved anymore. And because of this incident, Nagumo-sensei and Nezu-san will get involved with the shadows…)",XMESS_0042,網代慎平
+XMESS_0043,"(And 14 years later, they'll end up fighting the shadows again on this island.)",XMESS_0043,網代慎平
+XMESS_0044,If we defeat Haine here… maybe we can avoid that future.,XMESS_0044,網代慎平
+XMESS_0045,Wait… Shinpei. Did you just say defeat Haine?,XMESS_0045,ウシオ
+XMESS_0046,"Yeah, I don't know the exact reason, but… Haine seems to be regretting attacking Ryunosuke-san, and looks confused.",XMESS_0046,網代慎平
+XMESS_0047,"Either way, if we're going to defeat Haine, now is our chance while she's confused.",XMESS_0047,網代慎平
+XMESS_0048,"That might be true, but… we can't defeat Haine.",XMESS_0048,ウシオ
+XMESS_0049,"In the end, we might just end up sending Hizuru-san and Nezu-san right back to Haine, you know?",XMESS_0049,ウシオ
+XMESS_0050,"I know that. Besides, if we do that, there's no telling what will happen to our own future.",XMESS_0050,網代慎平
+XMESS_0051,That's why we need to think carefully…,XMESS_0051,網代慎平
+XMESS_0052,"Straw, have you still not reached a conclusion?",XMESS_0052,南方ひづる（過去）
+XMESS_0053,Y-Yeah…,XMESS_0053,網代慎平
+XMESS_0054,"I promise. No matter what happens as a result of following your guidance, I will accept everything.",XMESS_0054,南方ひづる（過去）
+XMESS_0055,So please. I want you to guide me.,XMESS_0055,南方ひづる（過去）
+XMESS_0056,(Nagumo-sensei… do you really trust us that much?),XMESS_0056,網代慎平
+XMESS_0057,"(Us, who just appeared out of nowhere and can only offer words…)",XMESS_0057,網代慎平
+XMESS_0058,(To the point where you genuinely need my judgment this much…),XMESS_0058,網代慎平
+XMESS_0059,"(If that's the case, then I'll—)",XMESS_0059,網代慎平
+XMESS_0060,Nagumo-sensei…,XMESS_0060,網代慎平
+MSTD_0183-0,"""Please focus on surviving.""",MSTD_0183-0,
 MSTD_0183-1,"""Let's defeat Haine.""",MSTD_0183-1,
-XMESS_0061,"Right now, please think about surviving.
-For the sake of Ryunosuke-san who sacrificed himself.",XMESS_0061,網代慎平
-XMESS_0062,"That's surely the choice
-that will lead to the best future.",XMESS_0062,網代慎平
-XMESS_0063,So… that's it.,XMESS_0063,南方ひづる（過去）
-XMESS_0064,"(Even if this is the perfect opportunity
-to defeat Haine…)",XMESS_0064,網代慎平
-XMESS_0065,(We don't have a plan to definitely defeat Haine),XMESS_0065,網代慎平
-XMESS_0066,"(Moreover, I can't put the teacher
-in any more danger)",XMESS_0066,網代慎平
+XMESS_0061,"Right now, please focus on surviving. For the sake of Ryunosuke-san, who sacrificed himself.",XMESS_0061,網代慎平
+XMESS_0062,I'm sure that's the choice that will lead to the best possible future.,XMESS_0062,網代慎平
+XMESS_0063,I see…,XMESS_0063,南方ひづる（過去）
+XMESS_0064,(Even if right now is the perfect opportunity to defeat Haine…),XMESS_0064,網代慎平
+XMESS_0065,(We don't have a plan to defeat her for sure.),XMESS_0065,網代慎平
+XMESS_0066,"(More than anything, I can't put Nagumo-sensei in any more danger.)",XMESS_0066,網代慎平
 XMESS_0067,Let's defeat Haine.,XMESS_0067,網代慎平
-XMESS_0068,The Haine now isn't the Haine who was your friend.,XMESS_0068,網代慎平
-XMESS_0069,"Moreover… in the future we know,
-Haine will bring tragedy to the entire island.",XMESS_0069,網代慎平
-XMESS_0070,So…,XMESS_0070,網代慎平
-XMESS_0071,"End the cause while you still can…
-That's what you mean, right?",XMESS_0071,南方ひづる（過去）
+XMESS_0068,"The Haine right now is no longer the Haine who was your friend, Nagumo-sensei.",XMESS_0068,網代慎平
+XMESS_0069,"Besides… in the future we know, Haine will bring tragedy to this entire island.",XMESS_0069,網代慎平
+XMESS_0070,Therefore—,XMESS_0070,網代慎平
+XMESS_0071,Cut off the cause while we still can… Is that what you mean?,XMESS_0071,南方ひづる（過去）

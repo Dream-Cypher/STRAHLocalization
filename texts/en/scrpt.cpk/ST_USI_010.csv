@@ -1,8 +1,7 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,"10. Mio, Two of Her!?",XCHAPTITLE_0002,
-XMESS_0000,"(<color=#GF_TIPS_121>Miruko-sama</color>…
-The nickname for the Hitogashima Shrine in the northern part of the island)",XMESS_0000,網代慎平
-XMESS_0001,"(If it's that shrine's priest, Karikiri-san, he might know something)",XMESS_0001,網代慎平
+XMESS_0000,(<color=#GF_TIPS_121>Hiruko-sama</color>... The nickname for Hito Shrine in the northern part of the island.),XMESS_0000,網代慎平
+XMESS_0001,"(If it's the head priest there, Karikiri-san, he might know something.)",XMESS_0001,網代慎平
 XMESS_0002,…,XMESS_0002,網代慎平
 XMESS_0003,"No response… He's not here…?
 I'll check the main hall.",XMESS_0003,網代慎平
@@ -15,62 +14,52 @@ XMESS_0007,!!!,XMESS_0007,網代慎平
 XMESS_0008,Wait!!!,XMESS_0008,小舟澪
 XMESS_0009,"Shin-chan!
 D-did you see that!?",XMESS_0009,小舟澪
-XMESS_0010,…No… I'm not sure…,XMESS_0010,網代慎平
-XMESS_0011,That… that felt like Shiori-chan…,XMESS_0011,小舟澪
+XMESS_0010,"Not clearly, no.",XMESS_0010,網代慎平
+XMESS_0011,That... I feel like that was Shiori-chan...,XMESS_0011,小舟澪
 XMESS_0012,What!?,XMESS_0012,網代慎平
 XMESS_0013,Let's chase her!!,XMESS_0013,小舟澪
-XMESS_0014,O-oh! Wait!,XMESS_0014,網代慎平
-XMESS_0015,Where did she go…?,XMESS_0015,網代慎平
-XMESS_0016,"Could she have gone deeper…?
-That area's an old artillery site…
-It's dangerous and complicated…",XMESS_0016,小舟澪
-XMESS_0017,"Mio, think more clearly…
-Something's wrong, isn't it?",XMESS_0017,網代慎平
-XMESS_0018,Here it comes… Shin-chan's thinking mode!!!,XMESS_0018,小舟澪
-XMESS_0019,"That was Shiori-chan…
-Why did she run from us?",XMESS_0019,網代慎平
-XMESS_0020,That's right… I wonder why…,XMESS_0020,小舟澪
+XMESS_0014,H-Hey!,XMESS_0014,網代慎平
+XMESS_0015,She's not here... Where did she go?,XMESS_0015,網代慎平
+XMESS_0016,"Could she have gone deeper...? There's an old artillery site up ahead... It's like a maze, it's dangerous...",XMESS_0016,小舟澪
+XMESS_0017,"Mio, let's look at the big picture... Isn't something wrong?",XMESS_0017,網代慎平
+XMESS_0018,There it is... Shin-chan's big picture view!!,XMESS_0018,小舟澪
+XMESS_0019,Assuming that was Shiori-chan earlier... Why did she run from us?,XMESS_0019,網代慎平
+XMESS_0020,True... I wonder why...?,XMESS_0020,小舟澪
 XMESS_0021,Huh!?,XMESS_0021,網代慎平
 XMESS_0022,"What was that sound?
 Fireworks at this time of day?",XMESS_0022,小舟澪
-XMESS_0023,"(No, that wasn't it!)",XMESS_0023,網代慎平
-XMESS_0024,Gunshot!?,XMESS_0024,網代慎平
+XMESS_0023,"(No, that wasn't fireworks!)",XMESS_0023,網代慎平
+XMESS_0024,A gunshot!?,XMESS_0024,網代慎平
 XMESS_0025,Eh!?,XMESS_0025,小舟澪
-XMESS_0026,Deeper in!,XMESS_0026,網代慎平
+XMESS_0026,It came from further in!,XMESS_0026,網代慎平
 XMESS_0027,"Shin-chan!
 Wait…!",XMESS_0027,小舟澪
-XMESS_0028,That's where it came from--,XMESS_0028,網代慎平
+XMESS_0028,I'm pretty sure it came from this way--,XMESS_0028,網代慎平
 XMESS_0029,!!!,XMESS_0029,網代慎平
-XMESS_0030,Hah… hah… hah…,XMESS_0030,？？？（南方ひづる）
-XMESS_0031,(No way… Could it be the gunshot from earlier…!?),XMESS_0031,網代慎平
+XMESS_0030,*Pant*... *pant*... *pant*...,XMESS_0030,？？？（南方ひづる）
+XMESS_0031,(No way... Was that the gunshot from earlier...?!),XMESS_0031,網代慎平
 XMESS_0032,!!!,XMESS_0032,網代慎平
-XMESS_0033,(This person… we were on the same boat--),XMESS_0033,網代慎平
-XMESS_0034,"Shin-chan! What are you staring at!?
-This person's bleeding!!",XMESS_0034,小舟澪
-XMESS_0035,"…!!
-Oh… oh…",XMESS_0035,網代慎平
-XMESS_0036,Fuh… I messed up…,XMESS_0036,？？？（南方ひづる）
+XMESS_0033,(This person... she was on the ferry with us--),XMESS_0033,網代慎平
+XMESS_0034,"Shin-chan, what are you spacing out for!!!! This person is bleeding!!",XMESS_0034,小舟澪
+XMESS_0035,...!! Y... yeah...,XMESS_0035,網代慎平
+XMESS_0036,Heh... I messed... up...,XMESS_0036,？？？（南方ひづる）
 XMESS_0037,I'll go get someone!!,XMESS_0037,小舟澪
 XMESS_0038,"Wait, Mio! Don't go alone!",XMESS_0038,網代慎平
 XMESS_0039,Whoa!!,XMESS_0039,網代慎平
 XMESS_0040,"W-what happened?
 A-are you okay…?",XMESS_0040,網代慎平
-XMESS_0041,"…I… I'm fine…
-Listen carefully…",XMESS_0041,？？？（南方ひづる）
-XMESS_0042,Ah… that guy… he's…,XMESS_0042,？？？（南方ひづる）
+XMESS_0041,Listen closely... to me...,XMESS_0041,？？？（南方ひづる）
+XMESS_0042,Th... that guy is... he--,XMESS_0042,？？？（南方ひづる）
 XMESS_0043,…!!!,XMESS_0043,網代慎平
 XMESS_0044,…,XMESS_0044,？？？（南方ひづる）
-XMESS_0045,(So… so… what is this…?),XMESS_0045,網代慎平
-XMESS_0046,(Oh… I was shot…),XMESS_0046,網代慎平
-XMESS_0047,"Father, he used to say…
-""Cleaning the dishes, that's the end of the meal…""",XMESS_0047,聞き慣れた声（ミオ）
+XMESS_0045,(N... no way... What... is this...?),XMESS_0045,網代慎平
+XMESS_0046,"(M... my head, I've been shot--)",XMESS_0046,網代慎平
+XMESS_0047,Dad always used to say...,XMESS_0047,聞き慣れた声（ミオ）
 XMESS_0048,!!!,XMESS_0048,網代慎平
 XMESS_0049,…Shin-chan…,XMESS_0049,小舟澪
-XMESS_0050,"Wash the dishes, and then…
-That's the end of the meal…",XMESS_0050,小舟澪（ミオ）
+XMESS_0050,That the cooking isn't done... until you wash the dishes and clean up...,XMESS_0050,小舟澪（ミオ）
 XMESS_0051,…!!!,XMESS_0051,網代慎平
-XMESS_0052,(Mio… Mio… shot by Mio…?),XMESS_0052,網代慎平
-XMESS_0053,"(Wh-what's happening…?
-What the hell is this…!)",XMESS_0053,網代慎平
+XMESS_0052,(M... Mio... I was shot by... Mio...?),XMESS_0052,網代慎平
+XMESS_0053,(Wh-what is going on... What the hell...!),XMESS_0053,網代慎平
 XMESS_0054,…,XMESS_0054,小舟澪（ミオ）
 XMESS_0055,…!!!,XMESS_0055,網代慎平

@@ -1,120 +1,83 @@
 source,target,id,developer_comments
-XRETURNTODEATH_0018,2nd Round,XRETURNTODEATH_0018,
+XRETURNTODEATH_0018,Loop 2,XRETURNTODEATH_0018,
 XCHAPTITLE_0021,2. Shaken by the Ferry,XCHAPTITLE_0021,
 XMESS_0000,Ushio!!,XMESS_0000,網代慎平
-XMESS_0001,…Muni?,XMESS_0001,網代慎平
+XMESS_0001,.........Muni?,XMESS_0001,網代慎平
 XMESS_0002,…,XMESS_0002,？？？（南方ひづる）
-XMESS_0003,"Ah, uh…",XMESS_0003,網代慎平
-XMESS_0004,"(This, this feeling… could it be?)",XMESS_0004,網代慎平
-XMESS_0005,…,XMESS_0005,？？？（南方ひづる）
-XMESS_0006,…Waaahhh!?,XMESS_0006,網代慎平
+XMESS_0003,A-Ah...,XMESS_0003,網代慎平
+XMESS_0004,(Th-This feeling... could it be?),XMESS_0004,網代慎平
+XMESS_0005,.........,XMESS_0005,？？？（南方ひづる）
+XMESS_0006,...Waaaaah!?,XMESS_0006,網代慎平
 XMESS_0007,"Eh!!?
 Ah…!",XMESS_0007,網代慎平
-XMESS_0008,"I'm sorry, I'm sorry!!
-I didn't mean to…!!",XMESS_0008,網代慎平
+XMESS_0008,"I'm sorry, I'm sorry!! I-I-I didn't mean to...!!",XMESS_0008,網代慎平
 XMESS_0009,…,XMESS_0009,？？？（南方ひづる）
-XMESS_0010,"(He's angry…?
-That's only natural.
-I need to clear up the misunderstanding fast!)",XMESS_0010,網代慎平
-XMESS_0011,"(…What?
-Something like this happened before…)",XMESS_0011,網代慎平
-XMESS_0012,"(No, no.
-I should apologize first!)",XMESS_0012,網代慎平
-XMESS_0013,"Ah, um!
-It wasn't on purpose——",XMESS_0013,網代慎平
-XMESS_0014,Ii…tahhhhh!!!,XMESS_0014,網代慎平
-XMESS_0015,S…sorry…!!,XMESS_0015,網代慎平
-XMESS_0016,Huh…,XMESS_0016,？？？（南方ひづる）
+XMESS_0010,"(Is she... mad...? Well, of course she is. I have to clear up this misunderstanding fast!)",XMESS_0010,網代慎平
+XMESS_0011,(...Huh? I feel like something like this happened just a little while ago...),XMESS_0011,網代慎平
+XMESS_0012,"(Wait, no, no. Apologizing comes first right now!)",XMESS_0012,網代慎平
+XMESS_0013,U-Um! That wasn't on purpose just now—,XMESS_0013,網代慎平
+XMESS_0014,Ii...taaaaaah~~!!,XMESS_0014,網代慎平
+XMESS_0015,I-I'm so sorry...!!,XMESS_0015,網代慎平
+XMESS_0016,Haa...,XMESS_0016,？？？（南方ひづる）
 XMESS_0017,…,XMESS_0017,？？？（南方ひづる）
 XMESS_0018,Are you okay…?,XMESS_0018,？？？（南方ひづる）
 XMESS_0019,Eh?,XMESS_0019,網代慎平
-XMESS_0020,"You were having a bad dream…
-Did you have a nightmare?",XMESS_0020,？？？（南方ひづる）
-XMESS_0021,…A dream…?,XMESS_0021,網代慎平
-XMESS_0022,"(This person…
-I've met them…!?)",XMESS_0022,網代慎平
-XMESS_0023,"(What's going on…?
-This person was shot…and there are two Mios…)",XMESS_0023,網代慎平
-XMESS_0024,"(Then what happened?
-Why am I on the ferry…)",XMESS_0024,網代慎平
+XMESS_0020,You were groaning quite a bit... Did you have a bad dream?,XMESS_0020,？？？（南方ひづる）
+XMESS_0021,...D-Dream...?,XMESS_0021,網代慎平
+XMESS_0022,(Ah... this person... I've met her before...!?),XMESS_0022,網代慎平
+XMESS_0023,(What's going on...? This person was shot... and there were two Mios...),XMESS_0023,網代慎平
+XMESS_0024,(And then what happened? Why am I on the ferry...),XMESS_0024,網代慎平
 XMESS_0025,…,XMESS_0025,？？？（南方ひづる）
-XMESS_0026,"Ah, um…",XMESS_0026,網代慎平
-XMESS_0027,"Being shot with a gun…
-Have you ever experienced that?",XMESS_0027,網代慎平
+XMESS_0026,U-Um...,XMESS_0026,網代慎平
+XMESS_0027,Have you ever... b-been shot by a gun?,XMESS_0027,網代慎平
 XMESS_0028,Huh?,XMESS_0028,？？？（南方ひづる）
 XMESS_0029,Are you really okay?,XMESS_0029,？？？（南方ひづる）
-XMESS_0030,"Ah…no, nothing…",XMESS_0030,網代慎平
-XMESS_0031,"(This is bad!
-I'm acting really suspicious!
-If I keep this up, I might get reported…)",XMESS_0031,網代慎平
-XMESS_0032,Wake up quickly.,XMESS_0032,？？？（南方ひづる）
-XMESS_0033,(He left…),XMESS_0033,網代慎平
-XMESS_0034,"(I'm glad I wasn't reported…
-I really did something bad.)",XMESS_0034,網代慎平
-XMESS_0035,"…Well, anyway.",XMESS_0035,網代慎平
-XMESS_0036,"(I got slapped by that person…
-It's not the first time?)",XMESS_0036,網代慎平
-XMESS_0037,"(No, that's not possible.
-What am I thinking?)",XMESS_0037,網代慎平
-XMESS_0038,"(Still, my cheek is throbbing.
-Slapping really hurts…
-My cheek might be swollen…)",XMESS_0038,網代慎平
-XMESS_0039,"(I don't have a mirror.
-Let me check with my phone camera.)",XMESS_0039,網代慎平
+XMESS_0030,"Ah... no, it's nothing...",XMESS_0030,網代慎平
+XMESS_0031,(Crap! I'm acting like a total creep right now! I might get reported at this rate...),XMESS_0031,網代慎平
+XMESS_0032,You should wake up soon.,XMESS_0032,？？？（南方ひづる）
+XMESS_0033,(She left...),XMESS_0033,網代慎平
+XMESS_0034,"(I'm glad I wasn't reported, but... I really did something terrible.)",XMESS_0034,網代慎平
+XMESS_0035,(...Even so.),XMESS_0035,網代慎平
+XMESS_0036,"(Is it just me, or is this not the first time... I've been slapped by that person?)",XMESS_0036,網代慎平
+XMESS_0037,"(No, there's no way. What am I thinking?)",XMESS_0037,網代慎平
+XMESS_0038,"(Still, my cheek is throbbing. I didn't know a slap could hurt this much. My cheek might even be swollen...)",XMESS_0038,網代慎平
+XMESS_0039,(I don't have... a mirror. I'll check with my smartphone camera.),XMESS_0039,網代慎平
 XMESS_0040,…Huh?,XMESS_0040,網代慎平
-XMESS_0041,"(July…22nd?
-This is yesterday's date, right?)",XMESS_0041,網代慎平
-XMESS_0042,"(It's broken…right?
-How could it be…)",XMESS_0042,網代慎平
-XMESS_0043,"…Excuse me, sorry.
-Can I ask something?",XMESS_0043,網代慎平
-XMESS_0044,"…Yes?
-What is it…?",XMESS_0044,横にいた少女（かおり）
-XMESS_0045,"Um… Today's date is July 23rd, right…?",XMESS_0045,網代慎平
-XMESS_0046,"Eh?
-Uh, um…",XMESS_0046,横にいた少女（かおり）
-XMESS_0047,"No… I think it's the 22nd.
-Did I get it wrong…?",XMESS_0047,横にいた少女（かおり）
-XMESS_0048,…!?,XMESS_0048,網代慎平
-XMESS_0049,"S…Right, that's right.",XMESS_0049,網代慎平
-XMESS_0050,"I'm sorry, I was mistaken!
-Excuse me…!",XMESS_0050,網代慎平
+XMESS_0041,"(July... 22nd? This is yesterday's date, isn't it?)",XMESS_0041,網代慎平
+XMESS_0042,(It's broken... right? There's no way...),XMESS_0042,網代慎平
+XMESS_0043,"...U-Um, excuse me. Do you have a moment?",XMESS_0043,網代慎平
+XMESS_0044,...Yes? W-What is it...?,XMESS_0044,横にいた少女（かおり）
+XMESS_0045,"Um... today's date is July 23rd, right...?",XMESS_0045,網代慎平
+XMESS_0046,Eh? U-Um...,XMESS_0046,横にいた少女（かおり）
+XMESS_0047,No... I think it's the 22nd. Am I wrong...?,XMESS_0047,横にいた少女（かおり）
+XMESS_0048,...!?,XMESS_0048,網代慎平
+XMESS_0049,Th... that's right.,XMESS_0049,網代慎平
+XMESS_0050,"I'm sorry, I was mistaken! Excuse me...!",XMESS_0050,網代慎平
 XMESS_0051,"Ah, yes…",XMESS_0051,横にいた少女（かおり）
 XMESS_0052,…,XMESS_0052,網代慎平
-XMESS_0053,(Right. That was a dream.),XMESS_0053,網代慎平
-XMESS_0054,"(On the 23rd, I heard about Ushio's shadow from Mio,
-then went to Lady Hiruko…)",XMESS_0054,網代慎平
-XMESS_0055,"(There were two Mios, and one killed the other,
-maybe I was shot with a pistol…)",XMESS_0055,網代慎平
+XMESS_0053,(That's right. That was a dream.),XMESS_0053,網代慎平
+XMESS_0054,"(On the 23rd, I heard about Ushio's Shadow from Mio, and then we went to Hiruko-sama...)",XMESS_0054,網代慎平
+XMESS_0055,"(There were two Mios, and Mio was killed by Mio, and I was probably shot with a handgun...)",XMESS_0055,網代慎平
 XMESS_0056,…,XMESS_0056,網代慎平
-XMESS_0057,"…Stupid. That's not possible, right?",XMESS_0057,網代慎平
-XMESS_0058,"(If I think about it, it's obvious.
-Such things don't exist in reality.)",XMESS_0058,網代慎平
-XMESS_0059,"(By the way, last night…
-I fell asleep reading that…)",XMESS_0059,網代慎平
-XMESS_0060,(――Ryunosuke Nagumo's '<color=#GF_TIPS_099>Swamp Man</color>'),XMESS_0060,網代慎平
-XMESS_0061,(Family and friends being replaced by identical copies…),XMESS_0061,網代慎平
-XMESS_0062,"(A horror mystery with a girl obsessed with such delusions,
-set in Wakayama City)",XMESS_0062,網代慎平
-XMESS_0063,(I must have had a bad dream for reading such a thing…),XMESS_0063,網代慎平
-XMESS_0064,(I guess I'm really shaken up about the Ushio incident…),XMESS_0064,網代慎平
+XMESS_0057,...How ridiculous. There's no way that's real.,XMESS_0057,網代慎平
+XMESS_0058,(It's obvious if I think about it for a second. There's no way something like that could happen in reality.),XMESS_0058,網代慎平
+XMESS_0059,"(Come to think of it, last night... I fell asleep while reading that.)",XMESS_0059,網代慎平
+XMESS_0060,"(—Ryunosuke Nagumo's ""<color=#GF_TIPS_099>Swampman</color>"")",XMESS_0060,網代慎平
+XMESS_0061,(Family and friends being replaced by identical fakes...),XMESS_0061,網代慎平
+XMESS_0062,"(A horror mystery set in Wakayama City, starring a girl possessed by such delusions.)",XMESS_0062,網代慎平
+XMESS_0063,(I must have had a bad dream because I fell asleep reading something like that...),XMESS_0063,網代慎平
+XMESS_0064,(It seems I'm really quite shaken up about Ushio...),XMESS_0064,網代慎平
 XMESS_0065,…,XMESS_0065,網代慎平
-XMESS_0066,(Ow… my cheek is throbbing…),XMESS_0066,網代慎平
-XMESS_0067,"(Because of that weird dream, I almost ended my life…)",XMESS_0067,網代慎平
-XMESS_0068,"(Calm down, calm down…
-When things like this happen, look at yourself from a <color=#GF_TIPS_062>bird's-eye view</color> to calm down…)",XMESS_0068,網代慎平
-XMESS_0069,"(It's just because of the sudden phone call and lack of sleep…
-Take a deep breath and calm down…)",XMESS_0069,網代慎平
+XMESS_0066,(Ouch... My cheek is throbbing...),XMESS_0066,網代慎平
+XMESS_0067,"(Because of that weird dream, my life was almost over...)",XMESS_0067,網代慎平
+XMESS_0068,"(Calm down, calm down... A-At times like this, look at yourself from a <color=#GF_TIPS_062>bird's-eye view</color> and calm down...)",XMESS_0068,網代慎平
+XMESS_0069,(I was just tired from the sudden phone call and lack of sleep... Take a deep breath and calm down...),XMESS_0069,網代慎平
 XMESS_0070,…,XMESS_0070,網代慎平
-XMESS_0071,"(By the way, getting slapped…
-It's my first time…)",XMESS_0071,網代慎平
+XMESS_0071,"(Come to think of it, that's the first time in my life... I've been slapped, isn't it?)",XMESS_0071,網代慎平
 XMESS_0072,…,XMESS_0072,網代慎平
-XMESS_0073,"…Yeah, I'm calming down.",XMESS_0073,網代慎平
+XMESS_0073,"...Yeah, I'm calming down.",XMESS_0073,網代慎平
 XMESS_0074,We will soon arrive at Hitogashima Island.,XMESS_0074,船内アナウンス（船長）
-XMESS_0075,"Oh, it's about time…",XMESS_0075,網代慎平
-XMESS_0076,"(Wakayama City, Wakayama Prefecture,
-the island of 'Hitogashima' floating in the Kii Channel.
-The island in the background is Awaji Island)",XMESS_0076,網代慎平
-XMESS_0077,(I'm returning to this hometown after two years――),XMESS_0077,網代慎平
-XMESS_0078,"(――To attend the funeral of my childhood friend,
-Ushio Kofune)",XMESS_0078,網代慎平
+XMESS_0075,"Oh, it's almost time...",XMESS_0075,網代慎平
+XMESS_0076,"(Wakayama City, Wakayama Prefecture, '<color=#GF_TIPS_050>Hitogashima Island</color>' floating in the Kii Channel. The island visible in the back is Awaji Island.)",XMESS_0076,網代慎平
+XMESS_0077,(I've returned to this hometown for the first time in two years—),XMESS_0077,網代慎平
+XMESS_0078,"(—To attend the funeral of my childhood friend, Ushio Kofune.)",XMESS_0078,網代慎平

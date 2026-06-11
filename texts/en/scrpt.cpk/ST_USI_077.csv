@@ -1,306 +1,223 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,67. Interrogation of Mio,XCHAPTITLE_0002,
-XMESS_0000,"(Hashi's hacking was successful,
-the shadow Mio became defenseless)",XMESS_0000,網代慎平
-XMESS_0001,"(We moved to the school infirmary and
-began questioning her right away…)",XMESS_0001,網代慎平
+XMESS_0000,"(Ushio's hacking was successful, and the shadow Mio became defenseless.)",XMESS_0000,網代慎平
+XMESS_0001,"(We moved to the school infirmary, and immediately began our interrogation...)",XMESS_0001,網代慎平
 XMESS_0002,What's your name?,XMESS_0002,網代慎平
 XMESS_0003,…Kofune… Mio…,XMESS_0003,ミオ
-XMESS_0004,When were you… born from whom?,XMESS_0004,網代慎平
-XMESS_0005,"Yesterday… during the wake…
-Mother scanned Mio and then…
-I was born in a cave that night.",XMESS_0005,ミオ
-XMESS_0006,"""Mother"" means Haine with Shiori's appearance, right?",XMESS_0006,網代慎平
-XMESS_0007,…Yes.,XMESS_0007,ミオ
-XMESS_0008,You broke Mio's bicycle brake?,XMESS_0008,網代慎平
+XMESS_0004,When were you born... and from whom?,XMESS_0004,網代慎平
+XMESS_0005,Yesterday... at the wake... Mother scanned Mio... and late that night... I was born in the cave...,XMESS_0005,ミオ
+XMESS_0006,"By 'Mother'... you mean Haine in Shiori-chan's form, right?",XMESS_0006,網代慎平
+XMESS_0007,...Yeah.,XMESS_0007,ミオ
+XMESS_0008,Did ya cut the brakes on Mio's bike?,XMESS_0008,網代慎平
 XMESS_0009,Yeah.,XMESS_0009,ミオ
 XMESS_0010,To kill me?!,XMESS_0010,小舟澪
-XMESS_0011,"I didn't really care about dying… if she got hurt and went to the hospital,
-it would have been easier for me…",XMESS_0011,ミオ
-XMESS_0012,"So you wanted her killed in the hospital
-where it'd be easy to switch!",XMESS_0012,ウシオ
-XMESS_0013,"That's right.
-Sou is on the Shadow's side.",XMESS_0013,ミオ
-XMESS_0014,…,XMESS_0014,菱形窓
+XMESS_0011,She didn't have to die... I just thought it would be easier if she got hurt and went to the hospital...,XMESS_0011,ミオ
+XMESS_0012,You mean it'd be easier to kill Mio in the hospital and swap places with her!?,XMESS_0012,ウシオ
+XMESS_0013,"Yes, since Dr. Hishigata is an ally of the shadows.",XMESS_0013,ミオ
+XMESS_0014,...!,XMESS_0014,菱形窓
 XMESS_0015,Was that Haine's order?,XMESS_0015,網代慎平
-XMESS_0016,"No, I just did it myself… 
-But it failed.",XMESS_0016,ミオ
-XMESS_0017,Creating a Shadow of Mio…I hadn't heard about that.,XMESS_0017,菱形朱鷺子
-XMESS_0018,"Relax, Tokiko. 
-Now I don't even know why I wanted to kill her…",XMESS_0018,ミオ
-XMESS_0019,Haine had you born to find Hashi's Shadow?,XMESS_0019,菱形朱鷺子
-XMESS_0020,"Yeah…
-She was a traitor who opposed Mother,
-and might have been an obstacle…",XMESS_0020,ミオ
-XMESS_0021,"But today, during the funeral, my father's Shadow got killed
-Mother said it was Hizuru's doing.",XMESS_0021,ミオ
-XMESS_0022,"Plus Shin-chan and everyone else are in on it…
-So I targeted them all.",XMESS_0022,ミオ
-XMESS_0023,"What the hell are you!?
-What's a Shadow!? 
-Tell me your purpose!!!",XMESS_0023,凸村哲
+XMESS_0016,"No, I just wanted to do it... But I failed.",XMESS_0016,ミオ
+XMESS_0017,Creating a Shadow of Mio... I hadn't heard about that.,XMESS_0017,菱形朱鷺子
+XMESS_0018,"Don't worry, Tokiko. Now that I think about it, I don't even know... why I wanted to kill her...",XMESS_0018,ミオ
+XMESS_0019,"Haine gave birth to you in order to find Ushio-san's shadow, right?",XMESS_0019,菱形朱鷺子
+XMESS_0020,"Yeah... She was a traitor who opposed Mother, and she thought she might get in the way...",XMESS_0020,ミオ
+XMESS_0021,"But today, during the funeral, Dad's shadow was killed, and Mother said it was Hizuru Minakata's doing...",XMESS_0021,ミオ
+XMESS_0022,And that Shin-chan and the others were in on it... So we made everyone a target.,XMESS_0022,ミオ
+XMESS_0023,Target... What the hell are you guys!? What are shadows!? Tell me your purpose!!,XMESS_0023,凸村哲
 XMESS_0024,…,XMESS_0024,ミオ
-XMESS_0025,What is a person?,XMESS_0025,ミオ
-XMESS_0026,Ah!!!,XMESS_0026,凸村哲
-XMESS_0027,"Purpose? 
-What's the purpose of people?",XMESS_0027,ミオ
-XMESS_0028,"That… that's just…
-We all live without really knowing!",XMESS_0028,凸村哲
-XMESS_0029,"I only have Mio's memories until the 21st, and knowledge of what I can do as a Shadow.",XMESS_0029,ミオ
-XMESS_0030,"I can't make copies of people!
-Can you?",XMESS_0030,ウシオ
-XMESS_0031,"There are two types of copying:
-""Transformation,"" where I copy onto my own body,
-and ""Childbirth,"" where I split myself to create a new Shadow.",XMESS_0031,ミオ
-XMESS_0032,We kids can only give birth once…,XMESS_0032,ミオ
-XMESS_0033,"""Kids""?",XMESS_0033,網代慎平
-XMESS_0034,"Haine can have as many children as she wants… 
-But her body is weak, even Haine finds it hard.",XMESS_0034,ミオ
-XMESS_0035,"The kids born from me won't be able to give birth…
-""Transformation"" is something all Shadows can do any number of times.",XMESS_0035,ミオ
-XMESS_0036,"Whether via birth/transformation, copying a person and failing to kill them within 7 days turns your body into mud.",XMESS_0036,ミオ
-XMESS_0037,"I only have six days left…
-But right now I just feel… ""So what?""",XMESS_0037,ミオ
+XMESS_0025,What are humans?,XMESS_0025,ミオ
+XMESS_0026,Hah!!?,XMESS_0026,凸村哲
+XMESS_0027,Purpose? What is the purpose of humans?,XMESS_0027,ミオ
+XMESS_0028,Th-That's just... everyone... t-they're just living... without any real reason!!,XMESS_0028,凸村哲
+XMESS_0029,"I only have Mio's memories up until the 21st, and knowledge of what I can do as a shadow.",XMESS_0029,ミオ
+XMESS_0030,I can't copy people! Can you?,XMESS_0030,ウシオ
+XMESS_0031,"There are two types of copying: 'Transformation', where we copy onto our own bodies, and 'Childbirth', where we split our bodies to give birth to a new shadow.",XMESS_0031,ミオ
+XMESS_0032,We children can 'give birth' to a person's shadow only once.,XMESS_0032,ミオ
+XMESS_0033,Children'?,XMESS_0033,網代慎平
+XMESS_0034,Haine can give birth as many times as she wants... But her body is weak... so it's not easy even for her.,XMESS_0034,ミオ
+XMESS_0035,The grandchildren generation born from me won't have the ability to give birth. 'Transformation' is something all shadows can do as many times as they want.,XMESS_0035,ミオ
+XMESS_0036,"However, whether it's childbirth or transformation, if you copy a person, you have to erase the original within a week, or your body will turn to <color=#GF_TIPS_081>mud</color> and disappear.",XMESS_0036,ミオ
+XMESS_0037,"I only have six days left to live... But right now, I just feel like, 'So what?'",XMESS_0037,ミオ
 XMESS_0038,…,XMESS_0038,網代慎平
-XMESS_0039,"(Mio is honestly answering our questions. 
-It seems the hacking worked well after all. 
-Time to wrap up…)",XMESS_0039,網代慎平
-XMESS_0040,"Kaori, you can stop hiding now.",XMESS_0040,網代慎平
+XMESS_0039,(Mio is answering our questions honestly. It seems the hacking really was successful. It should be about time...),XMESS_0039,網代慎平
+XMESS_0040,"Koyuba-san, you don't have to hide anymore.",XMESS_0040,網代慎平
 XMESS_0041,Yeah.,XMESS_0041,小弓場かおり
 XMESS_0042,Do you know who I am?,XMESS_0042,小弓場かおり
 XMESS_0043,…Who?,XMESS_0043,ミオ
-XMESS_0044,"Have you ever heard the name 
-""Kaori Koyuba""?",XMESS_0044,網代慎平
-XMESS_0045,Kaori Koyuba… I've heard of her somewhere…,XMESS_0045,ミオ
-XMESS_0046,"Ah! 
-The idol Kaori-chan?
-Why is she here…?",XMESS_0046,ミオ
-XMESS_0047,"Um…
-Shinpei, can I say this?",XMESS_0047,小弓場かおり
-XMESS_0048,"Before that, she's not on Haine's ""target"" list right?",XMESS_0048,網代慎平
-XMESS_0049,"Hadn't you already shared information
-before coming to the school tonight?",XMESS_0049,網代慎平
-XMESS_0050,"I haven't heard anything. 
-I just found out I was here.",XMESS_0050,ミオ
-XMESS_0051,So that's how it is…,XMESS_0051,網代慎平
+XMESS_0044,Have you ever heard the name 'Kaori Koyuba'?,XMESS_0044,網代慎平
+XMESS_0045,Kaori Koyuba... somewhere...,XMESS_0045,ミオ
+XMESS_0046,Ah. The idol Kaori Koyuba-chan? Why is she here...?,XMESS_0046,ミオ
+XMESS_0047,"Um... Ajiro-kun, is it okay if I say it?",XMESS_0047,小弓場かおり
+XMESS_0048,"Before that, she's not included in Haine's 'targets', right?",XMESS_0048,網代慎平
+XMESS_0049,"Even before coming to the school tonight, no information was shared?",XMESS_0049,網代慎平
+XMESS_0050,I haven't heard anything. I just found out for the first time that she's even on Hitogashima.,XMESS_0050,ミオ
+XMESS_0051,I see.,XMESS_0051,網代慎平
 XMESS_0052,Thank goodness…,XMESS_0052,小弓場かおり
-XMESS_0053,"(Now we know Haine hasn't discovered 
-that Kaori is with us)",XMESS_0053,網代慎平
-XMESS_0054,(I have so many things I want to ask. Let's go one by one…),XMESS_0054,網代慎平
-XMESS_0055,What should I ask first…,XMESS_0055,網代慎平
+XMESS_0053,"(With this, I've confirmed that Haine and the others don't know Koyuba-san is our ally.)",XMESS_0053,網代慎平
+XMESS_0054,(There are various things I want to ask. Let's confirm them in order...),XMESS_0054,網代慎平
+XMESS_0055,(What should I ask...),XMESS_0055,網代慎平
 MSTD_0177-0,"""Tell me more about Shadows""",MSTD_0177-0,
-MSTD_0177-1,"""How do you eat?""",MSTD_0177-1,
-MSTD_0177-2,"""How many Shadow individuals are there?""",MSTD_0177-2,
-MSTD_0177-3,"""Why does your atmosphere differ from Mio's?""",MSTD_0177-3,
+MSTD_0177-1,"""What do you do for meals?""",MSTD_0177-1,
+MSTD_0177-2,"""What's the Shadow population?""",MSTD_0177-2,
+MSTD_0177-3,"""You and Mio have a different vibe, though?""",MSTD_0177-3,
 XMESS_0056,Tell me more about Shadows.,XMESS_0056,網代慎平
-XMESS_0057,"Haine's children - 
-Doppelgängers who copy people's appearances…
-They take over families and live pretending to be humans.",XMESS_0057,ミオ
-XMESS_0058,"Do Shadows have an instinct to reproduce
-and thrive, or are they just fake copies of humans?",XMESS_0058,南方ひづる
+XMESS_0057,The children Haine gave birth to. Doppelgängers that copied human forms... They take over families and live pretending to be human.,XMESS_0057,ミオ
+XMESS_0058,"Do shadows also have an instinct to leave descendants and prosper, or is it just a superficial imitation of humans?",XMESS_0058,南方ひづる
 XMESS_0059,I don't know…,XMESS_0059,ミオ
-XMESS_0060,How do you eat?,XMESS_0060,網代慎平
-XMESS_0061,"Do you have three meals a day properly? 
-If not, would you starve to death?",XMESS_0061,網代慎平
-XMESS_0062,"Shadows eat information.
-Information including taste is nutrition for us.",XMESS_0062,ミオ
-XMESS_0063,"Mother… Haine has forbidden everyone
-from eating people in any way other than childbirth or transformation.",XMESS_0063,ミオ
-XMESS_0064,"But even without being told, 
-I just feel like having okonomiyaki…",XMESS_0064,ミオ
-XMESS_0065,"Because it's delicious,
-and there is information in eggs, pork meat, and cabbage too.",XMESS_0065,ミオ
-XMESS_0066,"If I don't eat, of course I'll starve to death like anyone else.",XMESS_0066,ミオ
-XMESS_0067,"…Haine only eats humans. 
-I think it's probably because she likes the taste.",XMESS_0067,菱形朱鷺子
-XMESS_0068,"But if that's the case, they'd starve so we need to transfuse…
-Human blood contains a lot of information.",XMESS_0068,菱形朱鷺子
-XMESS_0069,"Eating information…
-What are Shadows made of?",XMESS_0069,網代慎平
-XMESS_0070,"Body? I don't know… 
-Haine calls it ""mud."" That's all…",XMESS_0070,ミオ
-XMESS_0071,How many Shadows are there?,XMESS_0071,網代慎平
+XMESS_0060,What do you do for meals?,XMESS_0060,網代慎平
+XMESS_0061,Do you eat three meals a day properly? Will you starve to death if you don't eat?,XMESS_0061,網代慎平
+XMESS_0062,"Shadows live by eating information. Because 'information', including taste, is our nutrition.",XMESS_0062,ミオ
+XMESS_0063,Mother... Haine forbids everyone from eating humans outside of childbirth and transformation.,XMESS_0063,ミオ
+XMESS_0064,"But even without being told, I kind of want to eat okonomiyaki.",XMESS_0064,ミオ
+XMESS_0065,"Because that tastes better, and there's information in eggs, pork, and cabbage too.",XMESS_0065,ミオ
+XMESS_0066,"If we don't eat, of course we'll starve to death just like humans.",XMESS_0066,ミオ
+XMESS_0067,...Haine only eats humans. I think it's probably because she prefers the taste.,XMESS_0067,菱形朱鷺子
+XMESS_0068,"But she would starve to death like that, so we give her blood transfusions... Human blood contains an abundance of information.",XMESS_0068,菱形朱鷺子
+XMESS_0069,Eating information... What are shadow bodies made of?,XMESS_0069,網代慎平
+XMESS_0070,"Body? What is it, I wonder... Haine calls it mud. That's about all I know...",XMESS_0070,ミオ
+XMESS_0071,What's the shadow population?,XMESS_0071,網代慎平
 XMESS_0072,…I don't know.,XMESS_0072,ミオ
-XMESS_0073,"Haine hasn't given birth for the past few decades 
-because she's been weakening…",XMESS_0073,菱形朱鷺子
-XMESS_0074,She only gave birth in order to perform a resurrection ritual.,XMESS_0074,菱形朱鷺子
-XMESS_0075,"Currently, the Shadows hiding as humans are probably 
-a few children born within two months,
-and their offspring from those kids.",XMESS_0075,菱形朱鷺子
-XMESS_0076,The number of Shadows is unknown…,XMESS_0076,南方ひづる
-XMESS_0077,"I already confirmed several Shadow pairs at today's funeral.
-Besides the Kobayakawa family, I recognized some faces too.",XMESS_0077,南方ひづる
-XMESS_0078,"The Koguchi Family and Hitobuchi Family. 
-There are more to investigate though.",XMESS_0078,南方ひづる
-XMESS_0079,How many Stray Shadows are there too?,XMESS_0079,網代慎平
+XMESS_0073,It seems Haine hasn't given birth for the past few decades as her weakening progressed.,XMESS_0073,菱形朱鷺子
+XMESS_0074,She only pushed herself to give birth for the sake of the resurrection ritual.,XMESS_0074,菱形朱鷺子
+XMESS_0075,"Currently, the shadows hiding in human form should be a few children born within the last two months, and the grandchildren born from those children.",XMESS_0075,菱形朱鷺子
+XMESS_0076,So the number of shadows is unknown...,XMESS_0076,南方ひづる
+XMESS_0077,"I already confirmed several sets of shadows at today's funeral venue. Besides the Kobayakawa family, there were faces I recognized.",XMESS_0077,南方ひづる
+XMESS_0078,The Kogaito family and the Hitobuchi family. The rest require investigation.,XMESS_0078,南方ひづる
+XMESS_0079,Is the number of Strays also unknown?,XMESS_0079,網代慎平
 XMESS_0080,"Sorry, I have no idea.",XMESS_0080,ミオ
-XMESS_0081,Probably Haine doesn't fully know either.,XMESS_0081,菱形朱鷺子
-XMESS_0082,"…Mio, your personality or atmosphere…
-It feels different from the real one somehow.",XMESS_0082,網代慎平
-XMESS_0083,"Shadows are perfect copies of people. 
-My body, voice, fingerprints, DNA, memories,
-everything is exactly like Mio's… but…",XMESS_0083,ミオ
-XMESS_0084,"With memory alone…
-You know, humans forget things.",XMESS_0084,ミオ
+XMESS_0081,I think probably even Haine hasn't fully grasped it.,XMESS_0081,菱形朱鷺子
+XMESS_0082,"...Mio, your personality, or rather... Your vibe feels different from the real one.",XMESS_0082,網代慎平
+XMESS_0083,"Shadows are perfect copies of people. My body, voice, fingerprints, DNA, memories, they're all exactly the same as Mio's, but...",XMESS_0083,ミオ
+XMESS_0084,Only when it comes to memories... You know how people forget things?,XMESS_0084,ミオ
 XMESS_0085,Selective memory?,XMESS_0085,南方ひづる
-XMESS_0086,"Yes. Shadows don't have the ability to ""forget"" 
-unpleasant memories or trivial, unimportant ones.",XMESS_0086,ミオ
-XMESS_0087,"So I remember everything equally. Even things that person has forgotten
-or repressed, they get copied too when I copy them.",XMESS_0087,ミオ
-XMESS_0088,"This difference in memory causes personality differences,
-I think.",XMESS_0088,ミオ
+XMESS_0086,"Yes. Shadows don't have the function to 'forget' unpleasant memories or trivial, silly memories.",XMESS_0086,ミオ
+XMESS_0087,"So, I remember all events equally. Even things the person themselves forgot, or repressed feelings, I copy them over during the copying process.",XMESS_0087,ミオ
+XMESS_0088,I think that difference is what creates the difference in personality.,XMESS_0088,ミオ
 XMESS_0089,Repressed feelings…,XMESS_0089,菱形朱鷺子
-XMESS_0090,"But, but you're my older sister!
-You are still your real self right?!",XMESS_0090,小舟澪
-XMESS_0091,"My older sister has human-level memory…
-…Is she defective?",XMESS_0091,ミオ
-XMESS_0092,That's a bad way to put it.,XMESS_0092,ウシオ
-XMESS_0093,"…Well, Hashi is special I guess.",XMESS_0093,網代慎平
-XMESS_0094,"(…The more I listen, the deeper this mystery gets. 
-But we need to gather as much information as possible.)",XMESS_0094,網代慎平
-XMESS_0095,(Other things I want to ask are…),XMESS_0095,網代慎平
-MSTD_0299-0,"""What's the Shadow ecosystem like?""",MSTD_0299-0,
-MSTD_0299-1,"""How do Shadows share information?""",MSTD_0299-1,
-MSTD_0299-2,"""Are there different types of Shadows?""",MSTD_0299-2,
-MSTD_0299-3,"""On copied data""",MSTD_0299-3,
-XMESS_0096,"What's the Shadow ecosystem like?
-Even if they live as humans, 
-they can't stay in that form forever right?",XMESS_0096,網代慎平
-XMESS_0097,"Yeah… They age and weaken until eventually dying. 
-Well, it's just pretending to die.",XMESS_0097,ミオ
-XMESS_0098,"Older Shadows are faked as dead by Sou Clinic,
-and then disappear from society…",XMESS_0098,菱形朱鷺子
-XMESS_0099,"They pretend to be dead, and transform into new targets 
-to start a fresh life as someone else.",XMESS_0099,菱形朱鷺子
-XMESS_0100,"Normally the Shadow ecosystem is just this cycle…
-I've heard it from my father too.",XMESS_0100,菱形朱鷺子
-XMESS_0101,"If they transform many times, 
-the copy quality starts to degrade…",XMESS_0101,ミオ
-XMESS_0102,"Their bodies start breaking down,
-they get memory disorders or personality issues
-and eventually can't imitate humans anymore.",XMESS_0102,ミオ
-XMESS_0103,"Once that happens, they go into the wilderness as Strays.",XMESS_0103,ミオ
-XMESS_0104,Tell me about Shadow information sharing methods.,XMESS_0104,網代慎平
-XMESS_0105,"Haine can send simple commands…
-like ""go there"" or ""kill that person""
-through radio waves.",XMESS_0105,ミオ
-XMESS_0106,"But this is one-way only,
-the kids and grandkids can't reply to Haine.",XMESS_0106,ミオ
-XMESS_0107,"To communicate, they must talk, call phones, leave notes, meet in person, touch, and share memories.",XMESS_0107,ミオ
-XMESS_0108,So it's basically the same for everyone then.,XMESS_0108,ウシオ
-XMESS_0109,"Are there different types of Shadows?
-Like babies, or monsters with long limbs,
-or muscular ones…",XMESS_0109,網代慎平
-XMESS_0110,"Babies are Strays.
-Older shadows whose human forms have broken down.",XMESS_0110,ミオ
-XMESS_0111,"My copy ability has weakened, and I can't give birth.  
-Transforming isn't perfect either, so it's rare for me to show my face in public.",XMESS_0111,ミオ
-XMESS_0112,"Stray Shadows eat mice, birds, fish, insects, and live quietly where they won't be seen.  
-They avoid attention.",XMESS_0112,菱形朱鷺子
-XMESS_0113,"Their appearances vary by individual, but in the end, everyone becomes baby-like before disappearing as mud without memory or personality.",XMESS_0113,菱形朱鷺子
-XMESS_0114,Shadows grow childlike with age… Perhaps their essence is similar to humans?,XMESS_0114,南方ひづる
-XMESS_0115,"The shadows specialized in fighting sent by Haine are called ""Humanless.""",XMESS_0115,ミオ
-XMESS_0116,"Most individuals stray from human forms, developing oversized muscles or elongated limbs.",XMESS_0116,ミオ
-XMESS_0117,"Their combat abilities skyrocket but their intelligence plummets, losing all human thought processes.",XMESS_0117,ミオ
-XMESS_0118,"My Rosenkrantz and Guildenstern are Humanless, right?",XMESS_0118,菱形朱鷺子
-XMESS_0119,What's with that name…,XMESS_0119,菱形窓
-XMESS_0120,Naming is my hobby.,XMESS_0120,菱形朱鷺子
-XMESS_0121,Those recognized by Haine receive shadows that obey their commands… This has been the tradition for ages.,XMESS_0121,菱形朱鷺子
-XMESS_0122,…Which one's Rosenkrantz?,XMESS_0122,網代慎平
-XMESS_0123,"The dazed, slobbering one is Rosz, and the grumpy one with a hand injury is Guild.",XMESS_0123,菱形朱鷺子
-XMESS_0124,"Though I don't have copy abilities like strays, my combat skills are far superior to other stray Shadows.",XMESS_0124,菱形朱鷺子
-XMESS_0125,The nurse… Kotori's Shadow…That's Dad!?!,XMESS_0125,菱形窓
+XMESS_0090,B-But what about Sis!? Sis is exactly the same as Sis!,XMESS_0090,小舟澪
+XMESS_0091,"Sis's memory is at a human level, or rather... ...Isn't it because she's a defective product?",XMESS_0091,ミオ
+XMESS_0092,Watch how you say that.,XMESS_0092,ウシオ
+XMESS_0093,...Well... I guess it means Ushio is special.,XMESS_0093,網代慎平
+XMESS_0094,"(...The more I ask, the deeper the mystery gets. But I want to get as much information as possible right now.)",XMESS_0094,網代慎平
+XMESS_0095,(Other things I should ask are--),XMESS_0095,網代慎平
+MSTD_0299-0,"""What is the ecology of shadows?""",MSTD_0299-0,
+MSTD_0299-1,"""What are the shadows' means of sharing information?""",MSTD_0299-1,
+MSTD_0299-2,"""There are a few different types of shadows, right?""",MSTD_0299-2,
+MSTD_0299-3,"""About the data of copied objects""",MSTD_0299-3,
+XMESS_0096,"What is the ecology of shadows like? Even if you live disguised as a human, you can't stay in that form for years, right?",XMESS_0096,網代慎平
+XMESS_0097,"Yeah... we have to age, weaken, and eventually die. Well, it's just pretending to be dead, though.",XMESS_0097,ミオ
+XMESS_0098,"Aging shadows fake their deaths with the help of Hishigata Clinic, and disappear from society...",XMESS_0098,菱形朱鷺子
+XMESS_0099,"On the surface they die, transform into their next target, and begin living as a new, different person.",XMESS_0099,菱形朱鷺子
+XMESS_0100,The normal ecology of a shadow is just repeating this cycle... That's what I heard from Dad.,XMESS_0100,菱形朱鷺子
+XMESS_0101,"When they transform over and over again, the copy accuracy begins to degrade...",XMESS_0101,ミオ
+XMESS_0102,"The copy becomes incomplete and their shape breaks down, they develop memory disorders, personality disorders, and so on, and gradually become unable to mimic humans.",XMESS_0102,ミオ
+XMESS_0103,Those who end up like that leave human settlements and become Strays.,XMESS_0103,ミオ
+XMESS_0104,Tell me about the shadows' means of sharing information.,XMESS_0104,網代慎平
+XMESS_0105,"Haine can send simple commands... like 'go to such-and-such place' or 'kill so-and-so', transmitting them like radio waves.",XMESS_0105,ミオ
+XMESS_0106,"But this is one-way, so the children and grandchildren can't reply to Haine.",XMESS_0106,ミオ
+XMESS_0107,"To communicate, they have to use the same methods as humans... conversation, phone calls, leaving notes, or meet directly, touch, and show each other their memories.",XMESS_0107,ミオ
+XMESS_0108,So that really is the same for everyone.,XMESS_0108,ウシオ
+XMESS_0109,"There are a few different types of shadows, right? Like ones that look like babies, or ones with long limbs like monsters, or muscular ones.",XMESS_0109,網代慎平
+XMESS_0110,The ones that look like babies are Strays. Old shadows whose human forms have broken down.,XMESS_0110,ミオ
+XMESS_0111,"Their copy ability has weakened, and they don't have the ability to give birth. Their transformations aren't perfect either, so they rarely show themselves in public.",XMESS_0111,ミオ
+XMESS_0112,"Strays eat things like mice, birds, fish, and insects, living quietly in places where people won't see them.",XMESS_0112,菱形朱鷺子
+XMESS_0113,"Their appearances vary with individual differences, but in the end, after they all become like babies, they lose their memories and personalities, turn to mud, and disappear.",XMESS_0113,菱形朱鷺子
+XMESS_0114,Shadows grow closer to babies as they age... Perhaps it's the same as the essence of humans.,XMESS_0114,南方ひづる
+XMESS_0115,Shadows specialized for fighting by signals sent from Haine are called 'Hitonashi'.,XMESS_0115,ミオ
+XMESS_0116,"Most individuals deviate from the human form, their muscles hypertrophying or their limbs growing long.",XMESS_0116,ミオ
+XMESS_0117,"While their combat ability improves ridiculously, their intelligence drops, and they lose their ability to think as humans.",XMESS_0117,ミオ
+XMESS_0118,"My Rosencrantz and Guildenstern are Hitonashi, then.",XMESS_0118,菱形朱鷺子
+XMESS_0119,What's with those names...,XMESS_0119,菱形窓
+XMESS_0120,Naming them is my hobby.,XMESS_0120,菱形朱鷺子
+XMESS_0121,Members of the Hishigata family recognized by Haine receive shadows that respond to their voice and faithfully follow orders... This is an old tradition.,XMESS_0121,菱形朱鷺子
+XMESS_0122,...Which one is Rosencrantz?,XMESS_0122,網代慎平
+XMESS_0123,"The one who's always spacing out and drooling is Roz, and the grumpy one with the injured right hand is Gil.",XMESS_0123,菱形朱鷺子
+XMESS_0124,"Since they're based on Strays, they don't have copy abilities, but their enhanced combat ability is far superior to other Strays.",XMESS_0124,菱形朱鷺子
+XMESS_0125,The nurse... Negoro-san's shadow... Is that Dad's!?,XMESS_0125,菱形窓
 XMESS_0126,"Yeah, she's Haine's caretaker.",XMESS_0126,菱形朱鷺子
 XMESS_0127,I have a question about copying objects.,XMESS_0127,網代慎平
-XMESS_0128,"It was Totsumura's pistol used in the gym, but it's a copy of Ushio's.",XMESS_0128,網代慎平
-XMESS_0129,"Even after emptying bullets, if I erase and print again, they return to full capacity.",XMESS_0129,網代慎平
+XMESS_0128,"About Totsumura-san's handgun used in the gym fight, that was a copy made by Ushio.",XMESS_0128,網代慎平
+XMESS_0129,"Even if the bullets are used up, if it's erased and printed again, the bullets return to their initial full state.",XMESS_0129,網代慎平
 XMESS_0130,Yeah.,XMESS_0130,ミオ
-XMESS_0131,But the gasoline he lit up seems to have had its data erased from Ushio's head.,XMESS_0131,網代慎平
-XMESS_0132,That's right! Why?,XMESS_0132,ウシオ
-XMESS_0133,Whether the data can be reused through inanimate transformations depends on whether it was consumed or destroyed.,XMESS_0133,ミオ
+XMESS_0131,But the data for the gasoline that was set on fire apparently disappeared from Ushio's head.,XMESS_0131,網代慎平
+XMESS_0132,"Yeah, exactly! Why is that?",XMESS_0132,ウシオ
+XMESS_0133,"With the transformation or childbirth of inorganic objects, whether that data can be used again or not is the difference between consumption and destruction.",XMESS_0133,ミオ
 XMESS_0134,What's that?,XMESS_0134,ウシオ
-XMESS_0135,"""Consumption,"" like batteries and bullets, can be restored by reprinting. But ""destruction""? That's impossible.",XMESS_0135,ミオ
-XMESS_0136,"Lighting gasoline on fire would count as destruction, right?",XMESS_0136,ミオ
-XMESS_0137,The pistol was consumed and the gas destroyed.,XMESS_0137,網代慎平
+XMESS_0135,"Consumption', like batteries or bullets, can be restored to their initial state if printed again, but things that have been 'destroyed' cannot.",XMESS_0135,ミオ
+XMESS_0136,Lighting gasoline on fire and burning it probably counts as destruction.,XMESS_0136,ミオ
+XMESS_0137,"So the handgun was consumed, and the gasoline was destroyed.",XMESS_0137,網代慎平
 XMESS_0138,Yeah.,XMESS_0138,ミオ
-XMESS_0139,"So if this gun breaks or falls apart, it's no good either.",XMESS_0139,ウシオ
-XMESS_0140,"About non-humans… Do their copies have weaknesses in the ""plane""?",XMESS_0140,菱形窓
-XMESS_0141,"When transforming, the shadow itself is disguised so its plane is weak. But copied objects are just regular shadows.",XMESS_0141,ミオ
-XMESS_0142,"To destroy them, break their three-dimensionality… I don't understand why though.",XMESS_0142,ミオ
-XMESS_0143,The nail gun was definitely destroyed.,XMESS_0143,網代慎平
-XMESS_0144,…But if Ushio carried the damaged data into the next cycle…,XMESS_0144,南方ひづる
-XMESS_0145,"Even if you loop, Ushio's time isn't resetting.",XMESS_0145,南方ひづる
-XMESS_0146,Yeah… I'm basically made of data so…,XMESS_0146,ウシオ
-XMESS_0147,I follow Shinpei's consciousness as he rewinds time.,XMESS_0147,ウシオ
-XMESS_0148,"That's why Shide said, I think when I die it'll be over… Even if we loop, the current me won't exist anymore.",XMESS_0148,ウシオ
+XMESS_0139,"Then it's no good if this handgun breaks or falls apart either, huh.",XMESS_0139,ウシオ
+XMESS_0140,"For copies of non-human, inorganic objects, is their shadow... the 2D plane also their weakness?",XMESS_0140,菱形窓
+XMESS_0141,"In the case of transformation, the shadow itself is disguised, so the 2D plane is its weakness. But the shadow of an inorganic object that was given birth to is a normal shadow.",XMESS_0141,ミオ
+XMESS_0142,"To destroy them, you just have to break the 3D object... ...I don't understand the principle behind it.",XMESS_0142,ミオ
+XMESS_0143,It's true that the nail gun stayed broken.,XMESS_0143,網代慎平
+XMESS_0144,"...However, the fact that Ushio carried over the destroyed data to the next loop means...",XMESS_0144,南方ひづる
+XMESS_0145,"Even if Shinpei Ajiro loops, only Ushio's time isn't going back.",XMESS_0145,南方ひづる
+XMESS_0146,"Yeah. To put it one way, my body is basically made of data, so...",XMESS_0146,ウシオ
+XMESS_0147,You're looping by attaching yourself to Shinpei's consciousness as it goes back in time.,XMESS_0147,ウシオ
+XMESS_0148,"That's why Shide said it too, but I think if I die, that's the end of it. Even if we loop, the current me won't be there anymore.",XMESS_0148,ウシオ
 XMESS_0149,…,XMESS_0149,南方ひづる
 XMESS_0150,…,XMESS_0150,網代慎平
-XMESS_0151,(That's about all I wanted to ask…),XMESS_0151,網代慎平
-XMESS_0152,"Sorry, Shin-chan…  
-I didn't have much useful info.",XMESS_0152,ミオ
-XMESS_0153,S-sorry! That's not something you should apologize for!!,XMESS_0153,菱形窓
-XMESS_0154,"Hey, that guy's a shadow, Sou!!",XMESS_0154,凸村哲
-XMESS_0155,Ah… but…,XMESS_0155,菱形窓
-XMESS_0156,…Damn it!!! My rhythm's messed up!!,XMESS_0156,菱形窓
-XMESS_0157,"Haine needs to consume many people to revive…  
-The births are for creating soldiers.",XMESS_0157,南方ひづる
-XMESS_0158,Me and Dad were trying to resurrect Mom by feeding Haine…as food.,XMESS_0158,菱形朱鷺子
-XMESS_0159,But it was wrong… I was deceived… They have another purpose!!,XMESS_0159,菱形朱鷺子
-XMESS_0160,"In the Hiruko Cave, he said Dad ""agreed""…",XMESS_0160,菱形窓
-XMESS_0161,What's with this crap… Dad… He thinks we can die!!,XMESS_0161,菱形窓
+XMESS_0151,(Have I asked everything I wanted to for now...?),XMESS_0151,網代慎平
+XMESS_0152,"Sorry, Shin-chan... I don't have much useful information...",XMESS_0152,ミオ
+XMESS_0153,Th-That's... not something you need to apologize for!!,XMESS_0153,菱形窓
+XMESS_0154,"Hey, hey... She's a shadow, Sou-kun!!",XMESS_0154,凸村哲
+XMESS_0155,"Ah, no... but...",XMESS_0155,菱形窓
+XMESS_0156,"...Ah, damn it!! This is throwing me off~~~!!",XMESS_0156,菱形窓
+XMESS_0157,Haine needs to 'eat' a massive amount of people for her resurrection... The childbirths are to create soldiers for that purpose.,XMESS_0157,南方ひづる
+XMESS_0158,Dad and I were trying to resurrect Haine for Mom's sake. I thought it was food for that...,XMESS_0158,菱形朱鷺子
+XMESS_0159,But it was different. I was deceived... They have a different purpose...!!,XMESS_0159,菱形朱鷺子
+XMESS_0160,"In Hiruko Cave, that guy said it, didn't he. That Dad 'already consented'...",XMESS_0160,菱形窓
+XMESS_0161,Screwing with us... Dad... He thinks it's fine even if we die!!,XMESS_0161,菱形窓
 XMESS_0162,…Dad…,XMESS_0162,菱形朱鷺子
-XMESS_0163,There's a lot I don't understand… But Professor Hishigata should know Haine's real purpose.,XMESS_0163,網代慎平
-XMESS_0164,Maybe there's a solution somewhere…,XMESS_0164,網代慎平
-XMESS_0165,I've got an appointment with Dad at 10 tonight.,XMESS_0165,菱形窓
-XMESS_0166,Alright… Our next goal is set.,XMESS_0166,網代慎平
+XMESS_0163,"There's a lot I can't accept, but... Dr. Hishigata should know Haine's true purpose.",XMESS_0163,網代慎平
+XMESS_0164,There might be some kind of solution there...,XMESS_0164,網代慎平
+XMESS_0165,I have an appointment to meet Dad tonight at 10.,XMESS_0165,菱形窓
+XMESS_0166,"Okay, then we know what to do next.",XMESS_0166,網代慎平
 XMESS_0167,…I'm going…,XMESS_0167,菱形窓
-XMESS_0168,"Sou!!?  
-You're leaving alone?!",XMESS_0168,小舟澪
-XMESS_0169,"Hey! Wait up, Sou!!!",XMESS_0169,ウシオ
-XMESS_0170,What's there to wait for?! I'm going back right now to meet Dad…!,XMESS_0170,菱形窓
+XMESS_0168,Sou-kun!? Are you planning to go out alone!?,XMESS_0168,小舟澪
+XMESS_0169,"Hey! Wait, Sou!!",XMESS_0169,ウシオ
+XMESS_0170,Like I can just dawdle around...!! I'm going back right now to meet Dad...!,XMESS_0170,菱形窓
 XMESS_0171,Wait.,XMESS_0171,南方ひづる
-XMESS_0172,…Move please…,XMESS_0172,菱形窓
-XMESS_0173,"You're helping the Shadow's side, Sou…",XMESS_0173,南方ひづる
-XMESS_0174,It's too dangerous… I can't let you go alone!,XMESS_0174,網代慎平
+XMESS_0172,...Please move...,XMESS_0172,菱形窓
+XMESS_0173,"Your family is on the side of the shadows, Sou Hishigata...",XMESS_0173,南方ひづる
+XMESS_0174,It's too dangerous... I can't let you go alone anymore!,XMESS_0174,網代慎平
 XMESS_0175,He's right. Let's all go to Hishigata Clinic.,XMESS_0175,南方ひづる
-XMESS_0176,"Itch… so much here!  
-There are way too many mosquitoes!",XMESS_0176,小舟澪
+XMESS_0176,It's so itchy~~~! There are so many mosquitoes here!,XMESS_0176,小舟澪
 XMESS_0177,…Mio.,XMESS_0177,網代慎平
 XMESS_0178,Huh?,XMESS_0178,小舟澪
 XMESS_0179,"Ah, no…",XMESS_0179,網代慎平
 XMESS_0180,…Me?,XMESS_0180,ミオ
-XMESS_0181,Yeah… Protect Mio.,XMESS_0181,網代慎平
+XMESS_0181,Yeah... Protect... Mio.,XMESS_0181,網代慎平
 XMESS_0182,…!,XMESS_0182,小舟澪
 XMESS_0183,Is that an order?,XMESS_0183,ミオ
-XMESS_0184,"It's more like… yeah, it is.",XMESS_0184,網代慎平
-XMESS_0185,"…So Shin-chan, are you scared of me?  
-You're keeping a lot of distance.",XMESS_0185,ミオ
-XMESS_0186,S-sure… I'm not lying when I say it's scary! How many times have I been killed by you?!,XMESS_0186,網代慎平
-XMESS_0187,"That was another world, right?  
-I haven't killed anyone yet.",XMESS_0187,ミオ
-XMESS_0188,S-sorry… but…,XMESS_0188,網代慎平
-XMESS_0189,…Can I ask a question too?,XMESS_0189,ミオ
-XMESS_0190,"U-uh, sure… What is it?",XMESS_0190,網代慎平
-XMESS_0191,Did you get a girlfriend in Tokyo?!,XMESS_0191,ミオ
-XMESS_0192,Gah!!,XMESS_0192,小舟澪
+XMESS_0184,"An order, or rather... Yeah... well... I guess it's an order...",XMESS_0184,網代慎平
+XMESS_0185,"...I mean, Shin-chan, are you scared of me? You're keeping a lot of distance.",XMESS_0185,ミオ
+XMESS_0186,"W-Well, yeah... It'd be a lie to say I'm not scared. How many times do you think you've killed me...?",XMESS_0186,網代慎平
+XMESS_0187,"That's a story from another world, right? I haven't killed anyone yet.",XMESS_0187,ミオ
+XMESS_0188,"Th... That's... true, but...",XMESS_0188,網代慎平
+XMESS_0189,Can I ask ya something too?,XMESS_0189,ミオ
+XMESS_0190,Y-Yeah... What is it...?,XMESS_0190,網代慎平
+XMESS_0191,Did ya have a girlfriend in Tokyo?,XMESS_0191,ミオ
+XMESS_0192,Guh...!,XMESS_0192,小舟澪
 XMESS_0193,Girlfriend?,XMESS_0193,網代慎平
-XMESS_0194, Girlfriend?! What are you asking me that for??,XMESS_0194,小舟澪
-XMESS_0195,"Shin-chan, sometimes your dialect is suspicious… isn't it?",XMESS_0195,ミオ
-XMESS_0196,"I'm not like that!! If I speak Kansai-ben in Tokyo, people won't understand! I follow local customs!",XMESS_0196,網代慎平
-XMESS_0197,Then what's your relationship with Kaori?,XMESS_0197,ミオ
-XMESS_0198,"What do you mean… Koyuba was my classmate. You should remember that, right?",XMESS_0198,網代慎平
-XMESS_0199,H-hold on!!,XMESS_0199,小舟澪
-XMESS_0200,Hmm… Even though this was a joke…,XMESS_0200,ミオ
-XMESS_0201,"But have you ever thought why I don't call you ""onii-chan""?",XMESS_0201,ミオ
+XMESS_0194,G-Girlfriend~~!!? Wh... wh... what are you asking him!!,XMESS_0194,小舟澪
+XMESS_0195,"Shin-chan, the way you sometimes switch to standard Japanese is suspicious... Isn't it suspicious?",XMESS_0195,ミオ
+XMESS_0196,"I don't have one...! Wakayama dialect doesn't work in Tokyo, okay!? When in Rome, I do as the Romans do!",XMESS_0196,網代慎平
+XMESS_0197,"Then, what's your relationship with Kaori-chan?",XMESS_0197,ミオ
+XMESS_0198,What do you mean... Koyuba-san is a former classmate. Isn't that in your memories too...?,XMESS_0198,網代慎平
+XMESS_0199,"H-Hey, you!!",XMESS_0199,小舟澪
+XMESS_0200,"Hmm... Well, that was just a joke, though.",XMESS_0200,ミオ
+XMESS_0201,If so... have you ever thought about why I don't call Shin-chan 'Onii-chan'?,XMESS_0201,ミオ
 XMESS_0202,…!!,XMESS_0202,小舟澪
-XMESS_0203,"Eh…?  
-S-sure, I guess…",XMESS_0203,網代慎平
-XMESS_0204,O-oh! They're here!! Let's talk about this later!!!,XMESS_0204,網代慎平
-XMESS_0205,"Hey Shin-chan, I'll protect Mio as ordered.",XMESS_0205,ミオ
-XMESS_0206,"But… the only one who can really protect Mio is you, right?",XMESS_0206,ミオ
+XMESS_0203,"Eh...? W-Well, that's...",XMESS_0203,網代慎平
+XMESS_0204,O-Oh... our ride is here! We'll talk about this later!,XMESS_0204,網代慎平
+XMESS_0205,"Hey, Shin-chan, I'll protect Mio just as ordered.",XMESS_0205,ミオ
+XMESS_0206,"But you know. The only one who can truly protect Mio is you, Shin-chan, right?",XMESS_0206,ミオ
 XMESS_0207,…!!,XMESS_0207,小舟澪
-XMESS_0208,Then let's go.,XMESS_0208,ミオ
-XMESS_0209,"…I don't get it at all!!! Who is this person?! Come on, hurry up!! Shin-chan!",XMESS_0209,小舟澪
+XMESS_0208,"Well then, shall we get in?",XMESS_0208,ミオ
+XMESS_0209,"...I-I don't get what she means!! What's her deal! Come on, let's go, let's go!! Shin-chan!",XMESS_0209,小舟澪
 XMESS_0210,O-oh… yeah.,XMESS_0210,網代慎平
-XMESS_0211,Everyone's aboard. Let's go.,XMESS_0211,根津銀次郎
+XMESS_0211,Everyone's in... let's go.,XMESS_0211,根津銀次郎
 XMESS_0212,…Yes.,XMESS_0212,網代慎平

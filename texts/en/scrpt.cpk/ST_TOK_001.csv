@@ -1,189 +1,122 @@
 source,target,id,developer_comments
 XCOMMENTVIEW_0013,July 22nd,XCOMMENTVIEW_0013,
-XCHAPTITLE_0036,1. Call the Window,XCHAPTITLE_0036,
-XMESS_0000,"(First, I should call the Window)",XMESS_0000,網代慎平
-XMESS_0001,"(To understand what's happened so far,
-I need to show her the memory of Ushio…)",XMESS_0001,網代慎平
-XMESS_0002,"Hey, Shinpei! What's wrong?
-You said you'd call later, but you're quick.",XMESS_0002,菱形窓
+XCHAPTITLE_0036,1. Call Sou,XCHAPTITLE_0036,
+XMESS_0000,"(First, I should contact Sou.)",XMESS_0000,網代慎平
+XMESS_0001,"(In order for him to grasp what has happened so far, I need him to see Ushio's memories...!)",XMESS_0001,網代慎平
+XMESS_0002,"Hey, Shinpei! What's up? You said you'd call later, you're pretty early.",XMESS_0002,菱形窓
 XMESS_0003,"Ah, sorry.",XMESS_0003,網代慎平
-XMESS_0004,"No, it's fine.
-I also wanted to talk early.",XMESS_0004,菱形窓
-XMESS_0005,"Hey, Shinpei.
-Actually… about Ushio…",XMESS_0005,菱形窓
-XMESS_0006,It's about the Kiyokawa Line.,XMESS_0006,網代慎平
-XMESS_0007,"…What!?
-How did you know!?",XMESS_0007,菱形窓
-XMESS_0008,"Including that… I need to ask something.
-I want to borrow your power.",XMESS_0008,網代慎平
-XMESS_0009,"Come to the gym at Hitogashima Junior High
-soon. I'll explain everything there.",XMESS_0009,網代慎平
-XMESS_0010,"Whaaat!?
-What's going on!?
-Sudden school visit…",XMESS_0010,菱形窓
-XMESS_0011,"I'm begging you, Sou!
-It's important!",XMESS_0011,網代慎平
+XMESS_0004,"Nah, it's fine. I wanted to talk early too.",XMESS_0004,菱形窓
+XMESS_0005,"Hey, Shinpei. Actually... about Ushio...",XMESS_0005,菱形窓
+XMESS_0006,"The Yoshikawa lines, right.",XMESS_0006,網代慎平
+XMESS_0007,...Wha!? How do you know!?,XMESS_0007,菱形窓
+XMESS_0008,Including that... there's something I want to ask of you. I want to borrow your strength.,XMESS_0008,網代慎平
+XMESS_0009,Come to the Hitogashima Elementary and Junior High School gym now. I'll tell you the details there.,XMESS_0009,網代慎平
+XMESS_0010,Hah...!? I don't get what you mean at all. Telling me to come to the school so suddenly...,XMESS_0010,菱形窓
+XMESS_0011,"Please, Sou! It's important!",XMESS_0011,網代慎平
 XMESS_0012,…,XMESS_0012,菱形窓
-XMESS_0013,"…Okay, I'll go.",XMESS_0013,菱形窓
-XMESS_0014,R-really?,XMESS_0014,網代慎平
-XMESS_0015,"It's about you, isn't it?
-There's something you can't say over the phone.
-I'll find out when I get there.",XMESS_0015,菱形窓
-XMESS_0016,Thank you…,XMESS_0016,網代慎平
-XMESS_0017,"Also, is Tokiko nearby?
-I need you to switch.",XMESS_0017,網代慎平
-XMESS_0018,Tokiko?,XMESS_0018,菱形窓
-XMESS_0019,"Yeah, I need Tokiko to come to the school too.",XMESS_0019,網代慎平
-XMESS_0020,"Right, wait a second.",XMESS_0020,菱形窓
-XMESS_0021,"Hey Tokiko!
-Shinpei says he needs to talk!",XMESS_0021,菱形窓
-XMESS_0022,"(At this point, Tokiko is helping Haine)",XMESS_0022,網代慎平
-XMESS_0023,"(But if she sees my memory from the Hiruko Cave,
-she'll know I was betrayed by Haine
-and join us)",XMESS_0023,網代慎平
-XMESS_0024,"(Even if I don't know Haine's true goal,
-I might learn about the enemy's inside info)",XMESS_0024,網代慎平
-XMESS_0025,…Shin-chan.,XMESS_0025,小舟澪
+XMESS_0013,"...Alright, I'll go.",XMESS_0013,菱形窓
+XMESS_0014,I-Is that okay?,XMESS_0014,網代慎平
+XMESS_0015,"Knowing you, there's gotta be a reason. It's something you can't say over the phone, right? I'll hear the reason at the school.",XMESS_0015,菱形窓
+XMESS_0016,Thank you...,XMESS_0016,網代慎平
+XMESS_0017,"Also, is Tokiko-chan nearby? Put her on the phone for a sec.",XMESS_0017,網代慎平
+XMESS_0018,To Tokiko?,XMESS_0018,菱形窓
+XMESS_0019,"Yeah, I want Tokiko-chan to come to the school too.",XMESS_0019,網代慎平
+XMESS_0020,"I see, wait a sec.",XMESS_0020,菱形窓
+XMESS_0021,"He~y, Tokiko! Shinpei wants to talk to you!",XMESS_0021,菱形窓
+XMESS_0022,"(At this point in time, Tokiko-chan is cooperating with Haine.)",XMESS_0022,網代慎平
+XMESS_0023,"(But if I show her the memories from Hiruko Cave, and she realizes she'll be betrayed by Haine and the others, she should become our ally.)",XMESS_0023,網代慎平
+XMESS_0024,"(Even if she doesn't know Haine's true goal, we might be able to hear about the enemy's internal affairs.)",XMESS_0024,網代慎平
+XMESS_0025,...Shin-chan.,XMESS_0025,小舟澪
 XMESS_0026,Hm?,XMESS_0026,網代慎平
 XMESS_0027,"Give me the phone.
 I'll talk to Tokiko.",XMESS_0027,小舟澪
 XMESS_0028,"No, can't do that.",XMESS_0028,網代慎平
 XMESS_0029,Why not?,XMESS_0029,小舟澪
-XMESS_0030,"Tokiko doesn't know anything yet.
-Until she shares memories,
-I want to keep information to a minimum.",XMESS_0030,網代慎平
-XMESS_0031,"She might have things to say,
-but hold on for now.",XMESS_0031,網代慎平
+XMESS_0030,"The current Tokiko-chan doesn't know anything yet. Until we share our memories, I want to keep the information we give her to a minimum.",XMESS_0030,網代慎平
+XMESS_0031,"You might have things you want to say, but hold it in for now.",XMESS_0031,網代慎平
 XMESS_0032,…,XMESS_0032,小舟澪
 XMESS_0033,"Sorry, Tokiko's not here.",XMESS_0033,菱形窓
-XMESS_0034,"Weird…
-I thought she was in her room after taking a bath.",XMESS_0034,菱形窓
-XMESS_0035,"If that's the case,
-tell her from you.",XMESS_0035,網代慎平
+XMESS_0034,That's weird. I thought she was in her room after getting out of the bath earlier.,XMESS_0034,菱形窓
+XMESS_0035,"If that's the case, can you pass the message to Tokiko-chan for me?",XMESS_0035,網代慎平
 XMESS_0036,"Yeah, sure.
 I'll tell her later.",XMESS_0036,菱形窓
-XMESS_0037,"If I can't talk to her directly,
-have her get a message to come to the school.",XMESS_0037,網代慎平
+XMESS_0037,"If you can't tell her directly, leave Tokiko-chan a message telling her to come to the school.",XMESS_0037,網代慎平
 XMESS_0038,"Leave it to me.
 See you later!",XMESS_0038,菱形窓
-XMESS_0039,"…Alright!
-Sou and Tokiko are on board!
-Who's next?",XMESS_0039,ウシオ
-XMESS_0040,"Also call Totsumura.
-He helped at the Hiruko Cave,
-and he's a cop after all.",XMESS_0040,網代慎平
-XMESS_0041,"If you're calling him,
-I should scan his gun later.",XMESS_0041,ウシオ
-XMESS_0042,"Where's Totsumura now?
-I hope he's at the station…",XMESS_0042,網代慎平
-XMESS_0043,"Hey, this is the Hero of Justice!",XMESS_0043,凸村哲
-XMESS_0044,"Good! 
-Totsumura, you're there.",XMESS_0044,網代慎平
-XMESS_0045,"That voice… Shinpei?
-What's wrong?",XMESS_0045,凸村哲
-XMESS_0046,Actually… something big is going to happen at the school!,XMESS_0046,網代慎平
-XMESS_0047,"At the school?
-What's so big about it!?",XMESS_0047,凸村哲
-XMESS_0048,"Please!
-I'll be waiting at the gym,
-please come!",XMESS_0048,網代慎平
-XMESS_0049,"Hey, be specific!
-I don't get it at all!",XMESS_0049,凸村哲
-XMESS_0050,How can I act on a weird call like this?,XMESS_0050,凸村哲
-XMESS_0051,"(Well, that's to be expected…)",XMESS_0051,網代慎平
-XMESS_0052,(But I can't back down either),XMESS_0052,網代慎平
-XMESS_0053,"I need your help somehow!
-It's absolutely necessary!",XMESS_0053,網代慎平
-XMESS_0054,That's why I said to explain properly---,XMESS_0054,凸村哲
-XMESS_0055,One thing I can say for sure!,XMESS_0055,網代慎平
+XMESS_0039,...Alright! We got Sou and Tokiko-chan! Who's next?,XMESS_0039,ウシオ
+XMESS_0040,"Let's call Totsumura-san too. He helped us at Hiruko Cave, and he is a cop, after all.",XMESS_0040,網代慎平
+XMESS_0041,"If we're calling him, I'll have to ask him to let me scan his gun later.",XMESS_0041,ウシオ
+XMESS_0042,I wonder where Totsumura-san is right now? I hope he's at the police station...,XMESS_0042,網代慎平
+XMESS_0043,"Yes, this is the hero of justice!",XMESS_0043,凸村哲
+XMESS_0044,Thank goodness! Totsumura-san is there.,XMESS_0044,網代慎平
+XMESS_0045,"That voice, is that Shinpei-kun? What's wrong?",XMESS_0045,凸村哲
+XMESS_0046,Actually... something terrible is going to happen at the school after this!,XMESS_0046,網代慎平
+XMESS_0047,"At the school? What do you mean, something terrible!?",XMESS_0047,凸村哲
+XMESS_0048,"Please! I'll be waiting in the school gym, so could you come!?",XMESS_0048,網代慎平
+XMESS_0049,"Hey, hey, be more specific! I don't understand what's going on at all!",XMESS_0049,凸村哲
+XMESS_0050,"The police can't just act on a phone call that sounds like a prank, you know?",XMESS_0050,凸村哲
+XMESS_0051,"(Well, I figured he'd say that...)",XMESS_0051,網代慎平
+XMESS_0052,(But I can't just back down here either.),XMESS_0052,網代慎平
+XMESS_0053,"Please, somehow! I absolutely need your help, Totsumura-san!",XMESS_0053,網代慎平
+XMESS_0054,That's why I'm telling you to explain properly――,XMESS_0054,凸村哲
+XMESS_0055,There's one specific thing I can tell you!,XMESS_0055,網代慎平
 XMESS_0056,What?,XMESS_0056,凸村哲
-XMESS_0057,A woman with a G-cup will come too!,XMESS_0057,網代慎平
-XMESS_0058,Understood! Gymnasium!,XMESS_0058,凸村哲
-XMESS_0059,"Great…
-Everyone should be here.",XMESS_0059,網代慎平
-XMESS_0060,"Totsumura, you're still the same~
-Hey Mio?",XMESS_0060,ウシオ
+XMESS_0057,A woman with G-cups will be there too!,XMESS_0057,網代慎平
+XMESS_0058,"Gymnasium, understood!!",XMESS_0058,凸村哲
+XMESS_0059,"Alright...! With this, it looks like everyone will be here.",XMESS_0059,網代慎平
+XMESS_0060,"Totsumura-san is the same as always~. Right, Mio?",XMESS_0060,ウシオ
 XMESS_0061,…,XMESS_0061,小舟澪
-XMESS_0062,"Mio, get it together.
-Where's your usual energy?",XMESS_0062,ウシオ
+XMESS_0062,"Mio, pull yourself together. What happened to your usual energy?",XMESS_0062,ウシオ
 XMESS_0063,…,XMESS_0063,小舟澪
-XMESS_0064,(I see… she still can't accept the fake loop story),XMESS_0064,網代慎平
-XMESS_0065,"(Ushio's existence,
-Tokiko hiding things…)",XMESS_0065,網代慎平
-XMESS_0066,"(Plus she's died several times herself…
-It's unreasonable to expect her to accept it fast)",XMESS_0066,網代慎平
-XMESS_0067,"Ushio, give Mio some time---",XMESS_0067,網代慎平
-XMESS_0068,"Listen, Mio.",XMESS_0068,ウシオ
-XMESS_0069,"Tokiko will be fine.
-If I show her my memories,
-she'll definitely wake up!",XMESS_0069,ウシオ
+XMESS_0064,(I see... she still can't accept the story about the pseudo-loop.),XMESS_0064,網代慎平
+XMESS_0065,"(Ushio's existence, the things Tokiko-chan was hiding...)",XMESS_0065,網代慎平
+XMESS_0066,(Not to mention Mio herself has lost her life several times... It's probably unreasonable to tell her to accept it right away.),XMESS_0066,網代慎平
+XMESS_0067,"Ushio, give Mio a little time――",XMESS_0067,網代慎平
+XMESS_0068,"Listen closely, Mio.",XMESS_0068,ウシオ
+XMESS_0069,"Tokiko-chan will be fine. If I show her my memories, she'll definitely wake up.",XMESS_0069,ウシオ
 XMESS_0070,But…,XMESS_0070,小舟澪
-XMESS_0071,"I don't care about anything!
-Whatever it is,
-we can just redo it all from now!",XMESS_0071,ウシオ
+XMESS_0071,"I don't care about any of that! Whatever it is, we just have to redo it all from now on!",XMESS_0071,ウシオ
 XMESS_0072,…,XMESS_0072,小舟澪
 XMESS_0073,Got it?,XMESS_0073,ウシオ
-XMESS_0074,Y-yes…,XMESS_0074,小舟澪
-XMESS_0075,Hey… older sister?,XMESS_0075,小舟澪
-XMESS_0076,Huh? What?,XMESS_0076,ウシオ
-XMESS_0077,"Older… sister…
-Older sister!!!",XMESS_0077,小舟澪
-XMESS_0078,Waaaahhh!!!,XMESS_0078,小舟澪
-XMESS_0079,"Whaaat!?
-Why are you suddenly crying so much!?",XMESS_0079,ウシオ
-XMESS_0080,"My older sister!
-I-I-I'm hereee!!!",XMESS_0080,小舟澪
-XMESS_0081,"Ugh… I'm so sad…
-I'm sorry!
-I called her a monster…",XMESS_0081,小舟澪
-XMESS_0082,"My older sister…
-my older sister…",XMESS_0082,小舟澪
-XMESS_0083,She's the real me's older sister!!!,XMESS_0083,小舟澪
-XMESS_0084,You're crying too much.,XMESS_0084,ウシオ
-XMESS_0085,Hic… hic… I'll fight too!,XMESS_0085,小舟澪
-XMESS_0086,"Huh, fight… I was only bringing you along
-for your safety---",XMESS_0086,網代慎平
-XMESS_0087,I don't want to be protected all the time!!!,XMESS_0087,小舟澪
+XMESS_0074,Y-Yeah...,XMESS_0074,小舟澪
+XMESS_0075,Hey... big sister?,XMESS_0075,小舟澪
+XMESS_0076,Hm~? What is it?,XMESS_0076,ウシオ
+XMESS_0077,Big... sister...! Big sisterrr!!,XMESS_0077,小舟澪
+XMESS_0078,Uwaaaaahhhh!!,XMESS_0078,小舟澪
+XMESS_0079,Eh!? You're suddenly crying so much!!,XMESS_0079,ウシオ
+XMESS_0080,Big sister is...! S-S-She's hereeeeee!!,XMESS_0080,小舟澪
+XMESS_0081,"Uugh, *hic*...! I'm sorry! For calling you a monster...!",XMESS_0081,小舟澪
+XMESS_0082,"Big sister is, *hic*, big sister...",XMESS_0082,小舟澪
+XMESS_0083,You're my real big sister!!,XMESS_0083,小舟澪
+XMESS_0084,"...Jeez, you're crying too much.",XMESS_0084,ウシオ
+XMESS_0085,"*Sniff*... *hic*, *hic*, *hic*... *Sniff*... I'll fight too!",XMESS_0085,小舟澪
+XMESS_0086,"Eh, fight... I'm only bringing you along strictly for your safety――",XMESS_0086,網代慎平
+XMESS_0087,I don't want to just be protected all the time!!,XMESS_0087,小舟澪
 XMESS_0088,Mio…,XMESS_0088,ウシオ
 XMESS_0089,"Shinpei, it's okay, right?",XMESS_0089,ウシオ
-XMESS_0090,"(She's never fought the Shadow before,
-and she has limited weapons…)",XMESS_0090,網代慎平
-XMESS_0091,(…But she won't listen anyway),XMESS_0091,網代慎平
-XMESS_0092,"Then, let's get ready.
-We need to leave soon.",XMESS_0092,網代慎平
-XMESS_0093,Yes!,XMESS_0093,小舟澪
-XMESS_0094,"Alright!
-We'll all do it…?",XMESS_0094,ウシオ
+XMESS_0090,"(Mio has never fought a Shadow before, and the weapons she can use are limited...)",XMESS_0090,網代慎平
+XMESS_0091,"(...Even if I say that, she probably won't listen.)",XMESS_0091,網代慎平
+XMESS_0092,"Well then, should we get ready? We have to leave soon.",XMESS_0092,網代慎平
+XMESS_0093,Yeah!,XMESS_0093,小舟澪
+XMESS_0094,Alright! Let's all do... this...?,XMESS_0094,ウシオ
 XMESS_0095,Aaaaah!!!,XMESS_0095,ウシオ
-XMESS_0096,W-what!?,XMESS_0096,網代慎平
-XMESS_0097,"W-what! What's going on!?
-Something happened!",XMESS_0097,小舟澪
-XMESS_0098,"Curry!!!
-I can't eat it today!?",XMESS_0098,ウシオ
-XMESS_0099,"What, curry?
-You scared me.",XMESS_0099,網代慎平
-XMESS_0100,"No time to cook,
-I'll make curry sandwiches instead.",XMESS_0100,網代慎平
+XMESS_0096,W-What!?,XMESS_0096,網代慎平
+XMESS_0097,"W-What, what is it!? Was there something!?",XMESS_0097,小舟澪
+XMESS_0098,Curry!! I can't eat it today!?,XMESS_0098,ウシオ
+XMESS_0099,"What, it's just curry... Don't scare me like that.",XMESS_0099,網代慎平
+XMESS_0100,"We don't have time to simmer it, so I'll make curry sandwiches instead.",XMESS_0100,網代慎平
 XMESS_0101,<color=#GF_TIPS_085>Curry sandwich</color>…,XMESS_0101,ウシオ
-XMESS_0102,Thanks a lot!!!,XMESS_0102,ウシオ
-XMESS_0103,"I need to make some for everyone,
-including Alain.",XMESS_0103,網代慎平
-XMESS_0104,"Oh right!
-Dad will worry,
-so I should leave a note.",XMESS_0104,小舟澪
+XMESS_0102,I'm down for that!!!!,XMESS_0102,ウシオ
+XMESS_0103,"I should make some for everyone gathering, and for Alain too.",XMESS_0103,網代慎平
+XMESS_0104,"Oh, right! Dad will be worried, so I should leave a note.",XMESS_0104,小舟澪
 XMESS_0105,"Curry!
 Curry, curry!",XMESS_0105,ウシオ
-XMESS_0106,"Here it comes!
-My older sister's ""Curry Rhythm""!",XMESS_0106,小舟澪
+XMESS_0106,There it is...! Big sister's 'Curry Rhythm'!,XMESS_0106,小舟澪
 XMESS_0107,"Curry, curry!
 Curry~!!!",XMESS_0107,ウシオ
-XMESS_0108,Sand! Sand!,XMESS_0108,小舟澪
-XMESS_0109,You two sisters are…,XMESS_0109,網代慎平
-XMESS_0110,"(It doesn't feel like we're about to fight
-with our lives at all)",XMESS_0110,網代慎平
-XMESS_0111,(But maybe that's exactly why…),XMESS_0111,網代慎平
-XMESS_0112,"(If we eat some good food,
-it'll restore our energy)",XMESS_0112,網代慎平
-XMESS_0113,"(Great!
-I'll make some delicious curry sandwiches!)
-/translate",XMESS_0113,網代慎平
+XMESS_0108,Sando♪ Sando♪,XMESS_0108,小舟澪
+XMESS_0109,You sisters really are...,XMESS_0109,網代慎平
+XMESS_0110,(It doesn't feel like we're about to put our lives on the line and fight at all.),XMESS_0110,網代慎平
+XMESS_0111,(But maybe because it's a time like this...),XMESS_0111,網代慎平
+XMESS_0112,(It's important to eat something good and build up our strength.),XMESS_0112,網代慎平
+XMESS_0113,(Alright! I'm gonna put my all into making some delicious curry sandwiches!),XMESS_0113,網代慎平

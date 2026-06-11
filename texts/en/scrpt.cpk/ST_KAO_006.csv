@@ -1,96 +1,65 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,6. The One to Protect,XCHAPTITLE_0002,
-XMESS_0000,"(After that, me and Mio parted ways with Koyuba-san and headed to the funeral hall)",XMESS_0000,網代慎平
-XMESS_0001,"(Third funeral…
-It's still the same as the 22nd one I know.)",XMESS_0001,網代慎平
-XMESS_0002,"Ah, Shin-chan. 
-You're here.",XMESS_0002,小舟澪
+XMESS_0000,"(After that, Mio and I parted ways with Koyuba-san, and headed to the funeral hall.)",XMESS_0000,網代慎平
+XMESS_0001,"(The third funeral... As expected, the words and actions of Alain and the attendees were exactly the same as the 22nd I know.)",XMESS_0001,網代慎平
+XMESS_0002,"Ah, Shin-chan. So this is where you were.",XMESS_0002,小舟澪
 XMESS_0003,"Yeah, yeah.
 What's up? You need something?",XMESS_0003,網代慎平
-XMESS_0004,"My dad said, since the ceremony's over, 
-you should take a break with Shin-chan.",XMESS_0004,小舟澪
-XMESS_0005,Oh.,XMESS_0005,網代慎平
-XMESS_0006,"Still, I was surprised about Kaori-chan.",XMESS_0006,小舟澪
-XMESS_0007,"Huh?
-Yeah, I guess.",XMESS_0007,網代慎平
-XMESS_0008,Probably at the inn by now.,XMESS_0008,小舟澪
-XMESS_0009,"I just checked my phone, 
-she sent a message saying she arrived safely.",XMESS_0009,網代慎平
-XMESS_0010,She must've swapped contact info already…,XMESS_0010,小舟澪
-XMESS_0011,"Probably discussing the live show right now.
-She said she's meeting with the chamber of commerce people at the inn.",XMESS_0011,網代慎平
+XMESS_0004,"Dad said that since the ceremony has settled down, I should go take a break with Shin-chan.",XMESS_0004,小舟澪
+XMESS_0005,I see.,XMESS_0005,網代慎平
+XMESS_0006,"Still, I was really surprised about Kaori-chan.",XMESS_0006,小舟澪
+XMESS_0007,"Huh? A-Ah, yeah, I guess so.",XMESS_0007,網代慎平
+XMESS_0008,I wonder if she's at the inn by now?,XMESS_0008,小舟澪
+XMESS_0009,"When I checked my phone earlier, I had a message saying 'I arrived safely'.",XMESS_0009,網代慎平
+XMESS_0010,You exchanged contact info before I even noticed...,XMESS_0010,小舟澪
+XMESS_0011,"She's probably having a meeting about the live show right now, isn't she? She said she was meeting up with the Chamber of Commerce people at the inn.",XMESS_0011,網代慎平
 XMESS_0012,"Ah, right.",XMESS_0012,小舟澪
-XMESS_0013,"I never thought a classmate 
-would become a pop star…",XMESS_0013,網代慎平
-XMESS_0014,"If her big sister found out Kaori-chan's doing this, 
-she'd be shocked too.",XMESS_0014,小舟澪
-XMESS_0015,"If a classmate's doing a live show 
-at the festival I love so much, 
-she'd definitely want to be in the front row.",XMESS_0015,小舟澪
-XMESS_0016,"Haha, that's true.
-She probably said ""I hope the festival comes soon"" every day.",XMESS_0016,網代慎平
+XMESS_0013,To think a classmate would become a popular idol...,XMESS_0013,網代慎平
+XMESS_0014,"If Onee-chan found out about Kaori-chan, I bet she'd be surprised too.",XMESS_0014,小舟澪
+XMESS_0015,"If she heard that her classmate was doing a live show at the festival she loves so much, she'd definitely want to watch from the front row, right?",XMESS_0015,小舟澪
+XMESS_0016,"Haha, yeah. She'd probably be saying 'I can't wait for the festival~' almost every day.",XMESS_0016,網代慎平
 XMESS_0017,"Yeah, I can picture it.",XMESS_0017,小舟澪
-XMESS_0018,Kaori-chan was really looking forward to the festival.,XMESS_0018,小舟澪
+XMESS_0018,"Kaori-chan was really looking forward to the festival too, huh.",XMESS_0018,小舟澪
 XMESS_0019,Yeah.,XMESS_0019,網代慎平
-XMESS_0020,"Then… here.
-This is the flyer for the live show.",XMESS_0020,小弓場かおり
+XMESS_0020,Well then... here. This is the flyer with the <color=#GF_TIPS_066>live show info</color>.,XMESS_0020,小弓場かおり
 XMESS_0021,Thanks.,XMESS_0021,網代慎平
-XMESS_0022,"Also, if you want, 
-you can take some merchandise. 
-I'd be happy if you came to the live show with this.",XMESS_0022,小弓場かおり
+XMESS_0022,"Also, if you'd like... here's some merch. I'd be happy if you brought it with you to the live show.",XMESS_0022,小弓場かおり
 XMESS_0023,"Thank you!
 I'll definitely go!",XMESS_0023,小舟澪
-XMESS_0024,"(""Live Show & Talk Announcement""… 
-There's a talk too?)",XMESS_0024,網代慎平
-XMESS_0025,"Ah, Shin-chan, you're in trouble!
-Don't tell your dad about this!",XMESS_0025,小舟澪
+XMESS_0024,('Talk Show & Live Info'... There's a talk show too?),XMESS_0024,網代慎平
+XMESS_0025,"Ah, Shin-chan, this is a big deal! We have to tell Dad about this!",XMESS_0025,小舟澪
 XMESS_0026,Why?,XMESS_0026,網代慎平
-XMESS_0027,"Why? 
-Fans coming just for Kaori-chan 
-will be everywhere.",XMESS_0027,小舟澪
-XMESS_0028,"If we don't prepare enough ingredients, 
-we might not have enough.",XMESS_0028,小舟澪
-XMESS_0029,"Oh, that's probably okay.",XMESS_0029,小弓場かおり
+XMESS_0027,"What do you mean, 'why'... There's gonna be a ton of fans coming just to see Kaori-chan, right?",XMESS_0027,小舟澪
+XMESS_0028,"Then we have to prepare a lot of ingredients for the restaurant too, or we might run out.",XMESS_0028,小舟澪
+XMESS_0029,"Ah, I think that'll be fine.",XMESS_0029,小弓場かおり
 XMESS_0030,The location for this live show is a secret.,XMESS_0030,小弓場かおり
-XMESS_0031,"But both me and the chamber of commerce people 
-want as many people as possible to come.",XMESS_0031,小弓場かおり
+XMESS_0031,But both the Chamber of Commerce people and I want a lot of people to watch it.,XMESS_0031,小弓場かおり
 XMESS_0032,"We're planning to stream it online 
 so anyone can watch.",XMESS_0032,小弓場かおり
 XMESS_0033,"Wow, the fans will be so happy!",XMESS_0033,小舟澪
-XMESS_0034,"Yeah, it's a good chance for people to learn about the festival on Hitogashima.",XMESS_0034,網代慎平
+XMESS_0034,"Yeah, wouldn't it be a good opportunity for lots of people to learn about Hitogashima's festival?",XMESS_0034,網代慎平
 XMESS_0035,"Yeah, it's also part of the town revitalization.",XMESS_0035,小弓場かおり
-XMESS_0036,"Honestly, I think it'd be better if it wasn't a secret…",XMESS_0036,小弓場かおり
-XMESS_0037,"If too many people come, 
-the locals might not be able to handle it.",XMESS_0037,小舟澪
-XMESS_0038,"Yeah…
-That's why it's a secret.",XMESS_0038,小弓場かおり
-XMESS_0039,"But how could she even think to do a live show 
-at such a small island festival?",XMESS_0039,小舟澪
-XMESS_0040,I asked my agency to make it happen.,XMESS_0040,小弓場かおり
+XMESS_0036,"Honestly, I think we'd get a bigger crowd if we didn't make it a secret, but...",XMESS_0036,小弓場かおり
+XMESS_0037,"Ah... if too many people came, the islanders might not be able to handle it on their own.",XMESS_0037,小舟澪
+XMESS_0038,Yeah... That's why we decided to keep it a secret.,XMESS_0038,小弓場かおり
+XMESS_0039,But what made you want to do a live show at such a small island festival?,XMESS_0039,小舟澪
+XMESS_0040,"I begged my agency to let me do it, even if it was unreasonable.",XMESS_0040,小弓場かおり
 XMESS_0041,"Oh, really?",XMESS_0041,網代慎平
-XMESS_0042,"Now that I'm an idol, 
-I can help the island somehow.",XMESS_0042,小弓場かおり
-XMESS_0043,"I was raised here…
-It makes me happy to be able to give back this way.",XMESS_0043,小弓場かおり
+XMESS_0042,"I felt that because I'm an idol now, there might be things I can do to help Hitogashima.",XMESS_0042,小弓場かおり
+XMESS_0043,I was raised on this island... so I'm happy to be able to give back in this way.,XMESS_0043,小弓場かおり
 XMESS_0044,I see…,XMESS_0044,網代慎平
-XMESS_0045,"Back then, I really understood her feelings.",XMESS_0045,網代慎平
-XMESS_0046,"I could feel her determination 
-to give back to the island.",XMESS_0046,網代慎平
+XMESS_0045,"Back then, Koyuba-san's feelings really came across to me.",XMESS_0045,網代慎平
+XMESS_0046,I could really feel her determination to earnestly give back to the island.,XMESS_0046,網代慎平
 XMESS_0047,Yeah… She really must care about this island.,XMESS_0047,小舟澪
 XMESS_0048,Yeah.,XMESS_0048,網代慎平
 XMESS_0049,(That's why I can't just let her die.),XMESS_0049,網代慎平
 XMESS_0050,(I can't let that night repeat.),XMESS_0050,網代慎平
-XMESS_0051,Mio… protect her…,XMESS_0051,小舟潮
+XMESS_0051,Protect Mio... okay...,XMESS_0051,小舟潮
 XMESS_0052,Shin-chan?,XMESS_0052,小舟澪
-XMESS_0053,(Comes from Ushio…),XMESS_0053,網代慎平
-XMESS_0054,"(And the classmate, Kaori Koyuba, 
-who returned to the island out of concern for it)",XMESS_0054,網代慎平
-XMESS_0055,"(Even though we just reunited, 
-she's one of my important friends)",XMESS_0055,網代慎平
-XMESS_0056,(Then… I have to protect her.),XMESS_0056,網代慎平
-XMESS_0057,"(Stop being careless.
-What I need to do is…)",XMESS_0057,網代慎平
-XMESS_0058,"(Just survive today.
-And…)",XMESS_0058,網代慎平
-XMESS_0059,"(Protect as many people as I can 
-from the shadows.)",XMESS_0059,網代慎平
+XMESS_0053,(Mio... entrusted to me by Ushio.),XMESS_0053,網代慎平
+XMESS_0054,"(And our classmate, Koyuba-san, who returned home out of love for the island.)",XMESS_0054,網代慎平
+XMESS_0055,"(Even if we only just reunited, she's still one of my precious friends.)",XMESS_0055,網代慎平
+XMESS_0056,(If so... I have to protect her.),XMESS_0056,網代慎平
+XMESS_0057,(Look at the big picture. What I need to do is...),XMESS_0057,網代慎平
+XMESS_0058,"(First of all, survive today. And then...)",XMESS_0058,網代慎平
+XMESS_0059,(Protect as many people as possible from the Shadows.),XMESS_0059,網代慎平

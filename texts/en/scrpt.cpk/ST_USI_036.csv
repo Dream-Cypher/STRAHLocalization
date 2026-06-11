@@ -1,216 +1,147 @@
 source,target,id,developer_comments
-XRETURNTODEATH_0031,5th Round,XRETURNTODEATH_0031,
+XRETURNTODEATH_0031,5th Loop,XRETURNTODEATH_0031,
 XCHAPTITLE_0048,33. You Are a Time Traveler,XCHAPTITLE_0048,
 XMESS_0000,(This should be around here…),XMESS_0000,網代慎平
 XMESS_0001,…,XMESS_0001,根津銀次郎
-XMESS_0002,"Uh, Nezu-san, right?",XMESS_0002,網代慎平
-XMESS_0003,"Ah?
-What? We should be strangers…",XMESS_0003,根津銀次郎
-XMESS_0004,"(Oh, right… We haven't met yet)",XMESS_0004,網代慎平
-XMESS_0005,"No… Wait! 
-Do you know about the Shadow too…?",XMESS_0005,網代慎平
-XMESS_0006,"If you have questions, 
-answer my questions first.",XMESS_0006,根津銀次郎
-XMESS_0007,"The keyword to this cipher is 
-the author ""Ryunosuke Nagumo"" and her real name - ""Hizuru Minakata.""",XMESS_0007,根津銀次郎
-XMESS_0008,"In other words, when this phone rings, 
-the person on the other end knows Hizuru's true identity… 
-Where did you find out?",XMESS_0008,根津銀次郎
-XMESS_0009,"Hizuru doesn't tell anyone else 
-that she's the novelist ""Ryunosuke Nagumo,"" 
-and in fact, no one knows.",XMESS_0009,根津銀次郎
+XMESS_0002,"Um, you're Nezu-san, right.",XMESS_0002,網代慎平
+XMESS_0003,Hah? What... this should be our first time meeting.,XMESS_0003,根津銀次郎
+XMESS_0004,"(Ah, right... We haven't met yet this time around.)",XMESS_0004,網代慎平
+XMESS_0005,No... u-um!! Do you know about the Shadows too...?,XMESS_0005,網代慎平
+XMESS_0006,"If you've got things you wanna ask, first you're gonna answer my questions.",XMESS_0006,根津銀次郎
+XMESS_0007,"The keywords for that cipher are the author ""Ryunosuke Nagumo"", and her real name-- ""Hizuru Minakata"".",XMESS_0007,根津銀次郎
+XMESS_0008,"In other words, if this phone rings, the person on the other end knows Hizuru's true identity... Where did you learn it?",XMESS_0008,根津銀次郎
+XMESS_0009,"Hizuru hasn't told anyone but me that she's the novelist ""Ryunosuke Nagumo"", and in fact, no one else knows.",XMESS_0009,根津銀次郎
 XMESS_0010,…,XMESS_0010,網代慎平
-XMESS_0011,"(Will they believe me? 
-That I came from the future…)",XMESS_0011,網代慎平
-XMESS_0012,"If you're a Shadow, I get it.",XMESS_0012,根津銀次郎
-XMESS_0013,"""Without knowing, Hizuru was copied 
-and her identity was exposed""… 
-That's the pattern he's on guard for.",XMESS_0013,根津銀次郎
+XMESS_0011,(Will they believe me? That I came from the future...),XMESS_0011,網代慎平
+XMESS_0012,"If you're a Shadow, it makes sense.",XMESS_0012,根津銀次郎
+XMESS_0013,"""Hizuru was copied without us knowing, and her true identity was exposed""... That's the scenario she's on guard for.",XMESS_0013,根津銀次郎
 XMESS_0014,But you're human.,XMESS_0014,？？？（南方ひづる）
-XMESS_0015,!!!!!!!!,XMESS_0015,網代慎平
+XMESS_0015,!!!!,XMESS_0015,網代慎平
 XMESS_0016,Ah…!,XMESS_0016,網代慎平
 XMESS_0017,Nagumo-sensei!!,XMESS_0017,網代慎平
 XMESS_0018,…,XMESS_0018,南方ひづる
-XMESS_0019,"(What should I do… Where to start…
-Oh!!)",XMESS_0019,網代慎平
+XMESS_0019,"(What should I do, what should I start with... Ah!!)",XMESS_0019,網代慎平
 XMESS_0020,…,XMESS_0020,南方ひづる
-XMESS_0021,"--Uh, um!! 
-Nagumo-sensei, sign it for me!!",XMESS_0021,網代慎平
-XMESS_0022,"Ah, the net of Ajiro, using a medium, 
-Shinpei here! ""To Shinpei-kun,"" I'm asking you to put it in this book!!",XMESS_0022,網代慎平
+XMESS_0021,"--U-Um!! Nagumo-sensei, please give me your autograph!!",XMESS_0021,網代慎平
+XMESS_0022,"A-Ajiro with the character for net and substitute, Shinpei with the character for prudence and flat! Please write ""To Shinpei Ajiro-kun"" in this book!!",XMESS_0022,網代慎平
 XMESS_0023,…,XMESS_0023,南方ひづる
-XMESS_0024,Um… I'm a fan…!!,XMESS_0024,網代慎平
-XMESS_0025,"I have all of your books!! 
-C-This one… even ""Masho""…
-I have both paper and electronic versions!!",XMESS_0025,網代慎平
-XMESS_0026,"(Good! 
-I introduced myself as told!!)",XMESS_0026,網代慎平
+XMESS_0024,Um... what I mean is... I'm a fan...!!,XMESS_0024,網代慎平
+XMESS_0025,"I have all the books you've published!! T-This one... ""Swampman"" too, I have both the physical and digital versions...!!",XMESS_0025,網代慎平
+XMESS_0026,(Alright...! I introduced myself just like she told me to!!),XMESS_0026,網代慎平
 XMESS_0027,…,XMESS_0027,根津銀次郎
-XMESS_0028,"(From a different angle, 
-it's gotten pretty weird…!! 
-Well… what now?!)",XMESS_0028,網代慎平
+XMESS_0028,"(Even looking at the big picture, that came off pretty creepy...!! Now... wh-what's going to happen!?)",XMESS_0028,網代慎平
 XMESS_0029,…,XMESS_0029,南方ひづる
-XMESS_0030,"In this situation… 
-A signature?
-You are…",XMESS_0030,南方ひづる
-XMESS_0031,Unusual.,XMESS_0031,南方ひづる
-XMESS_0032,"""As the facts are stranger than fiction,"" 
-Byron said…",XMESS_0032,南方ひづる
-XMESS_0033,"I'm not a romanticist, but 
-even considering all possibilities, 
-this is the conclusion I've reached.",XMESS_0033,南方ひづる
-XMESS_0034,"There you go, your request.",XMESS_0034,南方ひづる
-XMESS_0035,"Um… Thank you so much!! 
-This book will be a family treasure--",XMESS_0035,網代慎平
-XMESS_0036,"Shinpei Ajiro.
-If what I'm about to say is wrong, 
-correct me…",XMESS_0036,南方ひづる
+XMESS_0030,An autograph... in this situation? You are--,XMESS_0030,南方ひづる
+XMESS_0031,Not normal.,XMESS_0031,南方ひづる
+XMESS_0032,"Byron once said... ""Truth is stranger than fiction"".",XMESS_0032,南方ひづる
+XMESS_0033,"I am not a romanticist, but even after contemplating every possibility, this is the conclusion I arrive at...",XMESS_0033,南方ひづる
+XMESS_0034,"Here, what you requested.",XMESS_0034,南方ひづる
+XMESS_0035,Um... thank you very much!! I-I'll make this book a family heirloom--,XMESS_0035,網代慎平
+XMESS_0036,"Shinpei Ajiro. If what I am about to state is a fallacy, please correct me...",XMESS_0036,南方ひづる
 XMESS_0037,…,XMESS_0037,網代慎平
 XMESS_0038,"This morning on the ferry, you didn't know me, right?",XMESS_0038,南方ひづる
-XMESS_0039,"There's no way to know my true identity 
-except from me, but…
-I haven't introduced myself yet.",XMESS_0039,南方ひづる
+XMESS_0039,There is no way to know my true identity unless I introduce myself... And I have not introduced myself yet.,XMESS_0039,南方ひづる
 XMESS_0040,…,XMESS_0040,南方ひづる
-XMESS_0041,"You've experienced today… 
-July 22nd, for the first time?
-You've probably repeated it many times.",XMESS_0041,南方ひづる
-XMESS_0042,!!!!!!!!,XMESS_0042,網代慎平
-XMESS_0043,"In other words, you're a time traveler.",XMESS_0043,南方ひづる
+XMESS_0041,"Today... is not your first time experiencing this July 22nd. You have repeated it many times, haven't you?",XMESS_0041,南方ひづる
+XMESS_0042,...!!,XMESS_0042,網代慎平
+XMESS_0043,"In other words, you are a time traveler.",XMESS_0043,南方ひづる
 XMESS_0044,"Ah!?
 What are you saying--",XMESS_0044,根津銀次郎
-XMESS_0045,!!!!!!!!!,XMESS_0045,網代慎平
-XMESS_0046,Yes.,XMESS_0046,網代慎平
+XMESS_0045,...!!!,XMESS_0045,網代慎平
+XMESS_0046,Yes...,XMESS_0046,網代慎平
 XMESS_0047,Yes!?,XMESS_0047,根津銀次郎
 XMESS_0048,Huh?,XMESS_0048,根津銀次郎
-XMESS_0049,!!!!!!!!!,XMESS_0049,南方ひづる
-XMESS_0050,"Yes!!
-I've just returned from the future.",XMESS_0050,網代慎平
-XMESS_0051,Tide…?,XMESS_0051,南方ひづる
-XMESS_0052,"Thank goodness!!!
-Hizuru-san… came back to life!!!",XMESS_0052,ウシオ
-XMESS_0053,Tide…,XMESS_0053,網代慎平
+XMESS_0049,...!?,XMESS_0049,南方ひづる
+XMESS_0050,Yes!! I just... returned from the future.,XMESS_0050,網代慎平
+XMESS_0051,Ushio...?,XMESS_0051,南方ひづる
+XMESS_0052,Thank goodness...!! Hizuru-san... came back to life!!,XMESS_0052,ウシオ
+XMESS_0053,Ushio...,XMESS_0053,網代慎平
 XMESS_0054,Don't move…!!,XMESS_0054,根津銀次郎
 XMESS_0055,…!,XMESS_0055,網代慎平
-XMESS_0056,"Wait, Nezu-san!!
-Listen to the story!!",XMESS_0056,網代慎平
-XMESS_0057,"What's going on!! 
-This person is the girl from the boat who died yesterday!!
-You're definitely a Shadow ally!!",XMESS_0057,根津銀次郎
-XMESS_0058,!!!!!!!!,XMESS_0058,網代慎平
-XMESS_0059,"Stop, Nezu…
-Don't rush.",XMESS_0059,南方ひづる
+XMESS_0056,"Wait, Nezu-san!! Please listen to me!!",XMESS_0056,網代慎平
+XMESS_0057,"What is the meaning of this!! This is Kofune's daughter who died yesterday, isn't it!! You really are working with the Shadows!!!",XMESS_0057,根津銀次郎
+XMESS_0058,...!!,XMESS_0058,網代慎平
+XMESS_0059,"Stop, Nezu... Don't be hasty!",XMESS_0059,南方ひづる
 XMESS_0060,Hizuru!?,XMESS_0060,根津銀次郎
-XMESS_0061,"Shinpei. Answer me.
-Did I die?",XMESS_0061,南方ひづる
+XMESS_0061,Shinpei Ajiro. Answer me. Did I die?,XMESS_0061,南方ひづる
 XMESS_0062,…Yes.,XMESS_0062,網代慎平
-XMESS_0063,(I've told him everything up to now――),XMESS_0063,網代慎平
-XMESS_0064,"I see…
-Your world becomes reality…
-The four-armed one said that, right?",XMESS_0064,南方ひづる
-XMESS_0065,"Yes…
-But why do I have this power?",XMESS_0065,網代慎平
-XMESS_0066,"If your right eye was originally Haine's…
-That means it's made of a Shadow.
-Don't you remember when it was printed?",XMESS_0066,南方ひづる
-XMESS_0067,"No… I don't remember…
-I think it was after I came back to the island…",XMESS_0067,網代慎平
-XMESS_0068,"Hm…
-…Everything connects now inside me.",XMESS_0068,南方ひづる
-XMESS_0069,"The one who gave you this eye…
-It's Ushio. You, right?",XMESS_0069,南方ひづる
-XMESS_0070,"!
-I… Me!?
-What's going on!?",XMESS_0070,ウシオ
+XMESS_0063,(I told her everything that had happened up until now--),XMESS_0063,網代慎平
+XMESS_0064,I see... The world you observe becomes reality... That's what the four-armed one said?,XMESS_0064,南方ひづる
+XMESS_0065,Yes... But why do I have that kind of power...,XMESS_0065,網代慎平
+XMESS_0066,If your right eye originally belonged to Haine... That means that eye is made of a Shadow. Do you not remember when it was printed?,XMESS_0066,南方ひづる
+XMESS_0067,"No... it just happened at some point... I think it was after I came back to the island, though...",XMESS_0067,網代慎平
+XMESS_0068,Hmm... ...Everything has just connected in my mind.,XMESS_0068,南方ひづる
+XMESS_0069,"The one who bestowed that eye upon Shinpei Ajiro... Was you, Ushio.",XMESS_0069,南方ひづる
+XMESS_0070,!? M... me!? What do you mean!?,XMESS_0070,ウシオ
 XMESS_0071,…,XMESS_0071,南方ひづる
-XMESS_0072,"…Gave?
-No, ""giving""…",XMESS_0072,南方ひづる
-XMESS_0073,"It's exactly like the chicken or the egg dilemma…
-A paradox of causality…
-In a circular time, 
-""the beginning"" doesn't exist…",XMESS_0073,南方ひづる
-XMESS_0074,Nietzsche would be shocked…,XMESS_0074,南方ひづる
-XMESS_0075,?????,XMESS_0075,ウシオ
-XMESS_0076,"Hey, Shinpei…
-Who is Hizuru-san!?",XMESS_0076,ウシオ
-XMESS_0077,"…Oh! Right…
-I didn't tell you yet.",XMESS_0077,網代慎平
-XMESS_0078,"Nagumo-sensei.
-You know, the novelist…",XMESS_0078,網代慎平
-XMESS_0079,…Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,XMESS_0079,ウシオ
-XMESS_0080,Yeah. I got the signature too.,XMESS_0080,網代慎平
-XMESS_0081,"When did that happen!?
-I mean, it was a girl… 
-I didn't know!",XMESS_0081,ウシオ
-XMESS_0082,"There's another surprising piece of information.
-Nagumo-sensei… was a regular at Kofune.",XMESS_0082,網代慎平
-XMESS_0083,"Eh… really!?
-Really!?
-That's amazing!",XMESS_0083,ウシオ
+XMESS_0072,"...Bestowed? No, ""will bestow"", I suppose...",XMESS_0072,南方ひづる
+XMESS_0073,"It truly is a chicken or the egg dilemma... A causal loop... in circulating time, a ""beginning"" does not exist...",XMESS_0073,南方ひづる
+XMESS_0074,Even Nietzsche would be dumbfounded...,XMESS_0074,南方ひづる
+XMESS_0075,????,XMESS_0075,ウシオ
+XMESS_0076,"Hey, hey, Shinpei...! What kind of teacher is Hizuru-san!?",XMESS_0076,ウシオ
+XMESS_0077,...Ah! Right... I hadn't told you yet.,XMESS_0077,網代慎平
+XMESS_0078,"It's Nagumo-sensei. You know, the novelist...",XMESS_0078,網代慎平
+XMESS_0079,...Eeeehhh!!!! Nagumo... you mean that Ryunosuke Nagumo!?,XMESS_0079,ウシオ
+XMESS_0080,Yeah. I even got an autograph.,XMESS_0080,網代慎平
+XMESS_0081,"Since when!? Or rather, she was a woman... I didn't know!",XMESS_0081,ウシオ
+XMESS_0082,I've got another surprising piece of info. Nagumo-sensei... was apparently a regular at Kofune.,XMESS_0082,網代慎平
+XMESS_0083,E... Eeh~~~~!? Really!? Isn't that amazing!?,XMESS_0083,ウシオ
 XMESS_0084,…,XMESS_0084,根津銀次郎
-XMESS_0085,"What is this…
-Am I the fool who's being cautious?",XMESS_0085,根津銀次郎
-XMESS_0086,"Ushio…
-You said you could show others your memories.
-I really want to experience it too.",XMESS_0086,南方ひづる
-XMESS_0087,"!
-You're going to trust me this time?",XMESS_0087,ウシオ
+XMESS_0085,What is this... Am I an idiot for being cautious?,XMESS_0085,根津銀次郎
+XMESS_0086,Ushio... You said you can show your memories to others. I would very much like to experience it.,XMESS_0086,南方ひづる
+XMESS_0087,! Are you... going to trust me this time?,XMESS_0087,ウシオ
 XMESS_0088,…,XMESS_0088,南方ひづる
-XMESS_0089,"Shinpei.
-What do you think was the cause of the previous failure?",XMESS_0089,南方ひづる
+XMESS_0089,Shinpei Ajiro. What do you consider to be the cause of our previous failure?,XMESS_0089,南方ひづる
 XMESS_0090,(The cause of the failure…),XMESS_0090,網代慎平
-XMESS_0091,"One was after defeating Mio…
-I think it was splitting up with the teachers from the 23rd.",XMESS_0091,網代慎平
-XMESS_0092,"If possible, I want to work together this time!!",XMESS_0092,網代慎平
-XMESS_0093,"Hm…
-Yeah, I agree. Please take care of it.",XMESS_0093,南方ひづる
-XMESS_0094,"Hey… hey, Hizuru!!",XMESS_0094,根津銀次郎
+XMESS_0091,"For one, after defeating Mio... I think it was taking separate actions from you guys starting on the 23rd.",XMESS_0091,網代慎平
+XMESS_0092,"If possible, this time... I want us all to cooperate!!",XMESS_0092,網代慎平
+XMESS_0093,"Hmm... Yes, I am of the same opinion. I look forward to working with you.",XMESS_0093,南方ひづる
+XMESS_0094,"Wh... hey, Hizuru!!",XMESS_0094,根津銀次郎
 XMESS_0095,Hizuru-san…,XMESS_0095,ウシオ
-XMESS_0096,Hey!,XMESS_0096,根津銀次郎
-XMESS_0097,…!!!,XMESS_0097,南方ひづる
-XMESS_0098,"!!
-…M… g…
-What is this…?",XMESS_0098,根津銀次郎
-XMESS_0099,(What…? What's happening…?),XMESS_0099,網代慎平
-XMESS_0100,These images flowing into my brain… Ushio's… memories?,XMESS_0100,南方ひづる
-XMESS_0101,!!?,XMESS_0101,網代慎平
+XMESS_0096,Wh--,XMESS_0096,根津銀次郎
+XMESS_0097,...!!!!,XMESS_0097,南方ひづる
+XMESS_0098,...!! ...Mm... guh... Wh-What is this...?,XMESS_0098,根津銀次郎
+XMESS_0099,(What...? What is happening...?),XMESS_0099,網代慎平
+XMESS_0100,These images flowing into my brain... Are they Ushio's... memories...?,XMESS_0100,南方ひづる
+XMESS_0101,...!?,XMESS_0101,網代慎平
 XMESS_0102,Nezu… Ushio is an ally…,XMESS_0102,南方ひづる
-XMESS_0103,"Because she was an ally until the end, that ""message""—the audio for me… Shinpei's right eye is here now…",XMESS_0103,南方ひづる
+XMESS_0103,"It's because she was an ally until the very end that that ""message""-- the audio addressed to me... And Shinpei Ajiro's right eye, are here now...",XMESS_0103,南方ひづる
 XMESS_0104,"I believe in you, Ushio.",XMESS_0104,南方ひづる
 XMESS_0105,!!,XMESS_0105,ウシオ
 XMESS_0106,Teacher…,XMESS_0106,網代慎平
-XMESS_0107,"Being able to truly believe in a lie is human nature… money, religion, stories… That's why I'm a novelist.",XMESS_0107,南方ひづる
+XMESS_0107,"Being able to truly believe in lies is human nature... Money, religion, stories... That is why I am a novelist.",XMESS_0107,南方ひづる
 XMESS_0108,…?,XMESS_0108,ウシオ
-XMESS_0109,My story isn't fiction!,XMESS_0109,ウシオ
-XMESS_0110,Hmph. I know that.,XMESS_0110,南方ひづる
-XMESS_0111,(…I've never seen the teacher smile…),XMESS_0111,網代慎平
-XMESS_0112,…Tch. You're all risking your lives too…,XMESS_0112,根津銀次郎
-XMESS_0113,I was wrong to doubt…,XMESS_0113,根津銀次郎
-XMESS_0114,"Thank you too, Nezu-san!",XMESS_0114,網代慎平
-XMESS_0115,The four-armed shadow's goal is to revive Haine… that child…,XMESS_0115,南方ひづる
-XMESS_0116,The shadows are planning to kill many people at the festival… to feed Haine.,XMESS_0116,網代慎平
-XMESS_0117,"I don't know what's beyond the ritual, but the four-armed shadow definitely said ""ending""…",XMESS_0117,網代慎平
-XMESS_0118,That huge flat thing is its body… Lady Hiruko!,XMESS_0118,根津銀次郎
-XMESS_0119,If the shadow under Shiori's feet is just a part of Lady Hiruko… then why didn't killing her kill her?,XMESS_0119,根津銀次郎
-XMESS_0120,"But Shiori's combat ability isn't high… She can just walk… the body is weak, can't move from that cave.",XMESS_0120,ウシオ
+XMESS_0109,Mine isn't fiction!,XMESS_0109,ウシオ
+XMESS_0110,Hmph. I know.,XMESS_0110,南方ひづる
+XMESS_0111,(...That's the first time I've seen Sensei smile...),XMESS_0111,網代慎平
+XMESS_0112,"...Tch! So you guys are putting your lives on the line too, huh...",XMESS_0112,根津銀次郎
+XMESS_0113,Sorry for doubting you...,XMESS_0113,根津銀次郎
+XMESS_0114,"Nezu-san, you too... Thank you!",XMESS_0114,網代慎平
+XMESS_0115,The four-armed one's goal is to revive Haine... That child...,XMESS_0115,南方ひづる
+XMESS_0116,...It seems the Shadows are planning to kill a lot of people at the summer festival the day after tomorrow... and feed them to Haine.,XMESS_0116,網代慎平
+XMESS_0117,"I don't know what lies beyond that ritual, but the four-armed one definitely called it the ""ending""...",XMESS_0117,網代慎平
+XMESS_0118,That ridiculously huge flat surface is its main body... Hiruko-sama!,XMESS_0118,根津銀次郎
+XMESS_0119,If the shadow at Shiori's feet is nothing more than a part of Hiruko-sama... Then that explains why she didn't die no matter how many times we killed her!,XMESS_0119,根津銀次郎
+XMESS_0120,But Shiori's combat ability isn't high... She can just walk around as Shiori... The main body is weak and can't move from that cave.,XMESS_0120,ウシオ
 XMESS_0121,I see…,XMESS_0121,網代慎平
-XMESS_0122,(That's the case…),XMESS_0122,網代慎平
-XMESS_0123,"(Lady Hiruko, in Haine's state, has weak legs and can't move well. Lady Hiruko's body is also weakened and can't move.)",XMESS_0123,網代慎平
-XMESS_0124,"(On the other hand… in Shiori's state, she can walk around. At that time, the shadow under her feet is just a part separated from the body.)",XMESS_0124,網代慎平
-XMESS_0125,"(And right now, Shiori is attending the funeral…)",XMESS_0125,網代慎平
+XMESS_0122,"(So it's something like this, then...)",XMESS_0122,網代慎平
+XMESS_0123,"(In Haine's state, Hiruko-sama's legs are weak and she can't move satisfactorily. Hiruko-sama's main body is also weakened and unable to move.)",XMESS_0123,網代慎平
+XMESS_0124,"(On the other hand... in Shiori's state, she can walk around. In that case, the shadow at her feet is nothing more than a separated part of the main body.)",XMESS_0124,網代慎平
+XMESS_0125,"(And at this current time, Shiori is attending the funeral...)",XMESS_0125,網代慎平
 XMESS_0126,What's your plan?,XMESS_0126,南方ひづる
-XMESS_0127,Well… I want to go underground right away and hit the body…,XMESS_0127,網代慎平
-XMESS_0128,"But without a sure way to take down that four-armed shadow guarding the body, we might end up in the same situation.",XMESS_0128,網代慎平
-XMESS_0129,"Mio is worrying me the most, and Sou's group… Where to start…",XMESS_0129,網代慎平
-XMESS_0130,"…I want to catch Shiori at the Koba Mart, just like last time…!!",XMESS_0130,ウシオ
+XMESS_0127,Let's see... I'd like to dive underground right now and strike the main body...,XMESS_0127,網代慎平
+XMESS_0128,"But unless we have a solid plan to defeat that four-armed one guarding the main body, history will just repeat itself.",XMESS_0128,網代慎平
+XMESS_0129,"More than anything, I'm worried about Mio, and Sou and the others too... Where should we even start...",XMESS_0129,網代慎平
+XMESS_0130,"...I want us to. First catch Shiori at Koba Mart, just like last time...!!",XMESS_0130,ウシオ
 XMESS_0131,!!,XMESS_0131,網代慎平
-XMESS_0132,But you can't kill her! What are you going to do with her?,XMESS_0132,根津銀次郎
-XMESS_0133,That's the thing… I might be able to eliminate her.,XMESS_0133,ウシオ
-XMESS_0134,!!!!!!!!!,XMESS_0134,網代慎平
+XMESS_0132,But we can't kill it! What are we going to do once we catch it?,XMESS_0132,根津銀次郎
+XMESS_0133,About that... I might be able to erase her.,XMESS_0133,ウシオ
+XMESS_0134,...?!,XMESS_0134,網代慎平
 XMESS_0135,Yes…,XMESS_0135,網代慎平
-XMESS_0136,Yes!? What's going on?!,XMESS_0136,根津銀次郎
-XMESS_0137,(…Nagumo-sensei… noticing without me saying anything…),XMESS_0137,網代慎平
-XMESS_0138,(Damn… tears… I shouldn't be crying! Pull yourself together!),XMESS_0138,網代慎平
+XMESS_0136,What?! Wh-What do you mean?,XMESS_0136,根津銀次郎
+XMESS_0137,(...Nagumo-sensei... to think she noticed without me saying anything...),XMESS_0137,網代慎平
+XMESS_0138,(Damn it... my tears... This is no time to be crying!! Pull yourself together!),XMESS_0138,網代慎平
 XMESS_0139,I see…,XMESS_0139,南方ひづる
-XMESS_0140,But I doubt I was the one who introduced myself…,XMESS_0140,南方ひづる
+XMESS_0140,But I doubt I was the one who gave my name...,XMESS_0140,南方ひづる
 XMESS_0141,!?,XMESS_0141,網代慎平
 XMESS_0142,Did you meet your brother?,XMESS_0142,南方ひづる

@@ -1,493 +1,297 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,11. Secret Move ①,XCHAPTITLE_0002,
-XCHAPTITLE_0006,15. Secret Move ②,XCHAPTITLE_0006,
+XCHAPTITLE_0002,11. Secret Move 1,XCHAPTITLE_0002,
+XCHAPTITLE_0006,15. Secret Move 2,XCHAPTITLE_0006,
 XMESS_0000,(We're here…!),XMESS_0000,網代慎平
-XMESS_0001,!?!,XMESS_0001,網代慎平
-XMESS_0002,This…!!!,XMESS_0002,菱形朱鷺子
-XMESS_0003,Well well.,XMESS_0003,シデ
-XMESS_0004,!?!,XMESS_0004,菱形朱鷺子
-XMESS_0005,Rozz!!!,XMESS_0005,菱形朱鷺子
-XMESS_0006,"(This is… Shide's attack!!
-What did that thing do?!)",XMESS_0006,網代慎平
-XMESS_0007,(Roz disappeared in an instant!!!),XMESS_0007,網代慎平
-XMESS_0008,Shinpei-kun!!!,XMESS_0008,凸村哲
-XMESS_0009,"Ah… I see.
-That's how it changes…
-The development is!!",XMESS_0009,シデ
-XMESS_0010,"…It came.
-Sooner than expected.",XMESS_0010,シンペイ
+XMESS_0001,...!?,XMESS_0001,網代慎平
+XMESS_0002,Take thiiiiiis!!!!,XMESS_0002,菱形朱鷺子
+XMESS_0003,Good grief.,XMESS_0003,シデ
+XMESS_0004,...!?,XMESS_0004,菱形朱鷺子
+XMESS_0005,Roz!!,XMESS_0005,菱形朱鷺子
+XMESS_0006,(That was... Shide's attack!! What on earth did he do...!?),XMESS_0006,網代慎平
+XMESS_0007,"(Roz, in an instant...!!)",XMESS_0007,網代慎平
+XMESS_0008,Shinpei-kun!?,XMESS_0008,凸村哲
+XMESS_0009,I see... So this is how it changes... The development...!!,XMESS_0009,シデ
+XMESS_0010,...You're here. Faster than I thought.,XMESS_0010,シンペイ
 XMESS_0011,Shinpei-san!!!,XMESS_0011,菱形朱鷺子
-XMESS_0012,"You'll die?
-Tokiko won't interfere.",XMESS_0012,ミオ
-XMESS_0013,"Hm…
-I know the ending of Tiger Island through loops.
-Did you learn it from the fleeing Tokiko?",XMESS_0013,シンペイ
-XMESS_0014,!!!!!!!!!,XMESS_0014,網代慎平
-XMESS_0015,"Oh my…
-Why are you so surprised, Shinpei-kun?",XMESS_0015,シデ
-XMESS_0016,"Because of your loop,
-we were able to fight Hizuru again.
-Thank you.",XMESS_0016,シデ
-XMESS_0017,It was a walk in the park thanks to that.,XMESS_0017,シデ
-XMESS_0018,Sensei!!!,XMESS_0018,網代慎平
+XMESS_0012,"You'll die, you know? Tokiko, don't interfere.",XMESS_0012,ミオ
+XMESS_0013,Hmph... You looped and know the outcome of Torashima... Did you learn it from Tokiko who escaped?,XMESS_0013,シンペイ
+XMESS_0014,...!,XMESS_0014,網代慎平
+XMESS_0015,"Oh my... What are you surprised about, Shinpei-kun...",XMESS_0015,シデ
+XMESS_0016,"Thanks to you looping, we were able to fight Hizuru-chan once again. I thank you.",XMESS_0016,シデ
+XMESS_0017,"Thanks to ya, it was an easy win.",XMESS_0017,シデ
+XMESS_0018,Senseeeeei!!!!,XMESS_0018,網代慎平
 XMESS_0019,Well…,XMESS_0019,シデ
-XMESS_0020,"Shinpei is Haine?!
-You bastard!!!
-This battle's already been fought once!?",XMESS_0020,根津銀次郎
-XMESS_0021,"That's why you aimed for my hunting rifle!
-You destroyed it!!",XMESS_0021,根津銀次郎
-XMESS_0022,"Our weapons are only my mountain knife,
-Totsumura's pistol, Tokiko's Guildenstern,
-and Mio.",XMESS_0022,根津銀次郎
-XMESS_0023,"This is too risky Shinpei!!!
-If we fight now---",XMESS_0023,根津銀次郎
-XMESS_0024,We'll be wiped out.,XMESS_0024,根津銀次郎
-XMESS_0025,What?!,XMESS_0025,凸村哲
-XMESS_0026,"Shinpei! Mio!!
-Fall back!!! Get on the Guildenstern!!!",XMESS_0026,根津銀次郎
-XMESS_0027,!!!!!!!!!,XMESS_0027,網代慎平
-XMESS_0028,"Can't you hear me, Shinpei?!!",XMESS_0028,根津銀次郎
-XMESS_0029,"But Sensei!!!
-Why are we leaving the teacher behind like this!?",XMESS_0029,網代慎平
-XMESS_0030,"Idiot!!
-That's why you need to fall back!!!
-Are you going to throw Hizuru into the ditch?!",XMESS_0030,根津銀次郎
-XMESS_0031,Ku…!!,XMESS_0031,網代慎平
-XMESS_0032,!!!!!!!!!,XMESS_0032,網代慎平
+XMESS_0020,Shinpei is Haine!!? That bastard...!! This is their second time fighting this battle!?,XMESS_0020,根津銀次郎
+XMESS_0021,So that's why he aimed for my hunting rifle first and destroyed it!!,XMESS_0021,根津銀次郎
+XMESS_0022,"Our weapons are my machete, Totsumura's handgun, Tokiko's Gil, and Mio...",XMESS_0022,根津銀次郎
+XMESS_0023,"It's a bit unreliable, Shinpei...!! If we fight now--",XMESS_0023,根津銀次郎
+XMESS_0024,Total annihilation...,XMESS_0024,根津銀次郎
+XMESS_0025,Fwo!?,XMESS_0025,凸村哲
+XMESS_0026,Shinpei! Mio!! We're retreating!!! Get on Gil!!,XMESS_0026,根津銀次郎
+XMESS_0027,...!!,XMESS_0027,網代慎平
+XMESS_0028,"Are ya deaf, Shinpei?!",XMESS_0028,根津銀次郎
+XMESS_0029,...But Sensei is!! Are we going to... leave Sensei behind like this!?,XMESS_0029,網代慎平
+XMESS_0030,You idiot!! That's exactly why we're retreating!! Do you intend to throw Hizuru's life down the drain!!,XMESS_0030,根津銀次郎
+XMESS_0031,Kuh...!!,XMESS_0031,網代慎平
+XMESS_0032,...!!,XMESS_0032,網代慎平
 XMESS_0033,…,XMESS_0033,シンペイ
-XMESS_0034,"Go, Shide!",XMESS_0034,シンペイ
-XMESS_0035,!!!!!!!!?,XMESS_0035,シデ
-XMESS_0036,"The odds are against us… for now, this is enough…",XMESS_0036,シンペイ
-XMESS_0037,What?!,XMESS_0037,凸村哲
-XMESS_0038,!!!!!!!!?,XMESS_0038,根津銀次郎
-XMESS_0039,Understood…,XMESS_0039,シデ
-XMESS_0040,!!!!!!!!!,XMESS_0040,網代慎平
+XMESS_0034,"We're leaving, Shide!",XMESS_0034,シンペイ
+XMESS_0035,...!?,XMESS_0035,シデ
+XMESS_0036,We're outnumbered... this is fine for now...,XMESS_0036,シンペイ
+XMESS_0037,Oh!?,XMESS_0037,凸村哲
+XMESS_0038,...!?,XMESS_0038,根津銀次郎
+XMESS_0039,...Understood...,XMESS_0039,シデ
+XMESS_0040,...!,XMESS_0040,網代慎平
 XMESS_0041,…,XMESS_0041,根津銀次郎
-XMESS_0042,Tatsu… I'm saved?!,XMESS_0042,凸村哲
-XMESS_0043,"Sensei!!!
-Ryunosuke Sensei!!!",XMESS_0043,網代慎平
-XMESS_0044,…Shinpei-kun…,XMESS_0044,南方ひづる
-XMESS_0045,Sensei!!!,XMESS_0045,網代慎平
-XMESS_0046,"S-sorry…
-I promised I'd definitely save you…
-But now… it seems like I can't keep that promise.",XMESS_0046,南方ひづる
-XMESS_0047,"That's not true!!!
-It isn't!!",XMESS_0047,網代慎平
-XMESS_0048,"The gun!
-Totsumura-san!!!",XMESS_0048,網代慎平
-XMESS_0049,"Huh?
-Yes!!",XMESS_0049,凸村哲
-XMESS_0050,(If I don't save Ryunosuke Sensei through the loop…),XMESS_0050,網代慎平
-XMESS_0051,I'll go back right away!!!,XMESS_0051,網代慎平
-XMESS_0052,S-stop…,XMESS_0052,南方ひづる
-XMESS_0053,"Next time!
-This time I'll save you!!!",XMESS_0053,網代慎平
-XMESS_0054,Stop!!! It's too late---,XMESS_0054,南方ひづる
-XMESS_0055,!!!!!!!!!,XMESS_0055,網代慎平
-XMESS_0056,Shin-chan probably knows best…,XMESS_0056,ミオ
-XMESS_0057,"The loop ability is already at its limit.
-We can't save both anymore…",XMESS_0057,ミオ
-XMESS_0058,(Next time… next time…),XMESS_0058,網代慎平
-XMESS_0059,KEY TIPS[<color=#GF_KEY_LOOPEND_HELPHDR>Save Hizuru</color>] obtained.,XMESS_0059,（ト書き）
-XMESS_0060,Nn… kkuu…,XMESS_0060,網代慎平
-XMESS_0061,"Then go to the hospital!!!
-Mio could get there in a flash!!",XMESS_0061,網代慎平
-XMESS_0062,"…It's okay…
-Listen carefully.",XMESS_0062,南方ひづる
-XMESS_0063,"Ah… that person is…
-a child…",XMESS_0063,南方ひづる
-XMESS_0064,"Haine might be a monster,
-but the original first human was---",XMESS_0064,南方ひづる
-XMESS_0065,"a lonely, clingy child.
-Just… just one kid…",XMESS_0065,南方ひづる
-XMESS_0066,"Shide's target isn't Haine…
-It's someone else…",XMESS_0066,南方ひづる
+XMESS_0042,W-We're saved...!?,XMESS_0042,凸村哲
+XMESS_0043,Sensei!!! Nagumo-sensei!!,XMESS_0043,網代慎平
+XMESS_0044,...Shi... Shinpei-kun... huh...,XMESS_0044,南方ひづる
+XMESS_0045,Sensei!!,XMESS_0045,網代慎平
+XMESS_0046,I... I'm sorry... That promise... I made... to definitely... save you... It seems... I... won't be able to... fulfill it...,XMESS_0046,南方ひづる
+XMESS_0047,...That's not true!! That's not true!!,XMESS_0047,網代慎平
+XMESS_0048,The gun!! Totsumura-san!!,XMESS_0048,網代慎平
+XMESS_0049,Oh? O-Okay!!,XMESS_0049,凸村哲
+XMESS_0050,(I have to loop and save Nagumo-sensei...!),XMESS_0050,網代慎平
+XMESS_0051,I'll go back right now...!!,XMESS_0051,網代慎平
+XMESS_0052,S-Stop...,XMESS_0052,南方ひづる
+XMESS_0053,"Next time! Next time for sure, I'll save you...!!",XMESS_0053,網代慎平
+XMESS_0054,Stop...!! It's too late--,XMESS_0054,南方ひづる
+XMESS_0055,...!,XMESS_0055,網代慎平
+XMESS_0056,"Shin-chan, you should know best...",XMESS_0056,ミオ
+XMESS_0057,The loop ability is at its absolute limit. You can't... save 'both' anymore...,XMESS_0057,ミオ
+XMESS_0058,(Next time... next time for sure...!),XMESS_0058,網代慎平
+XMESS_0059,Acquired Key TIP: [<color=#GF_KEY_LOOPEND_HELPHDR>Save Hizuru</color>].,XMESS_0059,（ト書き）
+XMESS_0060,U... ku... uuh!!,XMESS_0060,網代慎平
+XMESS_0061,Th... Then to the hospital!! Mio could get there in a flash...!!,XMESS_0061,網代慎平
+XMESS_0062,Listen closely... to me...,XMESS_0062,南方ひづる
+XMESS_0063,Th... That thing is... a... a child...,XMESS_0063,南方ひづる
+XMESS_0064,"Haine... might be a monster, but... The original first... person... ality is...",XMESS_0064,南方ひづる
+XMESS_0065,A lonely... clingy... j... just... a single child...,XMESS_0065,南方ひづる
+XMESS_0066,Shide's aim is not the same as Haine's...,XMESS_0066,南方ひづる
 XMESS_0067,!?,XMESS_0067,網代慎平
-XMESS_0068,"Haine is probably just being used by Shide…
-The real mastermind's Shide.",XMESS_0068,南方ひづる
-XMESS_0069,"Shin…pei-kun…
-Free Haine…",XMESS_0069,南方ひづる
-XMESS_0070,"…Yes, I will definitely!!!",XMESS_0070,網代慎平
-XMESS_0071,"Enough…
-Stop talking Hizuru.",XMESS_0071,根津銀次郎
-XMESS_0072,"Don't make that sad face… 
-It's not bad for a final moment…",XMESS_0072,南方ひづる
-XMESS_0073,"What matters isn't how long you lived,
-but how completely you used your life.",XMESS_0073,南方ひづる
-XMESS_0074,!!!!!!!!!,XMESS_0074,網代慎平
-XMESS_0075,(…Sister!!!),XMESS_0075,竜之介の声
-XMESS_0076,"Ryunosuke…
-I entrust him to you.
-Make a final twist.",XMESS_0076,南方ひづる
+XMESS_0068,Haine is probably... just being used... by Shide... The real boss... is Shide...,XMESS_0068,南方ひづる
+XMESS_0069,Shin... pei... kun... Please... free Haine...,XMESS_0069,南方ひづる
+XMESS_0070,...Yes... I promise...!!,XMESS_0070,網代慎平
+XMESS_0071,"That's enough, don't speak anymore... Hizuru...",XMESS_0071,根津銀次郎
+XMESS_0072,Heh... don't line up... such gloomy faces... As a final moment... it's not bad...,XMESS_0072,南方ひづる
+XMESS_0073,It's not about... how long... you lived... It's about how... you completely used up... your life...,XMESS_0073,南方ひづる
+XMESS_0074,...!!,XMESS_0074,網代慎平
+XMESS_0075,(...Sis!!!!),XMESS_0075,竜之介の声
+XMESS_0076,Ryunosuke... I leave the rest... to you...,XMESS_0076,南方ひづる
 XMESS_0077,…Huh?,XMESS_0077,網代慎平
-XMESS_0078,"My brother…
-I entrust him to you.",XMESS_0078,南方ひづる
+XMESS_0078,I entrust... my brother... to you... Give them a big twist... at the end...,XMESS_0078,南方ひづる
 XMESS_0079,…,XMESS_0079,南方ひづる
 XMESS_0080,"…Hey, Hizuru…",XMESS_0080,根津銀次郎
-XMESS_0081,Hizuru!!!,XMESS_0081,根津銀次郎
-XCOMMENTVIEW_0454,Southern Hizuru,XCOMMENTVIEW_0454,
+XMESS_0081,Hizuruuuuu!!,XMESS_0081,根津銀次郎
+XCOMMENTVIEW_0454,Hizuru Minakata,XCOMMENTVIEW_0454,
 XMESS_0082,…,XMESS_0082,南方ひづる
-XMESS_0083,"It's dangerous…
-This terrain is.",XMESS_0083,根津銀次郎
-XMESS_0084,"Hizuru, was that really Shinpei?",XMESS_0084,根津銀次郎
-XMESS_0085,"Through the phone call,
-even if it's Ryunosuke, you can't tell a person from their shadow.
-The caller was definitely Shinpei's smartphone…",XMESS_0085,南方ひづる
-XMESS_0086,"It must be Ushio who got hurt…
-Is there a possibility that Shinpei is already dead?",XMESS_0086,根津銀次郎
-XMESS_0087,"…Possibly.
-If Shinpei's life has ended,
-there's a chance we're in Haine's observed world now.",XMESS_0087,南方ひづる
-XMESS_0088,"But even so, there's nothing to change.
-We just need to kill Haine.",XMESS_0088,南方ひづる
-XMESS_0089,Did you contact Mio?,XMESS_0089,南方ひづる
-XMESS_0090,"No… we're out of range now.
-Alain said that ""Shinpei called and they both went out.""",XMESS_0090,菱形朱鷺子
-XMESS_0091,So you don't know where they are?,XMESS_0091,凸村哲
-XMESS_0092,"If they're heading to Tiger Island, that's fine.",XMESS_0092,根津銀次郎
+XMESS_0083,This terrain is dangerous...,XMESS_0083,根津銀次郎
+XMESS_0084,"Hizuru, was that phone call really Shinpei...?",XMESS_0084,根津銀次郎
+XMESS_0085,"Over the phone, even 'Ryunosuke' can't distinguish between a human and a shadow. The incoming call was definitely from Shinpei Ajiro's smartphone, but...",XMESS_0085,南方ひづる
+XMESS_0086,"Ushio was taken out, right... Is there no possibility that Shinpei has already been killed too?",XMESS_0086,根津銀次郎
+XMESS_0087,"...There is. The possibility that Shinpei's life has already ended, and this has become a world observed by Haine.",XMESS_0087,南方ひづる
+XMESS_0088,"But even if that's the case, what we do doesn't change. Kill Haine--that is all.",XMESS_0088,南方ひづる
+XMESS_0089,Any contact with Mio?,XMESS_0089,南方ひづる
+XMESS_0090,"No... we're out of range right now too. Alain-san said that 'Shinpei-san called and they both went out', but...",XMESS_0090,菱形朱鷺子
+XMESS_0091,"So you don't know their destination, huh...",XMESS_0091,凸村哲
+XMESS_0092,"It'd be good if they were heading to Torashima, though...",XMESS_0092,根津銀次郎
 XMESS_0093,Mio…,XMESS_0093,菱形朱鷺子
-XMESS_0094,"First, I'll go to Tiger Island.
-Can you shoot from here, Nezu?",XMESS_0094,南方ひづる
-XMESS_0095,If it's the southern side of the island…,XMESS_0095,根津銀次郎
-XMESS_0096,"That'll be enough.
-If Shinpei is a shadow, send me a signal.",XMESS_0096,南方ひづる
-XMESS_0097,"Tokiko,
-when that happens, charge in with the Guildenstern and Roz.
-And Totsumura--",XMESS_0097,南方ひづる
-XMESS_0098,--Why are you here?,XMESS_0098,南方ひづる
+XMESS_0094,"First, I'll cross over to Torashima alone. Can you snipe from here, Nezu?",XMESS_0094,南方ひづる
+XMESS_0095,"Yeah, but only on the southern part of the island...",XMESS_0095,根津銀次郎
+XMESS_0096,That'll be enough... I'll send you a signal if Shinpei is a shadow.,XMESS_0096,南方ひづる
+XMESS_0097,"Tokiko, when that happens, charge in with Gil and Roz. And Totsumura--",XMESS_0097,南方ひづる
+XMESS_0098,--Why are you here again?,XMESS_0098,南方ひづる
 XMESS_0099,Huh?,XMESS_0099,凸村哲
-XMESS_0100,Struggle to live.,XMESS_0100,南方ひづる
+XMESS_0100,I'll give you this. Struggle to survive.,XMESS_0100,南方ひづる
 XMESS_0101,This…,XMESS_0101,凸村哲
-XMESS_0102,"That's your father's self-defense gun.
-It only has two bullets loaded, though…",XMESS_0102,菱形朱鷺子
-XMESS_0103,"O-oh. 
-My pistol was taken with Ushio,
-but if I have this… maybe we can manage.",XMESS_0103,凸村哲
-XMESS_0104,"But…
-Where's your weapon?!",XMESS_0104,凸村哲
+XMESS_0102,"That's Dad's self-defense gun. It can only load two bullets, though...",XMESS_0102,菱形朱鷺子
+XMESS_0103,"O-Oh. My handgun disappeared along with Ushio-chan, but... W-With this, I can manage...",XMESS_0103,凸村哲
+XMESS_0104,B-But... What about yer weapon!?,XMESS_0104,凸村哲
 XMESS_0105,I have a hammer.,XMESS_0105,南方ひづる
-XMESS_0106,"Everyone, stay alert…
-If I confirm it's really Shinpei,
-I'll come back here.",XMESS_0106,南方ひづる
-XMESS_0107,"See you later, Hizuru…",XMESS_0107,根津銀次郎
-XMESS_0108,"You're such a tactless old man.
-Don't set death flags!",XMESS_0108,南方ひづる
-XMESS_0109,Ah?!,XMESS_0109,根津銀次郎
-XMESS_0110,"If this battle ends,
-I'll write a novel about these experiences on the island.
-I've never written non-fiction before.",XMESS_0110,南方ひづる
-XMESS_0111,"(Slightly, but definitely… a sound in my head…
-Like scratching chalk on a blackboard…
-An irritating sensation along the nerves…)",XMESS_0111,南方ひづる（ポニテ）
-XMESS_0112,Ryunosuke Sensei!,XMESS_0112,シンペイ
-XMESS_0113,(What's this… the presence of a shadow…),XMESS_0113,南方ひづる（ポニテ）
-XMESS_0114,"No way…
-This is…
-Haine's presence!!!",XMESS_0114,南方ひづる（ポニテ）
-XMESS_0115,"Thank goodness you're safe!
-Where are the others---",XMESS_0115,シンペイ
-XMESS_0116,"Stop with that fake act, Haine.",XMESS_0116,南方ひづる（ポニテ）
-XMESS_0117,"You mean you're transforming yourself…?
-What did you do to Shinpei?!",XMESS_0117,南方ひづる（ポニテ）
-XMESS_0118,"(If I don't lure them here,
-they can't target Nezu from this position…
-…are they reading my thoughts?)",XMESS_0118,南方ひづる（ポニテ）
-XMESS_0119,…Hmph.,XMESS_0119,シンペイ
-XMESS_0120,"Fourteen years ago,
-when I met Hizuru again, he said he'd kill me…
-here on Torashima.",XMESS_0120,シンペイ
+XMESS_0106,"Everyone, do not neglect your vigilance... Once I confirm that Shinpei is the real one, I will return here.",XMESS_0106,南方ひづる
+XMESS_0107,See you later. Hizuru...,XMESS_0107,根津銀次郎
+XMESS_0108,...What a tactless old man. Don't go raising death flags.,XMESS_0108,南方ひづる
+XMESS_0109,Hah!?,XMESS_0109,根津銀次郎
+XMESS_0110,"If this battle ends, I'll turn my experiences on this island into a novel. I've never written non-fiction before.",XMESS_0110,南方ひづる
+XMESS_0111,(Faintly... but it's definitely echoing in my head... Like scratching a blackboard... A sound that rubs my nerves the wrong way...),XMESS_0111,南方ひづる（ポニテ）
+XMESS_0112,Nagumo-sensei!,XMESS_0112,シンペイ
+XMESS_0113,(What is this... the presence of a shadow...),XMESS_0113,南方ひづる（ポニテ）
+XMESS_0114,(No... this is...!! Haine's presence...!!),XMESS_0114,南方ひづる（ポニテ）
+XMESS_0115,I'm glad you're safe! Where are the others--,XMESS_0115,シンペイ
+XMESS_0116,"Quit your lousy acting, Haine.",XMESS_0116,南方ひづる（ポニテ）
+XMESS_0117,To think you transformed yourself... What did you do to Shinpei-san!?,XMESS_0117,南方ひづる（ポニテ）
+XMESS_0118,"(If I don't lure her over here, Nezu-san won't be able to snipe her from that position... ...Is she reading my thoughts?)",XMESS_0118,南方ひづる（ポニテ）
+XMESS_0119,...Heh.,XMESS_0119,シンペイ
+XMESS_0120,"14 years ago, the place where I told Hizuru I'd kill her the next time we met was also here... Torashima.",XMESS_0120,シンペイ
 XMESS_0121,…,XMESS_0121,南方ひづる（ポニテ）
-XMESS_0122,"Farewell, Ryunosuke.",XMESS_0122,シンペイ
-XMESS_0123,Hmph!,XMESS_0123,雁切真砂人
-XMESS_0124,"Hmm…
-Evading that…?",XMESS_0124,シンペイ
+XMESS_0122,"Goodbye, Ryuunosuke.",XMESS_0122,シンペイ
+XMESS_0123,Hah!,XMESS_0123,雁切真砂人
+XMESS_0124,Hmph... To think you dodged that...,XMESS_0124,シンペイ
 XMESS_0125,Well done.,XMESS_0125,雁切真砂人
-XMESS_0126,"…So it's really you, Shide.
-Masahito Karikiri…",XMESS_0126,南方ひづる（ポニテ）
-XMESS_0127,"But he is human… 
-There's no shadow presence from you.
-Did you kill Ushio like this, from behind?",XMESS_0127,南方ひづる（ポニテ）
-XMESS_0128,"Hmph… indeed.
-That hand of yours won't work on me…",XMESS_0128,雁切真砂人
+XMESS_0126,...So you are Shide after all. Karikiri Masahito...,XMESS_0126,南方ひづる（ポニテ）
+XMESS_0127,"But you're human... I don't sense a shadow's presence from you. Did you kill Ushio like this, sneaking up from behind...?",XMESS_0127,南方ひづる（ポニテ）
+XMESS_0128,Heh... well then. I suppose this trick won't work on you...,XMESS_0128,雁切真砂人
 XMESS_0129,"You have precognition, don't you?
 Ryunosuke-kun!",XMESS_0129,雁切真砂人
-XMESS_0130,"…You've figured it out.
-My secret…",XMESS_0130,南方ひづる（ポニテ）
+XMESS_0130,So you knew my secret.,XMESS_0130,南方ひづる（ポニテ）
 XMESS_0131,"Fourteen years ago,
 I copied Ryunosuke Minakata…",XMESS_0131,シンペイ
-XMESS_0132,"Haine's former self couldn't accept eating my friend's brother, erupting alongside Ryunosuke's data.",XMESS_0132,シンペイ
-XMESS_0133,"It was an accident…
-The coordinates were slightly off,
-so it printed like that…",XMESS_0133,シンペイ
+XMESS_0132,"However, Haine's personality from when she was a young girl couldn't bear the fact that she ate her friend's younger brother, and she burst out of me along with Ryunosuke's data.",XMESS_0132,シンペイ
+XMESS_0133,"It was an accident... The coordinates were slightly off, and it seems he was printed that way...",XMESS_0133,シンペイ
 XMESS_0134,Coordinates?,XMESS_0134,雁切真砂人
-XMESS_0135,"It's not spatial coordinates, it's temporal… 
-Precisely two seconds ahead…",XMESS_0135,シンペイ
-XMESS_0136,Ah~!,XMESS_0136,雁切真砂人
-XMESS_0137,"That's two seconds in the future,
-making Hizuru move right now!!!",XMESS_0137,シンペイ
+XMESS_0135,"It's not spatial coordinates, but temporal coordinates. Precisely two seconds... shifted into the future.",XMESS_0135,シンペイ
+XMESS_0136,Oh my~!,XMESS_0136,雁切真砂人
+XMESS_0137,He's controlling Hizuru's body right now from two seconds in the future...!!,XMESS_0137,シンペイ
 XMESS_0138,…,XMESS_0138,南方ひづる（ポニテ）
-XMESS_0139,"…Was that correct?
-Hizuru-chan!",XMESS_0139,雁切真砂人
+XMESS_0139,"Is that right, Hizuru-chan?",XMESS_0139,雁切真砂人
 XMESS_0140,…,XMESS_0140,南方ひづる（ポニテ）
-XMESS_0141,"…I can hear it.
-Hey, Hizuru-chan?
-You approached Haine and bewitched her…",XMESS_0141,雁切真砂人
-XMESS_0142,"Because of you, Haine was deeply wounded.
-Her condition has worsened,
-and she'll only live a few more months in this world.",XMESS_0142,雁切真砂人
+XMESS_0141,"...I know you can hear me. Right, Hizuru-chan? You approached Haine and led her astray...",XMESS_0141,雁切真砂人
+XMESS_0142,"Because of you, Haine was deeply wounded. Her weakening has progressed, and she can no longer live in this world for more than a few months.",XMESS_0142,雁切真砂人
 XMESS_0143,"It's all your fault, Hizuru-chan.",XMESS_0143,雁切真砂人
 XMESS_0144,…,XMESS_0144,南方ひづる（ポニテ）
-XMESS_0145,"Haine needing to return,
-and your dear brother's death…",XMESS_0145,雁切真砂人
-XMESS_0146,All of it is because of you… Hizuru-chan.,XMESS_0146,雁切真砂人
-XMESS_0147,"What are you talking about?
-Don't hurt your sister any more.",XMESS_0147,南方ひづる（ポニテ）
-XMESS_0148,"You can't beat me, Ryunosuke-kun…",XMESS_0148,雁切真砂人
-XMESS_0149,"Haine's eyes are observing your time shift,
-and they're telling me.",XMESS_0149,雁切真砂人
-XMESS_0150,"In other words, that ""two seconds"" advantage of yours is meaningless here.",XMESS_0150,雁切真砂人
-XMESS_0151,"This is mud.
-Things that were once shadows…
-And now, things with no identity at all…",XMESS_0151,雁切真砂人
+XMESS_0145,"Haine needing to return home, and your dear brother dying--",XMESS_0145,雁切真砂人
+XMESS_0146,It's all your fault... Hizuru-chan.,XMESS_0146,雁切真砂人
+XMESS_0147,What are you saying...? Don't hurt my sister any more.,XMESS_0147,南方ひづる（ポニテ）
+XMESS_0148,"You can't beat me, Ryunosuke-kun...!!",XMESS_0148,雁切真砂人
+XMESS_0149,"Haine's eyes are observing your time shift, and transmitting it to me...",XMESS_0149,雁切真砂人
+XMESS_0150,"In other words, your ""two second"" advantage is meaningless here.",XMESS_0150,雁切真砂人
+XMESS_0151,"This is mud. Things that were once shadows... And now, things that are nobody...",XMESS_0151,雁切真砂人
 XMESS_0152,…!!,XMESS_0152,南方ひづる（ポニテ）
-XMESS_0153,"I'll also tell you my ability.
-It's not fair if I don't. 
-Mud changes its form in response to human will…",XMESS_0153,雁切真砂人
-XMESS_0154,"(How creepy…!!
-What kind of people's…?)",XMESS_0154,南方ひづる（ポニテ）
-XMESS_0155,"(I wonder what my sister would say…
-a pile of corpses? No---)",XMESS_0155,南方ひづる（ポニテ）
-XMESS_0156,"Because it's nothing, there are no weaknesses either.",XMESS_0156,シデ
-XMESS_0157,(<<color=#GF_KEY_MUKUROARMAER>Skeleton Armor</color>…!!),XMESS_0157,南方ひづる（ポニテ）
-XMESS_0158,Now I'll go a bit more serious.,XMESS_0158,シデ
+XMESS_0153,I'll tell you my ability as well. Games aren't fun if they aren't fair. Mud changes its form in response to human will.,XMESS_0153,雁切真砂人
+XMESS_0154,(How creepy...!! Just how many people's worth of mud is that...!?),XMESS_0154,南方ひづる（ポニテ）
+XMESS_0155,(I wonder how my sister would describe it... A mass of corpses...? No--),XMESS_0155,南方ひづる（ポニテ）
+XMESS_0156,"And because they are nobody, they also have no weaknesses.",XMESS_0156,シデ
+XMESS_0157,(<color=#GF_KEY_MUKUROARMAER>Corpse Armor</color>...!!),XMESS_0157,南方ひづる（ポニテ）
+XMESS_0158,It's time to take this seriously.,XMESS_0158,シデ
 XMESS_0159,…,XMESS_0159,南方ひづる（ポニテ）
 XMESS_0160,Hmph!,XMESS_0160,シデ
-XMESS_0161,"(Indeed…
-My sister's words were right… letting me dodge the attack to,
-then finishing me off where I dodged…)",XMESS_0161,南方ひづる（ポニテ）
+XMESS_0161,(Just as I thought... Like my sister said... he's making me dodge his attacks... and planning to finish me off where I land...),XMESS_0161,南方ひづる（ポニテ）
 XMESS_0162,…,XMESS_0162,シデ
-XMESS_0163,"(But Shide can't see my two seconds ahead.
-Haine is transmitting telepathically to him)",XMESS_0163,南方ひづる（ポニテ）
-XMESS_0164,"(The transmission from Haine to Shide takes a brief moment!
-Just that instant, there's time lag!)",XMESS_0164,南方ひづる（ポニテ）
+XMESS_0163,"(But it's not like Shide can see me two seconds in the future. Haine sees it, and then telepathically tells Shide.)",XMESS_0163,南方ひづる（ポニテ）
+XMESS_0164,(There's a brief time lag before Haine's instructions reach Shide!),XMESS_0164,南方ひづる（ポニテ）
 XMESS_0165,How about this!?,XMESS_0165,シデ
-XMESS_0166,You blocked it with the handle…?!,XMESS_0166,シデ
-XMESS_0167,"(If there's a time lag…
-Quickly, even faster!!!
-All I need to do is move!!!)",XMESS_0167,南方ひづる（ポニテ）
-XMESS_0168,Guh…!,XMESS_0168,シデ
-XMESS_0169,One more strike!!!,XMESS_0169,南方ひづる（ポニテ）
-XMESS_0170,Guh…!,XMESS_0170,シデ
-XMESS_0171,"Huff, huff, huff…",XMESS_0171,南方ひづる（ポニテ）
-XMESS_0172,"…That's amazing.
-Even as a human being, that movement…",XMESS_0172,シデ
-XMESS_0173,"(I thought I'd smashed his head,
-but it just dissolved and escaped the impact…)",XMESS_0173,南方ひづる（ポニテ）
-XMESS_0174,"But there's still a limit, isn't there?
-Your wound is open…
-That was from last night when I shot you.",XMESS_0174,シデ
-XMESS_0175,"Haha!
-Because you're protecting Shinpei-kun…",XMESS_0175,シデ
-XMESS_0176,"(It's not just that…
-My right arm has a crack in the bone… 
-Muscles all over my body are torn…)",XMESS_0176,南方ひづる（ポニテ）
-XMESS_0177,(This is too much for my sister's body…!!),XMESS_0177,南方ひづる（ポニテ）
-XMESS_0178,"(It's frustrating, but I can't escape…
-It's impossible…)",XMESS_0178,南方ひづる（ポニテ）
-XMESS_0179,"(If only I could get into Nezu's firing range…
-Then I can escape during the brief opening…)",XMESS_0179,南方ひづる（ポニテ）
+XMESS_0166,He blocked it with the handle...!?,XMESS_0166,シデ
+XMESS_0167,"(If there's a time lag...!! Faster, even faster...!! I just need to move faster than that...!!!)",XMESS_0167,南方ひづる（ポニテ）
+XMESS_0168,Guh-ohhh!?,XMESS_0168,シデ
+XMESS_0169,One more strike...!!,XMESS_0169,南方ひづる（ポニテ）
+XMESS_0170,Gwaaaaaahhh!!,XMESS_0170,シデ
+XMESS_0171,"*Pant*, *pant*, *pant*...!",XMESS_0171,南方ひづる（ポニテ）
+XMESS_0172,...That's amazing. To have movements like that despite being human...,XMESS_0172,シデ
+XMESS_0173,"(I thought I smashed his head in, but did he turn to mud and let the impact escape...?)",XMESS_0173,南方ひづる（ポニテ）
+XMESS_0174,"But it seems you're pushing yourself too hard, aren't you? Your wound has opened up... That's the gunshot wound from when I shot you last night, right?",XMESS_0174,シデ
+XMESS_0175,Heheh! That's what you get for protecting Shinpei-kun...,XMESS_0175,シデ
+XMESS_0176,(That's not all... There's a crack in my right arm's bone... And the muscles all over my body are torn...),XMESS_0176,南方ひづる（ポニテ）
+XMESS_0177,(My sister's body can't take any more of this...!!),XMESS_0177,南方ひづる（ポニテ）
+XMESS_0178,"(It's frustrating, but we have to run...)",XMESS_0178,南方ひづる（ポニテ）
+XMESS_0179,"(If I can just somehow get into Nezu-san's firing range, we can create a momentary opening and escape...!)",XMESS_0179,南方ひづる（ポニテ）
 XMESS_0180,Wait!!!,XMESS_0180,ひづるの声
 XMESS_0181,…Huh?,XMESS_0181,南方ひづる（ポニテ）
 XMESS_0182,…?,XMESS_0182,シデ
-XMESS_0183,"Oh… what's this!?
-Why am I awake in my sister's time!",XMESS_0183,竜之介の声
-XMESS_0184,"Don't run!!!
-Ryunosuke…!!",XMESS_0184,南方ひづる
-XMESS_0185,Hizuru…,XMESS_0185,シンペイ
-XMESS_0186,"What… what is this!?
-Why am I awake in my sister's time!",XMESS_0186,竜之介の声
-XMESS_0187,"This is the first time…
-talking with my sister in real-time!!!
-Why? Why why!?",XMESS_0187,竜之介の声
-XMESS_0188,"Oh nooo!!! 
-This isn't a dream, is it!?!
-Hey!!!",XMESS_0188,竜之介の声
-XMESS_0189,"Shut up!!! 
-It's an emergency. I have no choice.",XMESS_0189,南方ひづる
-XMESS_0190,My sister… I'm so happy…,XMESS_0190,竜之介の声
-XMESS_0191,"Listen carefully, Ryunosuke. There's a chance.",XMESS_0191,南方ひづる
+XMESS_0183,S-...Sister!?,XMESS_0183,竜之介の声
+XMESS_0184,Don't run...!! Ryunosuke...!!,XMESS_0184,南方ひづる
+XMESS_0185,Hizuru...!!,XMESS_0185,シンペイ
+XMESS_0186,H-Huh!? Why am I awake... in my sister's time!?,XMESS_0186,竜之介の声
+XMESS_0187,"This is the first time I've been able to talk with my sister in real-time!! Why? Why, why!?",XMESS_0187,竜之介の声
+XMESS_0188,"Waaah!! No way, no way? Is this not a dream!? Hey!!",XMESS_0188,竜之介の声
+XMESS_0189,"Argh, shut up!! It's an emergency, I have no choice.",XMESS_0189,南方ひづる
+XMESS_0190,I'm so glad...,XMESS_0190,竜之介の声
+XMESS_0191,"Listen... listen closely, Ryunosuke. There's a chance to win.",XMESS_0191,南方ひづる
 XMESS_0192,…,XMESS_0192,竜之介の声
-XMESS_0193,…Hmph.,XMESS_0193,シデ
-XMESS_0194,"With Shinpei Ajiro's safety unknown, 
-we have no choice but to do this.
-If we run away, he'll die tomorrow anyway.",XMESS_0194,南方ひづる
+XMESS_0193,...Oh?,XMESS_0193,シデ
+XMESS_0194,"With Shinpei Ajiro's safety unknown, we have no choice but to do this here... Even if we run, we'll die tomorrow anyway.",XMESS_0194,南方ひづる
 XMESS_0195,But…,XMESS_0195,竜之介の声
-XMESS_0196,"(Don't think!!!
-It's my job to think!!!)",XMESS_0196,南方ひづる
-XMESS_0197,My… sister…,XMESS_0197,竜之介の声
-XMESS_0198,"(You saw it too, didn't you?
-That substance goes beyond common sense…
-If we break that armor, the inside is human)",XMESS_0198,南方ひづる
-XMESS_0199,"Listen. The strategy I'm about to tell you…
-only you can do it.",XMESS_0199,南方ひづる
-XMESS_0200,"Leave the body control to me. 
-Put your all into it, Ryunosuke!!!",XMESS_0200,南方ひづる
-XMESS_0201,"Pay attention…
-You're still holding back your power.",XMESS_0201,南方ひづる
-XMESS_0202,"It's okay if my body breaks. 
-Use it fully!!!",XMESS_0202,南方ひづる
-XMESS_0203,"…Chance?
-That's funny.",XMESS_0203,シデ
+XMESS_0196,(Don't think!! Thinking is my job...!!),XMESS_0196,南方ひづる
+XMESS_0197,S-...Sister...,XMESS_0197,竜之介の声
+XMESS_0198,"(You saw it too, didn't you...? That substance goes beyond common sense... If we just break that armor, there's a human inside.)",XMESS_0198,南方ひづる
+XMESS_0199,"(Listen, the strategy I'm about to tell you... only you can do it.)",XMESS_0199,南方ひづる
+XMESS_0200,I'll leave the body control to you. Give it your all... Ryunosuke...!!,XMESS_0200,南方ひづる
+XMESS_0201,"You're worrying about me... and still holding back your power, aren't you?",XMESS_0201,南方ひづる
+XMESS_0202,It's fine... even if my body breaks... Use it to your heart's content...!!,XMESS_0202,南方ひづる
+XMESS_0203,...A chance to win? Don't make me laugh.,XMESS_0203,シデ
 XMESS_0204,…,XMESS_0204,南方ひづる
-XMESS_0205,Huh!,XMESS_0205,シデ
-XMESS_0206,Fast…,XMESS_0206,シンペイ
-XMESS_0207,You're moving around so much!,XMESS_0207,シデ
+XMESS_0205,!!,XMESS_0205,シデ
+XMESS_0206,Fast...!!,XMESS_0206,シンペイ
+XMESS_0207,Scurrying around...!,XMESS_0207,シデ
 XMESS_0208,(The hammer was deflected…?!),XMESS_0208,南方ひづる
-XMESS_0209,Then do that…,XMESS_0209,南方ひづる
-XMESS_0210,"Wait, that's…!
-The sacred treasure of the Hitogashima Shrine,
-<Amenonuhoko>!!!",XMESS_0210,シデ
-XMESS_0211,Take this…,XMESS_0211,南方ひづる
-XMESS_0212,Guh… Guguguuoo!!!,XMESS_0212,シデ
+XMESS_0209,(Then I'll use that...!),XMESS_0209,南方ひづる
+XMESS_0210,"Wait, that's...! The important sacred treasure of Hitogashima Shrine, <color=#GF_TIPS_065>Amenonuhoko</color>...!",XMESS_0210,シデ
+XMESS_0211,Take this...!,XMESS_0211,南方ひづる
+XMESS_0212,Ugh... gugugugoo!?,XMESS_0212,シデ
 XMESS_0213,Haine!,XMESS_0213,南方ひづる
-XMESS_0214,Oops…,XMESS_0214,シンペイ
-XMESS_0215,"Huff, huff… Huff…",XMESS_0215,南方ひづる
-XMESS_0216,Dangerous dangerous.,XMESS_0216,シンペイ
-XMESS_0217,"Your movements were on par with Ushio…
-No, even more so. 
-That's the determination of a person ready to die.
-Hizuru.",XMESS_0217,シンペイ
+XMESS_0214,Whoops...!,XMESS_0214,シンペイ
+XMESS_0215,"*Pant*, *pant*... *pant*...!",XMESS_0215,南方ひづる
+XMESS_0216,That was close...,XMESS_0216,シンペイ
+XMESS_0217,"Those movements just now were on par with Ushio... No, even greater. So you're prepared to die, Hizuru.",XMESS_0217,シンペイ
 XMESS_0218,"Hey Shide, how long are you going to sleep?",XMESS_0218,シンペイ
-XMESS_0219,Alright then.,XMESS_0219,シデ
-XMESS_0220,You're using my sacred treasure well…,XMESS_0220,シデ
-XMESS_0221,"Ryunosuke is still a shadow.
-Though he can't copy, 
-he's good at imitating…",XMESS_0221,シンペイ
-XMESS_0222,"Each strike has such intense killing intent…!
-That shock is so bad.
-You've known me since I was a baby!",XMESS_0222,シデ
-XMESS_0223,"Do you hate me that much?
-Why are you trying so hard? 
-What's the meaning of fighting with your life on the line…?",XMESS_0223,シデ
-XMESS_0224,It's your words I hate.,XMESS_0224,南方ひづる
-XMESS_0225,Words?,XMESS_0225,シデ
-XMESS_0226,"Humans have words, vocabulary.
-It's the human spirit that decides how to use them.",XMESS_0226,南方ひづる
-XMESS_0227,"You can't understand their meaning.
-No matter how many centuries you live…
-you don't have it…!!",XMESS_0227,南方ひづる
-XMESS_0228,"…Once again, I ask. 
-Why did you come back? Hizuru.",XMESS_0228,シンペイ
-XMESS_0229,"Coming back knowing you'll die…
-That's the action of a fool. It doesn't suit you at all.",XMESS_0229,シンペイ
-XMESS_0230,"…You know, 
-when I asked that question before,
-you should have scanned my head…",XMESS_0230,南方ひづる
-XMESS_0231,"…So, 
-even though you read memories,
-you can't understand them.",XMESS_0231,南方ひづる
-XMESS_0232,"Scan me again once more.  
-Let the shadow I created answer for me.",XMESS_0232,南方ひづる
-XMESS_0233,"…Hmph, that won't work on me.
-Hizuru… you've developed immunity. 
-Mio could do it.",XMESS_0233,シンペイ
-XMESS_0234,"You're trying to take advantage of my momentary light,
-to destroy Shinpei?",XMESS_0234,シンペイ
-XMESS_0235,(You've figured it out already…),XMESS_0235,南方ひづる
-XMESS_0236,"If I didn't have my eyes, 
-I could defeat Shide…",XMESS_0236,シンペイ
-XMESS_0237,"If I defeat Shide,
-it'll be easy to strike my main body underground…
-Do you think that way?",XMESS_0237,シンペイ
+XMESS_0219,Heave-ho...,XMESS_0219,シデ
+XMESS_0220,You're really mastering my sacred treasure.,XMESS_0220,シデ
+XMESS_0221,"Ryunosuke is still a shadow, after all. Though he can't copy, it seems he's good at imitating...",XMESS_0221,シンペイ
+XMESS_0222,The killing intent in each strike is brutal... I'm so shocked~. And I've known you since you were a baby!,XMESS_0222,シデ
+XMESS_0223,Do you hate me that much? Why are you trying so hard? What's the meaning of fighting with your life on the line...?,XMESS_0223,シデ
+XMESS_0224,...What I hate is your words.,XMESS_0224,南方ひづる
+XMESS_0225,...Words?,XMESS_0225,シデ
+XMESS_0226,"Humans have words, vocabulary. How we use words is determined by our humanity.",XMESS_0226,南方ひづる
+XMESS_0227,You probably can't understand the meaning. No matter how many centuries you live... you never will...!!,XMESS_0227,南方ひづる
+XMESS_0228,...I ask you once more. Why did you come back? Hizuru.,XMESS_0228,シンペイ
+XMESS_0229,Coming back when you know you'll die... That's something a fool would do. It's not like you...,XMESS_0229,シンペイ
+XMESS_0230,"...You should know. When you asked that question before, you should have scanned my head...",XMESS_0230,南方ひづる
+XMESS_0231,"...I see. Even if you can read memories, you can't understand them.",XMESS_0231,南方ひづる
+XMESS_0232,"Why don't you try scanning me again? Give birth to my shadow, and have her answer you.",XMESS_0232,南方ひづる
+XMESS_0233,"...Hmph, I won't fall for that. Hizuru... you've developed an immunity, haven't you? Mio could do that.",XMESS_0233,シンペイ
+XMESS_0234,"You're planning to take advantage of the opening when I flash to destroy Shinpei, aren't you?",XMESS_0234,シンペイ
+XMESS_0235,(She saw right through it...),XMESS_0235,南方ひづる
+XMESS_0236,"That if it weren't for my eyes, you could defeat Shide...",XMESS_0236,シンペイ
+XMESS_0237,"And if you defeat Shide, it would be easy to strike my main body underground... That's what you're thinking, isn't it?",XMESS_0237,シンペイ
 XMESS_0238,Haine.,XMESS_0238,シデ
-XMESS_0239,"Answer me!
-Why did you come back??
-Did the message call you!?",XMESS_0239,シンペイ
-XMESS_0240,"(It's Ajiro Shinpai's personality…
-While calmly observing things,
-he can't let go of what he doesn't understand, and gets irritated)",XMESS_0240,南方ひづる
-XMESS_0241,You're talking too much!,XMESS_0241,竜之介の声
-XMESS_0242,"(If I can buy time, it's convenient.
-Leave it to me…)",XMESS_0242,南方ひづる
-XMESS_0243,"…At first, it was curiosity…
-But I've been searching all along…
-Looking for a chance to atone…",XMESS_0243,南方ひづる
+XMESS_0239,Answer me! Why did you come back!! Was it because the message called you!?,XMESS_0239,シンペイ
+XMESS_0240,"(That's Shinpei Ajiro's personality... While he calmly looks at the big picture, he gets irritated because he can't set aside things he doesn't understand.)",XMESS_0240,南方ひづる
+XMESS_0241,You're gonna chat with them!?,XMESS_0241,竜之介の声
+XMESS_0242,"(If we can buy some time, that works for us. Leave it to me...)",XMESS_0242,南方ひづる
+XMESS_0243,"...At first, it was curiosity... But I... had been searching all along... Searching for a chance to atone...",XMESS_0243,南方ひづる
 XMESS_0244,To atone?,XMESS_0244,シンペイ
-XMESS_0245,"As Shide said.
-Ryunosuke's death was my fault.
-But his death was treated as an accident.",XMESS_0245,南方ひづる
-XMESS_0246,"No matter how I told the truth,
-Of course…the police didn't take Shadow Sickness or legends seriously.",XMESS_0246,南方ひづる
-XMESS_0247,"No one blames me…
-Friends, parents…they all comforted me…",XMESS_0247,南方ひづる
-XMESS_0248,"I was…
-a pitiful child who lost my twin brother in an accident.",XMESS_0248,南方ひづる
-XMESS_0249,"Actually, I might as well have killed him.",XMESS_0249,南方ひづる
-XMESS_0250,"A miracle happened,
-and I could apologize to Ryunosuke's shadow.
-But that doesn't bring him back…",XMESS_0250,南方ひづる
-XMESS_0251,"What I can do now is…
-Save lives lost from here on out…only that.",XMESS_0251,南方ひづる
+XMESS_0245,Just as Shide said. Ryunosuke's death was my fault. But Ryunosuke's death was treated as an accident.,XMESS_0245,南方ひづる
+XMESS_0246,No matter how much I told the truth. Naturally... the police didn't take Shadow Sickness or the legends seriously.,XMESS_0246,南方ひづる
+XMESS_0247,No one blamed me... My friends and my parents... they all comforted me...,XMESS_0247,南方ひづる
+XMESS_0248,I was... a poor child who lost her twin brother in an accident.,XMESS_0248,南方ひづる
+XMESS_0249,"But the truth is, it's as if I killed him.",XMESS_0249,南方ひづる
+XMESS_0250,"A miracle happened, and I was able to apologize to Ryunosuke's shadow. But that doesn't mean he's going to come back to life.",XMESS_0250,南方ひづる
+XMESS_0251,The only thing I can do now... is to at least save the lives that will be lost from here on out...,XMESS_0251,南方ひづる
 XMESS_0252,Sister…,XMESS_0252,竜之介の声
-XMESS_0253,"So I'll save him.
-For sure…!!",XMESS_0253,南方ひづる
-XMESS_0254,"…Atonement…
-That's the reason…",XMESS_0254,シンペイ
-XMESS_0255,"Disgusting, isn't it?
-Risking your life for a stranger?",XMESS_0255,シデ
-XMESS_0256,"It's the most inconvenient thing.
-People who think they're justice…",XMESS_0256,シデ
-XMESS_0257,Hmph…Justice?,XMESS_0257,南方ひづる
-XMESS_0258,"Justice? Heheh!
-Could it be me?",XMESS_0258,南方ひづる
-XMESS_0259,"Hmph…Hehee! Haha ha haa!!
-Ha ha haha!! Ha ha ha ha!!!",XMESS_0259,南方ひづる
+XMESS_0253,So I'll save them. I swear it...!!,XMESS_0253,南方ひづる
+XMESS_0254,...Atonement... That's your reason...,XMESS_0254,シンペイ
+XMESS_0255,How disgusting... You're risking your life for complete strangers?,XMESS_0255,シデ
+XMESS_0256,"They're the most annoying kind of people, aren't they? People who are convinced they're justice.",XMESS_0256,シデ
+XMESS_0257,Hmph... justice...?,XMESS_0257,南方ひづる
+XMESS_0258,Justice...? Heheh! Me?,XMESS_0258,南方ひづる
+XMESS_0259,Heh... hehehehehe... ahahahaha! Hahahahahahaha! Ahahahahahahaha!!,XMESS_0259,南方ひづる
 XMESS_0260,…,XMESS_0260,シデ
-XMESS_0261,"Hahahaha…!!
-Hey, Haine…
-Be more careless!",XMESS_0261,南方ひづる
-XMESS_0262,"That man,
-is he really moving for your sake?",XMESS_0262,南方ひづる
+XMESS_0261,"Hahaha...!! Hey... look at the bigger picture, Haine...!!",XMESS_0261,南方ひづる
+XMESS_0262,"That man, is he really acting for your sake?",XMESS_0262,南方ひづる
 XMESS_0263,…What?,XMESS_0263,シンペイ
-XMESS_0264,"The purpose of Haine's ""returning home""
-and the words that man muttered at the end of three cycles don't match.",XMESS_0264,南方ひづる
-XMESS_0265,"""This is my ending…""",XMESS_0265,南方ひづる
+XMESS_0264,"Haine's goal of ""returning home"" and the words that man muttered at the end of the 3rd loop don't match up.",XMESS_0264,南方ひづる
+XMESS_0265,"""This is my ending...""",XMESS_0265,南方ひづる
 XMESS_0266,…,XMESS_0266,シデ
-XMESS_0267,"What does that mean, Shide?",XMESS_0267,南方ひづる
+XMESS_0267,"What did you mean by that, Shide?",XMESS_0267,南方ひづる
 XMESS_0268,Ending…?,XMESS_0268,シンペイ
-XMESS_0269,"That man…
-He's always self-centered.
-Only has a first-person perspective!!!",XMESS_0269,南方ひづる
-XMESS_0270,"Hm…Ending?
-What are you talking about?",XMESS_0270,シデ
-XMESS_0271,"Nonsense, Haine.
-She's trying to confuse us with words…",XMESS_0271,シデ
-XMESS_0272,Hm…Okay.,XMESS_0272,シンペイ
-XMESS_0273,"If you think about it, that means she has no more moves left…
-This chat is fun!",XMESS_0273,シデ
-XMESS_0274,That's enough!!!,XMESS_0274,シデ
-XMESS_0275,"(I didn't want Haine to see this,
-but I can't be picky…)",XMESS_0275,南方ひづる
-XMESS_0276,"(Then it's up to you, Tokiko)",XMESS_0276,南方ひづる
+XMESS_0269,That man... is all about himself no matter what... He only has a first-person perspective...!!,XMESS_0269,南方ひづる
+XMESS_0270,Well now... ending...? Whatever do you mean...?,XMESS_0270,シデ
+XMESS_0271,"It's nonsense, Haine. She's trying to confuse us with her words...",XMESS_0271,シデ
+XMESS_0272,Hmm...,XMESS_0272,シンペイ
+XMESS_0273,"On the flip side, that means she has no more moves left to play... So this fun little chat...!!",XMESS_0273,シデ
+XMESS_0274,Ends here!,XMESS_0274,シデ
+XMESS_0275,"(I didn't want Haine to see this if possible, but I guess I can't afford to be picky...)",XMESS_0275,南方ひづる
+XMESS_0276,(I leave the rest to you... Tokiko),XMESS_0276,南方ひづる
 XMESS_0277,What are you doing!?,XMESS_0277,シンペイ
-XMESS_0278,"(The armor of Shide is ""nobody"".
-It's empty inside…
-So if it's you, you can get in…)",XMESS_0278,南方ひづる
-XMESS_0279,"(You like that Ryunosuke?
-Possessing people…
-Getting inside his armor--)",XMESS_0279,南方ひづる
-XMESS_0280,W-What are you doing!?,XMESS_0280,シデ
-XMESS_0281,(---<color=#GF_KEY_OKUNOTE>Break from the inside</color>!!),XMESS_0281,南方ひづる
-XMESS_0282,…B-But…,XMESS_0282,シデ
-XMESS_0283,"Guhh, oh…!",XMESS_0283,竜之介の声
-XMESS_0284,"Hizuru…using such a secret move…
-Copying Ryunosuke's data into Shide's mud,
-and using that as material--",XMESS_0284,シンペイ
-XMESS_0285,--Born!?,XMESS_0285,雁切真砂人
-XMESS_0286,"…It's done!! It actually worked!!
-Manifestation…
-H-Honestly!!!",XMESS_0286,南方竜之介
-XMESS_0287,Fuhaha…,XMESS_0287,南方ひづる
+XMESS_0278,"(Shide's armor is ""nobody"". The inside is empty... So you should be able to get inside it...!!)",XMESS_0278,南方ひづる
+XMESS_0279,"(You're good at that, right, Ryunosuke? Possessing people...!! Dive into his armor--)",XMESS_0279,南方ひづる
+XMESS_0280,W-What!?,XMESS_0280,シデ
+XMESS_0281,(--<color=#GF_KEY_OKUNOTE>Break it from the inside</color>!!),XMESS_0281,南方ひづる
+XMESS_0282,...I-Impossible...!!!!,XMESS_0282,シデ
+XMESS_0283,"Guoo, ohhh...!",XMESS_0283,竜之介の声
+XMESS_0284,"Hizuru... to use a trump card like this...!! Copying Ryunosuke's data into Shide's mud, and using that as material--",XMESS_0284,シンペイ
+XMESS_0285,--He was born!?,XMESS_0285,雁切真砂人
+XMESS_0286,...I... I did it!!! Materialization...! F-For real!!,XMESS_0286,南方竜之介
+XMESS_0287,Heh...,XMESS_0287,南方ひづる
 XMESS_0288,…,XMESS_0288,南方ひづる
-XMESS_0289,"Sister!!""",XMESS_0289,南方竜之介
-XMESS_0290,This is itttt!!!,XMESS_0290,菱形朱鷺子
+XMESS_0289,Sister...!!,XMESS_0289,南方竜之介
+XMESS_0290,Take this!!!!,XMESS_0290,菱形朱鷺子

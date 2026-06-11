@@ -1,141 +1,95 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,61. 14 Years Ago Part 2,XCHAPTITLE_0002,
-XMESS_0000,"(…This bad feeling…
-It's getting bigger and bigger…!)",XMESS_0000,網代慎平
-XMESS_0001,"(The hungry Haine…
-Ryunosuke-san who went into the mountains…
-If they meet up…)",XMESS_0001,網代慎平
-XMESS_0002,Hurry… I need to tell them as soon as possible!!,XMESS_0002,網代慎平
+XCHAPTITLE_0002,61. 14 Years Ago (2),XCHAPTITLE_0002,
+XMESS_0000,(…This bad feeling... It's just getting stronger and stronger...!),XMESS_0000,網代慎平
+XMESS_0001,(A starving Haine... Ryunosuke-san entering the mountain... If those two were to meet!),XMESS_0001,網代慎平
+XMESS_0002,(I have to... I have to warn them quickly!!),XMESS_0002,網代慎平
 XMESS_0003,…,XMESS_0003,南方ひづる（過去）
-XMESS_0004,Shinpei! You're here!!!,XMESS_0004,ウシオ
-XMESS_0005,"Good!
-I don't know if my voice reached them… but I'll try anyway!",XMESS_0005,網代慎平
-XMESS_0006,Nagumo-sensei!! ! !,XMESS_0006,網代慎平
-XMESS_0007,…Who's there??,XMESS_0007,南方ひづる（過去）
+XMESS_0004,"Shinpei, there she is!!",XMESS_0004,ウシオ
+XMESS_0005,"Alright...! I don't know if my voice will reach her, but... it's worth a shot!",XMESS_0005,網代慎平
+XMESS_0006,Nagumo-sensei!!!!,XMESS_0006,網代慎平
+XMESS_0007,...Is someone there!?,XMESS_0007,南方ひづる（過去）
 XMESS_0008,!!,XMESS_0008,網代慎平
-XMESS_0009,"O… My voice…
-Did you hear it! ?",XMESS_0009,網代慎平
-XMESS_0010,"Is that Nagumo?
-Was I just hearing things?.",XMESS_0010,南方ひづる（過去）
-XMESS_0011,"It took too long to shake off the hunter…I'm late…
-I need to apologize to Haine…",XMESS_0011,南方ひづる（過去）
-XMESS_0012,!!!!!!!!!,XMESS_0012,網代慎平
-XMESS_0013,"…What?
-That light just now… .",XMESS_0013,南方ひづる（過去）
-XMESS_0014,"Fuh, fuhhh…",XMESS_0014,ハイネ
-XMESS_0015,"( Darn…It didn't work…
-I guess that's what happened today… ! )",XMESS_0015,網代慎平
-XMESS_0016,"Ah! !
-Ryunosuke-san is being eaten!",XMESS_0016,ウシオ
+XMESS_0009,S-She heard... my voice!?,XMESS_0009,網代慎平
+XMESS_0010,Nagumo-sensei...? Must be hearing things...,XMESS_0010,南方ひづる（過去）
+XMESS_0011,It took too long to shake off that hunter... I'm late. I have to apologize to Haine...,XMESS_0011,南方ひづる（過去）
+XMESS_0012,!!!!,XMESS_0012,網代慎平
+XMESS_0013,...What? That light just now...,XMESS_0013,南方ひづる（過去）
+XMESS_0014,"*Pant*, *pant*...",XMESS_0014,ハイネ
+XMESS_0015,(I-It's no good...! It really is... today...!),XMESS_0015,網代慎平
+XMESS_0016,Eek...! R-Ryunosuke-san is... being eaten...!!,XMESS_0016,ウシオ
 XMESS_0017,…,XMESS_0017,南方竜之介
-XMESS_0018,…Ryunosuke…,XMESS_0018,南方ひづる（過去）
+XMESS_0018,...Ryunosuke.,XMESS_0018,南方ひづる（過去）
 XMESS_0019,…!,XMESS_0019,ハイネ
-XMESS_0020,"…Why?
-Haine… Did you do it? ?",XMESS_0020,南方ひづる（過去）
+XMESS_0020,...Why...? Haine... did you do this...?,XMESS_0020,南方ひづる（過去）
 XMESS_0021,…Hizuru…,XMESS_0021,ハイネ
-XMESS_0022,…No.,XMESS_0022,ハイネ
-XMESS_0023,I'm not… I'm not me!,XMESS_0023,リュウノスケ（ハイネ）
-XMESS_0024,"( Haine has taken Ryunosuke-san's form…
-The light earlier must have scanned him! )",XMESS_0024,網代慎平
-XMESS_0025,Ahahahaha… ! !,XMESS_0025,リュウノスケ（ハイネ）
-XMESS_0026,AHAAAAAAH!!! !!!!,XMESS_0026,ハイネ
-XMESS_0027,( Haine's right eye! ),XMESS_0027,網代慎平
-XMESS_0028,!! ! !,XMESS_0028,南方ひづる（過去）
+XMESS_0022,...No...,XMESS_0022,ハイネ
+XMESS_0023,It wasn't me... It wasn't me...,XMESS_0023,リュウノスケ（ハイネ）
+XMESS_0024,(Haine turned into Ryunosuke-san...!? That light from earlier... she scanned him!),XMESS_0024,網代慎平
+XMESS_0025,Uwaaaaaaaaaah—,XMESS_0025,リュウノスケ（ハイネ）
+XMESS_0026,Aaaaaaaaah!!!!,XMESS_0026,ハイネ
+XMESS_0027,(Haine's right eye!!),XMESS_0027,網代慎平
+XMESS_0028,!!!,XMESS_0028,南方ひづる（過去）
 XMESS_0029,Ah…,XMESS_0029,南方ひづる（過去）
-XMESS_0030,W-what happened…! ?,XMESS_0030,網代慎平
-XMESS_0031,"The light that came from Haine seemed to enter Hizuru-san's hand…
-What is it? !",XMESS_0031,ウシオ
-XMESS_0032,"( That energy ball must have destroyed Haine internally… 
-Is it okay for the teacher's body?)",XMESS_0032,網代慎平
-XMESS_0033,"(…And not just that.
-The right eye was…)",XMESS_0033,網代慎平
-XMESS_0034,"( The right eye of Haine, which exploded,
-ran away like a living creature somewhere)",XMESS_0034,網代慎平
-XMESS_0035,Just now… maybe…,XMESS_0035,ウシオ
-XMESS_0036,"…Painful… Painful…!
-It hurts!! ! !",XMESS_0036,ハイネ
-XMESS_0037,( Haine has… disappeared somewhere! ),XMESS_0037,網代慎平
+XMESS_0030,Wh-What happened...!?,XMESS_0030,網代慎平
+XMESS_0031,It looked like the light that came out of Haine went into Hizuru-san's hand... what was that!?,XMESS_0031,ウシオ
+XMESS_0032,(Did that ball of light destroy Haine from the inside...? Is it okay that it went into Sensei's body...!?),XMESS_0032,網代慎平
+XMESS_0033,(…That's not all. What about her right eye...?),XMESS_0033,網代慎平
+XMESS_0034,(The right eye that popped out of <color=#GF_TIPS_020>Haine</color> ran off somewhere like a living creature...),XMESS_0034,網代慎平
+XMESS_0035,That just now... could it be...,XMESS_0035,ウシオ
+XMESS_0036,...It hurts... it hurts... it hurts...! It hurrrrrts!!,XMESS_0036,ハイネ
+XMESS_0037,(Haine... disappeared somewhere...!),XMESS_0037,網代慎平
 XMESS_0038,Ryunosuke…,XMESS_0038,南方ひづる（過去）
-XMESS_0039,"Ryūnosuke! Ryūnosuke!! 
-Open your eyes… ! !
-Ryuunosuke!!! !!!",XMESS_0039,南方ひづる（過去）
-XMESS_0040,"Severe bleeding… No pulse or breathing…!
-Someone call for help…! !",XMESS_0040,南方ひづる（過去）
+XMESS_0039,Ryunosuke! Ryunosuke!! Open your eyes... Ryunosuke!!!!,XMESS_0039,南方ひづる（過去）
+XMESS_0040,He's bleeding so much... he has no pulse or breath...!! I have to... call someone...!!,XMESS_0040,南方ひづる（過去）
 XMESS_0041,Ah.,XMESS_0041,野良の影（影Ａ）
-XMESS_0042,!!!!!!!!!!,XMESS_0042,網代慎平
-XMESS_0043,Eh? ! ?,XMESS_0043,南方ひづる（過去）
-XMESS_0044,"Stray…!
-There are two of them! !",XMESS_0044,ウシオ
+XMESS_0042,!!!,XMESS_0042,網代慎平
+XMESS_0043,Eh!!?,XMESS_0043,南方ひづる（過去）
+XMESS_0044,Strays...!! There are two of them!,XMESS_0044,ウシオ
 XMESS_0045,Tekyara…,XMESS_0045,野良の影（影Ｂ）
-XMESS_0046,"Here, let's go.",XMESS_0046,野良の影（影Ｂ）
-XMESS_0047,"Hizuru-san… Be careful!
-You'll be attacked! !",XMESS_0047,ウシオ
-XMESS_0048,( A knife is stuck in the shadow!),XMESS_0048,網代慎平
-XMESS_0049,Nezu-san!!,XMESS_0049,ウシオ
-XMESS_0050,"Ku…!
-What the hell is this? !
-Who are you! ?",XMESS_0050,根津銀次郎（１４年前）
-XMESS_0051,"Dangerous!
-Don't come closer!! ! !",XMESS_0051,南方ひづる（過去）
-XMESS_0052,Nuh! ?,XMESS_0052,根津銀次郎（１４年前）
-XMESS_0053,…What… what…,XMESS_0053,ネヅ
-XMESS_0054,"…I-I'm me!
-M-Maybe it's really me?",XMESS_0054,根津銀次郎（１４年前）
+XMESS_0046,Here. Go on.,XMESS_0046,野良の影（影Ｂ）
+XMESS_0047,Hizuru-san... watch out! They'll get you!,XMESS_0047,ウシオ
+XMESS_0048,(There's a knife stuck in the Shadow!),XMESS_0048,網代慎平
+XMESS_0049,It's Nezu-san!,XMESS_0049,ウシオ
+XMESS_0050,Guh... What the hell is this...!? What on earth...!!?,XMESS_0050,根津銀次郎（１４年前）
+XMESS_0051,It's dangerous! Don't come closer!!,XMESS_0051,南方ひづる（過去）
+XMESS_0052,Ngh!?,XMESS_0052,根津銀次郎（１４年前）
+XMESS_0053,...Wh... at...,XMESS_0053,ネヅ
+XMESS_0054,...M... M-Me!? N-N-No way...,XMESS_0054,根津銀次郎（１４年前）
 XMESS_0055,…,XMESS_0055,ネヅ
-XMESS_0056,"Guhhh… ! !
-My eyes! …!",XMESS_0056,根津銀次郎（１４年前）
-XMESS_0057,"No good!!  
-Nezu-san!!! - -",XMESS_0057,網代慎平
-XMESS_0058,…Sister…?,XMESS_0058,南方ひづる（過去）（リュウノスケ）
-XMESS_0059,"Ku, you! Get away!
-You'll be hurt!!",XMESS_0059,根津銀次郎（１４年前）
-XMESS_0060,Hold on to me… I'm going up…,XMESS_0060,南方ひづる（過去）（リュウノスケ）
+XMESS_0056,Guh...!! M-M-My eyes...!!,XMESS_0056,根津銀次郎（１４年前）
+XMESS_0057,This is bad!! Nezu-san—,XMESS_0057,網代慎平
+XMESS_0058,...Sis...?,XMESS_0058,南方ひづる（過去）（リュウノスケ）
+XMESS_0059,"Ngh, hey, get out of the way! They'll get you!",XMESS_0059,根津銀次郎（１４年前）
+XMESS_0060,Hold on to me... I'm going to jump...,XMESS_0060,南方ひづる（過去）（リュウノスケ）
 XMESS_0061,Huh…?,XMESS_0061,根津銀次郎（１４年前）
-XMESS_0062,What! ?,XMESS_0062,根津銀次郎（１４年前）
-XMESS_0063,Eh? !,XMESS_0063,網代慎平
-XMESS_0064,Oh… Ohhhhhh!! !!,XMESS_0064,根津銀次郎（１４年前）
-XMESS_0065,Just now…,XMESS_0065,網代慎平
-XMESS_0066,"No way…
-Hizuru-san is carrying Nezu-san and flying…!",XMESS_0066,ウシオ
-XMESS_0067,This must be…,XMESS_0067,網代慎平
-XMESS_0068,"Same as me…
-Shadow physical ability.",XMESS_0068,ウシオ
-XMESS_0069,"…What are you…?
-Southern girl… What's going on? !",XMESS_0069,根津銀次郎（１４年前）
-XMESS_0070,"S-Such a place…
-I found it.
-I was looking for it.",XMESS_0070,南方ひづる（過去）（リュウノスケ）
-XMESS_0071,!!!!!!!!,XMESS_0071,網代慎平
-XMESS_0072,"…Drinks… I'll buy some for you too, sister.",XMESS_0072,南方ひづる（過去）（リュウノスケ）
-XMESS_0073,"Today is our birthday, Sister…",XMESS_0073,南方ひづる（過去）（リュウノスケ）
-XMESS_0074,Ryunosuke-san's in Hizuru-san…!,XMESS_0074,ウシオ
-XMESS_0075,"Hey, where are you going! ?",XMESS_0075,根津銀次郎（１４年前）
-XMESS_0076,If I don't knock them out… it's dangerous…,XMESS_0076,南方ひづる（過去）（リュウノスケ）
-XMESS_0077,"( The shadow of Nezu-san and another shadow
-didn't seem to be enemies for Hizuru-san, or rather Ryunosuke-san)",XMESS_0077,網代慎平
-XMESS_0078,"( Without making extra moves,
-I focused on attacking the ground's shadows efficiently--)",XMESS_0078,網代慎平
-XMESS_0079,"( The movement seemed to be as if they knew
-the characteristics of a shadow…)",XMESS_0079,網代慎平
-XMESS_0080,He was attacking the ground's shadows intentionally just now…,XMESS_0080,網代慎平
-XMESS_0081,"Maybe… Haine exploded, and
-Ryunosuke-san's data got into Hizuru-san!",XMESS_0081,ウシオ
-XMESS_0082,"So now…
-<color=#GF_TIPS_034>Sensei</color> is being moved by… 
-Ryunosuke-san's shadow! ?",XMESS_0082,網代慎平
-XMESS_0083,"…Hah, hah…",XMESS_0083,南方ひづる（過去）（リュウノスケ）
-XMESS_0084,"Sorry… Sister.
-My shoulder might be dislocated…",XMESS_0084,南方ひづる（過去）（リュウノスケ）
-XMESS_0085,"O-oh!! !
-Are you okay! ? Stay focused!!! !!
-Hey!!!",XMESS_0085,根津銀次郎（１４年前）
+XMESS_0062,Wha!?,XMESS_0062,根津銀次郎（１４年前）
+XMESS_0063,Eh!?,XMESS_0063,網代慎平
+XMESS_0064,Uwo... oooooooh!!,XMESS_0064,根津銀次郎（１４年前）
+XMESS_0065,That just now...!!,XMESS_0065,網代慎平
+XMESS_0066,No way... Hizuru-san carried Nezu-san... and jumped...!,XMESS_0066,ウシオ
+XMESS_0067,This is...,XMESS_0067,網代慎平
+XMESS_0068,The same as me... A Shadow's physical ability...,XMESS_0068,ウシオ
+XMESS_0069,...Wh... What are you...? The Minakata girl...? What the hell are you...?,XMESS_0069,根津銀次郎（１４年前）
+XMESS_0070,You were... in a place... like this... I was looking for you...,XMESS_0070,南方ひづる（過去）（リュウノスケ）
+XMESS_0071,!!,XMESS_0071,網代慎平
+XMESS_0072,"Sis, I got enough drinks fer ya too.",XMESS_0072,南方ひづる（過去）（リュウノスケ）
+XMESS_0073,"Today is our birthday, Sis.",XMESS_0073,南方ひづる（過去）（リュウノスケ）
+XMESS_0074,Ryunosuke-san is... inside Hizuru-san...!,XMESS_0074,ウシオ
+XMESS_0075,"Hey, where are you going!",XMESS_0075,根津銀次郎（１４年前）
+XMESS_0076,If I don't defeat them... it's dangerous...,XMESS_0076,南方ひづる（過去）（リュウノスケ）
+XMESS_0077,"(Nezu-san's Shadow and the other Shadow were no match for Hizuru-san... No, for Ryunosuke-san.)",XMESS_0077,網代慎平
+XMESS_0078,"(Without making any wasted movements, he efficiently targeted only the shadows on the ground—)",XMESS_0078,網代慎平
+XMESS_0079,(Those movements look as if he's completely familiar with the characteristics of Shadows...),XMESS_0079,網代慎平
+XMESS_0080,He was intentionally attacking the shadows on the ground just now...,XMESS_0080,網代慎平
+XMESS_0081,"It's just a guess, but... when Haine burst, Ryunosuke-san's data went into Hizuru-san!",XMESS_0081,ウシオ
+XMESS_0082,Then right now... the one moving <color=#GF_TIPS_034>Sensei</color> is... Ryunosuke-san's Shadow...!?,XMESS_0082,網代慎平
+XMESS_0083,...*Pant*... *pant*...,XMESS_0083,南方ひづる（過去）（リュウノスケ）
+XMESS_0084,Sorry... Sis... My shoulder... might be dislocated...,XMESS_0084,南方ひづる（過去）（リュウノスケ）
+XMESS_0085,H-Hey!! Are you okay! Hang in there!!! Hey!!!,XMESS_0085,根津銀次郎（１４年前）
 XCOMMENTVIEW_0421,August 20th,XCOMMENTVIEW_0421,
-XMESS_0086,"( After that, Shinpei and Ushio watched the aftermath…)",XMESS_0086,網代慎平
-XMESS_0087,"(…The teacher's figure leaving with their parents…
-Asako-san arrived in time to give a letter…and saw them off.)",XMESS_0087,網代慎平
-XMESS_0088,"…Shinpei!
-Look over there! !
-Haine is… !",XMESS_0088,ウシオ
-XMESS_0089,"Since we're friends, I'll let it go once.",XMESS_0089,ハイネ
-XMESS_0090,Next time we meet…I'll kill you.,XMESS_0090,ハイネ
-XMESS_0091,KEY TIPS [ <color=#GF_KEY_LOOPEND_05> 5th END </color>] obtained.,XMESS_0091,（ト書き）
+XMESS_0086,(Ushio and I watched the aftermath of what happened...),XMESS_0086,網代慎平
+XMESS_0087,"(Sensei, leaving the island with her parents... Asako-san rushed over, handed her a letter... and saw her off...)",XMESS_0087,網代慎平
+XMESS_0088,...Shinpei! Look over there...! Haine is...!,XMESS_0088,ウシオ
+XMESS_0089,"Since we're friends, I'll let ya go this once.",XMESS_0089,ハイネ
+XMESS_0090,"The next time we meet, I'll kill ya.",XMESS_0090,ハイネ
+XMESS_0091,Acquired Key TIPS [<color=#GF_KEY_LOOPEND_05>5th END</color>].,XMESS_0091,（ト書き）

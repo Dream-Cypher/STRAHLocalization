@@ -1,59 +1,40 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,14. Desperate Stand,XCHAPTITLE_0002,
-XMESS_0000,"Huff… Huff… Huff…!  
-Guhh… Haah…",XMESS_0000,網代慎平
-XMESS_0001,"(Damn it,  
-this isn't going anywhere…)",XMESS_0001,網代慎平
-XMESS_0002,"(Focus!  
-If I don't break out of this situation――)",XMESS_0002,網代慎平
-XMESS_0003,"Shin, watch out!",XMESS_0003,ミオ
-XMESS_0004,Whoa!?,XMESS_0004,網代慎平
+XMESS_0000,"Hah, hah, hah...! Kuh... hah...!",XMESS_0000,網代慎平
+XMESS_0001,"(Damn it, there's no end to this...!)",XMESS_0001,網代慎平
+XMESS_0002,(Look at the big picture...! To break through this situation--),XMESS_0002,網代慎平
+XMESS_0003,"Shin-chan, watch out!",XMESS_0003,ミオ
+XMESS_0004,Uwa!?,XMESS_0004,網代慎平
 XMESS_0005,Are you okay?,XMESS_0005,ミオ
-XMESS_0006,"Ah, yeah… thanks…!  
-I was almost beheaded…!",XMESS_0006,網代慎平
-XMESS_0007,Vaaarrrr!!,XMESS_0007,野良の影Ａ
-XMESS_0008,"…Guhh!  
-No matter how many I take down, more keep coming…!",XMESS_0008,網代慎平
-XMESS_0009,"(I should've anticipated this…!  
-They noticed there's no time left, right?  
-No matter what, they're trying to stop me)",XMESS_0009,網代慎平
-XMESS_0010,"(If this continues…  
-they might have set up the same traps on the path to Tiger Island where the teachers are.",XMESS_0010,網代慎平
-XMESS_0011,"(If I go underground, it might be less crowded…!  
-I've been beaten…)",XMESS_0011,網代慎平
-XMESS_0012,"(Damn it… think, damn you!!  
-Come up with a plan to break through here fast!)",XMESS_0012,網代慎平
-XMESS_0013,"Hey, Shin.",XMESS_0013,ミオ
-XMESS_0014,"Sorry, Mio…!  
-Just hold on a little longer――",XMESS_0014,網代慎平
-XMESS_0015,Mio's dead.,XMESS_0015,ミオ
+XMESS_0006,Y-Yeah... thanks... My head was almost chopped off...,XMESS_0006,網代慎平
+XMESS_0007,Vaaaaa...!,XMESS_0007,野良の影Ａ
+XMESS_0008,"...Kuh! No matter how many we defeat, they just keep coming...",XMESS_0008,網代慎平
+XMESS_0009,(I should have anticipated this...! Did they realize I have no more chances left...? They intend to obstruct me no matter what.),XMESS_0009,網代慎平
+XMESS_0010,"(At this rate, they must be deployed in the same way on the path heading to Torashima where Sensei and the others are.)",XMESS_0010,網代慎平
+XMESS_0011,"(If this is the case, the underground might have actually been less guarded... They got me...)",XMESS_0011,網代慎平
+XMESS_0012,(Damn it... think...! A strategy to quickly break through here!),XMESS_0012,網代慎平
+XMESS_0013,"...Hey, Shin-chan.",XMESS_0013,ミオ
+XMESS_0014,"Sorry, Mio...! Endure it a little longer--",XMESS_0014,網代慎平
+XMESS_0015,"Just now, Mio died.",XMESS_0015,ミオ
 XMESS_0016,…Huh?,XMESS_0016,網代慎平
-XMESS_0017,"The other one, the human version of me.",XMESS_0017,ミオ
-XMESS_0018,Huh…!,XMESS_0018,網代慎平
-XMESS_0019,"That probably means…  
-Sou-kun's dead too.",XMESS_0019,ミオ
-XMESS_0020,Tekyara!!,XMESS_0020,野良の影Ａ
-XMESS_0021,"…W-what?!
-Even taking the shortest route!?!",XMESS_0021,網代慎平
-XMESS_0022,(…No…),XMESS_0022,網代慎平
-XMESS_0023,"Why!?
-Why is this happening!?",XMESS_0023,網代慎平
-XMESS_0024,"(…No!
-Focus!)",XMESS_0024,網代慎平
-XMESS_0025,"Damn it… what should I do…?  
-What the hell am I supposed to do!!??",XMESS_0025,網代慎平
-XMESS_0026,(…Focus!!!),XMESS_0026,網代慎平
-XMESS_0027,"(Is it a loop!?
-Should I just keep looping!?)",XMESS_0027,網代慎平
-XMESS_0028,"(…No, the loop's already broken!
-It's already visible!)",XMESS_0028,網代慎平
-XMESS_0029,Shin!,XMESS_0029,ミオ
-XMESS_0030,"(…Even if I go back…
-If I don't know the cause of this… )",XMESS_0030,網代慎平
-XMESS_0031,Shin!!,XMESS_0031,ミオ
-XMESS_0032,(…Do I even have time to think about it?),XMESS_0032,網代慎平
-XMESS_0033,"Shin, get back! Danger――",XMESS_0033,ミオ
-XMESS_0034,Tekyara!!,XMESS_0034,野良の影Ｂ
-XMESS_0035,Gh――,XMESS_0035,網代慎平
-XMESS_0036,――…!,XMESS_0036,網代慎平
-XMESS_0037,Shin-chan――,XMESS_0037,ミオ
+XMESS_0017,"The other me, the human one.",XMESS_0017,ミオ
+XMESS_0018,Wha...!,XMESS_0018,網代慎平
+XMESS_0019,"Which means, probably... Sou-kun too...",XMESS_0019,ミオ
+XMESS_0020,Gegyaaaaa!!,XMESS_0020,野良の影Ａ
+XMESS_0021,...N-No way!? Even though we took the shortest route!?,XMESS_0021,網代慎平
+XMESS_0022,(No...),XMESS_0022,網代慎平
+XMESS_0023,Why!? Why did it turn out like this!?,XMESS_0023,網代慎平
+XMESS_0024,(No! Look at the big picture!),XMESS_0024,網代慎平
+XMESS_0025,Damn it... what should I do... What should I do...!!,XMESS_0025,網代慎平
+XMESS_0026,(Look at the big picture!!!!),XMESS_0026,網代慎平
+XMESS_0027,(A loop!? Should I loop!?),XMESS_0027,網代慎平
+XMESS_0028,"(No, I can't loop anymore! I can already see that!)",XMESS_0028,網代慎平
+XMESS_0029,Shin-chan!,XMESS_0029,ミオ
+XMESS_0030,(And even if I went back... If I don't know the cause of this...),XMESS_0030,網代慎平
+XMESS_0031,Shin-chan!!,XMESS_0031,ミオ
+XMESS_0032,(Do I have time to think about that?),XMESS_0032,網代慎平
+XMESS_0033,"Shin-chan, get back! Watch ou--",XMESS_0033,ミオ
+XMESS_0034,Tekya!!,XMESS_0034,野良の影Ｂ
+XMESS_0035,Gi--,XMESS_0035,網代慎平
+XMESS_0036,--...!,XMESS_0036,網代慎平
+XMESS_0037,Shin-cha--,XMESS_0037,ミオ

@@ -1,219 +1,132 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,Chapter 20: Temple of Demons,XCHAPTITLE_0002,
 XMESS_0000,…,XMESS_0000,根津銀次郎
-XMESS_0001,It's so quiet…,XMESS_0001,根津銀次郎
-XMESS_0002,"Yes, it's been silent for ages.",XMESS_0002,網代慎平（南方竜之介）
-XMESS_0003,"If we're in here like this,
-can I really hide the hand signal?",XMESS_0003,菱形窓
-XMESS_0004,"So far so good, but…
-It's an impromptu plan.
-…What do you think, Ryunosuke?",XMESS_0004,菱形朱鷺子
-XMESS_0005,"We couldn't verify it…
-If the signal disappears, Haine will notice,
-and if we act too soon, we'll give them time to think.",XMESS_0005,網代慎平（南方竜之介）
-XMESS_0006,"So far nothing's happened,
-and your decision to enter two hours ago…
-was probably correct.",XMESS_0006,網代慎平（南方竜之介）
-XMESS_0007,"Even if we hide it well,
-won't the Gil itself be found?",XMESS_0007,根津銀次郎
-XMESS_0008,"The presence of this Gil is like others; where strays exist, it won’t seem odd... Shinpei said it wouldn’t get caught.",XMESS_0008,菱形朱鷺子
-XMESS_0009,"""…If we're found, then let's just fight.""
-Whether cautious or bold… I don't know.",XMESS_0009,菱形窓
+XMESS_0001,It's quiet...,XMESS_0001,根津銀次郎
+XMESS_0002,"Yes, it's been quiet for a while now.",XMESS_0002,網代慎平（南方竜之介）
+XMESS_0003,Can we really hide the handprint's signal by staying inside Gil like this?,XMESS_0003,菱形窓
+XMESS_0004,"It seems fine for now, but we're doing this with no rehearsal. ...What do you think, Ryunosuke-san?",XMESS_0004,菱形朱鷺子
+XMESS_0005,"We couldn't verify it, after all... If the signal disappears, Haine will notice, and if we do it too early, it gives them time to think...",XMESS_0005,網代慎平（南方竜之介）
+XMESS_0006,"Nothing has happened so far, so I think Shinpei-san's decision to ""enter two hours prior"" was correct.",XMESS_0006,網代慎平（南方竜之介）
+XMESS_0007,"Even if we managed to hide it, what if Gil himself is found?",XMESS_0007,根津銀次郎
+XMESS_0008,"Shinpei-san said that Gil's presence is the same as other strays, so it shouldn't be discovered here where it's not unnatural for strays to be.",XMESS_0008,菱形朱鷺子
+XMESS_0009,"""If we're found, we'll just wing it""... I can't tell if he's cautious or bold.",XMESS_0009,菱形窓
 XMESS_0010,…!!,XMESS_0010,網代慎平（南方竜之介）
-XMESS_0011,Ryunosuke?,XMESS_0011,菱形朱鷺子
-XMESS_0012,…They're here!,XMESS_0012,網代慎平（南方竜之介）
-XMESS_0013,Shinpei! You came back??,XMESS_0013,根津銀次郎
-XMESS_0014,"Really Shinpei!? 
-What happened?! Where's Ushio?!",XMESS_0014,菱形窓
+XMESS_0011,Ryunosuke-san?,XMESS_0011,菱形朱鷺子
+XMESS_0012,...He's here!,XMESS_0012,網代慎平（南方竜之介）
+XMESS_0013,Shinpei... you're back!?,XMESS_0013,根津銀次郎
+XMESS_0014,"Really, Shinpei!? What happened!? Where's Ushio!!?",XMESS_0014,菱形窓
 XMESS_0015,…!,XMESS_0015,ウシオ
 XMESS_0016,Ushio…!!,XMESS_0016,菱形窓
-XMESS_0017,Everyone! I'm back!!!,XMESS_0017,ウシオ
-XMESS_0018,"Welcome home…
-!!!",XMESS_0018,菱形窓
+XMESS_0017,Everyone... I'm back!!,XMESS_0017,ウシオ
+XMESS_0018,Welcome back...!!,XMESS_0018,菱形窓
 XCOMMENTVIEW_0095,Karikiri Masahito,XCOMMENTVIEW_0095,
-XMESS_0019,"So this is why…!
-Hiding the hand's position…",XMESS_0019,シンペイ（ハイネ）
+XMESS_0019,So this is why...! He hid the handprint's position...!!,XMESS_0019,シンペイ（ハイネ）
 XMESS_0020,…We must hurry to Hiruko Cave.,XMESS_0020,雁切真砂人
 XMESS_0021,Karikiri-san!,XMESS_0021,小弓場かおり
-XMESS_0022,"Ah, Koyuba-san?
-What's wrong with you?",XMESS_0022,雁切真砂人
-XMESS_0023,"You see… I wanted to ask about the live performance,
-there was a discussion on including Hitogashima's history in the PR talk…",XMESS_0023,小弓場かおり
-XMESS_0024,"What?
-I haven't heard of that.",XMESS_0024,雁切真砂人
-XMESS_0025,"It turned out there were more fans than expected,
-so we started talking about what else could be done…
-and that's how it came up.",XMESS_0025,小弓場かおり
-XMESS_0026,"So I was told to ask you about the history first,
-could I have a little time…?",XMESS_0026,雁切真砂人
-XMESS_0027,"Ah…
-If that's the case then--",XMESS_0027,小弓場かおり
-XMESS_0028,"Wait a second!?
-It hurts so much!! 
-My stomach is killing me!!",XMESS_0028,小弓場かおり
-XMESS_0029,"Are you okay?!
-…Oh, I have medicine with me!
-I'll get it right away and wait here--",XMESS_0029,雁切真砂人
-XMESS_0030,"No no no,
-I need to go to the toilet immediately!!
-We'll talk about the event later!",XMESS_0030,雁切真砂人
-XMESS_0031,"Wait, please!",XMESS_0031,小弓場かおり
-XMESS_0032,Koyuba-san.,XMESS_0032,雁切真砂人
-XMESS_0033,"Ah, Shinpei…
-Is Karikiri-san okay…?",XMESS_0033,小弓場かおり
-XMESS_0034,"Don't worry.
-I'll take care of it,
-just focus on the live performance now.",XMESS_0034,雁切真砂人
-XMESS_0035,Okay…,XMESS_0035,小弓場かおり
-XMESS_0036,…Phew.,XMESS_0036,シンペイ（ハイネ）
-XMESS_0037,"I wanted to hold you back a bit longer…
-But this is too dangerous…",XMESS_0037,小弓場かおり
-XMESS_0038,"Shinpei's shadow… 
-It looks just like him, but the eyes are terrifyingly different…",XMESS_0038,シンペイ（ハイネ）
-XMESS_0039,"Just talking to it for a bit,
-my hands won't stop shaking…",XMESS_0039,小弓場かおり
-XMESS_0040,All I can do is this…,XMESS_0040,小弓場かおり
-XMESS_0041,"Shinpei, please try your best.",XMESS_0041,小弓場かおり
-XMESS_0042,"Did we get caught?
-Our plan.",XMESS_0042,小弓場かおり
-XMESS_0043,"Ah, that's a problem.",XMESS_0043,小弓場かおり
-XMESS_0044,"Now their top priority will be us for sure.  
-They won't start the massacre until they kill us.",XMESS_0044,小弓場かおり
-XMESS_0045,Ah!,XMESS_0045,小弓場かおり
+XMESS_0022,K-Koyuba-san? Is something the matter?,XMESS_0022,雁切真砂人
+XMESS_0023,"Um... regarding the live performance, there's something I'd like to consult with you about.",XMESS_0023,小弓場かおり
+XMESS_0024,...Meaning?,XMESS_0024,雁切真砂人
+XMESS_0025,"While I was talking with the Chamber of Commerce, they asked if we could include Hitogashima's history in the Hitogashima PR talk...",XMESS_0025,小弓場かおり
+XMESS_0026,Eh? I haven't heard anything about that.,XMESS_0026,雁切真砂人
+XMESS_0027,"More fans came than we expected, so while we were discussing if there was anything we could do, it went in that direction.",XMESS_0027,小弓場かおり
+XMESS_0028,"And they said it would be best to ask you about the history, Karikiri-san. Could I have a little bit of your time...?",XMESS_0028,小弓場かおり
+XMESS_0029,Ah... If that's the case--,XMESS_0029,雁切真砂人
+XMESS_0030,"Ah, wait a minute!? Owowowowowow!",XMESS_0030,雁切真砂人
+XMESS_0031,Eh!? What's wrong!?,XMESS_0031,小弓場かおり
+XMESS_0032,"Ouch ouch ouch!! Koyuba-san, my stomach hurts so much!!",XMESS_0032,雁切真砂人
+XMESS_0033,"A-Are you okay? ...Ah, I have stomach medicine! I'll go get it right away, so wait here--",XMESS_0033,小弓場かおり
+XMESS_0034,"Impossible, impossible, impossible, I'm gonna go hole up in the bathroom for a bit!! I'll hear about the event later!",XMESS_0034,雁切真砂人
+XMESS_0035,W-Wait!,XMESS_0035,小弓場かおり
+XMESS_0036,Koyuba-san.,XMESS_0036,シンペイ（ハイネ）
+XMESS_0037,A-Ajiro-kun... I wonder if Karikiri-san is okay...?,XMESS_0037,小弓場かおり
+XMESS_0038,"No need to worry. I'll ask him instead, so for now, you just focus on the live performance.",XMESS_0038,シンペイ（ハイネ）
+XMESS_0039,U-Understood...,XMESS_0039,小弓場かおり
+XMESS_0040,...Phew.,XMESS_0040,小弓場かおり
+XMESS_0041,"I wanted to stall him a little longer, but... ...Any more than this would be dangerous...",XMESS_0041,小弓場かおり
+XMESS_0042,"Ajiro-kun's shadow... He looks exactly like him, but has terrifying eyes that don't resemble his at all...",XMESS_0042,小弓場かおり
+XMESS_0043,"Even though we only talked for a little bit, my hands won't stop shaking...",XMESS_0043,小弓場かおり
+XMESS_0044,"This is about all I can do, but...",XMESS_0044,小弓場かおり
+XMESS_0045,"Ajiro-kun, do your best.",XMESS_0045,小弓場かおり
 XCOMMENTVIEW_0194,Shinpei Ajiro,XCOMMENTVIEW_0194,
-XMESS_0046,…!!,XMESS_0046,ウシオ
-XMESS_0047,"Gil sensed the shadow's presence…
-It's 2 o'clock direction… twenty meters ahead!!",XMESS_0047,網代慎平
-XMESS_0048,"Coming this way… 
-We were definitely caught!",XMESS_0048,網代慎平
-XMESS_0049,Ow! I was hit by something!!,XMESS_0049,ギルデンスターン
-XMESS_0050,"It's like a needle… it shot out teeth?!
-This thing is targeting the shadow stitching!!",XMESS_0050,網代慎平
-XMESS_0051,"Tokiko, are you okay!?",XMESS_0051,菱形朱鷺子
-XMESS_0052,"(When we control Gil from the inside,
-complex commands can be issued but damage to Gil is transmitted to Tokiko.)",XMESS_0052,菱形朱鷺子
-XMESS_0053,"(Shoot! Being in Gil means it's pitch black,
-and I can't see the outside!
-Should we go out and fight?)",XMESS_0053,菱形朱鷺子
-XMESS_0054,"Tokiko! 
-I'll go fight for you!!",XMESS_0054,菱形朱鷺子
-XMESS_0055,"It's fine!
-I'll stop it!!!",XMESS_0055,菱形窓
-XMESS_0056,"Now! 
-Everyone, go ahead!!
-I can handle this alone!",XMESS_0056,網代慎平
-XMESS_0057,"What??
-You think I'd leave you behind!?",XMESS_0057,網代慎平
-XMESS_0058,"Go already!!
-It's not the time to be dawdling here!!!",XMESS_0058,ウシオ
-XMESS_0059,"…Okay, thank you…
-!!!",XMESS_0059,菱形朱鷺子
-XMESS_0060,"No, I should be thanking you.",XMESS_0060,菱形朱鷺子
-XMESS_0061,"Thank you very much, Shinpei-san. 
-You forgave me…",XMESS_0061,菱形窓
-XMESS_0062,Tokiko… don't die!!!,XMESS_0062,菱形朱鷺子
-XMESS_0063,"You too, 
-don't hold everyone back!",XMESS_0063,網代慎平
-XMESS_0064,Go… stop!?,XMESS_0064,菱形朱鷺子
-XMESS_0065,"No…
-That's where Hiruko sleeps!",XMESS_0065,菱形朱鷺子
-XMESS_0066,Yes… there's a black wall.,XMESS_0066,菱形窓
-XMESS_0067,"It's not just a black wall.  
-No presence inside…
-it's mud walls!!!",XMESS_0067,菱形朱鷺子
-XMESS_0068,Huh!,XMESS_0068,網代慎平
-XMESS_0069,"(The presence of Shide!!!
-It's almost here!!)",XMESS_0069,菱形窓
-XMESS_0070,Shinpei!!,XMESS_0070,網代慎平
-XMESS_0071,"Yes…
-From the sea and from within…  
-It's coming at a crazy speed!!!",XMESS_0071,ウシオ
-XMESS_0072,"Move!
-I'll blast through this wall!",XMESS_0072,網代慎平
-XMESS_0073,"Wow!?
-Blood is coming out of the wall!!!",XMESS_0073,網代慎平
-XMESS_0074,"No, it's not good…",XMESS_0074,ウシオ
-XMESS_0075,It's regenerating!,XMESS_0075,網代慎平
-XMESS_0076,"Let me try it! 
-If I hack into it… ouch!!",XMESS_0076,根津銀次郎
-XMESS_0077,"Ushio!
-Are you okay??",XMESS_0077,菱形窓
-XMESS_0078,"It's painful…
-They hacked back… 
-This wall is Hiruko herself in 3D!",XMESS_0078,網代慎平
-XMESS_0079,"Damn it!!!
-There's definitely Hiruko on the other side of this wall!!",XMESS_0079,根津銀次郎
-XMESS_0080,(They won't let us through easily…),XMESS_0080,ウシオ
-XMESS_0081,"(Time is limited!
-The ultimate move to defeat Hiruko,
-but I can't hold back now!!)",XMESS_0081,網代慎平
-XMESS_0082,"Everyone… let's go!
-We'll blow up the wall with bombs!",XMESS_0082,ウシオ
-XMESS_0083,"What??
-Where are those things!?",XMESS_0083,菱形窓
-XMESS_0084,They're here.,XMESS_0084,網代慎平
-XMESS_0085,"Before coming here,
-Mio stole these!",XMESS_0085,網代慎平
-XMESS_0086,"Wow… 
-This is a fireworks display!!
-How could you hide something like this??",XMESS_0086,網代慎平
-XMESS_0087,"Light it, and take cover behind the rocks!",XMESS_0087,菱形窓
-XMESS_0088,…!!,XMESS_0088,ミオ
-XMESS_0089,We did it!?,XMESS_0089,網代慎平
-XMESS_0090,"(The feeling…!
-The same as when Ushio said it felt like scratching a blackboard…)",XMESS_0090,菱形窓
-XMESS_0091,"(I can feel Hiruko's presence…!
-No mistake. It opened up!!)",XMESS_0091,網代慎平
-XMESS_0092,Let's go before the hole closes.,XMESS_0092,菱形窓
-XMESS_0093,"Ugh…
-It has a weird elasticity, it feels awful…",XMESS_0093,菱形窓
-XMESS_0094,"…The smell of gunpowder and 
-a steak-like aroma.",XMESS_0094,網代慎平
-XMESS_0095,"Stop it!
-It's making me lose my appetite for steaks!!",XMESS_0095,網代慎平
-XMESS_0096,"There are also smells like raspberries and 
-rum…",XMESS_0096,ウシオ
-XMESS_0097,That's not good at all!!!,XMESS_0097,菱形窓
-XMESS_0098,(…Shide is coming!!),XMESS_0098,ウシオ
-XMESS_0099,"Get down!
-Nezu-san!!!",XMESS_0099,菱形窓
-XMESS_0100,…!!,XMESS_0100,網代慎平
-XMESS_0101,Eat this!!!,XMESS_0101,菱形窓
-XMESS_0102,The hole is closing!!,XMESS_0102,網代慎平
-XMESS_0103,"Nezu-san, hurry!!!",XMESS_0103,網代慎平
-XMESS_0104,Wait a second!!,XMESS_0104,シデ
-XMESS_0105,"It's no good with guns…
-But this works!",XMESS_0105,根津銀次郎
-XMESS_0106,"Don't mind me!!
-Go ahead!!!",XMESS_0106,ウシオ
-XMESS_0107,Nezu-san!!,XMESS_0107,網代慎平
-XMESS_0108,"Go!
-Before the hole closes!!!",XMESS_0108,シデ
-XMESS_0109,"You're going to die!?
-Old man!!",XMESS_0109,根津銀次郎
-XMESS_0110,"When you hesitate…
-think about what your future self would do and decide.",XMESS_0110,根津銀次郎
-XMESS_0111,Then there'll be no regrets.,XMESS_0111,網代慎平
-XMESS_0112,(What would my future self do…?),XMESS_0112,根津銀次郎
-XMESS_0113,"Going to die!?
-Uncle!!",XMESS_0113,ウシオ
-XMESS_0114,"When you're confused…
-Think about what your future self would do, then make a decision.",XMESS_0114,根津銀次郎
-XMESS_0115,Then there'll be no regrets.,XMESS_0115,根津銀次郎
-XMESS_0116,(What my future self… would do…),XMESS_0116,網代慎平
-XMESS_0117,I'm counting on you here…!!,XMESS_0117,網代慎平
-XMESS_0118,Hey… tell Ryunosuke to take care of it.,XMESS_0118,根津銀次郎
-XMESS_0119,"Yes!  
-Let's go, everyone!",XMESS_0119,網代慎平
-XCOMMENTVIEW_0535,Nezu Ginjiro,XCOMMENTVIEW_0535,
+XMESS_0046,I wonder if they found out? About our plan.,XMESS_0046,ウシオ
+XMESS_0047,"Yeah, it'd be a problem if they didn't.",XMESS_0047,網代慎平
+XMESS_0048,"With this, their top priority will definitely be us. They shouldn't be able to start the massacre above until they kill us.",XMESS_0048,網代慎平
+XMESS_0049,Ow!,XMESS_0049,ギルデンスターン
+XMESS_0050,...!!,XMESS_0050,網代慎平
+XMESS_0051,Gil detected a shadow's presence... 2 o'clock direction... 20 meters ahead!!,XMESS_0051,菱形朱鷺子
+XMESS_0052,It's coming this way...! We've been found out after all!,XMESS_0052,菱形朱鷺子
+XMESS_0053,"Ow, I was hit by something!",XMESS_0053,菱形朱鷺子
+XMESS_0054,Something like a needle--it shot its teeth at me!? This guy is aiming for a shadow pin...!!,XMESS_0054,菱形朱鷺子
+XMESS_0055,"Tokiko, are you okay!?",XMESS_0055,菱形窓
+XMESS_0056,"(Operating Gil from the inside like this allows for complex commands, but on the other hand, damage to Gil is transmitted to the operator, Toki-chan...)",XMESS_0056,網代慎平
+XMESS_0057,"(Damn it! It's pitch black inside Gil, and I can't tell what's going on outside! Should I go out and fight back?)",XMESS_0057,網代慎平
+XMESS_0058,Toki-chan! I'll go out and fight!!,XMESS_0058,ウシオ
+XMESS_0059,I'm fine! I'll hold them off!!,XMESS_0059,菱形朱鷺子
+XMESS_0060,"Now! Everyone, go on ahead!! I'll be fine here by myself!!",XMESS_0060,菱形朱鷺子
+XMESS_0061,Hah!? Like hell we can leave you behind!!,XMESS_0061,菱形窓
+XMESS_0062,I'm telling you to hurry up and go!!! Is this the time to be dawdling around!!?,XMESS_0062,菱形朱鷺子
+XMESS_0063,...Understood... thank you...!!,XMESS_0063,網代慎平
+XMESS_0064,"No, I'm the one who should be thanking you.",XMESS_0064,菱形朱鷺子
+XMESS_0065,"Thank you very much, Shinpei-san. For forgiving someone like me.",XMESS_0065,菱形朱鷺子
+XMESS_0066,Tokiko... don't die...!!,XMESS_0066,菱形窓
+XMESS_0067,"You're the one who shouldn't be dragging everyone down, Onii-chan!",XMESS_0067,菱形朱鷺子
+XMESS_0068,A dead... end!?,XMESS_0068,網代慎平
+XMESS_0069,No...!! I'm pretty sure Hiruko's sleeping quarters are past here!?,XMESS_0069,菱形窓
+XMESS_0070,Yeah... there's a pitch-black wall.,XMESS_0070,網代慎平
+XMESS_0071,It's not just a black wall. I can't sense any presence inside at all... It's a wall of mud...!!,XMESS_0071,ウシオ
+XMESS_0072,Hah!,XMESS_0072,網代慎平
+XMESS_0073,(Shide's presence!! He's almost here!!),XMESS_0073,網代慎平
+XMESS_0074,Shinpei!!,XMESS_0074,ウシオ
+XMESS_0075,Yeah... From the sea... and the shrine grounds... They're coming at incredible speed...!!,XMESS_0075,網代慎平
+XMESS_0076,Move! I'll blow a huge hole in this wall!,XMESS_0076,根津銀次郎
+XMESS_0077,Ooh!? Blood is coming out of the wall!!,XMESS_0077,菱形窓
+XMESS_0078,"No, it's no good...!",XMESS_0078,網代慎平
+XMESS_0079,It's regenerating...,XMESS_0079,根津銀次郎
+XMESS_0080,I'll try! If I hack it--ow!,XMESS_0080,ウシオ
+XMESS_0081,Ushio! Are you okay!?,XMESS_0081,網代慎平
+XMESS_0082,That was close... I got hacked back instead...!! This wall is... a 3D manifestation of Hiruko herself!,XMESS_0082,ウシオ
+XMESS_0083,Damn it!! Even though Hiruko is right on the other side of this wall!!,XMESS_0083,菱形窓
+XMESS_0084,(I guess they wouldn't let us pass so easily...),XMESS_0084,網代慎平
+XMESS_0085,"(We don't have time! It's our trump card for defeating Hiruko, but this is no time to be holding back!!)",XMESS_0085,網代慎平
+XMESS_0086,Everyone... let's do this. We'll blow the wall away with a bomb!,XMESS_0086,網代慎平
+XMESS_0087,Wh-!? Where do you have something like that!!,XMESS_0087,菱形窓
+XMESS_0088,Right here.,XMESS_0088,ミオ
+XMESS_0089,"Before coming here, I had Mio steal this!",XMESS_0089,網代慎平
+XMESS_0090,Ooh...! This is a skyrocket firework!! You were hiding something like this!,XMESS_0090,菱形窓
+XMESS_0091,"I'm going to light it, so hide behind the rock!",XMESS_0091,網代慎平
+XMESS_0092,...!!,XMESS_0092,菱形窓
+XMESS_0093,Did we do it!?,XMESS_0093,菱形窓
+XMESS_0094,"(Ugh... this feeling! Like Ushio said before, like scratching a chalkboard...!)",XMESS_0094,網代慎平
+XMESS_0095,(I feel Hiruko's presence...!! No doubt about it. We've broken through...!!),XMESS_0095,網代慎平
+XMESS_0096,"Let's go, before the hole closes.",XMESS_0096,ウシオ
+XMESS_0097,"Ugh... It has a weird elasticity, it feels gross...",XMESS_0097,菱形窓
+XMESS_0098,...It smells like gunpowder... and steak.,XMESS_0098,ウシオ
+XMESS_0099,"Stop it, I won't be able to eat steak anymore!!",XMESS_0099,菱形窓
+XMESS_0100,It also smells a bit like raspberries and rum...,XMESS_0100,網代慎平
+XMESS_0101,It's nothing that nice!!!,XMESS_0101,菱形窓
+XMESS_0102,(...Shide is coming!!),XMESS_0102,網代慎平
+XMESS_0103,Get down! Nezu-san!!,XMESS_0103,網代慎平
+XMESS_0104,...!!,XMESS_0104,シデ
+XMESS_0105,Eat this!!,XMESS_0105,根津銀次郎
+XMESS_0106,The hole is closing!!,XMESS_0106,ウシオ
+XMESS_0107,"Nezu-san, hurry!!!",XMESS_0107,網代慎平
+XMESS_0108,Hey... wait a second...!,XMESS_0108,シデ
+XMESS_0109,"Handguns are no good, but... this seems to work...!",XMESS_0109,根津銀次郎
+XMESS_0110,Don't mind me!! Keep going!!!,XMESS_0110,根津銀次郎
+XMESS_0111,Nezu-san!!,XMESS_0111,網代慎平
+XMESS_0112,Go! Before the hole completely closes!!!,XMESS_0112,根津銀次郎
+XMESS_0113,You wanna die!? Old man!!,XMESS_0113,ウシオ
+XMESS_0114,"When you're lost... think about what your future self would do, and make a decision.",XMESS_0114,根津銀次郎
+XMESS_0115,"Then, you won't have any regrets.",XMESS_0115,根津銀次郎
+XMESS_0116,(What... my future self would do...),XMESS_0116,網代慎平
+XMESS_0117,I leave this place to you...!!,XMESS_0117,網代慎平
+XMESS_0118,Yeah... say hi to Ryunosuke for me.,XMESS_0118,根津銀次郎
+XMESS_0119,"Yes! ...Let's go, everyone!",XMESS_0119,網代慎平
+XCOMMENTVIEW_0535,Ginjiro Nezu,XCOMMENTVIEW_0535,
 XMESS_0120,…,XMESS_0120,雁切真砂人
-XMESS_0121,…That's embarrassing… you…,XMESS_0121,根津銀次郎
-XMESS_0122,"Masahito…  
-Or maybe Rock… You?!""",XMESS_0122,根津銀次郎
-XMESS_0123,"Whatever, it's fine either way…  
-Silver Boy…",XMESS_0123,シデ
-XMESS_0124,"Because of our childhood friendship… move aside…  
-I don't want to hear your screams.",XMESS_0124,シデ
-XMESS_0125,Don't take me for granted!,XMESS_0125,根津銀次郎
-XMESS_0126,"If you wanna pass,  
-kill me first!!!",XMESS_0126,根津銀次郎
+XMESS_0121,...You're a disgrace... you know that...,XMESS_0121,根津銀次郎
+XMESS_0122,Masahito... Or is it Iwao... is that you!?,XMESS_0122,根津銀次郎
+XMESS_0123,...Who cares... which one it is... Gin-boy...,XMESS_0123,シデ
+XMESS_0124,For the sake of our childhood friendship... move... I don't want to hear your screams...,XMESS_0124,シデ
+XMESS_0125,...Don't underestimate me!,XMESS_0125,根津銀次郎
+XMESS_0126,"If you want to pass, you'll have to kill me first!!!",XMESS_0126,根津銀次郎

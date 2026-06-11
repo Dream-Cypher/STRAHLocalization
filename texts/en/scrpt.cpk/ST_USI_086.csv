@@ -1,88 +1,54 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,6. Reunite and Report the Situation,XCHAPTITLE_0002,
-XMESS_0000,"(At noon on July 23…
-The team, which had split into two groups,
-reunited and exchanged reports)",XMESS_0000,網代慎平
-XMESS_0001,"(To sum up, the only ones we managed to defeat were Hitobuchi-sensei and her two sons' shadows—transformed into those children themselves—only that)",XMESS_0001,網代慎平
-XMESS_0002,"(The Shimizu family was left with only a stain,
-but even after tracking them using Roz and Gil's ""nose"",
-the trail vanished without us finding the shadow)",XMESS_0002,網代慎平
-XMESS_0003,(Then we also checked the real houses of the shadows we defeated during the gym battle led by Totsumura),XMESS_0003,網代慎平
-XMESS_0004,"(None had any traces left, but…)",XMESS_0004,網代慎平
-XMESS_0005,"(All the families were telling others they'd gone away for ""trips"" or ""business trips"",
-so there was no commotion)",XMESS_0005,網代慎平
-XMESS_0006,But I asked people around…,XMESS_0006,凸村哲
-XMESS_0007,"For example, the Kobayakawa family said Shiori-chan was resting,
-so Asako-chan from her brother's wife in Naha went to stay with them.",XMESS_0007,凸村哲
-XMESS_0008,"But when we checked with that couple,
-there was no such thing!",XMESS_0008,凸村哲
-XMESS_0009,"In the first round, Totsumura's shadow said 
-the Kobayakawa family fled at night due to debt…",XMESS_0009,網代慎平
-XMESS_0010,"Debt!?
-I've never heard of any debts!",XMESS_0010,凸村哲
-XMESS_0011,The shadow is making up arbitrary reasons…,XMESS_0011,南方ひづる
-XMESS_0012,"They're taking the initiative to prevent any commotion,
-even if we eliminate them.
-Probably so they can smoothly hold tomorrow's summer festival.",XMESS_0012,南方ひづる
-XMESS_0013,"They don't seem to be attacking from their side…
-Maybe they're scared of Ushio's hacking.",XMESS_0013,菱形朱鷺子
-XMESS_0014,They might not even show us their tails anymore…,XMESS_0014,根津銀次郎
-XMESS_0015,"What they hate the most is canceling the festival…
-Can we somehow stop it?",XMESS_0015,ウシオ
-XMESS_0016,"That's right!
-Blowing up the venue with firework gunpowder!!",XMESS_0016,ウシオ
-XMESS_0017,"Stop it already, that kind of thing!!!",XMESS_0017,凸村哲
-XMESS_0018,"Terror-like chaos would be bad… Hundreds could panic and cause secondary disasters, and I couldn't predict their next move…",XMESS_0018,網代慎平
-XMESS_0019,But… I agree with canceling it.,XMESS_0019,網代慎平
-XMESS_0020,Hm…,XMESS_0020,南方ひづる
-XMESS_0021,"For that, we'll have to meet with them.",XMESS_0021,網代慎平
-XMESS_0022,That's very dangerous.,XMESS_0022,南方ひづる
-XMESS_0023,With full awareness of it.,XMESS_0023,網代慎平
-XMESS_0024,"What are we going to do?
-Go in all at once?",XMESS_0024,ウシオ
-XMESS_0025,No… I'll go alone first and try to persuade them.,XMESS_0025,網代慎平
-XMESS_0026,"Going alone…
-Trying to convince them!?",XMESS_0026,根津銀次郎
-XMESS_0027,"I'm against it.
-If Shide sees a real body, 
-he'll pull the trigger without thinking!!!",XMESS_0027,根津銀次郎
+XCHAPTITLE_0002,6. Regrouping and Situation Report,XCHAPTITLE_0002,
+XMESS_0000,"(Noon, July 23rd... The team that had split into two regrouped, and reported the situation to each other.)",XMESS_0000,網代慎平
+XMESS_0001,"(To conclude, the only ones we were able to defeat were the shadows of Hitobuchi-sensei and her two sons--who had transformed into those children.)",XMESS_0001,網代慎平
+XMESS_0002,"(At the Kogaito house, only stains were left behind, and although we tracked them using Roz and Gil's 'noses', the presence broke off and we couldn't discover the shadows.)",XMESS_0002,網代慎平
+XMESS_0003,"(After that, with Totsumura-san leading, we also investigated the real houses of the shadows we defeated in the gym battle.)",XMESS_0003,網代慎平
+XMESS_0004,"(All of them were completely empty, but...)",XMESS_0004,網代慎平
+XMESS_0005,"(All the families had told people around them reasons for disappearing, such as 'traveling' or 'business trips', so it hadn't caused a commotion.)",XMESS_0005,網代慎平
+XMESS_0006,"I asked the people around there, but...",XMESS_0006,凸村哲
+XMESS_0007,"For example, the Kobayakawa family supposedly told people they went back to Asako-chan's older brother's place in Kainan for Shiori-chan to recuperate.",XMESS_0007,凸村哲
+XMESS_0008,"By the way, I confirmed with that brother's family, and there is no such fact!",XMESS_0008,凸村哲
+XMESS_0009,"In the 1st loop, the shadow Totsumura-san said the Kobayakawa family fled in the night due to debt...",XMESS_0009,網代慎平
+XMESS_0010,Debt!? I've never heard of them having debt!?,XMESS_0010,凸村哲
+XMESS_0011,So the shadows are fabricating random reasons...,XMESS_0011,南方ひづる
+XMESS_0012,They're taking preemptive measures so it won't cause a commotion even if they are exterminated and erased by us. Probably in order to hold tomorrow's summer festival without a hitch.,XMESS_0012,南方ひづる
+XMESS_0013,There are no signs of them attacking us. I wonder if they're afraid of Ushio-san's hacking after all.,XMESS_0013,菱形朱鷺子
+XMESS_0014,Those bastards... They might not show their tails to us anymore...,XMESS_0014,根津銀次郎
+XMESS_0015,"What they hate the most is the festival being canceled, huh... Can't we somehow get it canceled?",XMESS_0015,ウシオ
+XMESS_0016,I know! Like blowing up the venue with firework gunpowder!!,XMESS_0016,ウシオ
+XMESS_0017,I told you to stop with that kind of stuff!!,XMESS_0017,凸村哲
+XMESS_0018,"A commotion bordering on terrorism is bad... Hundreds of people would panic and it'd probably cause secondary disasters, and we wouldn't be able to predict what they'd do next...",XMESS_0018,網代慎平
+XMESS_0019,But... I agree with canceling it.,XMESS_0019,網代慎平
+XMESS_0020,Hm...,XMESS_0020,南方ひづる
+XMESS_0021,In order to do that... We have no choice but to meet with him after all.,XMESS_0021,網代慎平
+XMESS_0022,That comes with considerable danger.,XMESS_0022,南方ひづる
+XMESS_0023,I'm prepared for that.,XMESS_0023,網代慎平
+XMESS_0024,What are we going to do? Should we all charge in at once?,XMESS_0024,ウシオ
+XMESS_0025,No... first I'll go alone and try to persuade him.,XMESS_0025,網代慎平
+XMESS_0026,Go alone...? And persuade him!?,XMESS_0026,根津銀次郎
+XMESS_0027,"I'm against it. If Shide exposes his real body, we have to pull the trigger without thinking...!!",XMESS_0027,根津銀次郎
 XMESS_0028,I will kill him.,XMESS_0028,根津銀次郎
-XMESS_0029,"Wait!! 
-Just once… just this one time, let me!",XMESS_0029,網代慎平
-XMESS_0030,I only want to know what he's thinking.,XMESS_0030,網代慎平
-XMESS_0031,"Otherwise…
-It would be impossible for me to kill him…!!!",XMESS_0031,網代慎平
-XMESS_0032,"Why did he kill my parents…?
-I want to hear the reason from his mouth!
-Otherwise, I can't accept it!!!",XMESS_0032,網代慎平
-XMESS_0033,You're risking your life for that!?,XMESS_0033,根津銀次郎
-XMESS_0034,"That's exactly why!! 
-Dying once… it's nothing at all!!!",XMESS_0034,網代慎平
-XMESS_0035,"I'll come with you!
-Shinpei can sense the shadow's presence.",XMESS_0035,ウシオ
-XMESS_0036,"If the shrine is filled with shadows waiting,
-there'll be no chance to talk!",XMESS_0036,ウシオ
+XMESS_0029,Please wait!!! Just once... give me just one chance!!,XMESS_0029,網代慎平
+XMESS_0030,I just want to know what he's thinking.,XMESS_0030,網代慎平
+XMESS_0031,"If I don't know what's on his mind, then I can't kill him...!!",XMESS_0031,網代慎平
+XMESS_0032,Why did he kill my parents... I want to hear the reason from his own mouth! Otherwise I can't accept it...!!,XMESS_0032,網代慎平
+XMESS_0033,You're saying you'll risk danger for that!?,XMESS_0033,根津銀次郎
+XMESS_0034,If it's for that!!! Dying once... is nothing!!,XMESS_0034,網代慎平
+XMESS_0035,"I'm coming with you! Shinpei, you can't sense the presence of shadows, right.",XMESS_0035,ウシオ
+XMESS_0036,"If the shrine is full of shadows lying in wait, there'll be no chance to talk!",XMESS_0036,ウシオ
 XMESS_0037,Ushio's right.,XMESS_0037,南方ひづる
-XMESS_0038,"If you go alone, 
-they might switch to a plan of capturing you.",XMESS_0038,南方ひづる
-XMESS_0039,"Shide is also in an artificial loop…
-He wouldn't let you commit suicide twice,
-for sure.",XMESS_0039,南方ひづる
-XMESS_0040,We'll go as far as the shrine grounds too.,XMESS_0040,根津銀次郎
+XMESS_0038,"If you charge in alone, there's also the danger they might switch to a plan of capturing you.",XMESS_0038,南方ひづる
+XMESS_0039,Shide is also pseudo-looping... He wouldn't just stand by and let you commit suicide twice.,XMESS_0039,南方ひづる
+XMESS_0040,We'll be going as far as the shrine grounds too.,XMESS_0040,根津銀次郎
 XMESS_0041,…Understood.,XMESS_0041,網代慎平
-XMESS_0042,Can we monitor the conversation?,XMESS_0042,根津銀次郎
-XMESS_0043,What if you put it in your chest pocket for a group call?,XMESS_0043,ウシオ
-XMESS_0044,"No good, 
-we won't be able to hear the conversation.",XMESS_0044,網代慎平
-XMESS_0045,Then let's use gunshots as a signal!,XMESS_0045,根津銀次郎
-XMESS_0046,"Ah, I see… so two shots…
-No, when the third shot is heard,
-that'll be our signal to move in.",XMESS_0046,網代慎平
-XMESS_0047,"Also, if that person's Shide,
-wearing the armor will make a shadow presence detectable.",XMESS_0047,網代慎平
-XMESS_0048,"If even slightly, you sense any shadows,
-take them down immediately.",XMESS_0048,網代慎平
-XMESS_0049,"(Thinking back…
-From the beginning I was trying to meet 'that person')",XMESS_0049,網代慎平
+XMESS_0042,Can we monitor the conversation too?,XMESS_0042,根津銀次郎
+XMESS_0043,How about putting it in your chest pocket on a group call?,XMESS_0043,ウシオ
+XMESS_0044,"No, ya won't be able to hear the conversation clearly.",XMESS_0044,網代慎平
+XMESS_0045,Then we should just use a gunshot as a signal.,XMESS_0045,根津銀次郎
+XMESS_0046,"I see... then two shots... No, when you hear the third shot, use that as the signal to charge in.",XMESS_0046,網代慎平
+XMESS_0047,"Besides, if that person is Shide, he'll emit a shadow presence if he wears that armor.",XMESS_0047,網代慎平
+XMESS_0048,"If you sense even the slightest shadow presence, let's finish it all at once.",XMESS_0048,網代慎平
+XMESS_0049,(Thinking back... I was trying to meet 'that person' from the very beginning.),XMESS_0049,網代慎平
 XMESS_0050,(The first place where I died…),XMESS_0050,網代慎平
-XMESS_0051,(Hitogashima Shrine—this is the beginning of everything),XMESS_0051,網代慎平
+XMESS_0051,(Hitogashima Shrine--this is where it all began.),XMESS_0051,網代慎平

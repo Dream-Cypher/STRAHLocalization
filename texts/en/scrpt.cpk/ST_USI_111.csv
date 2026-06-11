@@ -1,513 +1,322 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,24.Last Battle,XCHAPTITLE_0002,
-XMESS_0000,…The bombing has ceased…,XMESS_0000,南方竜之介
-XMESS_0001,(…What happened!?),XMESS_0001,網代慎平
-XMESS_0002,"There was nothing inside…
-Not even Masahito or Iwa…
-Could it be…?",XMESS_0002,波稲
+XCHAPTITLE_0002,24. Last Battle,XCHAPTITLE_0002,
+XMESS_0000,...The air raid stopped...,XMESS_0000,南方竜之介
+XMESS_0001,(...Wh-What happened!?),XMESS_0001,網代慎平
+XMESS_0002,There was nothing inside... Not Masahito... nor Iwao... Could it be...,XMESS_0002,波稲
 XMESS_0003,"Shinpei, can you hear me!?",XMESS_0003,ウシオ
 XMESS_0004,(…Ushio!),XMESS_0004,網代慎平
-XMESS_0005,"Got it!
-Shide's real body is in the world of men!!",XMESS_0005,ウシオ
-XMESS_0006,(In the human realm!?),XMESS_0006,網代慎平
-XMESS_0007,"From Hiruko, it's going out…
-Like a radio wave!",XMESS_0007,ウシオ
-XMESS_0008,"That feeling I got when we touched earlier!
-Shide is controlling that armor remotely from the human realm through Hiruko!!",XMESS_0008,ウシオ
-XMESS_0009,"It's frustrating, Shinpei…
-If there's nothing inside… we can't do anything!!!",XMESS_0009,ウシオ
+XMESS_0005,I figured it out!! Shide's real body is in the real world!!,XMESS_0005,ウシオ
+XMESS_0006,(The real world!?),XMESS_0006,網代慎平
+XMESS_0007,"There's something like a radio wave coming out of Hiruko towards the ""outside""!",XMESS_0007,ウシオ
+XMESS_0008,"I felt it when we touched just now! Shide is remotely controlling that armor from the real world through Hiruko, like a toy car!!",XMESS_0008,ウシオ
+XMESS_0009,"It's so frustrating, Shinpei...! If there's nothing inside, there's nothing we can do...!!",XMESS_0009,ウシオ
 XMESS_0010,…,XMESS_0010,南方竜之介
-XMESS_0011,(What's the armor doing now!?),XMESS_0011,網代慎平
-XMESS_0012,…My left half that I erased is still here!,XMESS_0012,ウシオ
-XMESS_0013,"(If we erase all of it, we can win!!
-By eliminating the remote control, the shadow from the human realm 
-can't interfere with Tokoyo anymore!!)",XMESS_0013,網代慎平
+XMESS_0011,(What happened to Shide's armor!?),XMESS_0011,網代慎平
+XMESS_0012,...The left half I erased is still gone!,XMESS_0012,ウシオ
+XMESS_0013,"(In that case... we can win if we completely erase the armor!! If we destroy the remote control, he shouldn't be able to interfere with Tokoyo from the real world...!!)",XMESS_0013,網代慎平
 XMESS_0014,(…Ushio?),XMESS_0014,網代慎平
 XMESS_0015,…,XMESS_0015,ウシオ
-XMESS_0016,"No good!
-She's losing consciousness…!!",XMESS_0016,南方竜之介
+XMESS_0016,Oh no! She's losing consciousness...!!,XMESS_0016,南方竜之介
 XMESS_0017,Ushio!!!,XMESS_0017,網代慎平
-XMESS_0018,"(Ushio!?
-My body… is getting smaller!?)",XMESS_0018,網代慎平
-XMESS_0019,Hahahaha…hahahaha…,XMESS_0019,ウシオ
-XMESS_0020,"Even if it's the real thing,
-with just a few strands of hair, I can't recover…
-My form is becoming like an infant… severe injury…",XMESS_0020,波稲
+XMESS_0018,(Ushio...!? Her body... is getting smaller!?),XMESS_0018,網代慎平
+XMESS_0019,"*Pant, pant*... *Pant, pant*...",XMESS_0019,ウシオ
+XMESS_0020,"Even if it was the real thing, she can't fully recover with just a few strands of hair... Her form is reverting to an infant... she's severely injured...",XMESS_0020,波稲
 XMESS_0021,Shide!,XMESS_0021,南方竜之介
 XMESS_0022,…,XMESS_0022,シデ（素顔）
-XMESS_0023,"Ushio's… all her nerves and muscles are torn…
-She can't fight anymore…!!",XMESS_0023,波稲
-XMESS_0024,…,XMESS_0024,南方竜之介
-XMESS_0025,C…curses!! If I had the power to erase that guy…,XMESS_0025,南方竜之介
+XMESS_0023,Ushio's... nerves and muscles all over her body are torn to shreds... She can't fight anymore...!!,XMESS_0023,波稲
+XMESS_0024,...!!,XMESS_0024,南方竜之介
+XMESS_0025,D...Damn it!! If only I had the power to erase that guy...!!,XMESS_0025,南方竜之介
 XMESS_0026,…,XMESS_0026,網代慎平
-XMESS_0027,"(But…Ryunosuke-kun can…
-ride into Shide's armor?)",XMESS_0027,網代慎平
+XMESS_0027,(Ryunosuke-kun... Can you possess Shide's armor...?),XMESS_0027,網代慎平
 XMESS_0028,Huh!?,XMESS_0028,南方竜之介
-XMESS_0029,"(I mean…it's crazy…
-But I can't think of anything else…)",XMESS_0029,網代慎平
+XMESS_0029,(No... that's crazy... But... that's the only thing I can think of—),XMESS_0029,網代慎平
 XMESS_0030,"(…Don't look back, Ryunosuke-kun…)",XMESS_0030,ウシオ
-XMESS_0031,…,XMESS_0031,南方竜之介
-XMESS_0032,(…Since our hearts' voices can't be heard by Shide…),XMESS_0032,ウシオ
-XMESS_0033,"(Both of you, just listen…
-Fill my entire being into the shotgun bullets,
-and turn them into ""hacking rounds""!)",XMESS_0033,ウシオ
-XMESS_0034,…,XMESS_0034,南方竜之介
-XMESS_0035,(Hacking rounds!!!),XMESS_0035,網代慎平
-XMESS_0036,"(Yep!!!
-But…it'll take two minutes to print them…)",XMESS_0036,ウシオ
-XMESS_0037,"(That's why I need you to buy time…
-until then!!!)",XMESS_0037,ウシオ
-XMESS_0038,"Sneaking around… planning a strategy?
-Let me join too!",XMESS_0038,シデ（欠損素顔）
-XMESS_0039,"It's fine!
-Shide doesn't have the ability to read minds,
-or transform…",XMESS_0039,波稲
-XMESS_0040,"Even drawing weapons, everything was done by Hiruko next to me!!!",XMESS_0040,波稲
-XMESS_0041,"You've changed…Hoine.
-I never thought you'd betray us…
-It's time for a harsh punishment, isn't it?",XMESS_0041,シデ（欠損素顔）
-XMESS_0042,"You're the one who changed… 
-Shide-sama!",XMESS_0042,波稲
-XMESS_0043,"Everything's gone crazy!!!
-It was when that whale washed up!!",XMESS_0043,波稲
-XMESS_0044,"I haven't changed at all.
-Only my eyes have opened…",XMESS_0044,シデ（欠損素顔）
-XMESS_0045,"Be faithful to your own desire to live, you know?",XMESS_0045,シデ（欠損素顔）
-XMESS_0046,"(…At first I just wanted to be with him…
-That was all…)",XMESS_0046,波稲
-XMESS_0047,"Hoine!!!
-Don't listen to that guy anymore!!",XMESS_0047,南方竜之介
-XMESS_0048,"He's…my sister's enemy…
-An eye for an eye…we'll take it!!!",XMESS_0048,南方竜之介
-XMESS_0049,Revenge? That sounds good!,XMESS_0049,シデ（欠損素顔）
-XMESS_0050,"This is our final battle.
-I'll enjoy it too,
-so you guys also enjoy this revenge!",XMESS_0050,シデ（欠損素顔）
-XMESS_0051,"Two minutes…Shinpei…
-I'll fight seriously for two minutes.",XMESS_0051,南方竜之介
-XMESS_0052,"(There's nothing left!!!
-Use it all!!! My life!!)",XMESS_0052,網代慎平
-XMESS_0053,"(It doesn't matter! He keeps charging…
-And regenerating even when hit!!)",XMESS_0053,網代慎平
-XMESS_0054,"(But that's fine!!!
-If I make him think it's insignificant!!)",XMESS_0054,網代慎平
-XMESS_0055,(…ugh…),XMESS_0055,網代慎平
-XMESS_0056,"(Got it!!!
-I can dodge them!!)",XMESS_0056,網代慎平
-XMESS_0057,!?!,XMESS_0057,波稲
-XMESS_0058,"(I'm in trouble!!!
-Ushio…!!)",XMESS_0058,網代慎平
-XMESS_0059,"You bastard!
-Ignoring me!!!",XMESS_0059,南方竜之介
-XMESS_0060,"Damn it!!!
-The shotgun can't stop him!!",XMESS_0060,南方竜之介
+XMESS_0031,...!!,XMESS_0031,南方竜之介
+XMESS_0032,(Shide can't hear our inner voices...),XMESS_0032,ウシオ
+XMESS_0033,"(Both of you, just listen... I'm going to put my everything into the shotgun shells and turn them into ""hacking rounds""!)",XMESS_0033,ウシオ
+XMESS_0034,...!!,XMESS_0034,南方竜之介
+XMESS_0035,(Hacking rounds...!!),XMESS_0035,網代慎平
+XMESS_0036,(Yeah...!! But... it'll take two minutes to print them...),XMESS_0036,ウシオ
+XMESS_0037,(So until then... I need you to buy me some time...!!),XMESS_0037,ウシオ
+XMESS_0038,"Whispering amongst yourselves... having a strategy meeting? Please, let me join in!",XMESS_0038,シデ（欠損素顔）
+XMESS_0039,"It's fine! Shide-sama doesn't have the power to read memories, or the power to transform!",XMESS_0039,波稲
+XMESS_0040,"Even creating weapons, all of it was done by Hiruko by his side...!!",XMESS_0040,波稲
+XMESS_0041,You've changed... Hoine... To think you would betray me... I suppose a harsh punishment is in order...?,XMESS_0041,シデ（欠損素顔）
+XMESS_0042,You're the one who changed... Shide-sama...!!,XMESS_0042,波稲
+XMESS_0043,Everything went crazy!! On the day that whale washed ashore!!,XMESS_0043,波稲
+XMESS_0044,I haven't changed at all. I was simply enlightened.,XMESS_0044,シデ（欠損素顔）
+XMESS_0045,To be faithful to my own desire to live.,XMESS_0045,シデ（欠損素顔）
+XMESS_0046,"(...At first, I just wanted to be together. That was all...)",XMESS_0046,波稲
+XMESS_0047,Hoine!! Don't listen to a word he says anymore!!,XMESS_0047,南方竜之介
+XMESS_0048,He's... my sister's killer...!! We're going to... avenge her!!!!,XMESS_0048,南方竜之介
+XMESS_0049,A quest for revenge? How nice!,XMESS_0049,シデ（欠損素顔）
+XMESS_0050,"This is the end for both of us. I'm going to enjoy this, so you should enjoy your little revenge too.",XMESS_0050,シデ（欠損素顔）
+XMESS_0051,Two minutes... Shinpei... I'll go all out for just two minutes...,XMESS_0051,南方竜之介
+XMESS_0052,(There's nothing after this!! Use it all up!!! My life!!!!),XMESS_0052,網代慎平
+XMESS_0053,(He's charging right in...! Regenerating even as he gets shot...!!),XMESS_0053,網代慎平
+XMESS_0054,(But that's fine!! As long as I make him think this shotgun is insignificant!),XMESS_0054,網代慎平
+XMESS_0055,(Ugh—),XMESS_0055,網代慎平
+XMESS_0056,(Alright! I can dodge this—),XMESS_0056,網代慎平
+XMESS_0057,!?,XMESS_0057,波稲
+XMESS_0058,(Oh no! Ushio—),XMESS_0058,網代慎平
+XMESS_0059,You bastard! Ignoring me...!!!,XMESS_0059,南方竜之介
+XMESS_0060,Crap! The shotgun won't stop him!,XMESS_0060,南方竜之介
 XMESS_0061,…!!,XMESS_0061,波稲
-XMESS_0062,(I can't make it…),XMESS_0062,網代慎平
+XMESS_0062,(I won't make it—),XMESS_0062,網代慎平
 XMESS_0063,Gah…!,XMESS_0063,波稲
 XMESS_0064,…!!!,XMESS_0064,網代慎平
-XMESS_0065,"Who knew you'd protect Ushio…
-But Hoine. It's useless.
-You can't even be a shield.",XMESS_0065,シデ（欠損素顔）
+XMESS_0065,To think you would protect Ushio-chan... But Hoine. It's useless. You don't even make a good shield.,XMESS_0065,シデ（欠損素顔）
 XMESS_0066,Shide!!!,XMESS_0066,南方竜之介
-XMESS_0067,"It's useless.
-Shinpei-kun, Ryunosuke-kun…
-…What is this?",XMESS_0067,シデ（欠損素顔）
-XMESS_0068,(That…could it be…),XMESS_0068,網代慎平
-XMESS_0069,(…Ushio's right eye!?),XMESS_0069,網代慎平
+XMESS_0067,"It's useless. Shinpei-kun, Ryunosuke-kun... ...Guess what this is?",XMESS_0067,シデ（欠損素顔）
+XMESS_0068,(I-It can't be...),XMESS_0068,網代慎平
+XMESS_0069,(......Ushio's... right eye!?),XMESS_0069,網代慎平
 XMESS_0070,…,XMESS_0070,ウシオ
 XMESS_0071,Ushioooooo!?,XMESS_0071,網代慎平
-XMESS_0072,Now I can reach the ending too.,XMESS_0072,シデ（欠損素顔）
-XMESS_0073,"Please rest slowly…
-You've worked hard.",XMESS_0073,シデ（欠損素顔）
-XMESS_0074,"Ushio!
-Change weapons!!",XMESS_0074,網代慎平
-XMESS_0075,…,XMESS_0075,ウシオ
+XMESS_0072,This is my ending.,XMESS_0072,シデ（欠損素顔）
+XMESS_0073,You all can rest easy now too. ...Good work.,XMESS_0073,シデ（欠損素顔）
+XMESS_0074,"Ushio, change weapons!",XMESS_0074,網代慎平
+XMESS_0075,...!!,XMESS_0075,ウシオ
 XMESS_0076,Guh…!!,XMESS_0076,シデ（欠損素顔）
-XMESS_0077,"(I had him copy the sledgehammer from Nagumo-sensei…
-It's finally paying off…)",XMESS_0077,網代慎平
-XMESS_0078,"Thank you!
-We can still fight!!",XMESS_0078,南方竜之介
-XMESS_0079,"…If I die, that's the end…",XMESS_0079,シデ（欠損素顔）
-XMESS_0080,…,XMESS_0080,南方竜之介
-XMESS_0081,"No foresight, no loops…
-Hahahaha…!!
-It's great! You two aren't cheating anymore!",XMESS_0081,シデ（欠損素顔）
-XMESS_0082,The demon king must have a chance of victory.,XMESS_0082,シデ（欠損素顔）
-XMESS_0083,"Come on!
-Do something too…",XMESS_0083,シデ（欠損素顔）
-XMESS_0084,"Ahahh…!!
-Gaaarrrrhh!!!",XMESS_0084,ヒルコ（赤ん坊）
-XMESS_0085,…,XMESS_0085,ウシオ
-XMESS_0086,"(He drew his sword…
-Need to be careful both up close and from a distance…)",XMESS_0086,網代慎平
-XMESS_0087,You can do it…!!,XMESS_0087,シデ（欠損素顔）
-XMESS_0088,(One minute left!!!),XMESS_0088,網代慎平
+XMESS_0077,(Having her copy Nagumo-sensei's sledgehammer beforehand came in handy...!),XMESS_0077,網代慎平
+XMESS_0078,Thank you! Now we can still fight!!,XMESS_0078,南方竜之介
+XMESS_0079,Everything ends if ya die.,XMESS_0079,シデ（欠損素顔）
+XMESS_0080,...!,XMESS_0080,南方竜之介
+XMESS_0081,"No foresight, no looping... Hehehe...!! Wonderful! You two aren't cheating anymore!",XMESS_0081,シデ（欠損素顔）
+XMESS_0082,"After all, the Demon King needs a chance of winning too.",XMESS_0082,シデ（欠損素顔）
+XMESS_0083,Come on! Why don't you try putting out something too...,XMESS_0083,シデ（欠損素顔）
+XMESS_0084,Aaargh...!! Gyaaaaaaaah!!,XMESS_0084,ヒルコ（赤ん坊）
+XMESS_0085,...!!,XMESS_0085,ウシオ
+XMESS_0086,(He drew a bayonet...! We need to be careful of both close and long-range attacks...!),XMESS_0086,網代慎平
+XMESS_0087,"See, you can do it if you try...!!",XMESS_0087,シデ（欠損素顔）
+XMESS_0088,(One minute left...!!),XMESS_0088,網代慎平
 XMESS_0089,Huh…?,XMESS_0089,シデ（欠損素顔）
-XMESS_0090,"(Now! 
-Get behind him!!!)",XMESS_0090,網代慎平
-XMESS_0091,"Ah… since both are right hands…
-It's hard to use the weapon!!!",XMESS_0091,シデ（欠損素顔）
+XMESS_0090,(Now! Get behind him...!!),XMESS_0090,網代慎平
+XMESS_0091,I see... Since they're both right hands... it's hard to use weapons...!!,XMESS_0091,シデ（欠損素顔）
 XMESS_0092,…Huh!?,XMESS_0092,南方竜之介
-XMESS_0093,"(The hammer attack came back!
-This is Yamabiko…)",XMESS_0093,網代慎平
-XMESS_0094,Ugh…,XMESS_0094,南方竜之介
-XMESS_0095,You're running away so slowly.,XMESS_0095,シデ（欠損素顔）
-XMESS_0096,(The left hand of Shide…!),XMESS_0096,網代慎平
+XMESS_0093,(The hammer attack was reflected back! So this is the yamabiko...!),XMESS_0093,網代慎平
+XMESS_0094,Ugh...!,XMESS_0094,南方竜之介
+XMESS_0095,"You're scurrying around quite a bit, aren't you?",XMESS_0095,シデ（欠損素顔）
+XMESS_0096,(Shide's left hand...!),XMESS_0096,網代慎平
 XMESS_0097,It regenerated!?,XMESS_0097,南方竜之介
-XMESS_0098,"(…He just made the left hand from his right…
-The total amount of armor hasn't recovered…)",XMESS_0098,ウシオ
-XMESS_0099,"(As Shinpei said…my erasure is working!!!
-Go for it, Ryunosuke-kun!!!)",XMESS_0099,ウシオ
+XMESS_0098,(He just used his right hand as material to make a left hand... The total amount of armor... hasn't recovered...),XMESS_0098,ウシオ
+XMESS_0099,"(Just like Shinpei said... my erasure is working!! You can do it, Ryunosuke-kun!!)",XMESS_0099,ウシオ
 XMESS_0100,Yes!!,XMESS_0100,南方竜之介
-XMESS_0101,"(If I attack, Yamabiko will come back!
-But if I even slightly loosen my attacks,
-Shide will go after Ushio!)",XMESS_0101,南方竜之介
-XMESS_0102,"(Attack! Attack!!! Keep attacking!!!
-Don't give him even a single moment's respite!!)",XMESS_0102,南方竜之介
-XMESS_0103,…,XMESS_0103,シデ（欠損素顔）
-XMESS_0104,How could you get hit by such a bullet!,XMESS_0104,南方竜之介
-XMESS_0105,"(Ryunosuke-kun, it's bad!!!
-Behind him!!!)",XMESS_0105,ウシオ
+XMESS_0101,"(If I attack, the yamabiko will reflect it back! But if I let up on my attacks even a little, Shide will go after Ushio-san!)",XMESS_0101,南方竜之介
+XMESS_0102,(Attack! Attack!! Keep attacking!!! Don't give him a single second to breathe!!),XMESS_0102,南方竜之介
+XMESS_0103,...!,XMESS_0103,シデ（欠損素顔）
+XMESS_0104,Like a bullet like this will hit me now!,XMESS_0104,南方竜之介
+XMESS_0105,"(Ryunosuke-kun, look out!! Behind you!!!)",XMESS_0105,ウシオ
 XMESS_0106,…!?,XMESS_0106,南方竜之介
-XMESS_0107,"(Transfer your consciousness to the bullet!!!
-Behind me!!!)",XMESS_0107,南方竜之介
-XMESS_0108,"(This guy!! 
-He's copying my move from the gym!!)",XMESS_0108,ウシオ
-XMESS_0109,"This is bad!!!
-My stance is messed up…",XMESS_0109,南方竜之介
-XMESS_0110,"(Ryunosuke-kun, crouch!!!)",XMESS_0110,網代慎平
-XMESS_0111,(Oh no---),XMESS_0111,網代慎平
-XMESS_0112,Shinpeieeeee!!!???,XMESS_0112,ウシオ
-XMESS_0113,Gahhh!!!,XMESS_0113,南方竜之介
-XMESS_0114,"Yes, this is the final strike.",XMESS_0114,シデ（欠損素顔）
-XMESS_0115,"When we fought in the gym,
-Ushio-chan tricked me with a feint.
-That was annoying…",XMESS_0115,シデ（欠損素顔）
-XMESS_0116,"But when the feint works,
-it feels so good, doesn't it?",XMESS_0116,シデ（欠損素顔）
-XMESS_0117,"Ushio-chan, I'll take back your right eye.",XMESS_0117,シデ（欠損素顔）
+XMESS_0107,(He transferred his consciousness to the bullet!! He's behind me!!),XMESS_0107,南方竜之介
+XMESS_0108,(That guy!! He's copying what I did at the gym!!!),XMESS_0108,ウシオ
+XMESS_0109,This is bad!! My posture is...!!,XMESS_0109,南方竜之介
+XMESS_0110,"(Ryunosuke-san, duck!!)",XMESS_0110,網代慎平
+XMESS_0111,(Oh n—),XMESS_0111,網代慎平
+XMESS_0112,Shinpei!!!!?,XMESS_0112,ウシオ
+XMESS_0113,Gah...!!,XMESS_0113,南方竜之介
+XMESS_0114,"Yep, a lethal strike.",XMESS_0114,シデ（欠損素顔）
+XMESS_0115,"When we fought in the gym, Ushio-chan tricked me with a feint. That was quite frustrating...",XMESS_0115,シデ（欠損素顔）
+XMESS_0116,"But pulling off a successful feint feels incredibly good, doesn't it?",XMESS_0116,シデ（欠損素顔）
+XMESS_0117,"Ushio-chan, I'll be taking that right eye back now.",XMESS_0117,シデ（欠損素顔）
 XMESS_0118,…Guh!,XMESS_0118,ウシオ
-XMESS_0119,"There were a lot of things that happened,
-But I'm glad we reached the happy ending.
-Hey, everyone.",XMESS_0119,シデ（欠損素顔）
-XMESS_0120,"Gh…gho hoo…
-Gaah!!!",XMESS_0120,南方竜之介
-XMESS_0121,"(Curses! My judgment was wrong…)
-(Why did I mess up…)",XMESS_0121,網代慎平
-XMESS_0122,Gh…buh!,XMESS_0122,南方竜之介
+XMESS_0119,"A lot of things happened, but I'm glad we were able to reach a happy ending. Right, everyone?",XMESS_0119,シデ（欠損素顔）
+XMESS_0120,"*Cough... cough, cough*...! Gaha...!",XMESS_0120,南方竜之介
+XMESS_0121,(D... Damn it...! Because of... my bad... judgment...),XMESS_0121,網代慎平
+XMESS_0122,Guh... buh...!,XMESS_0122,南方竜之介
 XMESS_0123,…,XMESS_0123,南方竜之介
 XMESS_0124,…!!,XMESS_0124,南方竜之介
-XMESS_0125,"(Thank goodness I managed to dodge…
-My arm…!)",XMESS_0125,網代慎平
-XMESS_0126,"Sorry!!! Shinpei!! 
-It's my fault your arm…",XMESS_0126,南方竜之介
-XMESS_0127,"(No!!!
-My lack of coordination is to blame!!
-Sorry for being so stiff!!!)",XMESS_0127,網代慎平
-XMESS_0128,That's not the point at all!,XMESS_0128,南方竜之介
-XMESS_0129,"(Both of you!!! 
-You're arguing when it's no time for that!!)",XMESS_0129,ウシオ
-XMESS_0130,"(It's just ignoring the situation!!!
-It'll be okay, Ushio!!!)",XMESS_0130,網代慎平
-XMESS_0131,(Ignore it!! Ignore it!!!),XMESS_0131,網代慎平
-XMESS_0132,(…!? ),XMESS_0132,網代慎平
-XMESS_0133,"(I can see the shell floating…
-The bullets Shide fired earlier.
-Three… no, four of them…)",XMESS_0133,網代慎平
-XMESS_0134,(But none have fallen to the ground yet!?),XMESS_0134,網代慎平
-XMESS_0135,"(Could it be…?
-It's only been a short time since we started fighting!?)",XMESS_0135,網代慎平
-XMESS_0136,Five seconds or so!!!,XMESS_0136,南方竜之介
-XMESS_0137,"(It's… too long…
-This must be the shadow's perception of time…)",XMESS_0137,網代慎平
-XMESS_0138,(One second feels like forever!!!),XMESS_0138,網代慎平
-XMESS_0139,"(How many more moves can I make?
-Even if the hacking bullet is complete,
-Will the shooter be able to fire it?)",XMESS_0139,網代慎平
-XMESS_0140,"(You bastard!! Ushio went through all that…
-to cut his arm in half!!!)",XMESS_0140,南方竜之介
-XMESS_0141,(This guy's good! He's way better than the other shadows!!),XMESS_0141,南方竜之介
-XMESS_0142,"(Shinpei is risking his body!!!
-And yet!!! 
-This Shide's attacking from afar like it's invincible!!)",XMESS_0142,ウシオ
-XMESS_0143,"(You damn fool!!
-What the hell is this!!! )",XMESS_0143,ウシオ
-XMESS_0144,(I don't have any strength left to get up anymore…),XMESS_0144,ウシオ
-XMESS_0145,(The only one who can fire bullets is me!!!),XMESS_0145,南方竜之介
-XMESS_0146,(I'm the only one!! ),XMESS_0146,南方竜之介
-XMESS_0147,"It's experience, Ryunosuke-kun…
-The difference in our shadow senses is obvious.",XMESS_0147,シデ（欠損素顔）
-XMESS_0148,"(Sorry Ushio… Even if the hacking bullet's complete…
-This way, there'll be no one to fire it…
-I can't…)",XMESS_0148,南方竜之介
+XMESS_0125,"(I-I somehow managed to dodge it, but my arm...!)",XMESS_0125,網代慎平
+XMESS_0126,...I'm sorry!!! Shinpei!! It's my fault your arm is...!!!!,XMESS_0126,南方竜之介
+XMESS_0127,(No!! It's because my body has no athletic ability!! I'm sorry my body is so stiff!!!),XMESS_0127,網代慎平
+XMESS_0128,"No, that doesn't really have anything to do with it!",XMESS_0128,南方竜之介
+XMESS_0129,(Both of you...!! This is no time to be arguing!!),XMESS_0129,ウシオ
+XMESS_0130,"(I'm just looking at the big picture!! I'm fine, Ushio!!)",XMESS_0130,網代慎平
+XMESS_0131,(Look at the big picture...! Look at the big picture!!),XMESS_0131,網代慎平
+XMESS_0132,(!?),XMESS_0132,網代慎平
+XMESS_0133,(I can see the empty shells floating...! From the bullets Shide just fired... Let's see... four of them...),XMESS_0133,網代慎平
+XMESS_0134,(And not a single one of them has hit the ground yet!?),XMESS_0134,網代慎平
+XMESS_0135,"(C-Could it be... Since we started fighting, it's only been...!?)",XMESS_0135,網代慎平
+XMESS_0136,About... five seconds...!!,XMESS_0136,南方竜之介
+XMESS_0137,(S-So long... Is this how Shadows perceive time...?),XMESS_0137,網代慎平
+XMESS_0138,(One second is so far away... It feels like an eternity...!!),XMESS_0138,網代慎平
+XMESS_0139,"(How many more moves do I have to dodge to survive? Even if the hacking rounds are completed, will the shooter even be in any condition to fire!?)",XMESS_0139,網代慎平
+XMESS_0140,(Damn it!! Even though Ushio-san went through the trouble of halving his arms!!),XMESS_0140,南方竜之介
+XMESS_0141,(This guy is good!! He's on a completely different level from the other Shadows!!!),XMESS_0141,南方竜之介
+XMESS_0142,"(Shinpei is putting his body on the line!! And yet! Shide is just being invincible from a distance, that's the absolute worst!!!)",XMESS_0142,ウシオ
+XMESS_0143,(Damn it!! Damn it all...!!!),XMESS_0143,ウシオ
+XMESS_0144,(Hoine and I... don't even have the strength left to stand up...),XMESS_0144,ウシオ
+XMESS_0145,(I'm the only one who can fire the bullets!!),XMESS_0145,南方竜之介
+XMESS_0146,(I'm the only one... who can do it...!!),XMESS_0146,南方竜之介
+XMESS_0147,"It's the wisdom of age, Ryunosuke-kun... When it comes to fighting with a Shadow's senses, the years of experience between you and me are completely different.",XMESS_0147,シデ（欠損素顔）
+XMESS_0148,"(I'm sorry, Ushio-san... Even if the hacking rounds are completed... At this rate... there won't be anyone left... to fire them...)",XMESS_0148,南方竜之介
 XMESS_0149,(Ryunosuke-kun!!!),XMESS_0149,ウシオ
-XMESS_0150,"(Still going!! Ryunosuke-kun!!!
-There's still hope for us!!!",XMESS_0150,網代慎平
+XMESS_0150,(—Not yet!!! Ryunosuke-kun!! We still have a way!!),XMESS_0150,網代慎平
 XMESS_0151,…!!,XMESS_0151,南方竜之介
-XMESS_0152,"(This is our time to turn things around!!!
-Let's show them what we're made of!!!)",XMESS_0152,網代慎平
-XMESS_0153,"(Ushio!! 
-I'll fire the hacking bullet!)",XMESS_0153,網代慎平
-XMESS_0154,(What!?!),XMESS_0154,ウシオ
-XMESS_0155,"(It was at the end of the fifth round…
-When I scanned the armor, right?
-It said there's no data… just empty!!!)",XMESS_0155,網代慎平
-XMESS_0156,"(…Shinpei…
-What are you thinking…)",XMESS_0156,南方竜之介
-XMESS_0157,"(Ryunosuke-kun… 
-You're good at taking over other people's bodies, right?)",XMESS_0157,網代慎平
-XMESS_0158,(Can you take control of Shide's armor and stop it?!),XMESS_0158,網代慎平
+XMESS_0152,(This is where we show off our big comeback!!!),XMESS_0152,網代慎平
+XMESS_0153,(Ushio...!! I'll fire the hacking rounds!),XMESS_0153,網代慎平
+XMESS_0154,(Huh!?),XMESS_0154,ウシオ
+XMESS_0155,"(Was it the end of the 5th loop...? When you scanned the armor, you said it, right? That there was no data, that it was empty!!)",XMESS_0155,網代慎平
+XMESS_0156,(...Shinpei... Wh... What are you thinking...!?),XMESS_0156,南方竜之介
+XMESS_0157,"(Ryunosuke-kun... You're good at possessing other people's bodies, right?)",XMESS_0157,網代慎平
+XMESS_0158,(Can you possess Shide's armor and stop its movements!?),XMESS_0158,網代慎平
 XMESS_0159,…!!,XMESS_0159,南方竜之介
-XMESS_0160,"(Just a few seconds until the hacking bullet's complete…
-If it's empty inside, I'm sure you can take control!!!)",XMESS_0160,網代慎平
-XMESS_0161,"(Wait!!!
-Even if Ryunosuke-kun goes in…)",XMESS_0161,ウシオ
-XMESS_0162,"(Human beings can't survive in Tokoyo…
-It's because of the support Ryunosuke-kun provides from inside!!!)",XMESS_0162,ウシオ
-XMESS_0163,"(I know… 
-But if I keep running around in my body, it won't last 5 seconds!)",XMESS_0163,網代慎平
-XMESS_0164,(You're right… but you have to touch the armor directly!,XMESS_0164,南方竜之介
-XMESS_0165,Whether or not I can get close without dying!!!,XMESS_0165,南方竜之介
-XMESS_0166,"(Be confident!!!
-How could my body move like that…
-It's something hard to believe!!!)",XMESS_0166,網代慎平
-XMESS_0167,"(It really is amazing!!
-Ryunosuke-kun can do it!! )",XMESS_0167,網代慎平
-XMESS_0168,That's strange…!!!,XMESS_0168,シデ（欠損素顔）
-XMESS_0169,"How many times are you going to give me the finishing blow…
-Even though I've blocked my foresight…!
-It's by a hair's breadth that I missed the vital spot!!!",XMESS_0169,シデ（欠損素顔）
-XMESS_0170,"(…Okay.
-I'll try it!!! Shinpei!!)",XMESS_0170,南方竜之介
-XMESS_0171,"…So, Ryunosuke…
-You've done this before…",XMESS_0171,シデ（欠損素顔）
-XMESS_0172,"Just by watching my spear techniques,
-you took them as your own…
-!!",XMESS_0172,シデ（欠損素顔）
-XMESS_0173,"""He's good at imitating"" Haine also said it!!!
-If you can copy my movements,
-then cutting through them is possible too!!!",XMESS_0173,シデ（欠損素顔）
-XMESS_0174,"(I've seen everything!!! 
-Seal up the fatal openings!!)",XMESS_0174,南方竜之介
-XMESS_0175,(You can do it!!!,XMESS_0175,南方竜之介
+XMESS_0160,"(Just for the few dozen seconds until the hacking rounds are complete... If it's empty inside, you should be able to possess it without any problems!!)",XMESS_0160,網代慎平
+XMESS_0161,(Wait!!! If Ryunosuke-kun leaves your body...!!),XMESS_0161,ウシオ
+XMESS_0162,(The only reason a human can survive in Tokoyo is because Ryunosuke-kun is supporting you from the inside!!),XMESS_0162,ウシオ
+XMESS_0163,"(I know... But if we just keep running around in my body like this, we won't last 5 seconds!)",XMESS_0163,網代慎平
+XMESS_0164,"T-True, it's worth a try... But you'll have to touch the armor directly!",XMESS_0164,南方竜之介
+XMESS_0165,Can I get that close without dying?,XMESS_0165,南方竜之介
+XMESS_0166,(Have some confidence!! My body moving like that is something I can hardly believe myself!!),XMESS_0166,網代慎平
+XMESS_0167,"(It's truly amazing!! If it's you, Ryunosuke-kun, you can do it!!!)",XMESS_0167,網代慎平
+XMESS_0168,That's strange...!!,XMESS_0168,シデ（欠損素顔）
+XMESS_0169,How many times are you going to make me deal the finishing blow...? I sealed your foresight... yet you manage to avoid a fatal hit by a hair's breadth!!,XMESS_0169,シデ（欠損素顔）
+XMESS_0170,(...Okay. I'll give it a try!!! Shinpei!!),XMESS_0170,南方竜之介
+XMESS_0171,...I see... Ryunosuke...!!,XMESS_0171,シデ（欠損素顔）
+XMESS_0172,You did this before too... You made my spear techniques your own just by watching them...!!,XMESS_0172,シデ（欠損素顔）
+XMESS_0173,"Haine said you were ""good at imitating""...!!! If you can imitate my movements, then you can also read them!!",XMESS_0173,シデ（欠損素顔）
+XMESS_0174,(I'll read through all of them!!! And slip through the gaps to avoid a fatal wound!!),XMESS_0174,南方竜之介
+XMESS_0175,(I can do this!!),XMESS_0175,南方竜之介
 XMESS_0176,!,XMESS_0176,シデ（欠損素顔）
 XMESS_0177,…!!,XMESS_0177,網代慎平
-XMESS_0178,(It worked!!!,XMESS_0178,ウシオ
-XMESS_0179,"…Y-yeah!! 
-Ryunosuke-kun!!",XMESS_0179,網代慎平
-XMESS_0180,"G-gi…
-Are you trying to take control of the armor…?!!!",XMESS_0180,シデ（欠損素顔）
-XMESS_0181,"I'll never let go!!!
-But I hate you so much!!!",XMESS_0181,南方竜之介
-XMESS_0182,"G-good…
-If you can keep it still…",XMESS_0182,網代慎平
-XMESS_0183,…!!!,XMESS_0183,網代慎平
-XMESS_0184,"(It's bad…
-I'm about to lose consciousness…)",XMESS_0184,網代慎平
-XMESS_0185,"(The pain Ryunosuke-kun was holding back for me…
-This is it… )",XMESS_0185,網代慎平
-XMESS_0186,"(You can do it, Shinpei!!!)",XMESS_0186,ウシオ
-XMESS_0187,Ugh… Guh…,XMESS_0187,網代慎平
-XMESS_0188,"(You can do it!!! Just a little more!!!
-Just a bit closer and the shotgun bullets…
-Will become hacking bullets!!)",XMESS_0188,ウシオ
-XMESS_0189,"Ha… Ha…
-Ah, Ushio…",XMESS_0189,網代慎平
-XMESS_0190,"(Your voice is making the pain lighter a little.
-I can move just a bit more…)",XMESS_0190,網代慎平
-XMESS_0191,What an idiot!,XMESS_0191,シデ（欠損素顔）
-XMESS_0192,Huh!?,XMESS_0192,南方竜之介
+XMESS_0178,(I'm in!!),XMESS_0178,ウシオ
+XMESS_0179,...W-We did it!! Ryunosuke-kun!!,XMESS_0179,網代慎平
+XMESS_0180,Grgh... A-Are you trying to... hijack the armor's controls...!!,XMESS_0180,シデ（欠損素顔）
+XMESS_0181,I'm never... letting go... for the rest of my life!! Because I... absolutely hate you!!!,XMESS_0181,南方竜之介
+XMESS_0182,G-Good...!! If you can just keep it from moving—,XMESS_0182,網代慎平
+XMESS_0183,...!!!!,XMESS_0183,網代慎平
+XMESS_0184,(...This is bad... ...I almost... passed out...),XMESS_0184,網代慎平
+XMESS_0185,(So this is... the pain Ryunosuke-kun was suppressing for me...),XMESS_0185,網代慎平
+XMESS_0186,"(Hang in there, Shinpei!!)",XMESS_0186,ウシオ
+XMESS_0187,...Ugh... Guh...!!,XMESS_0187,網代慎平
+XMESS_0188,"(Hang in there!! Just a little more!! Just a little longer, and the shotgun shells... Will be changed into hacking rounds...!!)",XMESS_0188,ウシオ
+XMESS_0189,*Pant*... *pant*... Ah... Ushio...,XMESS_0189,網代慎平
+XMESS_0190,(Your voice... makes the pain a little lighter... I think I can move just a little bit more—),XMESS_0190,網代慎平
+XMESS_0191,Just kidding!,XMESS_0191,シデ（欠損素顔）
+XMESS_0192,!?,XMESS_0192,南方竜之介
 XMESS_0193,…!,XMESS_0193,網代慎平
-XMESS_0194,"(The mud Ryunosuke-kun entered…
-Has been separated…)",XMESS_0194,網代慎平
-XMESS_0195,(Ryunosuke-kun!!!),XMESS_0195,ウシオ
-XMESS_0196,"So you're trying to destroy the armor by making Ryunosuke-kun take it over?
-That's not a bad idea.",XMESS_0196,シデ（欠損素顔）
-XMESS_0197,But you've separated the mud that was inside Ryunosuke-kun…,XMESS_0197,シデ（欠損素顔）
-XMESS_0198,"If I had known, I could have made a countermeasure.
-That's what you've always done…",XMESS_0198,シデ（欠損素顔）
-XMESS_0199,"…K-knowing that…
-Would mean…!?",XMESS_0199,網代慎平
-XMESS_0200,"You're really dense, aren't you?!
-Do you understand now??",XMESS_0200,シデ（欠損素顔）
-XMESS_0201,"The battle on Tiger Island that you didn't see…
-That time when you weren't there…",XMESS_0201,シデ（欠損素顔）
-XMESS_0202,"Hizuru-chan did the exact same thing to me…
-!!",XMESS_0202,シデ（欠損素顔）
-XMESS_0203,!!!!!!!!!,XMESS_0203,網代慎平
-XMESS_0204,"Ah, really… it's great to be looping…",XMESS_0204,シデ（欠損素顔）
-XMESS_0205,"(It's because of my loop…
-That this is happening!!!)",XMESS_0205,網代慎平
+XMESS_0194,(The mud that Ryunosuke-kun entered was severed...!!),XMESS_0194,網代慎平
+XMESS_0195,(Ryunosuke-kun!!!!),XMESS_0195,ウシオ
+XMESS_0196,Was your plan to have Ryunosuke-kun possess me and destroy the armor? It's not a bad idea.,XMESS_0196,シデ（欠損素顔）
+XMESS_0197,"However, I've confined Ryunosuke-kun to a portion of the mud and separated it from myself...",XMESS_0197,シデ（欠損素顔）
+XMESS_0198,"If you know about it, you can counter it. It's what you've always done...",XMESS_0198,シデ（欠損素顔）
+XMESS_0199,"...Wh-What do you mean... ""if you know""...!?",XMESS_0199,網代慎平
+XMESS_0200,What a great expression... Hehe! Do you understand what that means!?,XMESS_0200,シデ（欠損素顔）
+XMESS_0201,The battle on Torashima that you didn't see... During that time that you erased.,XMESS_0201,シデ（欠損素顔）
+XMESS_0202,Hizuru-chan tried to pull the exact same trick on me...!!,XMESS_0202,シデ（欠損素顔）
+XMESS_0203,!!!!,XMESS_0203,網代慎平
+XMESS_0204,"Man, really... looping sure is great!!",XMESS_0204,シデ（欠損素顔）
+XMESS_0205,(Because of my... because of my loop...!!),XMESS_0205,網代慎平
 XMESS_0206,…,XMESS_0206,網代慎平
-XMESS_0207,"(…The shotgun is 2 meters away…
-Just take three more steps and reach out…)",XMESS_0207,網代慎平
-XMESS_0208,"(Can I move faster than Shide?
-Can a human like me…? )",XMESS_0208,網代慎平
-XMESS_0209,Ga…,XMESS_0209,網代慎平
-XMESS_0210,"(The collapse of Shinpei's body has started…
-Curses!! Cursing!!!)",XMESS_0210,南方竜之介
-XMESS_0211,While I watch you collapse like this…,XMESS_0211,シデ（欠損素顔）
-XMESS_0212,"Before Ushio-chan takes her eyes away,
-It would be more satisfying to kill you with my own hands.",XMESS_0212,シデ（欠損素顔）
-XMESS_0213,"(…Ushio's… eyes…
-They won't belong to you!!!)",XMESS_0213,網代慎平
+XMESS_0207,"(...The shotgun is 2 meters away... Just three more steps, and reach out my hand...)",XMESS_0207,網代慎平
+XMESS_0208,(Can I do it? Faster than Shide? A mere human like me...!?),XMESS_0208,網代慎平
+XMESS_0209,Gah...,XMESS_0209,網代慎平
+XMESS_0210,(Shinpei-san's body has started to collapse... Damn it...!! Damn it...!!),XMESS_0210,南方竜之介
+XMESS_0211,"...It would be fine to just watch you collapse like this, but...",XMESS_0211,シデ（欠損素顔）
+XMESS_0212,I think I'd feel a greater sense of accomplishment if I dealt the finishing blow with my own hands before I take Ushio-chan's eye!,XMESS_0212,シデ（欠損素顔）
+XMESS_0213,...Ushio's... eye... Will never belong to you...!!,XMESS_0213,網代慎平
 XMESS_0214,…,XMESS_0214,シデ（欠損素顔）
-XMESS_0215,"Ushio… is going to…
-Give me her eyes…",XMESS_0215,網代慎平
-XMESS_0216,"If these eyes are mine,
-Then the ending has already been decided!!!
-In the end… Ushio will win!!!",XMESS_0216,網代慎平
-XMESS_0217,…The ending…,XMESS_0217,シデ（欠損素顔）
-XMESS_0218,"All I want is to live longer…
-To see the world… its future…
-And humanity's end.
-That's all.",XMESS_0218,シデ（欠損素顔）
-XMESS_0219,"If Haine was around, it would be possible…
-In fact, for 326 years and 24 days,
-I've been living by switching bodies.",XMESS_0219,シデ（欠損素顔）
-XMESS_0220,"But Haine deteriorated.
-There were stillborn children between him and Masahito,
-And eventually, he couldn't even get pregnant.",XMESS_0220,シデ（欠損素顔）
-XMESS_0221,"When I realized my lifespan would end with Masahito,
-That was the despair…
-You can't even imagine it…",XMESS_0221,シデ（欠損素顔）
-XMESS_0222,…!!,XMESS_0222,網代慎平
-XMESS_0223,"But you know…
-Recently, I changed my mind.",XMESS_0223,シデ（欠損素顔）
-XMESS_0224,"If I can't live until the end,
-Then let me destroy the world instead!",XMESS_0224,シデ（欠損素顔）
-XMESS_0225,!!!!!!!,XMESS_0225,網代慎平
-XMESS_0226,"If the world ends,
-Then I'll have seen it until the end.",XMESS_0226,シデ（欠損素顔）
-XMESS_0227,"Even if just temporarily…
-If I can revive Hiruko's eyes…",XMESS_0227,シデ（欠損素顔）
-XMESS_0228,Then I'll erase the world and take it away.,XMESS_0228,シデ（欠損素顔）
-XMESS_0229,"You see…
-I know how to turn off a game console,
-Shinpei-kun.
-That's me, the demon king.",XMESS_0229,シデ（欠損素顔）
-XMESS_0230,Knowing that won't change the ending!!!,XMESS_0230,網代慎平
-XMESS_0231,I'll take your eyes and overwrite the future!!,XMESS_0231,シデ（欠損素顔）
-XMESS_0232,"The ending will be mine!!!
-!!!!!!!!!",XMESS_0232,シデ（欠損素顔）
-XMESS_0233,…!!,XMESS_0233,網代慎平
-XMESS_0234,…!!,XMESS_0234,シデ（欠損素顔）
-XMESS_0235,(It worked!!!),XMESS_0235,ウシオ
-XMESS_0236,"(Loading complete!!!
-Come on, Shinpei!! )",XMESS_0236,ウシオ
-XMESS_0237,(Ushio loaded the shotgun…),XMESS_0237,網代慎平
-XMESS_0238,"(Stay there, Ushio! I'm coming!!!)",XMESS_0238,網代慎平
-XMESS_0239,"All of it was in vain, Shinpei-kun.",XMESS_0239,シデ（欠損素顔）
-XMESS_0240,Everything you all came for---,XMESS_0240,シデ（欠損素顔）
-XMESS_0241,"It's meaningless, you know.",XMESS_0241,シデ（欠損素顔）
-XMESS_0242,"(Guh…!
-My body…)",XMESS_0242,網代慎平
-XMESS_0243,(No good…!?),XMESS_0243,網代慎平
-XMESS_0244,"(Move, move, MOVE!! Move me!!!)",XMESS_0244,ウシオ
-XMESS_0245,"(It's impossible…!
-The shadow stitches have locked my fingers…)",XMESS_0245,南方竜之介
-XMESS_0246,(Even a millimeter!! Get close to Shinpei!!!),XMESS_0246,ウシオ
-XMESS_0247,What…!?,XMESS_0247,シデ（欠損素顔）
-XMESS_0248,(The tide is… in my hand!!),XMESS_0248,網代慎平
-XMESS_0249,(It worked!!!),XMESS_0249,南方竜之介
+XMESS_0215,Ushio... is going to... give me her eye...,XMESS_0215,網代慎平
+XMESS_0216,The fact that I have this eye means the ending is already decided...!! In the end... Ushio wins!!!!,XMESS_0216,網代慎平
+XMESS_0217,"...The ending, huh...",XMESS_0217,シデ（欠損素顔）
+XMESS_0218,I simply want to live a long life... that's all. I want to see this world... the future... the fate of humanity... I want to see the ending.,XMESS_0218,シデ（欠損素顔）
+XMESS_0219,"With Haine around, it seemed like that would come true... In fact, for 326 years and 24 days,I've lived by switching bodies.",XMESS_0219,シデ（欠損素顔）
+XMESS_0220,"But Haine weakened. She kept having stillbirths with Masahito, and eventually, she couldn't even conceive anymore.",XMESS_0220,シデ（欠損素顔）
+XMESS_0221,The despair I felt when I realized my lifespan would end with Masahito. You couldn't possibly imagine it...!!,XMESS_0221,シデ（欠損素顔）
+XMESS_0222,...!,XMESS_0222,網代慎平
+XMESS_0223,"But you know. Just a few months ago, I changed my mind.",XMESS_0223,シデ（欠損素顔）
+XMESS_0224,"If I can't live until the end, why not just end the world instead?",XMESS_0224,シデ（欠損素顔）
+XMESS_0225,!!,XMESS_0225,網代慎平
+XMESS_0226,"If the world ends, then I will have seen this world through to the end.",XMESS_0226,シデ（欠損素顔）
+XMESS_0227,"If I can revive Hiruko's eye, even temporarily...",XMESS_0227,シデ（欠損素顔）
+XMESS_0228,I could steal it and erase the world... you see.,XMESS_0228,シデ（欠損素顔）
+XMESS_0229,"I am... a Demon King who knows how to turn off the game console, Shinpei-kun.",XMESS_0229,シデ（欠損素顔）
+XMESS_0230,Just knowing that won't change the ending!!,XMESS_0230,網代慎平
+XMESS_0231,I'll steal the eye and overwrite the future!!!,XMESS_0231,シデ（欠損素顔）
+XMESS_0232,I am the one who will reach the ending!!!!,XMESS_0232,シデ（欠損素顔）
+XMESS_0233,...!,XMESS_0233,網代慎平
+XMESS_0234,...!,XMESS_0234,シデ（欠損素顔）
+XMESS_0235,(It's done...!!!!),XMESS_0235,ウシオ
+XMESS_0236,(Loading complete!!! Come here! Shinpei!!),XMESS_0236,ウシオ
+XMESS_0237,(Ushio is in the shotgun...!),XMESS_0237,網代慎平
+XMESS_0238,"(Wait for me, Ushio, I'm coming!!!!)",XMESS_0238,網代慎平
+XMESS_0239,"It was all in vain, Shinpei-kun.",XMESS_0239,シデ（欠損素顔）
+XMESS_0240,Everything you all have done—,XMESS_0240,シデ（欠損素顔）
+XMESS_0241,Is meaningless.,XMESS_0241,シデ（欠損素顔）
+XMESS_0242,(Guh...! M-My body...!),XMESS_0242,網代慎平
+XMESS_0243,(Is this... it...!?),XMESS_0243,網代慎平
+XMESS_0244,"(Move, move, move!! Move, damn it!!!)",XMESS_0244,ウシオ
+XMESS_0245,"(It's impossible...! I'm shadow-stitched, I can't even move a finger...!)",XMESS_0245,南方竜之介
+XMESS_0246,(Even just a millimeter!! Get closer to Shinpei!!!),XMESS_0246,ウシオ
+XMESS_0247,Wha...!?,XMESS_0247,シデ（欠損素顔）
+XMESS_0248,(Ushio is... in my hand!!),XMESS_0248,網代慎平
+XMESS_0249,(It reached me!!!),XMESS_0249,南方竜之介
 XMESS_0250,…!!,XMESS_0250,波稲
-XMESS_0251,(…Hoine! You're amazing!!),XMESS_0251,ウシオ
-XMESS_0252,"(…Now!
-Shinpei's right eye is locking onto Shide!)",XMESS_0252,南方竜之介
-XMESS_0253,"(When you're in a trance,
-it synchronizes with the shadow's perceived time!!)",XMESS_0253,南方竜之介
-XMESS_0254,"(Because I moved earlier, the neural pathways are open!!
-All that remains is to move your body!!!)",XMESS_0254,南方竜之介
-XMESS_0255,"(Shinpei can do it!! If it's Shinpei who made it this far!!!
-He absolutely will make it!!)",XMESS_0255,南方竜之介
-XMESS_0256,…,XMESS_0256,網代慎平
+XMESS_0251,(...Hoine! You're the best!!),XMESS_0251,ウシオ
+XMESS_0252,(...Now!! Shinpei's right eye is locked onto Shide!),XMESS_0252,南方竜之介
+XMESS_0253,"(When he's looking at the big picture, he's synchronized with the Shadow's perceived time!!)",XMESS_0253,南方竜之介
+XMESS_0254,"(Because I moved him earlier, his neural pathways are open!! Now he just has to move his body!!!!)",XMESS_0254,南方竜之介
+XMESS_0255,"(Shinpei, you can do it!!! If it's the Shinpei who made it this far!! You can definitely do it!!!!)",XMESS_0255,南方竜之介
+XMESS_0256,(...),XMESS_0256,網代慎平
 XMESS_0257,"(You're right, Ryunosuke-kun…)",XMESS_0257,網代慎平
 XMESS_0258,(It's not meaningless),XMESS_0258,網代慎平
 XMESS_0259,(Everyone brought me this far),XMESS_0259,網代慎平
-XMESS_0260,"(Nobody is pointless!!
-I won't let it be meaningless!!)",XMESS_0260,網代慎平
-XMESS_0261,…,XMESS_0261,シデ（欠損素顔）
-XMESS_0262,But… oh no!,XMESS_0262,網代慎平
-XMESS_0263,(That's impossible!!!),XMESS_0263,南方竜之介
-XMESS_0264,(Shinpei!!???),XMESS_0264,ウシオ
-XMESS_0265,"Fuh, you surprised me at the very end.
-I didn't expect Hoine to still have that power.",XMESS_0265,シデ（欠損素顔）
-XMESS_0266,As I said… your actions were meaningless.,XMESS_0266,シデ（欠損素顔）
-XMESS_0267,"After living over 300 years,
-there's one certainty I can say for sure.",XMESS_0267,シデ（欠損素顔）
+XMESS_0260,(Not a single person was meaningless!! I won't let it be meaningless!!!!),XMESS_0260,網代慎平
+XMESS_0261,...!!,XMESS_0261,シデ（欠損素顔）
+XMESS_0262,Ga... ah!!,XMESS_0262,網代慎平
+XMESS_0263,(No way...!!),XMESS_0263,南方竜之介
+XMESS_0264,(Shinpei...!!),XMESS_0264,ウシオ
+XMESS_0265,"Phew, you surprised me at the very end. To think Hoine still had that kind of power left.",XMESS_0265,シデ（欠損素顔）
+XMESS_0266,"It's just like I said, isn't it... Your actions were meaningless.",XMESS_0266,シデ（欠損素顔）
+XMESS_0267,"Having lived for over 300 years, there is one thing I can say with absolute certainty.",XMESS_0267,シデ（欠損素顔）
 XMESS_0268,…,XMESS_0268,網代慎平
-XMESS_0269,"""Miracles"" don't happen… 
-The world is built entirely on inevitability.",XMESS_0269,シデ（欠損素顔）
-XMESS_0270,"This is where the ending begins…
-My own ending, you see…",XMESS_0270,シデ（欠損素顔）
-XMESS_0271,(Now!!),XMESS_0271,網代慎平
-XMESS_0272,(Fell? No--),XMESS_0272,シデ（欠損素顔）
-XMESS_0273,(--it was dodged!?),XMESS_0273,シデ（欠損素顔）
-XMESS_0274,(Because everyone connected with me---,XMESS_0274,網代慎平
-XMESS_0275,I'm here!!),XMESS_0275,網代慎平
-XMESS_0276,"(My… older sister…
-You were right after all!!!)",XMESS_0276,南方竜之介
-XMESS_0277,(Saving everyone is… Shinpei's job!!),XMESS_0277,南方竜之介
-XMESS_0278,"I won't let you!!
-I'll end it!!!",XMESS_0278,シデ（欠損素顔）
-XMESS_0279,(The last chance-- I absolutely can't miss this!!),XMESS_0279,網代慎平
-XMESS_0280,AAAHAAAHHH!!!,XMESS_0280,シデ（欠損素顔）
-XMESS_0281,(Here it is--),XMESS_0281,網代慎平
-XMESS_0282,--!!?,XMESS_0282,網代慎平
+XMESS_0269,"""Miracles"" do not happen... The world is entirely built upon inevitability.",XMESS_0269,シデ（欠損素顔）
+XMESS_0270,The ending begins here... My very own ending...,XMESS_0270,シデ（欠損素顔）
+XMESS_0271,(—Now!!),XMESS_0271,網代慎平
+XMESS_0272,(He fell!? No—),XMESS_0272,シデ（欠損素顔）
+XMESS_0273,(—He dodged!?),XMESS_0273,シデ（欠損素顔）
+XMESS_0274,(Because everyone connected the path for me—),XMESS_0274,網代慎平
+XMESS_0275,I am right here!!!,XMESS_0275,網代慎平
+XMESS_0276,(S... Sis...! You were right after all...!!),XMESS_0276,南方竜之介
+XMESS_0277,(The one who will save everyone... is Shinpei...!!!),XMESS_0277,南方竜之介
+XMESS_0278,I won't let you!! I'm the one who will end this!!,XMESS_0278,シデ（欠損素顔）
+XMESS_0279,(This is the last chance—I absolutely cannot miss!!),XMESS_0279,網代慎平
+XMESS_0280,Aaaaaaaargh!!,XMESS_0280,シデ（欠損素顔）
+XMESS_0281,(Right here—),XMESS_0281,網代慎平
+XMESS_0282,—!?,XMESS_0282,網代慎平
 XMESS_0283,…,XMESS_0283,網代慎平
-XMESS_0284,"(That's not possible!
-Shinpei…!?)",XMESS_0284,ウシオ
-XMESS_0285,"(I didn't make it…
-…I'm sorry…)",XMESS_0285,網代慎平
-XMESS_0286,"You really made me sweat.
-But my victory was unshakable.",XMESS_0286,シデ（欠損素顔）
-XMESS_0287,"Finally, the ending…
-My very own one…",XMESS_0287,シデ（欠損素顔）
-XMESS_0288,(I can dodge it!!),XMESS_0288,網代慎平
-XMESS_0289,…!?,XMESS_0289,網代慎平
-XMESS_0290,"Did you think I'd be dodged twice?
-I was deceived.
-Hey, Shinpei-kun.",XMESS_0290,シデ（欠損素顔）
-XMESS_0291,But… why…,XMESS_0291,網代慎平
-XMESS_0292,"(…I was just about to---
-)",XMESS_0292,網代慎平
-XMESS_0293,(But…),XMESS_0293,網代慎平
-XMESS_0294,"You know, they say a field trip is long until you get home.
-Don't let your guard down till the end.",XMESS_0294,シデ（欠損素顔）
-XMESS_0295,"But of course, there won't be another chance to take my advice…",XMESS_0295,シデ（欠損素顔）
-XMESS_0296,(Shin… Shinpei…),XMESS_0296,南方竜之介
-XMESS_0297,"(Shinpei…
-SHINPEI!!!)",XMESS_0297,ウシオ
-XMESS_0298,(SHINPEIIIII!!),XMESS_0298,ウシオ
-XMESS_0299,(Tide…!!),XMESS_0299,網代慎平
-XMESS_0300,――――!,XMESS_0300,シデ
-XMESS_0301,――――!,XMESS_0301,菱形紙垂彦
-XMESS_0302,…Guh…,XMESS_0302,菱形紙垂彦
-XMESS_0303,…!!,XMESS_0303,網代慎平
-XMESS_0304,…This bullet… is…,XMESS_0304,菱形紙垂彦
-XMESS_0305,"…You too are really persistent.
-I'm getting tired of you…
-Uhh… Tide… why…",XMESS_0305,菱形紙垂彦
+XMESS_0284,(No way... you're kidding! Shinpei...!?),XMESS_0284,ウシオ
+XMESS_0285,(I... didn't make it... ...in time...!),XMESS_0285,網代慎平
+XMESS_0286,"Wow, that gave me a cold sweat. ...However, my victory was unshakable.",XMESS_0286,シデ（欠損素顔）
+XMESS_0287,It's finally the ending. My very own ending...,XMESS_0287,シデ（欠損素顔）
+XMESS_0288,(...I can dodge it!!),XMESS_0288,網代慎平
+XMESS_0289,...!?,XMESS_0289,網代慎平
+XMESS_0290,"...Did you really think you could dodge it twice? You underestimated me. Didn't you, Shinpei-kun.",XMESS_0290,シデ（欠損素顔）
+XMESS_0291,Ga... ha...,XMESS_0291,網代慎平
+XMESS_0292,(...I... was so... close...),XMESS_0292,網代慎平
+XMESS_0293,(...And yet...),XMESS_0293,網代慎平
+XMESS_0294,You know they say a field trip isn't over until you get home. You shouldn't let your guard down until the very end.,XMESS_0294,シデ（欠損素顔）
+XMESS_0295,"Well, you won't ever have the chance to put that advice to use, though.",XMESS_0295,シデ（欠損素顔）
+XMESS_0296,(Shi... Shinpei...!),XMESS_0296,南方竜之介
+XMESS_0297,"(Shi, Shinpei... Shinpei!!!!)",XMESS_0297,ウシオ
+XMESS_0298,(Shinpei...!!),XMESS_0298,ウシオ
+XMESS_0299,(Ushio...!!!),XMESS_0299,網代慎平
+XMESS_0300,—!,XMESS_0300,シデ
+XMESS_0301,—!,XMESS_0301,菱形紙垂彦
+XMESS_0302,...Go...,XMESS_0302,菱形紙垂彦
+XMESS_0303,...!,XMESS_0303,網代慎平
+XMESS_0304,...Th-This bullet... is...,XMESS_0304,菱形紙垂彦
+XMESS_0305,...Y-You really are... quite persistent... U... Ushio... chan...,XMESS_0305,菱形紙垂彦
 XMESS_0306,Gah!,XMESS_0306,菱形紙垂彦
-XMESS_0307,"It's over… Shide.
-We're going to live…",XMESS_0307,網代慎平
-XMESS_0308,"After you disappear,
-the world will continue normally!!",XMESS_0308,網代慎平
-XMESS_0309,"If I erase Hiruko…
-All the shadows will vanish.
-I won't be able to make my armor anymore…",XMESS_0309,菱形紙垂彦
-XMESS_0310,"My vessel… 
-Only Paperahiko can move it, but he sees nothing…",XMESS_0310,菱形紙垂彦
-XMESS_0311,"That's meaningless…
-I don't want to! I DON'T WANT TO!!!",XMESS_0311,菱形紙垂彦
-XMESS_0312,Hai… Ne…,XMESS_0312,菱形紙垂彦
-XMESS_0313,"Ah…
-This is my ending…",XMESS_0313,菱形紙垂彦
-XMESS_0314,"Shin…pei…
-You did it!!!",XMESS_0314,ウシオ
-XMESS_0315,"… 
-Now everyone will be saved.",XMESS_0315,網代慎平
+XMESS_0307,It's over... Shide... We are going to... live on...!!,XMESS_0307,網代慎平
+XMESS_0308,Even after you disappear... the world... will continue on... normally!!,XMESS_0308,網代慎平
+XMESS_0309,"If Hiruko is erased... all the Shadows will disappear... I won't be able to make my armor anymore, either...",XMESS_0309,菱形紙垂彦
+XMESS_0310,My vessel... I can't move with just Shidehiko... I can't see anything...!,XMESS_0310,菱形紙垂彦
+XMESS_0311,There's no meaning to that... ...No... No...!!!,XMESS_0311,菱形紙垂彦
+XMESS_0312,Hai... ne...,XMESS_0312,菱形紙垂彦
+XMESS_0313,Ah... So this is my... ending...,XMESS_0313,菱形紙垂彦
+XMESS_0314,Shin... pei... Y-You did it...!!,XMESS_0314,ウシオ
+XMESS_0315,...Yeah... Now... everyone... will be saved...,XMESS_0315,網代慎平
 XMESS_0316,…,XMESS_0316,ウシオ
-XMESS_0317,It hurts… It really does…,XMESS_0317,ヒルコ（赤ん坊）
-XMESS_0318,"I'll end you, Hiruko.",XMESS_0318,ウシオ
-XMESS_0319,Vv…,XMESS_0319,ヒルコ（赤ん坊）
+XMESS_0317,It hurts... It hurts...,XMESS_0317,ヒルコ（赤ん坊）
+XMESS_0318,"I'll end it, Hiruko.",XMESS_0318,ウシオ
+XMESS_0319,Vu...,XMESS_0319,ヒルコ（赤ん坊）

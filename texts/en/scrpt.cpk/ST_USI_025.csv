@@ -2,85 +2,61 @@ source,target,id,developer_comments
 XCHAPTITLE_0002,23. Festival and Yukata,XCHAPTITLE_0002,
 XMESS_0000,Hey Sou…,XMESS_0000,網代慎平
 XMESS_0001,Hm?,XMESS_0001,菱形窓
-XMESS_0002,"…It's been two years since we left the island.
-I thought I'd grown up a bit…",XMESS_0002,網代慎平
-XMESS_0003,"But I'm still completely powerless…
-I wasn't there when it really mattered…",XMESS_0003,網代慎平
+XMESS_0002,...It's been two years since I left the island. I thought I'd grown up a little bit...,XMESS_0002,網代慎平
+XMESS_0003,"But I'm completely powerless... When it really mattered, I wasn't by her side...",XMESS_0003,網代慎平
 XMESS_0004,I promised to protect her…,XMESS_0004,網代慎平
 XMESS_0005,"Idiot!
 It's not your fault Ushio died!",XMESS_0005,菱形窓
-XMESS_0006,"Get it together, Shinpei!!
-What needs protecting now is Mio-chan!
-You're her older brother, after all!",XMESS_0006,菱形窓
-XMESS_0007,"S-so…
-I know that already.",XMESS_0007,網代慎平
+XMESS_0006,"Get it together, Shinpei!! The one you have to protect now is Mio-chan!! You're her older brother, aren't you!",XMESS_0006,菱形窓
+XMESS_0007,I-I don't need you... to tell me that.,XMESS_0007,網代慎平
 XMESS_0008,…,XMESS_0008,菱形窓
-XMESS_0009,"If you're unreliable…
-I'll take care of Mio-chan myself.",XMESS_0009,菱形窓
+XMESS_0009,If you're going to be unreliable... then leave Mio-chan to me.,XMESS_0009,菱形窓
 XMESS_0010,!,XMESS_0010,網代慎平
-XMESS_0011,"Sou… you…
-Still… Mio…",XMESS_0011,網代慎平
-XMESS_0012,What's wrong with you?!,XMESS_0012,菱形窓
-XMESS_0013,What are you two talking about?!,XMESS_0013,小舟澪
+XMESS_0011,Sou... you. You still have feelings for Mio...,XMESS_0011,網代慎平
+XMESS_0012,What... is that a problem!?,XMESS_0012,菱形窓
+XMESS_0013,What are you guys talking about!?,XMESS_0013,小舟澪
 XMESS_0014,!,XMESS_0014,網代慎平
-XMESS_0015,"Ah… no…
-That…!",XMESS_0015,網代慎平
-XMESS_0016,"If it's about breasts and butt…
-Which do you prefer?!",XMESS_0016,菱形窓
+XMESS_0015,Ah... no. Um~~~~.,XMESS_0015,網代慎平
+XMESS_0016,We were just talking about whether we prefer breasts or butts!!,XMESS_0016,菱形窓
 XMESS_0017,Hey!!,XMESS_0017,網代慎平
-XMESS_0018,Uwaa… I'm getting creeped out…,XMESS_0018,小舟澪
-XMESS_0019,"No no no!
-It's not like that! He's…",XMESS_0019,網代慎平
-XMESS_0020,But that's interesting~.,XMESS_0020,菱形朱鷺子
+XMESS_0018,Ugh~~ gross...,XMESS_0018,小舟澪
+XMESS_0019,"No, no! He's lying!!",XMESS_0019,網代慎平
+XMESS_0020,But I'm actually curious about that~~~.,XMESS_0020,菱形朱鷺子
 XMESS_0021,Huh?!,XMESS_0021,網代慎平
-XMESS_0022,"Because Shinpei-san, yesterday…
-You peeked into Mio's bath, right?!",XMESS_0022,菱形朱鷺子
+XMESS_0022,"Because Shinpei-san, the day before yesterday... you peeked at Mio in the bath, didn't you!?",XMESS_0022,菱形朱鷺子
 XMESS_0023,!,XMESS_0023,網代慎平
-XMESS_0024,"W-what…
-H-huh?!",XMESS_0024,菱形窓
-XMESS_0025,"What did you do, Shinpei?!",XMESS_0025,菱形窓
-XMESS_0026,"N-no… wait!
-It's not like I peeked…!",XMESS_0026,網代慎平
-XMESS_0027,"…Well…
-It ended up being a peek.",XMESS_0027,網代慎平
-XMESS_0028,"What's going on?
-That's a suspicious reaction.",XMESS_0028,菱形朱鷺子
+XMESS_0024,Wh... H-Huuuh!!?,XMESS_0024,菱形窓
+XMESS_0025,"What the hell are you doing, Shinpei, you bastard!!",XMESS_0025,菱形窓
+XMESS_0026,"N-No, wait!! It wasn't exactly peeking...!",XMESS_0026,網代慎平
+XMESS_0027,"...Well, I guess I did end up peeking, but...",XMESS_0027,網代慎平
+XMESS_0028,What do you mean by that? That's a very suspicious reaction...,XMESS_0028,菱形朱鷺子
 XMESS_0029,"By the way…
 I've always wanted to ask you something, Shinpei-san.",XMESS_0029,菱形朱鷺子
-XMESS_0030,What do you think about Mio?,XMESS_0030,菱形朱鷺子
+XMESS_0030,"Shinpei-san, what do you think of Mio?",XMESS_0030,菱形朱鷺子
 XMESS_0031,!?,XMESS_0031,小舟澪
-XMESS_0032,"W-wait! What are you asking, Tokiko?!",XMESS_0032,小舟澪
-XMESS_0033,"…H-how…?
-Well…",XMESS_0033,網代慎平
+XMESS_0032,"W-Wait... wait! What are you asking him, Tokiko!!",XMESS_0032,小舟澪
+XMESS_0033,"...Wh-What do I think of her...? Well, obviously...",XMESS_0033,網代慎平
 XMESS_0034,…,XMESS_0034,小舟澪
 XMESS_0035,Of course I care about her.,XMESS_0035,網代慎平
 XMESS_0036,As family.,XMESS_0036,網代慎平
-XMESS_0037,As family?~.,XMESS_0037,菱形朱鷺子
-XMESS_0038,"Hey!
-You too, Tokiko!!
-Stop asking weird stuff!!",XMESS_0038,小舟澪
-XMESS_0039,"Gokhon!
-Shinpei…!",XMESS_0039,菱形窓
-XMESS_0040,"I just got a call from Dad.
-After the fireworks and the Sea Send-off ceremony, the Karikiri guy's body will be empty!",XMESS_0040,菱形窓
-XMESS_0041,Okay… then until then--,XMESS_0041,網代慎平
+XMESS_0037,"As family, huh~~~~.",XMESS_0037,菱形朱鷺子
+XMESS_0038,"Hey! Jeez, Tokiko!! Stop asking weird things!!",XMESS_0038,小舟澪
+XMESS_0039,*Ahem*! Shinpei...!,XMESS_0039,菱形窓
+XMESS_0040,I just got a call from my dad. He said Karikiri-san will be free after the fireworks and the Umi-okuri ceremony!,XMESS_0040,菱形窓
+XMESS_0041,Alright... then until then--,XMESS_0041,網代慎平
 XMESS_0042,!?,XMESS_0042,網代慎平
 XMESS_0043,…?,XMESS_0043,菱形窓
 XMESS_0044,"What's wrong, Shinpei?!",XMESS_0044,菱形窓
-XMESS_0045,…I-I just saw her over there…,XMESS_0045,網代慎平
-XMESS_0046,(That silhouette… Ushio?),XMESS_0046,網代慎平
-XMESS_0047,"(That shouldn't be…
-I think it's a mistake, but…)",XMESS_0047,網代慎平
-XMESS_0048,"Shouldn't you be going inside the shrine grounds?
-You can see the fireworks better from there.",XMESS_0048,菱形朱鷺子
+XMESS_0045,"...J-Just now, over there...!",XMESS_0045,網代慎平
+XMESS_0046,(That back... Ushio?),XMESS_0046,網代慎平
+XMESS_0047,"(That's impossible... It has to be a mistake, but...)",XMESS_0047,網代慎平
+XMESS_0048,Shall we head up to the shrine grounds? You can see the fireworks well from there.,XMESS_0048,菱形朱鷺子
 XMESS_0049,…,XMESS_0049,網代慎平
-MSTD_0179-0,The silhouette is bothering me,MSTD_0179-0,
-MSTD_0179-1,It's probably just my imagination,MSTD_0179-1,
-XMESS_0050,"…Sorry, I'll go ahead.",XMESS_0050,網代慎平
+MSTD_0179-0,I'm curious about that person's back,MSTD_0179-0,
+MSTD_0179-1,It's probably just my imagination.,MSTD_0179-1,
+XMESS_0050,"...Sorry, you guys go on ahead.",XMESS_0050,網代慎平
 XMESS_0051,…!,XMESS_0051,小舟澪
-XMESS_0052,Oh… Hey Shinpei?!,XMESS_0052,菱形窓
-XMESS_0053,"Sou!!
-I'm counting on you for Mio!!",XMESS_0053,網代慎平
-XMESS_0054,"Sorry!!
-I'm going through!! Sorry!!",XMESS_0054,網代慎平
+XMESS_0052,"H-Hey, Shinpei!!?",XMESS_0052,菱形窓
+XMESS_0053,Sou!! Take care of Mio!!!!,XMESS_0053,網代慎平
+XMESS_0054,Excuse me! C-Coming through... sorry!!,XMESS_0054,網代慎平
 XMESS_0055,(Ushio…!),XMESS_0055,網代慎平

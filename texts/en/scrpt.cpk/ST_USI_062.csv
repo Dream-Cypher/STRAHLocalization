@@ -1,102 +1,56 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,52. Hiruko Cave,XCHAPTITLE_0002,
 XCOMMENTVIEW_0013,Hizuru Minakata,XCOMMENTVIEW_0013,
-XMESS_0000,"I can see the iron bars.
-It seems to be a dead end ahead.",XMESS_0000,南方ひづる（ポニテ）
-XMESS_0001,"The shadows came from this direction…
-Maybe it's a secret passage just for them.",XMESS_0001,根津銀次郎
-XMESS_0002,"This confirms it.
-The shadows are moving through the underground tunnels
-like the sewers.",XMESS_0002,南方ひづる（ポニテ）
-XMESS_0003,"Hmm… and the underground here
-has been dug up so many times by the military…",XMESS_0003,根津銀次郎
-XMESS_0004,"No one can even tell its full shape anymore…
-There could be countless secret passages.",XMESS_0004,根津銀次郎
-XMESS_0005,"But what do we do?
-We don't have any tools to cut through the bars…",XMESS_0005,南方ひづる（ポニテ）
-XMESS_0006,"Should we go back and find another entrance?
-According to the map, it should be near the center of the island.",XMESS_0006,南方ひづる（ポニテ）
-XMESS_0007,"No… probably there's no entrance.
-At least, not one a person could use.",XMESS_0007,根津銀次郎
-XMESS_0008,"Look here.
-This part isn't part of the sewer…
-Probably a natural cave that was here originally.",XMESS_0008,根津銀次郎
-XMESS_0009,…I can't believe it actually exists… 'Hiruko Cave'…,XMESS_0009,根津銀次郎
+XMESS_0000,I can see iron bars. It seems this is a dead end.,XMESS_0000,南方ひづる（ポニテ）
+XMESS_0001,The Shadows came from this direction... Is this a secret passage just for them?,XMESS_0001,根津銀次郎
+XMESS_0002,This makes it clear. The Shadows have been using the sewers and underground tunnels to move around the island.,XMESS_0002,南方ひづる（ポニテ）
+XMESS_0003,Hmm... and the underground around here has been dug up over and over by the military...,XMESS_0003,根津銀次郎
+XMESS_0004,No one knows its full extent anymore... It wouldn't be strange if there were countless secret passages like this.,XMESS_0004,根津銀次郎
+XMESS_0005,But what should we do? We don't have tools to cut steel bars...,XMESS_0005,南方ひづる（ポニテ）
+XMESS_0006,"Should we go up and look for another entrance? According to the map, we're right around the middle of the island.",XMESS_0006,南方ひづる（ポニテ）
+XMESS_0007,"No... there probably aren't any entrances or exits. At least, none that a person could pass through...",XMESS_0007,根津銀次郎
+XMESS_0008,Look. What's past there isn't the sewer... It's probably a natural cave that was originally here.,XMESS_0008,根津銀次郎
+XMESS_0009,…Hiruko Cave really existed...,XMESS_0009,根津銀次郎
 XMESS_0010,Eh?,XMESS_0010,南方ひづる（ポニテ）
-XMESS_0011,"When I was a kid, my grandfather told me stories…",XMESS_0011,根津銀次郎
-XMESS_0012,"There's a huge hollow space
-underneath Hitogashima Island…
-That's Hiruko Cave.",XMESS_0012,根津銀次郎
-XMESS_0013,"Until the mid-Meiji period,
-there was an entrance that appeared only during low tide
-near Hitogashima Port.",XMESS_0013,根津銀次郎
-XMESS_0014,"During the Sino-Japanese War…
-The military sealed it during port renovations…",XMESS_0014,根津銀次郎
-XMESS_0015,"This island's legend… I thought it was just a story…
-Long ago, it's said that Hiruko-sama,
-the island's guardian deity,
-arrived here and settled.",XMESS_0015,根津銀次郎
-XMESS_0016,"The Hiruko legend…
-You should know it well, Mio.
-Shall we switch?",XMESS_0016,南方ひづる（ポニテ）
-XMESS_0017,"Stop it!
-…Not now…",XMESS_0017,根津銀次郎
-XMESS_0018,"You could ask Karikiri's descendant…
-If his father were alive…
-He might know something.",XMESS_0018,根津銀次郎
-XMESS_0019,"Either way,
-we'll need a plasma cutter to get through.
-Let's go back first--",XMESS_0019,根津銀次郎
+XMESS_0011,It's a story I heard from my grandpa when I was a kid...,XMESS_0011,根津銀次郎
+XMESS_0012,He said there was a massive cavern lying beneath Hitogashima Island... That's Hiruko Cave.,XMESS_0012,根津銀次郎
+XMESS_0013,"Apparently, until the mid-Meiji period, there was an entrance near Hitogashima Port that only appeared at low tide.",XMESS_0013,根津銀次郎
+XMESS_0014,During the First Sino-Japanese War... The army supposedly sealed it up when they renovated the port—,XMESS_0014,根津銀次郎
+XMESS_0015,"This island's legend... I thought it was just a made-up story— But it's <color=#GF_TIPS_054>the place where the guardian deity of Hitogashima, Hiruko-sama, is said to have settled after washing ashore</color> long ago.",XMESS_0015,根津銀次郎
+XMESS_0016,The Hiruko legend... My sister should know a lot about it. Shall we switch?,XMESS_0016,南方ひづる（ポニテ）
+XMESS_0017,Don't! …Not right now…,XMESS_0017,根津銀次郎
+XMESS_0018,We could try asking Karikiri's son... If his old man were still alive... He might've known something.,XMESS_0018,根津銀次郎
+XMESS_0019,"Either way, we'll need a hacksaw to get through here. Let's head back for now—",XMESS_0019,根津銀次郎
 XMESS_0020,"…Shh!
 Be quiet…",XMESS_0020,南方ひづる（ポニテ）
 XCOMMENTVIEW_0105,Mio Kofune,XCOMMENTVIEW_0105,
-XMESS_0021,"Hey! Let's go back already!
-There's no way we're staying here…",XMESS_0021,凸村哲
-XMESS_0022,"I must've misseen it!! 
-You saw it too, right, Tetsu-san?",XMESS_0022,小舟澪
-XMESS_0023,"Ugh… 
-The stench of the sewers is all over me…
-You should take a bath before going to Miyako…",XMESS_0023,凸村哲
-XMESS_0024,"Ugh!
-I'll tell Erika that you were reliable!",XMESS_0024,小舟澪
-XMESS_0025,"Huh!?
-You're serious!?",XMESS_0025,凸村哲
-XMESS_0026,"…I was going to say that, but
-it seems this way is a dead end.
-There's an iron gate.",XMESS_0026,凸村哲
+XMESS_0021,"Heey, let's just go back already! There's no way she's in a place like this...",XMESS_0021,凸村哲
+XMESS_0022,"What I saw wasn't a mistake!! You saw it too, right, Tetsu-san!",XMESS_0022,小舟澪
+XMESS_0023,"Ahhh, geez... Now I smell like nasty sewage... I'm gonna have to take a bath before going to Miyako...",XMESS_0023,凸村哲
+XMESS_0024,Jeez! I'll be sure to tell Erika-san how reliable Tetsu-san was!,XMESS_0024,小舟澪
+XMESS_0025,Eh! Really!?,XMESS_0025,凸村哲
+XMESS_0026,"…Is what I'd like to say, but it looks like it's a dead end up ahead. There's an iron gate.",XMESS_0026,凸村哲
 XMESS_0027,…,XMESS_0027,シオリ（ハイネ）
-XMESS_0028,Shiori!!,XMESS_0028,小舟澪
-XMESS_0029,"No…!!
-Wait, Mio!",XMESS_0029,凸村哲
-XMESS_0030,"How?!
-How are we getting past the gate--",XMESS_0030,凸村哲
+XMESS_0028,Shiori-chan!!,XMESS_0028,小舟澪
+XMESS_0029,"Hold on a sec, Mio-chan!",XMESS_0029,凸村哲
+XMESS_0030,How did she...? How did she get to the other side of the gate—,XMESS_0030,凸村哲
 XMESS_0031,!!,XMESS_0031,小舟澪
-XMESS_0032,Blinding…!?,XMESS_0032,凸村哲
-XMESS_0033,Oh…!,XMESS_0033,小舟澪
-XMESS_0034,"W-What was that!?
-The iron gate just vanished!!",XMESS_0034,凸村哲
+XMESS_0032,So bright...!?,XMESS_0032,凸村哲
+XMESS_0033,Ah...!,XMESS_0033,小舟澪
+XMESS_0034,Wh... What was that!? The iron gate vanished in an instant...!!?,XMESS_0034,凸村哲
 XMESS_0035,…,XMESS_0035,シオリ（ハイネ）
-XMESS_0036,Bad…,XMESS_0036,シオリ（ハイネ）
-XMESS_0037,"Wait!!
-Shiori!!",XMESS_0037,小舟澪
-XMESS_0038,Are we dreaming…?,XMESS_0038,凸村哲
-XMESS_0039,…,XMESS_0039,小舟澪
-XMESS_0040,"Huh!?
-Go! Mio!",XMESS_0040,凸村哲
-XMESS_0041,No way…!,XMESS_0041,凸村哲
+XMESS_0036,Tastes bad...,XMESS_0036,シオリ（ハイネ）
+XMESS_0037,Wait!! Shiori-chan...!!,XMESS_0037,小舟澪
+XMESS_0038,Are we dreaming?,XMESS_0038,凸村哲
+XMESS_0039,...!,XMESS_0039,小舟澪
+XMESS_0040,Eh!? Yer going!? Mio-chan!!,XMESS_0040,凸村哲
+XMESS_0041,You gotta be kidding me...!,XMESS_0041,凸村哲
 XCOMMENTVIEW_0221,Hizuru Minakata,XCOMMENTVIEW_0221,
 XMESS_0042,…,XMESS_0042,南方ひづる（ポニテ）
-XMESS_0043,"…Hey, what just happened…",XMESS_0043,根津銀次郎
-XMESS_0044,"Mio Kofune… and Officer Tetsu…
-You mistook her for a B-cup…",XMESS_0044,南方ひづる（ポニテ）
-XMESS_0045,"No!! 
-What I mean is,
-the shadow made the bars disappear!!",XMESS_0045,根津銀次郎
-XMESS_0046,"…Maybe it hit the mark.
-Her bad feeling…",XMESS_0046,南方ひづる（ポニテ）
-XMESS_0047,"I wouldn't go.
-It's a trap.",XMESS_0047,根津銀次郎
-XMESS_0048,"But at least Mio is human.
-She has immunity.",XMESS_0048,南方ひづる（ポニテ）
-XMESS_0049,"…Tch!
-I don't know if a ghost or a snake will come out.",XMESS_0049,根津銀次郎
+XMESS_0043,"…Hey, just now…",XMESS_0043,根津銀次郎
+XMESS_0044,Mio Kofune-san... and Officer Tetsu Totsumura. The one who mistook my sister for an H-cup...,XMESS_0044,南方ひづる（ポニテ）
+XMESS_0045,No!! I'm talking about the Shadow that made the iron gate disappear!!!,XMESS_0045,根津銀次郎
+XMESS_0046,…Maybe it was right on the mark. My sister's bad feeling...,XMESS_0046,南方ひづる（ポニテ）
+XMESS_0047,I wouldn't follow them. It's a trap.,XMESS_0047,根津銀次郎
+XMESS_0048,But at least Mio-san is human. She has immunity.,XMESS_0048,南方ひづる（ポニテ）
+XMESS_0049,…Tch! Don't blame me... whatever comes out of there.,XMESS_0049,根津銀次郎

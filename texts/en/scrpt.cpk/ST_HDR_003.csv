@@ -1,356 +1,253 @@
 source,target,id,developer_comments
 XCHAPTITLE_0022,3. Will a Demon or a Snake Appear?,XCHAPTITLE_0022,
-XCOMMENTVIEW_0036,July 7th,XCOMMENTVIEW_0036,
-XMESS_0000,"Nezu-san, where could they be?",XMESS_0000,ウシオ
-XMESS_0001,"The teacher said Nezu-san
-might be nearby.",XMESS_0001,網代慎平
-XMESS_0002,"When the teacher went into the forest,
-on the way to Haine's place…",XMESS_0002,網代慎平
-XMESS_0003,"They should have met Nezu-san somewhere along the way.
-That means if we just go down the mountain--",XMESS_0003,網代慎平
+XCOMMENTVIEW_0036,2026-07-07 00:00:00,XCOMMENTVIEW_0036,
+XMESS_0000,Where could Nezu-san be?,XMESS_0000,ウシオ
+XMESS_0001,"Nagumo-sensei said Nezu-san ""might be nearby.""",XMESS_0001,網代慎平
+XMESS_0002,On the way from when Nagumo-sensei entered the forest to when she reached Haine…,XMESS_0002,網代慎平
+XMESS_0003,She must have met Nezu-san somewhere along there. That means if we just head down the mountain—,XMESS_0003,網代慎平
 XMESS_0004,…,XMESS_0004,根津銀次郎（１４年前）
-XMESS_0005,…there they are!!,XMESS_0005,網代慎平
-XMESS_0006,"We did it!
-This place is right next to the old infirmary!",XMESS_0006,ウシオ
-XMESS_0007,"Phew… Today's snake removal
-should be enough.",XMESS_0007,根津銀次郎（１４年前）
-XMESS_0008,"(Please, my voice… reach them!!)",XMESS_0008,網代慎平
+XMESS_0005,…There he is!!,XMESS_0005,網代慎平
+XMESS_0006,We found him! We're really close to the old clinic here!,XMESS_0006,ウシオ
+XMESS_0007,Phew… That should be enough pit viper extermination for today.,XMESS_0007,根津銀次郎（１４年前）
+XMESS_0008,"(Please, my voice… reach him!!)",XMESS_0008,網代慎平
 MSTD_0065-0,"""Can you hear me!?""",MSTD_0065-0,
-MSTD_0065-1,"""Please help me!""",MSTD_0065-1,
-MSTD_0065-2,"""Someone's being killed!""",MSTD_0065-2,
-XMESS_0009,"Nezu-san, can you hear me!?
-Nezu-san!!",XMESS_0009,網代慎平
-XMESS_0010,"Today, the animals are
-especially restless.",XMESS_0010,根津銀次郎（１４年前）
-XMESS_0011,"Nezu-san!!
-Heyyy Nezu-san!!",XMESS_0011,ウシオ
-XMESS_0012,"Nezu-san!!
-Can you hear me?!",XMESS_0012,網代慎平
-XMESS_0013,"Well, what is it?",XMESS_0013,根津銀次郎（１４年前）
-XMESS_0014,"Damn… No matter how loud I shout,
-they won't notice.",XMESS_0014,網代慎平
-XMESS_0015,"Nezu-san, please help me!",XMESS_0015,網代慎平
+MSTD_0065-1,"""Please help!""",MSTD_0065-1,
+MSTD_0065-2,"""Someone is going to be killed!""",MSTD_0065-2,
+XMESS_0009,"Nezu-san, can you hear me!? Nezu-san!!",XMESS_0009,網代慎平
+XMESS_0010,The animals are awfully restless today.,XMESS_0010,根津銀次郎（１４年前）
+XMESS_0011,Nezu-san!! Ne-zu-saaaaan!!,XMESS_0011,ウシオ
+XMESS_0012,Nezu-san!! Can you heeeear me?!,XMESS_0012,網代慎平
+XMESS_0013,"Well, I suppose it's about time to head home.",XMESS_0013,根津銀次郎（１４年前）
+XMESS_0014,"Damn it… No matter how loud I shout, he won't notice.",XMESS_0014,網代慎平
+XMESS_0015,"Nezu-san, please help!",XMESS_0015,網代慎平
 XMESS_0016,Nezu-san!!,XMESS_0016,網代慎平
-XMESS_0017,Huh? What's that?,XMESS_0017,根津銀次郎（１４年前）
-XMESS_0018,"You're throwing trash here?
-This isn't a garbage dump.",XMESS_0018,根津銀次郎（１４年前）
-XMESS_0019,"Nezu-san, over here, over here!
-Look this way!",XMESS_0019,ウシオ
-XMESS_0020,"That girl I met earlier…
-Was she from the Minakata family?",XMESS_0020,根津銀次郎（１４年前）
-XMESS_0021,"…She's so careless, walking alone in the mountains.
-She might get bitten by a snake.",XMESS_0021,根津銀次郎（１４年前）
-XMESS_0022,"That Hizuru is in trouble!
-Go help her right away!",XMESS_0022,ウシオ
-XMESS_0023,"Please!
-She's being attacked by a monster!",XMESS_0023,網代慎平
+XMESS_0017,"Hm, what's this?",XMESS_0017,根津銀次郎（１４年前）
+XMESS_0018,Throwing trash even in a place like this. The mountain isn't a garbage dump.,XMESS_0018,根津銀次郎（１４年前）
+XMESS_0019,"Nezu-san, over here, over here! Look this way!",XMESS_0019,ウシオ
+XMESS_0020,That girl I met earlier… Was she the Minakata family's daughter?,XMESS_0020,根津銀次郎（１４年前）
+XMESS_0021,"…Jeez, walking through the mountains completely defenseless. Don't come crying to me if you get bitten by a pit viper.",XMESS_0021,根津銀次郎（１４年前）
+XMESS_0022,That Hizuru is in trouble! Hurry up and go help her!,XMESS_0022,ウシオ
+XMESS_0023,Please! They're being attacked by a dangerous monster!,XMESS_0023,網代慎平
 XMESS_0024,…,XMESS_0024,根津銀次郎（１４年前）
 XMESS_0025,Nezu-san!!,XMESS_0025,網代慎平
-XMESS_0026,No good… They're not hearing anything.,XMESS_0026,ウシオ
-XMESS_0027,"Nezu-san!
-Someone's being killed!",XMESS_0027,網代慎平
-XMESS_0028,They're about to be killed by a monster!,XMESS_0028,網代慎平
-XMESS_0029,"(The teacher and Ryunosuke also reacted strongly
-to the word ""being killed"")",XMESS_0029,網代慎平
-XMESS_0030,(What if Nezu-san is also…),XMESS_0030,網代慎平
+XMESS_0026,"It's no use, he can't hear us at all.",XMESS_0026,ウシオ
+XMESS_0027,Nezu-san! Someone's going to be killed!,XMESS_0027,網代慎平
+XMESS_0028,They're about to be killed by a monster right now!,XMESS_0028,網代慎平
+XMESS_0029,"(Nagumo-sensei and Ryunosuke both reacted strongly to the word ""killed."")",XMESS_0029,網代慎平
+XMESS_0030,(Maybe Nezu-san will too...!),XMESS_0030,網代慎平
 XMESS_0031,…,XMESS_0031,根津銀次郎（１４年前）
 XMESS_0032,Nezu-san!,XMESS_0032,網代慎平
-XMESS_0033,(It's no good… They can't hear me),XMESS_0033,網代慎平
-XMESS_0034,"If we keep this up, Hizuru and the others
-will be eaten by the monster!",XMESS_0034,ウシオ
-XMESS_0035,"Please!
-Save Hizuru and the others!",XMESS_0035,ウシオ
-XMESS_0036,No good… They're not hearing anything at all…,XMESS_0036,網代慎平
-XMESS_0037,"(The items Nezu-san has are
-a pet bottle with a snake and a capture stick,
-plus… a knife on his waist)",XMESS_0037,網代慎平
-XMESS_0038,Oh!,XMESS_0038,網代慎平
+XMESS_0033,(It's no use… He can't hear me.),XMESS_0033,網代慎平
+XMESS_0034,"At this rate, Hizuru and the others are going to be eaten by the monster!",XMESS_0034,ウシオ
+XMESS_0035,Please! Help Hizuru and the others!,XMESS_0035,ウシオ
+XMESS_0036,"It's no good, he can't hear us at all…",XMESS_0036,網代慎平
+XMESS_0037,"(Nezu-san's belongings are a plastic bottle with pit vipers in it, a capture stick, and… a knife hanging at his waist.)",XMESS_0037,網代慎平
+XMESS_0038,Ah!,XMESS_0038,網代慎平
 XMESS_0039,What's with the sudden loud voice?,XMESS_0039,ウシオ
 XMESS_0040,Nezu-san doesn't have a hunting rifle…,XMESS_0040,網代慎平
 XMESS_0041,"Huh? Oh, why!?",XMESS_0041,ウシオ
-XMESS_0042,I see… It's still the hunting ban season.,XMESS_0042,網代慎平
-XMESS_0043,He wouldn't have a rifle with him anyway.,XMESS_0043,網代慎平
-XMESS_0044,(The shadows approaching the teacher are two…),XMESS_0044,網代慎平
-XMESS_0045,"(Even without a rifle,
-I need Nezu-san's help with the knife…)",XMESS_0045,網代慎平
-XMESS_0046,"Shinpei, the shadow's presence is getting stronger!",XMESS_0046,ウシオ
-XMESS_0047,"Hizuru and the others
-might have been found!",XMESS_0047,ウシオ
-XMESS_0048,Damn… Let's go back for now!,XMESS_0048,網代慎平
-XMESS_0049,Can't we take Nezu-san with us!?,XMESS_0049,ウシオ
-XMESS_0050,It's impossible if they can't hear us!,XMESS_0050,網代慎平
-XMESS_0051,"It might be difficult,
-but we have no choice
-but to try to lead them here!",XMESS_0051,網代慎平
+XMESS_0042,"I see… Seasonally, it's still the closed hunting season.",XMESS_0042,網代慎平
+XMESS_0043,There's no way he'd be carrying a hunting rifle around.,XMESS_0043,網代慎平
+XMESS_0044,(There are two shadows approaching Nagumo-sensei and Ryunosuke…),XMESS_0044,網代慎平
+XMESS_0045,"(Even without a hunting rifle, we need Nezu-san's help with his knife, no matter what…)",XMESS_0045,網代慎平
+XMESS_0046,"Shinpei, the shadows' presence is getting stronger!",XMESS_0046,ウシオ
+XMESS_0047,Hizuru and Ryunosuke might have been found!,XMESS_0047,ウシオ
+XMESS_0048,Damn it… Let's go back for now!,XMESS_0048,網代慎平
+XMESS_0049,Aren't we taking Nezu-san with us?!,XMESS_0049,ウシオ
+XMESS_0050,It's impossible since our voices aren't reaching him!,XMESS_0050,網代慎平
+XMESS_0051,"It might be difficult, but we have no choice but to somehow guide Nagumo-sensei and Ryunosuke here!",XMESS_0051,網代慎平
 XMESS_0052,Got it!,XMESS_0052,ウシオ
-XMESS_0053,…I'm weak…,XMESS_0053,南方ひづる（過去）
-XMESS_0054,What? What?,XMESS_0054,野良の影Ａ
-XMESS_0055,Sister… who are they?,XMESS_0055,南方竜之介
+XMESS_0053,Ugh…,XMESS_0053,南方ひづる（過去）
+XMESS_0054,Daena? Daena?,XMESS_0054,野良の影Ａ
+XMESS_0055,Onee-chan… what are those things?,XMESS_0055,南方竜之介
 XMESS_0056,I don't know…,XMESS_0056,南方ひづる（過去）
-XMESS_0057,"Thank goodness…
-They might have found them,
-but they haven't been attacked yet!",XMESS_0057,ウシオ
-XMESS_0058,Sniff… sniff…,XMESS_0058,野良の影Ｂ
-XMESS_0059,"(One of the two is focused on the teacher…
-but…)",XMESS_0059,網代慎平
-XMESS_0060,(The other is focused on a mouse…),XMESS_0060,網代慎平
-XMESS_0061,(Maybe we can still escape!),XMESS_0061,網代慎平
-XMESS_0062,"Teacher, can you hear me!?",XMESS_0062,網代慎平
-XMESS_0063,"Let's move from here!
-If we go east, there's Nezu, the hunter!",XMESS_0063,網代慎平
-XMESS_0064,"…Ryunosuke, stay still here.",XMESS_0064,南方ひづる（過去）
-XMESS_0065,Huh… They're not hearing it?,XMESS_0065,網代慎平
-XMESS_0066,Sister… what are you planning?,XMESS_0066,南方竜之介
-XMESS_0067,"I'll try to drive them away
-somehow.",XMESS_0067,南方ひづる（過去）
-XMESS_0068,"It seems they're not hearing me!
-What do we do, Shinpei!?",XMESS_0068,ウシオ
-XMESS_0069,"(The shadows are focused on them,
-so they're not paying attention to our voices!)",XMESS_0069,網代慎平
+XMESS_0057,"Thank goodness…! It looks like they've been found, but they haven't been attacked yet!",XMESS_0057,ウシオ
+XMESS_0058,*Sniff… sniff…*,XMESS_0058,野良の影Ｂ
+XMESS_0059,"(One of the two is focused on Nagumo-sensei and Ryunosuke, but…)",XMESS_0059,網代慎平
+XMESS_0060,(The other's attention is on a mouse…),XMESS_0060,網代慎平
+XMESS_0061,(Maybe they can somehow manage to escape!),XMESS_0061,網代慎平
+XMESS_0062,"Nagumo-sensei, can you hear me!?",XMESS_0062,網代慎平
+XMESS_0063,"Let's move from here! If you head down towards the east, the hunter Nezu-san is there!",XMESS_0063,網代慎平
+XMESS_0064,"…Ryunosuke, stay right here.",XMESS_0064,南方ひづる（過去）
+XMESS_0065,Huh… Can she not hear me?,XMESS_0065,網代慎平
+XMESS_0066,Onee-chan… what are you going to do?,XMESS_0066,南方竜之介
+XMESS_0067,I'll try to find a way to drive them off.,XMESS_0067,南方ひづる（過去）
+XMESS_0068,"It seems she really can't hear you! What do we do, Shinpei?!",XMESS_0068,ウシオ
+XMESS_0069,(Is she so focused on the shadows that she's not paying attention to our voices?!),XMESS_0069,網代慎平
 XMESS_0070,Tekyara!!!,XMESS_0070,野良の影Ａ
-XMESS_0071,"Hizuru, crouch down!!",XMESS_0071,ウシオ
+XMESS_0071,"Hizuru, duck!!",XMESS_0071,ウシオ
 XMESS_0072,…!!,XMESS_0072,南方ひづる（過去）
-XMESS_0073,What!?,XMESS_0073,野良の影Ａ
-XMESS_0074,"(Great!
-She crouched down and avoided it properly!)",XMESS_0074,網代慎平
-XMESS_0075,There!!,XMESS_0075,野良の影Ａ
+XMESS_0073,Ona!?,XMESS_0073,野良の影Ａ
+XMESS_0074,(Yes! She ducked and dodged it!),XMESS_0074,網代慎平
+XMESS_0075,Hore!!,XMESS_0075,野良の影Ａ
 XMESS_0076,"Hizuru, to the right!!",XMESS_0076,ウシオ
 XMESS_0077,Ugh…!,XMESS_0077,南方ひづる（過去）
-XMESS_0078,No way!?,XMESS_0078,野良の影Ａ
-XMESS_0079,"You idiot!
-You ran into the tree yourself!",XMESS_0079,ウシオ
-XMESS_0080,"(The teacher is avoiding everything…
-maybe the voice is reaching them!)",XMESS_0080,網代慎平
-XMESS_0081,"(It was an accident…
-or maybe Ushio's voice is actually reaching them?)",XMESS_0081,網代慎平
-XMESS_0082,Uu…!,XMESS_0082,野良の影Ａ
-XMESS_0083,"It's our chance!
-He's writhing in the tree!",XMESS_0083,ウシオ
-XMESS_0084,Then I'll do it too!!,XMESS_0084,ウシオ
-XMESS_0085,…What?,XMESS_0085,ウシオ
-XMESS_0086,It seems my attack isn't hitting.,XMESS_0086,ウシオ
-XMESS_0087,"Ah…
-It seems we can't do anything to the shadows.",XMESS_0087,網代慎平
-XMESS_0088,"But earlier, Ushio's voice
-did reach them, right?",XMESS_0088,網代慎平
-XMESS_0089,"Yeah, I felt the same.",XMESS_0089,ウシオ
-XMESS_0090,"We don't know what will trigger it.
-Let's keep trying to call out.",XMESS_0090,網代慎平
-XMESS_0091,Uu… uud…,XMESS_0091,野良の影Ａ
-XMESS_0092,"This monster…
-is really aggressive.
-It's fast and troublesome.",XMESS_0092,南方ひづる（過去）
-XMESS_0093,"Sniff, sniff sniff.",XMESS_0093,網代慎平
-XMESS_0094,"Teacher, go east!
-Run east!!",XMESS_0094,網代慎平
-XMESS_0095,…A voice from straw?,XMESS_0095,南方ひづる（過去）
-XMESS_0096,"If you go east,
-there's Nezu, the hunter!",XMESS_0096,網代慎平
-XMESS_0097,"East… direction?
-So you're telling me to run east?",XMESS_0097,南方ひづる（過去）
-XMESS_0098,"Yes!
-Hurry and go east!",XMESS_0098,網代慎平
-XMESS_0099,"Sister, I can go.",XMESS_0099,南方竜之介
-XMESS_0100,"You look pale.
-Are you really okay?",XMESS_0100,南方ひづる（過去）
-XMESS_0101,"If I'm attacked by that thing…
-I can endure the pain in my leg.",XMESS_0101,南方竜之介
+XMESS_0078,Beh!?,XMESS_0078,野良の影Ａ
+XMESS_0079,What an idiot! It crashed right into the tree on its own!,XMESS_0079,ウシオ
+XMESS_0080,(Nagumo-sensei is dodging everything…!),XMESS_0080,網代慎平
+XMESS_0081,(Is it a coincidence…? Or… is Ushio's voice actually reaching her?),XMESS_0081,網代慎平
+XMESS_0082,Uuu…!,XMESS_0082,野良の影Ａ
+XMESS_0083,Now's our chance! It's writhing around after crashing into the tree!,XMESS_0083,ウシオ
+XMESS_0084,"Alright then, I'll have a go at it too!!",XMESS_0084,ウシオ
+XMESS_0085,…Huh?,XMESS_0085,ウシオ
+XMESS_0086,It seems my attacks really don't hit.,XMESS_0086,ウシオ
+XMESS_0087,Yeah… It looks like it's impossible for us to do anything about the shadows.,XMESS_0087,網代慎平
+XMESS_0088,"But Ushio's voice reached her just fine earlier, right?",XMESS_0088,網代慎平
+XMESS_0089,"Yeah, I felt like it did too.",XMESS_0089,ウシオ
+XMESS_0090,We don't know what the trigger is. Let's keep calling out without giving up.,XMESS_0090,網代慎平
+XMESS_0091,Oda… ouda…,XMESS_0091,野良の影Ａ
+XMESS_0092,This monster… is pretty ferocious. It's fast and troublesome.,XMESS_0092,南方ひづる（過去）
+XMESS_0093,(Nagumo-sensei is regaining her composure. Maybe my voice will reach her now!),XMESS_0093,網代慎平
+XMESS_0094,"Nagumo-sensei, go east! Please run east!!",XMESS_0094,網代慎平
+XMESS_0095,…Straw's voice?,XMESS_0095,南方ひづる（過去）
+XMESS_0096,"If you head down east, the hunter Nezu-san is there!",XMESS_0096,網代慎平
+XMESS_0097,East… direction? You're telling us to run east?,XMESS_0097,南方ひづる（過去）
+XMESS_0098,That's right! Please hurry and head east!,XMESS_0098,網代慎平
+XMESS_0099,"Onee-chan, I… I can go.",XMESS_0099,南方竜之介
+XMESS_0100,You look pale. Are you really okay?,XMESS_0100,南方ひづる（過去）
+XMESS_0101,I'd rather endure… the pain in my legs… than be attacked by that thing.,XMESS_0101,南方竜之介
 XMESS_0102,…,XMESS_0102,南方ひづる（過去）
-XMESS_0103,Snif… sniff-sniff.,XMESS_0103,野良の影Ｂ
-XMESS_0104,"That monster…
-might react to moving things.",XMESS_0104,南方ひづる（過去）
-XMESS_0105,"It's either territorial awareness
-or hunting instinct.",XMESS_0105,南方ひづる（過去）
-XMESS_0106,"Well, either way.
-If that's the case!",XMESS_0106,南方ひづる（過去）
-XMESS_0107,"Huh…!?
-Pulling out a snake from the bushes--",XMESS_0107,網代慎平
-XMESS_0108,Threw it at the shadow!?,XMESS_0108,ウシオ
-XMESS_0109,There's the perfect prey.,XMESS_0109,南方ひづる（過去）
-XMESS_0110,Yikes!!,XMESS_0110,野良の影Ａ
-XMESS_0111,(The snake is distracting the shadow to buy time!),XMESS_0111,網代慎平
-XMESS_0112,"Keep playing with the snake.
-Go, Ryunosuke!",XMESS_0112,南方ひづる（過去）
-XMESS_0113,Hah… hah… Yeah!,XMESS_0113,南方竜之介
-XMESS_0114,"Ryunosuke, can you still go?",XMESS_0114,南方ひづる（過去）
-XMESS_0115,"Zee, zee… uh, um…",XMESS_0115,南方竜之介
-XMESS_0116,(Ryunosuke's about to reach his limit…),XMESS_0116,網代慎平
-XMESS_0117,"Ushio, is the shadow catching up?",XMESS_0117,網代慎平
+XMESS_0103,"*Sniff, sniff sniff.*",XMESS_0103,野良の影Ｂ
+XMESS_0104,That monster… might react to moving things.,XMESS_0104,南方ひづる（過去）
+XMESS_0105,Territorial instinct… or maybe hunting instinct.,XMESS_0105,南方ひづる（過去）
+XMESS_0106,"Well, either is fine. If that's the case!",XMESS_0106,南方ひづる（過去）
+XMESS_0107,Huh…!? She dragged a pit viper out of the bushes—,XMESS_0107,網代慎平
+XMESS_0108,And threw it at the shadow?!,XMESS_0108,ウシオ
+XMESS_0109,"Here, the perfect prey for you.",XMESS_0109,南方ひづる（過去）
+XMESS_0110,Byabya!!,XMESS_0110,野良の影Ａ
+XMESS_0111,(She's using the snake to distract the shadow and buy time!),XMESS_0111,網代慎平
+XMESS_0112,"Keep playing with that pit viper. Let's go, Ryunosuke!",XMESS_0112,南方ひづる（過去）
+XMESS_0113,"*Pant, pant*… Yeah!",XMESS_0113,南方竜之介
+XMESS_0114,"Ryunosuke, can you still keep going?",XMESS_0114,南方ひづる（過去）
+XMESS_0115,"*Wheeze, wheeze*… Y-Yeah…",XMESS_0115,南方竜之介
+XMESS_0116,(Ryunosuke looks like he's nearing his limit…),XMESS_0116,網代慎平
+XMESS_0117,"Ushio, is the shadow chasing them?",XMESS_0117,網代慎平
 XMESS_0118,"Yeah, it's definitely getting closer.",XMESS_0118,ウシオ
-XMESS_0119,"Hizuru-san, go right!
-Nezu-san is over there, a bit more to the right!",XMESS_0119,ウシオ
-XMESS_0120,…Right? Over here!,XMESS_0120,南方ひづる（過去）
-XMESS_0121,(Good. Ushio's voice is finally reaching them!),XMESS_0121,網代慎平
+XMESS_0119,"Hizuru-san, go right! Nezu-san was a little further to the right!",XMESS_0119,ウシオ
+XMESS_0120,…Right? This way!,XMESS_0120,南方ひづる（過去）
+XMESS_0121,(Nice. Ushio's voice is starting to reach her too!),XMESS_0121,網代慎平
 XMESS_0122,What was that sound just now…?,XMESS_0122,南方竜之介
-XMESS_0123,I can't see a shadow-like figure…,XMESS_0123,網代慎平
-XMESS_0124,"Ushio, do you know what's happening?!",XMESS_0124,網代慎平
-XMESS_0125,M-Mamushi!?,XMESS_0125,ウシオ
-XMESS_0126,Mamushi?,XMESS_0126,網代慎平
-XMESS_0127,"That thing just ate a Mamushi!
-It's turned into a snake and is chasing us!",XMESS_0127,ウシオ
-XMESS_0128,It's coming!,XMESS_0128,ウシオ
+XMESS_0123,"I can't see anything that looks like a shadow, but…",XMESS_0123,網代慎平
+XMESS_0124,"Ushio, can you tell what's going on?!",XMESS_0124,網代慎平
+XMESS_0125,P-Pit viper…!,XMESS_0125,ウシオ
+XMESS_0126,A pit viper?,XMESS_0126,網代慎平
+XMESS_0127,That thing ate the pit viper from earlier! It turned into a snake and is chasing them!,XMESS_0127,ウシオ
+XMESS_0128,It's here!,XMESS_0128,ウシオ
 XMESS_0129,Is this it?!,XMESS_0129,網代慎平
-XMESS_0130,Ugh… one after another!,XMESS_0130,南方ひづる（過去）
-XMESS_0131,"That was… a Mamushi?
-Nonsense.",XMESS_0131,南方ひづる（過去）
-XMESS_0132,"(It's deforming unnaturally.
-It's not fully copied yet)",XMESS_0132,網代慎平
-XMESS_0133,Shaaaasshh!!,XMESS_0133,野良の影Ａ（蛇）
+XMESS_0130,Jeez… one thing after another!,XMESS_0130,南方ひづる（過去）
+XMESS_0131,Is that… a pit viper? Gross.,XMESS_0131,南方ひづる（過去）
+XMESS_0132,(Its shape is unnaturally distorted. It hasn't been able to copy it perfectly.),XMESS_0132,網代慎平
+XMESS_0133,Hssssss!!,XMESS_0133,野良の影Ａ（蛇）
 XMESS_0134,"Hizuru-san, dodge to the right!",XMESS_0134,ウシオ
 XMESS_0135,Guh…!,XMESS_0135,南方ひづる（過去）
-XMESS_0136,"No good…!
-If we don't move, both of them will be caught!",XMESS_0136,網代慎平
+XMESS_0136,"This is bad…! At this rate, it'll get both of them at once!",XMESS_0136,網代慎平
 XMESS_0137,Get down!!,XMESS_0137,男の声（根津銀次郎）
 XMESS_0138,!?,XMESS_0138,野良の影Ａ（蛇）
-XMESS_0139,(The stone flew and hit the shadow!?),XMESS_0139,網代慎平
-XMESS_0140,"What are you doing!
-It's dangerous to go off the mountain path!",XMESS_0140,根津銀次郎（１４年前）
-XMESS_0141,A hunter…,XMESS_0141,南方ひづる（過去）
-XMESS_0142,"Nezu-san, you came!",XMESS_0142,網代慎平
-XMESS_0143,"Don't let your guard down!
-It's already regaining its stance!",XMESS_0143,ウシオ
-XMESS_0144,Shaaaasshh!!,XMESS_0144,野良の影Ａ（蛇）
-XMESS_0145,"What is this snake…?
-It's strange, isn't it?",XMESS_0145,根津銀次郎（１４年前）
-XMESS_0146,"Be careful.
-It's not just a regular snake.",XMESS_0146,南方ひづる（過去）
-XMESS_0147,"Huh?
-What's going on?",XMESS_0147,根津銀次郎（１４年前）
-XMESS_0148,Shaaaasshh!!,XMESS_0148,野良の影Ａ（蛇）
+XMESS_0139,(A flying stone hit the shadow?!),XMESS_0139,網代慎平
+XMESS_0140,What are you doing! It's dangerous to stray from the mountain path!,XMESS_0140,根津銀次郎（１４年前）
+XMESS_0141,The hunter…,XMESS_0141,南方ひづる（過去）
+XMESS_0142,"Nezu-san, he came!",XMESS_0142,網代慎平
+XMESS_0143,Don't let your guard down! It's already recovered!,XMESS_0143,ウシオ
+XMESS_0144,Hssssss!!,XMESS_0144,野良の影Ａ（蛇）
+XMESS_0145,What's with this snake…! Looking all weird like that.,XMESS_0145,根津銀次郎（１４年前）
+XMESS_0146,Be careful. That's no ordinary snake.,XMESS_0146,南方ひづる（過去）
+XMESS_0147,Huh? What do you mean?,XMESS_0147,根津銀次郎（１４年前）
+XMESS_0148,Hssssss!!,XMESS_0148,野良の影Ａ（蛇）
 XMESS_0149,Whoa!?,XMESS_0149,根津銀次郎（１４年前）
-XMESS_0150,What is this movement!?,XMESS_0150,根津銀次郎（１４年前）
-XMESS_0151,"Ryunosuke, get back and rest.",XMESS_0151,南方ひづる（過去）
-XMESS_0152,Zee… zee…,XMESS_0152,南方竜之介
-XMESS_0153,Ryunosuke-san… he's so weak he can't even respond properly…,XMESS_0153,ウシオ
-XMESS_0154,"Ushio… this is a great opportunity to regroup with Nezu-san.
-We can't waste it.",XMESS_0154,網代慎平
-XMESS_0155,"If we shake off the shadow and run to town,
-Haine, who hates being seen, will probably give up the chase.",XMESS_0155,網代慎平
-XMESS_0156,"We'll help out too.
-Let's try to make it to town!",XMESS_0156,網代慎平
-XMESS_0157,"Yeah, let's do it!",XMESS_0157,ウシオ
-XMESS_0158,Shaa!,XMESS_0158,野良の影Ａ（蛇）
-XMESS_0159,Yah!,XMESS_0159,根津銀次郎（１４年前）
-XMESS_0160,Gii!,XMESS_0160,野良の影Ａ（蛇）
-XMESS_0161,"Even though the size is different,
-It's still a snake.",XMESS_0161,根津銀次郎（１４年前）
-XMESS_0162,"Great job, Nezu-san!
-You caught the snake shadow with the capture pole!",XMESS_0162,ウシオ
-XMESS_0163,"Now, what should we do?
-Maybe we can make Mamushi wine.",XMESS_0163,根津銀次郎（１４年前）
-XMESS_0164,"Not yet!
-Stick it with the knife!",XMESS_0164,網代慎平
-XMESS_0165,Huh? What did you say?,XMESS_0165,根津銀次郎（１４年前）
+XMESS_0150,What's with these movements?!,XMESS_0150,根津銀次郎（１４年前）
+XMESS_0151,"Ryunosuke, step back and rest.",XMESS_0151,南方ひづる（過去）
+XMESS_0152,*Wheeze… wheeze…*,XMESS_0152,南方竜之介
+XMESS_0153,Ryunosuke-san… he's so weak he can barely even answer…,XMESS_0153,ウシオ
+XMESS_0154,Ushio… we can't waste this great opportunity now that they've met up with Nezu-san.,XMESS_0154,網代慎平
+XMESS_0155,"If they shake off the shadow and escape to town, Haine, who hates being seen, should give up the chase.",XMESS_0155,網代慎平
+XMESS_0156,"Let's lend a hand too, and somehow get them to town!",XMESS_0156,網代慎平
+XMESS_0157,"Yeah, let's do this!",XMESS_0157,ウシオ
+XMESS_0158,Hsss!,XMESS_0158,野良の影Ａ（蛇）
+XMESS_0159,Dorya!!,XMESS_0159,根津銀次郎（１４年前）
+XMESS_0160,Gii!?,XMESS_0160,野良の影Ａ（蛇）
+XMESS_0161,"It might look a bit different, but a snake is a snake.",XMESS_0161,根津銀次郎（１４年前）
+XMESS_0162,"Nice, Nezu-san! He managed to catch the shadow snake with his capture stick!",XMESS_0162,ウシオ
+XMESS_0163,"Now, what should I do with it. Can't exactly make pit viper liquor out of it.",XMESS_0163,根津銀次郎（１４年前）
+XMESS_0164,Not yet! Please stab its shadow with your knife!,XMESS_0164,網代慎平
+XMESS_0165,"Hm, did you say something?",XMESS_0165,根津銀次郎（１４年前）
 XMESS_0166,Shadow…?,XMESS_0166,南方ひづる（過去）
-XMESS_0167,G… Gigi gigi gigi!,XMESS_0167,野良の影Ａ
-XMESS_0168,"W-What is this!?
-It's getting bigger and bigger!",XMESS_0168,根津銀次郎（１４年前）
-XMESS_0169,So it was this thing all along.,XMESS_0169,南方ひづる（過去）
-XMESS_0170,"It's attacking!
-Get away from it!",XMESS_0170,南方ひづる（過去）
-XMESS_0171,Giiiiii!,XMESS_0171,野良の影Ａ
-XMESS_0172,Ku…!,XMESS_0172,根津銀次郎（１４年前）
-XMESS_0173,W-What! It's gone!?,XMESS_0173,根津銀次郎（１４年前）
-XMESS_0174,"It's not gone!
-It's hiding somewhere!",XMESS_0174,ウシオ
-XMESS_0175,"It'll attack again soon!
-Stay alert!",XMESS_0175,網代慎平
-XMESS_0176,Ku… where is it!?,XMESS_0176,南方ひづる（過去）
-XMESS_0177,"There it is!
-Up there! On the tree!",XMESS_0177,根津銀次郎（１４年前）
-XMESS_0178,"Be careful!
-It's coming!",XMESS_0178,ウシオ
+XMESS_0167,Gi… Gigigigigi!,XMESS_0167,野良の影Ａ
+XMESS_0168,Wh-What the!? It's getting bigger and bigger?!,XMESS_0168,根津銀次郎（１４年前）
+XMESS_0169,So this was its true form all along.,XMESS_0169,南方ひづる（過去）
+XMESS_0170,It's going to attack! Get away from it!,XMESS_0170,南方ひづる（過去）
+XMESS_0171,Giiiii!!,XMESS_0171,野良の影Ａ
+XMESS_0172,Guh…!,XMESS_0172,根津銀次郎（１４年前）
+XMESS_0173,"Wh-What, it vanished?!",XMESS_0173,根津銀次郎（１４年前）
+XMESS_0174,It didn't vanish! It's hiding somewhere!,XMESS_0174,ウシオ
+XMESS_0175,It'll attack again right away! Stay alert!,XMESS_0175,網代慎平
+XMESS_0176,Guh… where is it?!,XMESS_0176,南方ひづる（過去）
+XMESS_0177,There! Above us! It's in the tree!,XMESS_0177,根津銀次郎（１４年前）
+XMESS_0178,Be careful! It's attacking!,XMESS_0178,ウシオ
 XMESS_0179,Guchora!,XMESS_0179,野良の影Ａ
 XMESS_0180,Whoa!?,XMESS_0180,根津銀次郎（１４年前）
 XMESS_0181,Shuuu…,XMESS_0181,野良の影Ａ
-XMESS_0182,"Crap!
-It almost hit me in the head!",XMESS_0182,根津銀次郎（１４年前）
-XMESS_0183,I'll get you back for that!,XMESS_0183,根津銀次郎（１４年前）
+XMESS_0182,Tch! It almost took my head off.,XMESS_0182,根津銀次郎（１４年前）
+XMESS_0183,I'll return the favor!,XMESS_0183,根津銀次郎（１４年前）
 XMESS_0184,Babe!?,XMESS_0184,野良の影Ａ
-XMESS_0185,This…!,XMESS_0185,南方ひづる（過去）
-XMESS_0186,Gigi…,XMESS_0186,野良の影Ａ
-XMESS_0187,"Even if you hit it with a tree branch or a stone,
-It doesn't seem to be affected much.",XMESS_0187,根津銀次郎（１４年前）
-XMESS_0188,"Indeed… even when it takes a hit,
-Its body deforms but returns to normal after a while.",XMESS_0188,南方ひづる（過去）
-XMESS_0189,It's the shadow! You have to aim for the shadow!,XMESS_0189,ウシオ
-XMESS_0190,"Shadow?
-You said that before…",XMESS_0190,南方ひづる（過去）
-XMESS_0191,Demera!,XMESS_0191,野良の影Ａ
-XMESS_0192,Bek!,XMESS_0192,野良の影Ａ
-XMESS_0193,Gigi gigi gigi!,XMESS_0193,野良の影Ａ
-XMESS_0194,"A monster that was hit with a stone…
-Is it suffering?",XMESS_0194,南方ひづる（過去）
-XMESS_0195,The shadow is its weakness…,XMESS_0195,南方ひづる（過去）
-XMESS_0196,"That's right!
-Attack the shadow on the ground!",XMESS_0196,網代慎平
-XMESS_0197,You have to deal a fatal blow to the shadow!,XMESS_0197,ウシオ
-XMESS_0198,I… I understand…,XMESS_0198,南方ひづる（過去）
-XMESS_0199,Tekyara!,XMESS_0199,野良の影Ａ
+XMESS_0185,Take this…!,XMESS_0185,南方ひづる（過去）
+XMESS_0186,Gigi…!,XMESS_0186,野良の影Ａ
+XMESS_0187,Even getting slammed into a tree or hit with a stone doesn't do much to it?,XMESS_0187,根津銀次郎（１４年前）
+XMESS_0188,"It's true… even if the impact deforms its body, it goes back to normal after a while.",XMESS_0188,南方ひづる（過去）
+XMESS_0189,The shadow! You have to aim for the shadow!,XMESS_0189,ウシオ
+XMESS_0190,Shadow? You said that earlier too…,XMESS_0190,南方ひづる（過去）
+XMESS_0191,Demerya!,XMESS_0191,野良の影Ａ
+XMESS_0192,Beh!?,XMESS_0192,野良の影Ａ
+XMESS_0193,Gigiiiiii!!,XMESS_0193,野良の影Ａ
+XMESS_0194,The monster that got hit in the shadow by a stone… is suffering?,XMESS_0194,南方ひづる（過去）
+XMESS_0195,The shadow is its weakness…!,XMESS_0195,南方ひづる（過去）
+XMESS_0196,That's right! Please attack the shadow stretching on the ground!,XMESS_0196,網代慎平
+XMESS_0197,You just need to deal a fatal blow to its shadow!,XMESS_0197,ウシオ
+XMESS_0198,I… I underst—,XMESS_0198,南方ひづる（過去）
+XMESS_0199,Tekyara!!,XMESS_0199,野良の影Ａ
 XMESS_0200,…!?,XMESS_0200,南方ひづる（過去）
-XMESS_0201,It's over…!,XMESS_0201,南方ひづる（過去）
-XMESS_0202,Sensei!?,XMESS_0202,網代慎平
-XMESS_0203,"(It was caught off guard by the shadow
-and got his foot caught in the tree roots!?)",XMESS_0203,網代慎平
-XMESS_0204,"Hizuru-san!
-Hurry up and get up!",XMESS_0204,ウシオ
+XMESS_0201,Crap…!,XMESS_0201,南方ひづる（過去）
+XMESS_0202,Nagumo-sensei?!,XMESS_0202,網代慎平
+XMESS_0203,(She was caught off guard by the shadow and tripped on a tree root?!),XMESS_0203,網代慎平
+XMESS_0204,Hizuru-san! Hurry up and stand up!,XMESS_0204,ウシオ
 XMESS_0205,Yachoro!,XMESS_0205,野良の影Ａ
-XMESS_0206,"I'll teach you!
-Take this!",XMESS_0206,根津銀次郎（１４年前）
-XMESS_0207,Gigi!,XMESS_0207,野良の影Ａ
-XMESS_0208,Now! Hurry up and get up!,XMESS_0208,根津銀次郎（１４年前）
+XMESS_0206,Like I'd let you! Take this!,XMESS_0206,根津銀次郎（１４年前）
+XMESS_0207,Gugii!?,XMESS_0207,野良の影Ａ
+XMESS_0208,Now's your chance! Hurry up and stand!,XMESS_0208,根津銀次郎（１４年前）
 XMESS_0209,"Ah, thank you.",XMESS_0209,南方ひづる（過去）
-XMESS_0210,Gigi!,XMESS_0210,野良の影Ａ
-XMESS_0211,"There you go, one more!",XMESS_0211,根津銀次郎（１４年前）
-XMESS_0212,"Damn it.
-It's charging straight at the stones I threw!",XMESS_0212,根津銀次郎（１４年前）
-XMESS_0213,"Shadow!
-Attack the shadow!",XMESS_0213,南方ひづる（過去）
-XMESS_0214,It's useless to attack the body!,XMESS_0214,南方ひづる（過去）
+XMESS_0210,Giii!!,XMESS_0210,野良の影Ａ
+XMESS_0211,"Here, have another!",XMESS_0211,根津銀次郎（１４年前）
+XMESS_0212,"Damn it. It's charging right at us, ignoring the stones I'm throwing!",XMESS_0212,根津銀次郎（１４年前）
+XMESS_0213,The shadow! Attack the shadow!,XMESS_0213,南方ひづる（過去）
+XMESS_0214,It's useless no matter how much you attack the main body!,XMESS_0214,南方ひづる（過去）
 XMESS_0215,Then hurry up and do it!,XMESS_0215,根津銀次郎（１４年前）
 XMESS_0216,But that monster is moving all over the place…,XMESS_0216,南方ひづる（過去）
-XMESS_0217,"I see.
-If that's the case…",XMESS_0217,根津銀次郎（１４年前）
-XMESS_0218,"There you go!
-Just stay still!",XMESS_0218,根津銀次郎（１４年前）
-XMESS_0219,Nacho!,XMESS_0219,野良の影Ａ
-XMESS_0220,"We did it!
-Nezu-san has it in a headlock!",XMESS_0220,網代慎平
-XMESS_0221,"Truly!
-It can't move now!",XMESS_0221,ウシオ
-XMESS_0222,Gigi… gigi!,XMESS_0222,野良の影Ａ
-XMESS_0223,"Hey, stop struggling!",XMESS_0223,根津銀次郎（１４年前）
-XMESS_0224,"Hizuru-san!
-Now, attack the shadow!",XMESS_0224,網代慎平
-XMESS_0225,"Ah, I get it!",XMESS_0225,南方ひづる（過去）
-XMESS_0226,"Hunter,
-Keep it pinned!
-And…",XMESS_0226,南方ひづる（過去）
-XMESS_0227,Let me borrow this!,XMESS_0227,南方ひづる（過去）
-XMESS_0228,"Hey!
-What are you doing taking someone else's knife?",XMESS_0228,根津銀次郎（１４年前）
-XMESS_0229,That's how it's done!,XMESS_0229,南方ひづる（過去）
-XMESS_0230,!!!!!!!!,XMESS_0230,野良の影Ａ
+XMESS_0217,I see. If that's the case—,XMESS_0217,根津銀次郎（１４年前）
+XMESS_0218,Hah! This should do the trick!,XMESS_0218,根津銀次郎（１４年前）
+XMESS_0219,Nachora!?,XMESS_0219,野良の影Ａ
+XMESS_0220,Alright! Nezu-san has the shadow in a full nelson!,XMESS_0220,網代慎平
+XMESS_0221,He does! Now it can't move!,XMESS_0221,ウシオ
+XMESS_0222,Gugi… gigii!!,XMESS_0222,野良の影Ａ
+XMESS_0223,"Hey, stop thrashing around!",XMESS_0223,根津銀次郎（１４年前）
+XMESS_0224,Hizuru-san! Get the shadow while you can!,XMESS_0224,網代慎平
+XMESS_0225,"Yeah, I know!",XMESS_0225,南方ひづる（過去）
+XMESS_0226,"Hunter, keep it pinned down! And—",XMESS_0226,南方ひづる（過去）
+XMESS_0227,I'm borrowing this!,XMESS_0227,南方ひづる（過去）
+XMESS_0228,Hey! What are you doing pulling out someone else's knife?!,XMESS_0228,根津銀次郎（１４年前）
+XMESS_0229,This!,XMESS_0229,南方ひづる（過去）
+XMESS_0230,!!!!,XMESS_0230,野良の影Ａ
 XMESS_0231,…,XMESS_0231,根津銀次郎（１４年前）
-XMESS_0232,"W-What is this?
-That monster exploded!",XMESS_0232,根津銀次郎（１４年前）
-XMESS_0233,It was the shadow's weakness.,XMESS_0233,南方ひづる（過去）
-XMESS_0234,"No, maybe it's not a weakness,
-But the shadow itself might be the real body…",XMESS_0234,南方ひづる（過去）
-XMESS_0235,I don't get it…,XMESS_0235,根津銀次郎（１４年前）
-XMESS_0236,"I'm just glad it worked out.
-Thank you.",XMESS_0236,南方ひづる（過去）
-XMESS_0237,"No need for thanks or anything.
-It was actually your advice that saved me from a dangerous situation.",XMESS_0237,根津銀次郎（１４年前）
-XMESS_0238,But anyway… why did you know that its weakness was the Shadow?,XMESS_0238,根津銀次郎（１４年前）
-XMESS_0239,Well… it was just a desperate move.,XMESS_0239,南方ひづる（過去）
-XMESS_0240,Wara?,XMESS_0240,根津銀次郎（１４年前）
-XMESS_0241,Fuh…,XMESS_0241,南方ひづる（過去）
-XMESS_0242,(Hizuru-sensei…),XMESS_0242,網代慎平
-XMESS_0243,"Unexpectedly,
-it turned out to be a reliable straw.",XMESS_0243,南方ひづる（過去）
-XMESS_0244,"(Maybe it's just my imagination?
-I thought we made eye contact just now…)",XMESS_0244,網代慎平
-XMESS_0245,"Good for you,
-it seems like we could help out Hizuru and the others.",XMESS_0245,ウシオ
-XMESS_0246,"Yeah, but we can't let our guard down yet.",XMESS_0246,網代慎平
+XMESS_0232,Wh-What does this mean? That monster just burst apart.,XMESS_0232,根津銀次郎（１４年前）
+XMESS_0233,Its shadow was its weakness.,XMESS_0233,南方ひづる（過去）
+XMESS_0234,"No, rather than a weakness, there's a possibility that the shadow itself is its main body…",XMESS_0234,南方ひづる（過去）
+XMESS_0235,I don't get it at all…,XMESS_0235,根津銀次郎（１４年前）
+XMESS_0236,"Anyway, you saved us. Thank you.",XMESS_0236,南方ひづる（過去）
+XMESS_0237,No need for thanks. I would've been in a bad spot myself without your advice.,XMESS_0237,根津銀次郎（１４年前）
+XMESS_0238,More importantly… how did you know its weakness was its shadow?,XMESS_0238,根津銀次郎（１４年前）
+XMESS_0239,Let's see… It was the result of grasping at straws.,XMESS_0239,南方ひづる（過去）
+XMESS_0240,Straws?,XMESS_0240,根津銀次郎（１４年前）
+XMESS_0241,Heh…,XMESS_0241,南方ひづる（過去）
+XMESS_0242,(Nagumo-sensei…),XMESS_0242,網代慎平
+XMESS_0243,It seems it was a surprisingly reliable straw.,XMESS_0243,南方ひづる（過去）
+XMESS_0244,(Is it just my imagination? I feel like Nagumo-sensei and I just made eye contact…),XMESS_0244,網代慎平
+XMESS_0245,"That's great, it looks like we were able to help Hizuru and Ryunosuke out.",XMESS_0245,ウシオ
+XMESS_0246,"Yeah, though we still can't let our guard down.",XMESS_0246,網代慎平

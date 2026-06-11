@@ -1,130 +1,80 @@
 source,target,id,developer_comments
-XRETURNTODEATH_0027,4th Round,XRETURNTODEATH_0027,
+XRETURNTODEATH_0027,Loop 4,XRETURNTODEATH_0027,
 XCHAPTITLE_0030,4. Nostalgic Slope,XCHAPTITLE_0030,
 XMESS_0000,"How's Tokyo?
 Did you go to Shibuya? Shibuya!!",XMESS_0000,小舟澪
-XMESS_0001,…!,XMESS_0001,網代慎平
-XMESS_0002,…Hah! Hah!,XMESS_0002,網代慎平
-XMESS_0003,…Shinpei?,XMESS_0003,小舟澪
+XMESS_0001,...!,XMESS_0001,網代慎平
+XMESS_0002,...Haa... haa...,XMESS_0002,網代慎平
+XMESS_0003,...Shin-chan?,XMESS_0003,小舟澪
 XMESS_0004,…,XMESS_0004,網代慎平
-XMESS_0005,(Back…?…),XMESS_0005,網代慎平
-XMESS_0006,"What's wrong…?
-Feeling unwell…?",XMESS_0006,小舟澪
-XMESS_0007,"Un! ! !
-Uwaa… vomit…!",XMESS_0007,網代慎平
-XMESS_0008,"S-Sinpei! ?
-Are you okay! ?",XMESS_0008,小舟澪
-XMESS_0009,Hah! Hah! Guh… !!,XMESS_0009,網代慎平
-XMESS_0010,(Th… that worked… !),XMESS_0010,網代慎平
-XMESS_0011,"(Mio… !!
-Alive… ! ! !)",XMESS_0011,網代慎平
-XMESS_0012,"…S-Sinpei… ?
-Crying… ?",XMESS_0012,小舟澪
-XMESS_0013,"D-Don't worry… .
-Just… got seasick on the ferry…",XMESS_0013,網代慎平
-XMESS_0014,"(Wait… something's wrong…
-Was this the starting point before?)",XMESS_0014,網代慎平
-XMESS_0015,"(No! The ""starting point"" for the time loop…
-Hasn't changed… ?!)",XMESS_0015,網代慎平
-XMESS_0016,"You look pale…
-Should I go home and rest?
-I'll tell Dad I'll be late!",XMESS_0016,小舟澪
-XMESS_0017,Ah… yeah… .,XMESS_0017,網代慎平
-XMESS_0018,"(""There are limits to power""…
-That message from Ushio… ! !)",XMESS_0018,網代慎平
-XMESS_0019,(I need to remember everything… !),XMESS_0019,網代慎平
+XMESS_0005,(I... came back...),XMESS_0005,網代慎平
+XMESS_0006,What's wrong...? Are you feeling sick—,XMESS_0006,小舟澪
+XMESS_0007,Ubu!!!! Uwo... oeeeeee.,XMESS_0007,網代慎平
+XMESS_0008,Sh-Shin-chan!? Are you okay!?,XMESS_0008,小舟澪
+XMESS_0009,Haa... haa... guh...!!,XMESS_0009,網代慎平
+XMESS_0010,(I... I did it...!),XMESS_0010,網代慎平
+XMESS_0011,(Mio...!! She's alive...!!!!),XMESS_0011,網代慎平
+XMESS_0012,...Sh-Shin-chan...? Are you crying...?,XMESS_0012,小舟澪
+XMESS_0013,I-I'm fine... I just... got a little seasick on the ferry—,XMESS_0013,網代慎平
+XMESS_0014,"(Wait... something's wrong... When I went back before, was it from here?)",XMESS_0014,網代慎平
+XMESS_0015,"(No! The ""point"" where time loops... hasn't it changed!?)",XMESS_0015,網代慎平
+XMESS_0016,"You look pale... Let's rest a bit when we get home, okay? I'll let Dad know we'll be late!",XMESS_0016,小舟澪
+XMESS_0017,A... aa...,XMESS_0017,網代慎平
+XMESS_0018,"(""Power has a limit""... That message from Ushio...!!)",XMESS_0018,網代慎平
+XMESS_0019,(Take a bird's-eye view... of the events up to now!!),XMESS_0019,網代慎平
 XMESS_0020,…,XMESS_0020,網代慎平
-XMESS_0021,"(…The ""starting point"" for the time loop…)",XMESS_0021,網代慎平
-XMESS_0022,"(First time was on the ferry.
-Second time was right after landing)",XMESS_0022,網代慎平
-XMESS_0023,"(And this time… third time, after meeting Mio.
-It's getting slower each time)",XMESS_0023,網代慎平
-XMESS_0024,"(When I checked the events after meeting Mio…
-It seemed like… )",XMESS_0024,網代慎平
-XMESS_0025,"(I guess I'm experiencing the exact same events
-As the second loop)",XMESS_0025,網代慎平
-XMESS_0026,"(It seems that events before the loop
-Become unavoidable ""facts"")",XMESS_0026,網代慎平
-XMESS_0027,"(In other words…
-There's no way to restart from the ferry.
-This is the <color=#GF_KEY_RULELOOP>Loop Rule</color>…)",XMESS_0027,網代慎平
-XMESS_0028,"(The next time I loop, I'll probably wake up
-Later than this time)",XMESS_0028,網代慎平
-XMESS_0029,"(I can't fail anymore…
-If the starting point comes after the time
-When Mio and the others are killed…)",XMESS_0029,網代慎平
-XMESS_0030,"(That means I'll be unable to save them…
-No matter how many times I loop… ! !)",XMESS_0030,網代慎平
-XMESS_0031,"(Three days…
-Only three days until the festival… ! !
-Is it even possible to solve this in just three days!?)",XMESS_0031,網代慎平
-XMESS_0032,Only Shinpei can stop it.,XMESS_0032,ウシオ
-XMESS_0033,(…No!! What are you saying!!),XMESS_0033,網代慎平
-XMESS_0034,(I'll do it… ! !),XMESS_0034,網代慎平
+XMESS_0021,"(...The ""starting point"" where time loops...)",XMESS_0021,網代慎平
+XMESS_0022,(The 1st time was on the ferry. The 2nd time was right after landing.),XMESS_0022,網代慎平
+XMESS_0023,"(And this time... the 3rd time, is after meeting Mio. It's gradually getting later.)",XMESS_0023,網代慎平
+XMESS_0024,"(I casually tried to confirm the events after meeting Mio, but—)",XMESS_0024,網代慎平
+XMESS_0025,(It seems I really am experiencing the exact same events as the 2nd loop.),XMESS_0025,網代慎平
+XMESS_0026,"(I'm guessing that the events that occurred before waking up from a loop become an unavoidable, set ""fact"".)",XMESS_0026,網代慎平
+XMESS_0027,(In other words... There is no longer any way to start over from the ferry. This is the <color=#GF_KEY_RULELOOP>rule of the loop</color>...),XMESS_0027,網代慎平
+XMESS_0028,"(The next time I loop, I will probably wake up at a later time than this one.)",XMESS_0028,網代慎平
+XMESS_0029,(I can't afford to fail many more times... If... the starting point ends up coming after the time Mio and the others are killed...),XMESS_0029,網代慎平
+XMESS_0030,"(It means that no matter how much I loop, I won't be able to save them anymore...!!)",XMESS_0030,網代慎平
+XMESS_0031,(Three days... Three days until the summer festival...!! Is this a problem I can somehow solve in just three days!?),XMESS_0031,網代慎平
+XMESS_0032,"You're the only one who can stop them, Shinpei.",XMESS_0032,ウシオ
+XMESS_0033,(...No!! What am I saying!!),XMESS_0033,網代慎平
+XMESS_0034,(I have to do it...!!),XMESS_0034,網代慎平
 XCOMMENTVIEW_0145,Ushio,XCOMMENTVIEW_0145,
 XMESS_0035,…,XMESS_0035,ウシオ
-XMESS_0036,…hmm… .,XMESS_0036,ウシオ
+XMESS_0036,...Nn...,XMESS_0036,ウシオ
 XMESS_0037,…,XMESS_0037,ウシオ
-XMESS_0038,Huh… ?,XMESS_0038,ウシオ
+XMESS_0038,Huh...,XMESS_0038,ウシオ
 XMESS_0039,"How's Tokyo?
 Did you go to Shibuya? Shibuya!!",XMESS_0039,小舟澪
-XMESS_0040,No… I don't go out much.,XMESS_0040,網代慎平
-XMESS_0041,"(…Same as before.
-It's the same conversation again…)",XMESS_0041,網代慎平
-XMESS_0042,"Huh?
-What's wrong, Shinpei?",XMESS_0042,小舟澪
-XMESS_0043,"Ah, no… .",XMESS_0043,網代慎平
-XMESS_0044,"(…The Kofune is crowded now, right?
-Summer vacation is peak season, right?)",XMESS_0044,網代慎平
-XMESS_0045,"Yeah! I'm super busy!
-But I'm meeting new people all the time.
-Recently…",XMESS_0045,小舟澪
-XMESS_0046,"Even people I know
-Sometimes look like strangers… right?",XMESS_0046,網代慎平
-XMESS_0047,"…That's right!!
-How did you know! ?
-Magic! ?
-What's going on~! ! ?",XMESS_0047,小舟澪
-XMESS_0048,"…Also, I'll guess what you're thinking.",XMESS_0048,網代慎平
-XMESS_0049,"I probably sound super standard
-In your ears, right?",XMESS_0049,網代慎平
-XMESS_0050,…!!,XMESS_0050,小舟澪
-XMESS_0051,"So cool… ! !
-How? How? ! Magic! ?
-What's going on~! ! ?",XMESS_0051,小舟澪
-XMESS_0052,Hehe… yeah…,XMESS_0052,網代慎平
-XMESS_0053,"(…What is this… ?
-Not a dream… ?)",XMESS_0053,網代慎平
-XMESS_0054,"(When I talked on the phone,
-I was really flustered,
-But I felt a little relieved)",XMESS_0054,網代慎平
-XMESS_0055,"(But this is definitely
-Me being tough…)",XMESS_0055,網代慎平
-XMESS_0056,"(Mio is Ushio's real sister.
-After her older sister died, today…
-She shouldn't be able to stay calm…)",XMESS_0056,網代慎平
-XMESS_0057,"Huh?
-What's wrong, Shinpei?",XMESS_0057,小舟澪
-XMESS_0058,"Ah, no… .",XMESS_0058,網代慎平
-XMESS_0059,Take care of Mio…,XMESS_0059,小舟潮
-XMESS_0060,"(…That dream is stuck in my head.
-I need to protect Mio, huh…)",XMESS_0060,網代慎平
-XMESS_0061,"…By the way, how's the shop?
-Is Alain okay?",XMESS_0061,網代慎平
-XMESS_0062,"Yeah!
-I'm super busy!",XMESS_0062,小舟澪
-XMESS_0063,"That's right, summer vacation is peak season.",XMESS_0063,網代慎平
-XMESS_0064,But I'm meeting new people all the time.,XMESS_0064,小舟澪
-XMESS_0065,"Recently. Even people I know
-Sometimes look like strangers…",XMESS_0065,小舟澪
-XMESS_0066,"During this season, there are a lot of tourists…",XMESS_0066,網代慎平
-XMESS_0067,Hehe.,XMESS_0067,小舟澪
-XMESS_0068,H-Huh?,XMESS_0068,網代慎平
-XMESS_0069,"Shinpei, you sound super standard! !",XMESS_0069,小舟澪
-XMESS_0070,"Eh!
-Me! ?",XMESS_0070,網代慎平
-XMESS_0071,You're colored.,XMESS_0071,小舟澪
-XMESS_0072,"Eh~ ~ ~ Liar?
-When! ?",XMESS_0072,網代慎平
-XMESS_0073,"(…While talking about trivial things,
-We walked to the funeral home)",XMESS_0073,網代慎平
+XMESS_0040,Nah... I don't go out much.,XMESS_0040,網代慎平
+XMESS_0041,(...It's the same as before. It really is the same conversation as last time...),XMESS_0041,網代慎平
+XMESS_0042,"Hm? What's wrong, Shin-chan?",XMESS_0042,小舟澪
+XMESS_0043,"Ah, no...",XMESS_0043,網代慎平
+XMESS_0044,"<color=#GF_TIPS_055>Kofune</color> is busy right now, isn't it? Summer vacation is the most profitable time, after all.",XMESS_0044,網代慎平
+XMESS_0045,"Yeah! We're super busy! But, the number of people I don't know keeps increasing. Recently...",XMESS_0045,小舟澪
+XMESS_0046,"Even people you know, sometimes they look like people you don't know... right?",XMESS_0046,網代慎平
+XMESS_0047,...Yeah!! How did you know!?,XMESS_0047,小舟澪
+XMESS_0048,"...While I'm at it, want me to guess what you're thinking?",XMESS_0048,網代慎平
+XMESS_0049,"You were thinking my way of speaking sounds super standard, right?",XMESS_0049,網代慎平
+XMESS_0050,...!!,XMESS_0050,小舟澪
+XMESS_0051,"Amazing...!! Why, why!? Magic!? What do you mean~~~!?!?",XMESS_0051,小舟澪
+XMESS_0052,Haha... well...,XMESS_0052,網代慎平
+XMESS_0053,(...What... is this? Is it not a dream...?),XMESS_0053,網代慎平
+XMESS_0054,"(When we talked on the phone she was incredibly distraught, but I'm a little relieved.)",XMESS_0054,網代慎平
+XMESS_0055,"(But, she's definitely just putting on a brave face, isn't she...)",XMESS_0055,網代慎平
+XMESS_0056,"(Mio is Ushio's actual younger sister. With her older sister passing away just yesterday, there's no way she can be fine...)",XMESS_0056,網代慎平
+XMESS_0057,"Hm? What's wrong, Shin-chan?",XMESS_0057,小舟澪
+XMESS_0058,"Ah, no...",XMESS_0058,網代慎平
+XMESS_0059,Protect Mio for me... okay?,XMESS_0059,小舟潮
+XMESS_0060,"(That dream from earlier is stuck in my head. Protect Mio, huh...)",XMESS_0060,網代慎平
+XMESS_0061,"...Come to think of it, how's the shop? Is Alain doing well too?",XMESS_0061,網代慎平
+XMESS_0062,Yeah! We're super busy!,XMESS_0062,小舟澪
+XMESS_0063,"I see, summer vacation is the most profitable time, after all.",XMESS_0063,網代慎平
+XMESS_0064,"But, the number of people I don't know keeps increasing.",XMESS_0064,小舟澪
+XMESS_0065,"Recently. Even people I know, sometimes they look like people I don't know...",XMESS_0065,小舟澪
+XMESS_0066,There are a lot of tourists this time of year...,XMESS_0066,網代慎平
+XMESS_0067,Ehehe.,XMESS_0067,小舟澪
+XMESS_0068,Wh... what?,XMESS_0068,網代慎平
+XMESS_0069,"Shin-chan, you're speaking in such standard Japanese!!",XMESS_0069,小舟澪
+XMESS_0070,Eh! I am!?,XMESS_0070,網代慎平
+XMESS_0071,You've been influenced.,XMESS_0071,小舟澪
+XMESS_0072,"Eeeeeh, no way? Since when!?",XMESS_0072,網代慎平
+XMESS_0073,"(...While talking about trivial things, we walked the path to the funeral home.)",XMESS_0073,網代慎平

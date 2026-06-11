@@ -1,104 +1,76 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,15. Preparing for Mio's Visit,XCHAPTITLE_0002,
-XMESS_0000,"(That guy is coming again tonight.
-The Shadow Mio…)",XMESS_0000,網代慎平
-XMESS_0001,"(Keep it together…
-What I need to do right now…)",XMESS_0001,網代慎平
-XMESS_0002,"(Anyway…
-Surviving today is the priority)",XMESS_0002,網代慎平
+XMESS_0000,(She should be coming again tonight. The Shadow Mio...),XMESS_0000,網代慎平
+XMESS_0001,(Look at the big picture... What I need to do right now is...),XMESS_0001,網代慎平
+XMESS_0002,(Anyway... I have to survive today.),XMESS_0002,網代慎平
 XMESS_0003,…,XMESS_0003,網代慎平
-XMESS_0004,"(If I don't act, Totsumura will be killed in front of my house tonight)",XMESS_0004,網代慎平
+XMESS_0004,"(At this rate, Totsumura-san is going to be killed by her in front of our house tonight.)",XMESS_0004,網代慎平
 XMESS_0005,(To avoid that situation…),XMESS_0005,網代慎平
-XMESS_0006,"Hey, this is the Hero of Justice!",XMESS_0006,凸村哲
+XMESS_0006,"Yes, Hero of Justice speaking!",XMESS_0006,凸村哲
 XMESS_0007,"Hello, Totsumura-san?",XMESS_0007,網代慎平
-XMESS_0008,"Ah, Shinpei! What is it? I'm busy reading right now.",XMESS_0008,凸村哲
+XMESS_0008,"Ah, Shinpei-kun! What is it? I'm busy reading right now.",XMESS_0008,凸村哲
 XMESS_0009,Reading… What are you reading?,XMESS_0009,網代慎平
-XMESS_0010,<color=#GF_TIPS_086>Game Play Boy</color> magazine.,XMESS_0010,凸村哲
+XMESS_0010,<color=#GF_TIPS_086>Game Playboy</color>.,XMESS_0010,凸村哲
 XMESS_0011,What are you reading during work…?,XMESS_0011,網代慎平
-XMESS_0012,"Of course I'm reading it!
-There's a photo of Kaori in it, right??",XMESS_0012,凸村哲
-XMESS_0013,"Ah~!!
-There really are angels in this world!!",XMESS_0013,凸村哲
-XMESS_0014,H-huh…?,XMESS_0014,網代慎平
+XMESS_0012,Of course I'm reading it! It has a gravure spread of Kaori-chan in it!?,XMESS_0012,凸村哲
+XMESS_0013,Ah~~~! There really are angels in this world.,XMESS_0013,凸村哲
+XMESS_0014,R-Right...,XMESS_0014,網代慎平
 XMESS_0015,"So, what's the matter?
 You didn't call just to chat, did you?",XMESS_0015,凸村哲
 XMESS_0016,"Ah, um…!",XMESS_0016,網代慎平
-XMESS_0017,"(How could I say ""You'll be killed tonight""?
-How should I approach this…)",XMESS_0017,網代慎平
+XMESS_0017,"(I can't exactly say ""You're going to be killed tonight."" How should I steer this conversation...)",XMESS_0017,網代慎平
 MSTD_0056-0,Check the patrol route,MSTD_0056-0,
 MSTD_0056-1,Stage a disturbance to redirect,MSTD_0056-1,
 XMESS_0018,"Totsumura-san, isn't it time for your patrol?
 What route are you taking?",XMESS_0018,網代慎平
-XMESS_0019,What route? Explaining it verbally is troublesome.,XMESS_0019,凸村哲
-XMESS_0020,"I usually take the route in front of Kofune.
-You can rest easy.",XMESS_0020,凸村哲
+XMESS_0019,What route...? Explaining it verbally is a pain.,XMESS_0019,凸村哲
+XMESS_0020,I always pass in front of Kofune. Don't worry.,XMESS_0020,凸村哲
 XMESS_0021,I see…,XMESS_0021,網代慎平
-XMESS_0022,"(That's right… Even if I shift the time,
-there's still a chance of meeting that guy)",XMESS_0022,網代慎平
-XMESS_0023,(I need to somehow change the route),XMESS_0023,網代慎平
+XMESS_0022,"(I figured... Even if I shift the time, I can't eliminate the possibility of him running into her.)",XMESS_0022,網代慎平
+XMESS_0023,(I need to find a way to make him change his route.),XMESS_0023,網代慎平
 XMESS_0024,(But how? I can't tell him not to come…),XMESS_0024,網代慎平
 XMESS_0025,(…That's right!),XMESS_0025,網代慎平
-XMESS_0026,"By the way, Totsumura-san.
-Haven't you heard the news?",XMESS_0026,網代慎平
+XMESS_0026,"By the way, Totsumura-san. Haven't you heard about that?",XMESS_0026,網代慎平
 XMESS_0027,What do you mean?,XMESS_0027,凸村哲
-XMESS_0028,I heard a rumor that there's a fight at the port.,XMESS_0028,網代慎平
-XMESS_0029,"Huh!?
-I haven't received any report about that!",XMESS_0029,凸村哲
-XMESS_0030,"Really?
-Then you should hurry.",XMESS_0030,網代慎平
-XMESS_0031,"Today, the area around Kofune is fine,
-but you should check that place…",XMESS_0031,網代慎平
+XMESS_0028,I heard a rumor that some drunks are fighting over by the harbor.,XMESS_0028,網代慎平
+XMESS_0029,Huh!? What's that about? I haven't gotten any reports like that!,XMESS_0029,凸村哲
+XMESS_0030,Really? Then you might want to hurry.,XMESS_0030,網代慎平
+XMESS_0031,"The area around Kofune is fine for today, so you should probably go check that out instead...",XMESS_0031,網代慎平
 XMESS_0032,"Okay, I'm going right away!",XMESS_0032,凸村哲
-XMESS_0033,(Staging a disturbance to keep Totsumura away…),XMESS_0033,網代慎平
+XMESS_0033,(I'll make up an incident to keep Totsumura-san away...!),XMESS_0033,網代慎平
 XMESS_0034,"Um…
 There's actually a brawl happening.",XMESS_0034,網代慎平
-XMESS_0035,…What? A brawl??,XMESS_0035,凸村哲
-XMESS_0036,"Yes, it's already a mess!",XMESS_0036,網代慎平
-XMESS_0037,"So you're at the scene, Shinpei!?
-Are you okay!?",XMESS_0037,凸村哲
+XMESS_0035,...Wh-What!? A brawl!!?,XMESS_0035,凸村哲
+XMESS_0036,"Yes, it's turning into a huge mess!",XMESS_0036,網代慎平
+XMESS_0037,"Does that mean you're at the scene, Shinpei-kun!? Are you okay!?",XMESS_0037,凸村哲
 XMESS_0038,"Yes, I'm fine.",XMESS_0038,網代慎平
-XMESS_0039,Good… Then where is it!?,XMESS_0039,凸村哲
-XMESS_0040,"At the port.
-It seems like customers are fighting in a bar…",XMESS_0040,網代慎平
-XMESS_0041,"What!?
-It's not the ""Miyako"" bar, is it!?",XMESS_0041,凸村哲
-XMESS_0042,"Got it, I'm going right away!
-Take care, Shinpei!",XMESS_0042,凸村哲
-XMESS_0043,Thank you!,XMESS_0043,網代慎平
+XMESS_0039,"I see, thank goodness...! So, where is it!?",XMESS_0039,凸村哲
+XMESS_0040,Over by the harbor. It seems like customers are getting into a huge fight at a bar...,XMESS_0040,網代慎平
+XMESS_0041,"What!? Don't tell me it's at ""Miyako""...",XMESS_0041,凸村哲
+XMESS_0042,"Got it, I'll be right there! You be careful too, Shinpei-kun!",XMESS_0042,凸村哲
+XMESS_0043,Please do!,XMESS_0043,網代慎平
 XMESS_0044,Phew…,XMESS_0044,網代慎平
-XMESS_0045,"(…This is bad…
-I lied about the report…)",XMESS_0045,網代慎平
-XMESS_0046,"(But now, Totsumura won't pass by Kofune
-and should be safe from being killed)",XMESS_0046,網代慎平
-XMESS_0047,…I guess I'll get yelled at.,XMESS_0047,網代慎平
-XMESS_0048,"(If there's nothing, that's best.
-If I just get scolded, it's worth it)",XMESS_0048,網代慎平
-XMESS_0049,(I told the window that I'll contact them tomorrow),XMESS_0049,網代慎平
-XMESS_0050,Then…,XMESS_0050,網代慎平
-XMESS_0051,"(The phone.
-Delete unnecessary apps and photos…)",XMESS_0051,網代慎平
-XMESS_0052,"(This leaves about 7GB of storage…
-The recording time should be enough)",XMESS_0052,網代慎平
-XMESS_0053,"(To prevent calls, airplane mode.
-Full charge. Connect to the power bank)",XMESS_0053,網代慎平
-XMESS_0054,"(Luckily, I know when that guy will come)",XMESS_0054,網代慎平
-XMESS_0055,(At 9 PM…!),XMESS_0055,網代慎平
-XMESS_0056,"(Hide the phone in the plants to stay unnoticed…
-Start recording)",XMESS_0056,網代慎平
-XMESS_0057,(I'll record the Shadow Mio and get evidence…!!),XMESS_0057,網代慎平
+XMESS_0045,"(...Was that a bad idea? I just made a false report, though)",XMESS_0045,網代慎平
+XMESS_0046,"(But with this, Totsumura-san won't pass by Kofune and should be safe from getting killed.)",XMESS_0046,網代慎平
+XMESS_0047,...I'll have to be prepared to get yelled at.,XMESS_0047,網代慎平
+XMESS_0048,"(If nothing happens, that's for the best. If all it takes is me getting yelled at, it's a small price to pay.)",XMESS_0048,網代慎平
+XMESS_0049,(I told Sou that I'd contact him tomorrow.),XMESS_0049,網代慎平
+XMESS_0050,Now then...,XMESS_0050,網代慎平
+XMESS_0051,(My smartphone. I'll delete unnecessary apps and photos...),XMESS_0051,網代慎平
+XMESS_0052,(Now my phone has about 7GB of storage left... That should be plenty of recording time.),XMESS_0052,網代慎平
+XMESS_0053,"(Airplane mode, just in case a call comes in. Fully charged. And I'll connect it to a power bank too.)",XMESS_0053,網代慎平
+XMESS_0054,"(Luckily, I know what time she's coming.)",XMESS_0054,網代慎平
+XMESS_0055,(9 PM...!),XMESS_0055,網代慎平
+XMESS_0056,(I'll hide my phone in the potted plants so she won't see it... and start recording.),XMESS_0056,網代慎平
+XMESS_0057,(I'll film Mio's Shadow and get proof...!!),XMESS_0057,網代慎平
 XMESS_0058,Phew…,XMESS_0058,網代慎平
-XMESS_0059,"(Even though I know he hasn't come yet,
-I'm really nervous…)",XMESS_0059,網代慎平
-XMESS_0060,"(Because of this, I'm sweating weirdly.
-Since Mio is in the bath, I'll wash my face first to calm down)",XMESS_0060,網代慎平
-XMESS_0061,"(Then… Even if I feel awful,
-I won't go out for fresh air.
-That'll be okay…)",XMESS_0061,網代慎平
-XMESS_0062,"(On the 22nd, I'm not dead yet…!!)",XMESS_0062,網代慎平
+XMESS_0059,"(Even knowing she won't be here for a while, that made me super nervous...)",XMESS_0059,網代慎平
+XMESS_0060,"(Now I'm sweating like crazy. Mio should be in the bath, so I'll just wash my face to calm down.)",XMESS_0060,網代慎平
+XMESS_0061,"(After that... no matter how bad I feel, I absolutely won't go outside for fresh air. Then I'll be fine...)",XMESS_0061,網代慎平
+XMESS_0062,"(Because on the first 22nd, I wasn't killed...!!)",XMESS_0062,網代慎平
 XMESS_0063,Huh!?,XMESS_0063,網代慎平
-XMESS_0064,<color=#GF_TIPS_113>Color of the right eye</color> is different… When did that start…?,XMESS_0064,網代慎平
-XMESS_0065,"!! 
-My head… It hurts…!",XMESS_0065,網代慎平
+XMESS_0064,My <color=#GF_TIPS_113>right eye's color</color> is different... since when...?,XMESS_0064,網代慎平
+XMESS_0065,!! My head... h-hurts...,XMESS_0065,網代慎平
 XMESS_0066,…,XMESS_0066,網代慎平
 XMESS_0067,…Mio?,XMESS_0067,網代慎平
 XMESS_0068,…,XMESS_0068,網代慎平
@@ -111,13 +83,10 @@ XMESS_0072,(…Could it be… the Shadow…),XMESS_0072,網代慎平
 XMESS_0073,Mio!!?,XMESS_0073,網代慎平
 XMESS_0074,…,XMESS_0074,小舟澪
 XMESS_0075,Ah…,XMESS_0075,網代慎平
-XMESS_0076,"…Huh…
-…Ahahahaha!?",XMESS_0076,小舟澪
+XMESS_0076,...Ha... ...Haaaaah!!?,XMESS_0076,小舟澪
 XMESS_0077,Guh!!,XMESS_0077,網代慎平
-XMESS_0078,Idiot! Idiot! Idiot! Idiot!,XMESS_0078,小舟澪
-XMESS_0079,G-Gomen…!,XMESS_0079,網代慎平
-XMESS_0080,"(Stupid! 
-Stupid!! 
-Stupid!!!)",XMESS_0080,網代慎平
+XMESS_0078,Idiot! Idiot! Idiot! Idiot! Idiot!,XMESS_0078,小舟澪
+XMESS_0079,I-I'm sorry...,XMESS_0079,網代慎平
+XMESS_0080,(Big picture! Big picture!! Big picture!!!),XMESS_0080,網代慎平
 XMESS_0081,"(Mio is safe!!
 …Yeah!)",XMESS_0081,網代慎平

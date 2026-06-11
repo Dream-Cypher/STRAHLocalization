@@ -1,205 +1,138 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,20. Visit from Sou,XCHAPTITLE_0002,
-XMESS_0000,"Hey Shinpei!
-Sorry…
-Did I come too early?",XMESS_0000,菱形窓
-XMESS_0001,"(Searching for Hishigata Clinic.
-There's no other way out)",XMESS_0001,網代慎平
-XMESS_0002,"(He should be trustworthy.
-Sou risked his life to protect Mio)",XMESS_0002,網代慎平
-XMESS_0003,"No, I was waiting…
-Sou.",XMESS_0003,網代慎平
-XMESS_0004,Hey Shinpei!,XMESS_0004,菱形窓
+XMESS_0000,"Hey, Shinpei! Sorry... Am I a bit early?",XMESS_0000,菱形窓
+XMESS_0001,(Investigating the <color=#GF_TIPS_048>Hishigata Clinic</color>. Sou is my only breakthrough.),XMESS_0001,網代慎平
+XMESS_0002,(I should be able to trust him. Sou risked his life to protect Mio.),XMESS_0002,網代慎平
+XMESS_0003,"No, I've been waiting for you... Sou.",XMESS_0003,網代慎平
+XMESS_0004,"Hey, Shinpei!",XMESS_0004,菱形窓
 XMESS_0005,Sou…,XMESS_0005,網代慎平
-XMESS_0006,"Sorry…
-Did I come too early?",XMESS_0006,菱形窓
-XMESS_0007,"No, I was waiting.",XMESS_0007,網代慎平
-XMESS_0008,"(First, we need to share information)",XMESS_0008,網代慎平
-XMESS_0009,"(That way we can organize our thoughts,
-and more importantly--)",XMESS_0009,網代慎平
-XMESS_0010,(Sou. He's someone I can rely on!),XMESS_0010,網代慎平
-XMESS_0011,Let's just be honest with each other.,XMESS_0011,網代慎平
-XMESS_0012,"(The truth about Ushio's death.
-The Shadow…)",XMESS_0012,網代慎平
-XMESS_0013,"Okay…
-We can talk privately here.",XMESS_0013,網代慎平
-XMESS_0014,"Sou, listen to my story.",XMESS_0014,網代慎平
-XMESS_0015,O-oh.,XMESS_0015,菱形窓
-XMESS_0016,"Then there's Mio too…
-I'll explain about the Kobayakawa house again.",XMESS_0016,網代慎平
+XMESS_0006,Sorry... Am I a bit early?,XMESS_0006,菱形窓
+XMESS_0007,"No, I've been waiting for you.",XMESS_0007,網代慎平
+XMESS_0008,"(First, I need to share what I know with him.)",XMESS_0008,網代慎平
+XMESS_0009,"(That way I can organize my thoughts, and more importantly--)",XMESS_0009,網代慎平
+XMESS_0010,(Sou Hishigata. I can rely on him...!),XMESS_0010,網代慎平
+XMESS_0011,(I'll tell him everything.),XMESS_0011,網代慎平
+XMESS_0012,(About Ushio's death. And the Shadows...),XMESS_0012,網代慎平
+XMESS_0013,Okay... Just the three of us can talk here.,XMESS_0013,網代慎平
+XMESS_0014,"Sou, listen to what I have to say first.",XMESS_0014,網代慎平
+XMESS_0015,Y-Yeah.,XMESS_0015,菱形窓
+XMESS_0016,"And you too, Mio... I'll explain what happened at the Kobayakawa house again.",XMESS_0016,網代慎平
 XMESS_0017,…Yeah.,XMESS_0017,小舟澪
-XMESS_0018,"(He listened quietly
-to the end of my whole story)",XMESS_0018,網代慎平
-XMESS_0019,"I met someone at that house… 
-No, a Shadow in Shiori-chan's form.",XMESS_0019,網代慎平
+XMESS_0018,(Sou quietly listened to my story until the end.),XMESS_0018,網代慎平
+XMESS_0019,"In that house, I met Shiori-chan... No, a Shadow in the shape of Shiori-chan.",XMESS_0019,網代慎平
 XMESS_0020,"Shiori-chan had already become a Shadow
 before Ushio's funeral.",XMESS_0020,網代慎平
 XMESS_0021,…,XMESS_0021,菱形窓
 XMESS_0022,"…So, Sou…
 I…",XMESS_0022,網代慎平
 XMESS_0023,I get it.,XMESS_0023,菱形窓
-XMESS_0024,"Ushio was killed by Shiori-chan's Shadow.
-You think that's what happened, right?",XMESS_0024,菱形窓
+XMESS_0024,"Ushio was killed by Shiori-chan's Shadow. That's what you're thinking, right...",XMESS_0024,菱形窓
 XMESS_0025,Yeah…,XMESS_0025,網代慎平
-XMESS_0026,"Ushio's neck, the Kikugawa line… strangulation…
-It was definitely possible…",XMESS_0026,菱形窓
+XMESS_0026,The Yoshikawa lines on Ushio's neck... strangulation... It's true... the only one who could've done that back then was...,XMESS_0026,菱形窓
 XMESS_0027,That's impossible… Shiori-chan…,XMESS_0027,小舟澪
-XMESS_0028,"…Next, is Mio-chan really the target?",XMESS_0028,菱形窓
+XMESS_0028,"...And next, Mio-chan is really being targeted?",XMESS_0028,菱形窓
 XMESS_0029,…,XMESS_0029,小舟澪
 XMESS_0030,"Yeah…
 I saw it with my own eyes…",XMESS_0030,網代慎平
-XMESS_0031,"(What's wrong? You should just say it.
-She was killed right in front of you!)",XMESS_0031,網代慎平
-XMESS_0032,"(No, I can't…)",XMESS_0032,網代慎平
-XMESS_0033,"(…If I say it, I'll have to admit
-I'm reliving the same day…)",XMESS_0033,網代慎平
-XMESS_0034,"(That's a big jump in the story, isn't it?)",XMESS_0034,網代慎平
-XMESS_0035,(But lies and secrets always create cracks),XMESS_0035,網代慎平
-XMESS_0036,"(If that happens, you might not believe anything anymore)",XMESS_0036,網代慎平
-XMESS_0037,(It's better to just confess everything here),XMESS_0037,網代慎平
+XMESS_0031,"(Come on, just say it. Say that Mio was killed right in front of my eyes.)",XMESS_0031,網代慎平
+XMESS_0032,"(No, I can't--)",XMESS_0032,網代慎平
+XMESS_0033,"(...If I say that, I'll have to tell them that I'm repeating the same days...!!)",XMESS_0033,網代慎平
+XMESS_0034,(Isn't that way too crazy of a story to just suddenly drop on them?),XMESS_0034,網代慎平
+XMESS_0035,(But... Lies and secrets always lead to things falling apart.),XMESS_0035,網代慎平
+XMESS_0036,"(If that happens, they might not believe anything I say anymore.)",XMESS_0036,網代慎平
+XMESS_0037,"(Rather than letting that happen, maybe it'd be better to just confess everything here...)",XMESS_0037,網代慎平
 XMESS_0038,…Shin-chan?,XMESS_0038,小舟澪
-XMESS_0039,"(…But how do I say it?
-'Actually, I was killed twice myself!'?)",XMESS_0039,網代慎平
-XMESS_0040,"(If they think I'm joking,
-they might not believe the Shadow story at all)",XMESS_0040,網代慎平
+XMESS_0039,"(...But how should I tell them? ""I was actually killed twice myself"" !?)",XMESS_0039,網代慎平
+XMESS_0040,"(If they think I'm messing around, they won't even believe the crucial part about the Shadows...)",XMESS_0040,網代慎平
 XMESS_0041,Shinpei!,XMESS_0041,菱形窓
-XMESS_0042,"Huh…?
-Oh, sorry.
-I was just thinking.",XMESS_0042,網代慎平
-XMESS_0043,"The Shadow and a real person…
-Can you tell them apart at a glance?",XMESS_0043,菱形窓
-XMESS_0044,"…No.
-I couldn't tell the difference.
-At least not by looks.",XMESS_0044,網代慎平
-XMESS_0045,That's troublesome.,XMESS_0045,菱形窓
-XMESS_0046,"So, maybe you're a Shadow too…",XMESS_0046,菱形窓
+XMESS_0042,"Huh...? Ah, yeah, sorry. I got lost in thought for a bit.",XMESS_0042,網代慎平
+XMESS_0043,Shadows and real humans-- Can you tell them apart at a glance?,XMESS_0043,菱形窓
+XMESS_0044,"...No. I couldn't tell the difference just by looking. At least, I couldn't...",XMESS_0044,網代慎平
+XMESS_0045,"I see, that's gonna be a problem...",XMESS_0045,菱形窓
+XMESS_0046,"Meaning, even you, the one telling us this, might be a Shadow.",XMESS_0046,菱形窓
 XMESS_0047,…!,XMESS_0047,小舟澪
-XMESS_0048,…That's true for both of us.,XMESS_0048,網代慎平
+XMESS_0048,...That's right. But the same goes for you...,XMESS_0048,網代慎平
 XMESS_0049,…,XMESS_0049,菱形窓
 XMESS_0050,"What is this…?
 What even is a Shadow?",XMESS_0050,小舟澪
 XMESS_0051,"Calm down, Mio-chan.",XMESS_0051,菱形窓
 XMESS_0052,…,XMESS_0052,小舟澪
-XMESS_0053,"In short, the Shadow…",XMESS_0053,菱形窓
-XMESS_0054,"is a creature that's lived on this island for ages.
-Just think about it.",XMESS_0054,菱形窓
-XMESS_0055,A creature…,XMESS_0055,網代慎平
-XMESS_0056,"A creature that imitates people…
-A creature that turns the real thing into a 'shadow' like a stain…",XMESS_0056,小舟澪
-XMESS_0057,"That's right! Since they appear in photos,
-they definitely exist here,
-unlike ghosts or spirits!!!",XMESS_0057,菱形窓
-XMESS_0058,"If it's a creature, there must be a way to deal with it.
-Right, Shinpei?!",XMESS_0058,菱形窓
+XMESS_0053,"Basically, these Shadows...",XMESS_0053,菱形窓
+XMESS_0054,Think of them as creatures... that have lived on Hitogashima since ancient times.,XMESS_0054,菱形窓
+XMESS_0055,Creatures...,XMESS_0055,網代慎平
+XMESS_0056,"Creatures that mimic people... Creatures that turn the original person they copied into a ""stain"" like a shadow... is that it?",XMESS_0056,小舟澪
+XMESS_0057,"Yeah... Since they show up on camera, they're living creatures that physically exist there, unlike ghosts or spirits...!!",XMESS_0057,菱形窓
+XMESS_0058,"If they're living creatures, there has to be a way to deal with them. Right, Shinpei!!",XMESS_0058,菱形窓
 XMESS_0059,Yeah… That's true!,XMESS_0059,網代慎平
-XMESS_0060,"(As expected of Sou.
-He can analyze this calmly.
-That's why he wants to be a doctor.)",XMESS_0060,網代慎平
-XMESS_0061,"(It was definitely the right choice to confess.
-He's reliable.)",XMESS_0061,網代慎平
-XMESS_0062,"Hey Shin-chan!
-Shall we go to Hiruko Cave now?!",XMESS_0062,小舟澪
+XMESS_0060,(As expected of Sou. Being able to calmly analyze things like this shows he really is cut out to be a doctor.),XMESS_0060,網代慎平
+XMESS_0061,(It really was the right choice to tell him. He's so reliable...),XMESS_0061,網代慎平
+XMESS_0062,"Hey, Shin-chan! Why don't we go to Hiruko Cave right now!?",XMESS_0062,小舟澪
 XMESS_0063,Huh?,XMESS_0063,網代慎平
-XMESS_0064,"Karikiri might know about the island's history,
-and might know something about Shadows too!!!",XMESS_0064,小舟澪
-XMESS_0065,"(That's right…
-We were planning to go to Hiruko Cave anyway…)",XMESS_0065,網代慎平
-XMESS_0066,"(But it's not possible now!
-Not at least for now!!)",XMESS_0066,網代慎平
-XMESS_0067,"(There's one of them near the shrine.
-It's too dangerous to get close!)",XMESS_0067,網代慎平
-XMESS_0068,"Um…
-Can we go tomorrow?",XMESS_0068,網代慎平
-XMESS_0069,"Tomorrow?
-Tomorrow's the biggest busy day
-for the shrine this year!",XMESS_0069,菱形窓
+XMESS_0064,"Karikiri-san should be familiar with the island's history, so he might know something about the Shadows too...!!",XMESS_0064,小舟澪
+XMESS_0065,(That's right... Mio and I were originally planning to go to Hiruko Cave...),XMESS_0065,網代慎平
+XMESS_0066,"(But I can't...! At least, not right now!!)",XMESS_0066,網代慎平
+XMESS_0067,(That Shadow is near the shrine. It's too dangerous to get close!!),XMESS_0067,網代慎平
+XMESS_0068,"Um... If we're going to go, c-can we do it tomorrow?",XMESS_0068,網代慎平
+XMESS_0069,"Tomorrow? Tomorrow is the... <color=#GF_TIPS_106>Hitogashima Summer Festival</color>, you know!?",XMESS_0069,菱形窓
 XMESS_0070,"!!?
 Oh… the festival…",XMESS_0070,網代慎平
-XMESS_0071,"I thought he forgot!
-Tomorrow is the busiest day of the year
-for the shrine…",XMESS_0071,菱形窓
-XMESS_0072,"The priest, Karikiri,
-won't have time to help us, will he?",XMESS_0072,菱形窓
+XMESS_0071,I knew it... you totally forgot! Tomorrow is the busiest day of the year for the shrine...,XMESS_0071,菱形窓
+XMESS_0072,"Even Karikiri-san, the chief priest, probably won't have time to deal with us, right?",XMESS_0072,菱形窓
 XMESS_0073,…,XMESS_0073,網代慎平
-XMESS_0074,"No…
-Maybe it's even better this way.",XMESS_0074,網代慎平
-XMESS_0075,"The Shadow probably hates crowded places.
-The more people there are,
-the less likely it is to attack.",XMESS_0075,網代慎平
-XMESS_0076,"Yeah, that might be true.
-They sneak around pretending to be people…",XMESS_0076,菱形窓
+XMESS_0074,"No...! If that's the case, it might actually be more convenient.",XMESS_0074,網代慎平
+XMESS_0075,"The Shadows probably hate lively places. The more crowded the festival is, the lower the chances of us being attacked.",XMESS_0075,網代慎平
+XMESS_0076,"Yeah, that might be true. Since they sneak around disguised as people...",XMESS_0076,菱形窓
 XMESS_0077,"Okay, let's go with that plan.",XMESS_0077,菱形窓
-XMESS_0078,"Then see you tomorrow
-at 5 o'clock to pick up Tokiko!",XMESS_0078,菱形窓
+XMESS_0078,"Then see you tomorrow, Tokiko and I will come pick you up at 5!",XMESS_0078,菱形窓
 XMESS_0079,Got it.,XMESS_0079,網代慎平
-XMESS_0080,"Then let's set a password.
-If we meet a Shadow,
-we'll be able to tell the real one!",XMESS_0080,菱形窓
+XMESS_0080,"Right, let's decide on a password. So that if I run into your Shadows, I can tell you apart from the real ones!",XMESS_0080,菱形窓
 XMESS_0081,A password?,XMESS_0081,網代慎平
-XMESS_0082,If you say 'mountain'…,XMESS_0082,菱形窓
+XMESS_0082,"If I say ""Mountain""...",XMESS_0082,菱形窓
 XMESS_0083,…River?,XMESS_0083,網代慎平
-XMESS_0084,"Idiot!!
-Everyone would say that!",XMESS_0084,菱形窓
-XMESS_0085,Then… the Tigris and Euphrates rivers.,XMESS_0085,網代慎平
-XMESS_0086,"Stop talking about rivers, Shinpei…",XMESS_0086,菱形窓
-XMESS_0087,Mesopotamian Civilization.,XMESS_0087,小舟澪
+XMESS_0084,Idiot!! Anyone would say that!,XMESS_0084,菱形窓
+XMESS_0085,Th-Then... The Tigris and Euphrates rivers.,XMESS_0085,網代慎平
+XMESS_0086,"Let's step away from rivers, Shinpei...",XMESS_0086,菱形窓
+XMESS_0087,<color=#GF_TIPS_063>Mesopotamian civilization</color>.,XMESS_0087,小舟澪
 XMESS_0088,"Mio-chan, that's it!!",XMESS_0088,菱形窓
-XMESS_0089,Yeah…,XMESS_0089,網代慎平
-XMESS_0090,Mesopotamian Civilization!!,XMESS_0090,小舟澪
-XMESS_0091,(…I hope this works.),XMESS_0091,網代慎平
-XMESS_0092,"Shin-chan, do you remember?
-It's Mesopotamian Civilization!",XMESS_0092,小舟澪
-XMESS_0093,"Yeah, I remember.
-Anyway…",XMESS_0093,網代慎平
+XMESS_0089,Eh...,XMESS_0089,網代慎平
+XMESS_0090,Mesopotamian civilization!!,XMESS_0090,小舟澪
+XMESS_0091,(Is this really going to be okay...),XMESS_0091,網代慎平
+XMESS_0092,"Shin-chan, did you memorize it? It's Mesopotamian civilization!",XMESS_0092,小舟澪
+XMESS_0093,"Yeah, I've got it memorized. More importantly...",XMESS_0093,網代慎平
 XMESS_0094,"Thanks, Sou…
 For believing this story.",XMESS_0094,網代慎平
-XMESS_0095,What a weird way to put it!!!,XMESS_0095,菱形窓
-XMESS_0096,"You believed me too,
-and told me your story, right?",XMESS_0096,菱形窓
+XMESS_0095,Don't be so distant...!!,XMESS_0095,菱形窓
+XMESS_0096,"You believed in me and told me all this, right?",XMESS_0096,菱形窓
 XMESS_0097,Yeah…,XMESS_0097,網代慎平
-XMESS_0098,"(…I still don't fully believe him…
-Until we find a way to tell the difference
-between the Shadow and the real person.)",XMESS_0098,網代慎平
-XMESS_0099,"(…I'm the one who's being skeptical…
-I should stop raining on everyone's parade)",XMESS_0099,網代慎平
+XMESS_0098,(I still don't completely trust him... Not until I find a way to tell the difference between a Shadow and the real person.),XMESS_0098,網代慎平
+XMESS_0099,(The part of me looking at the big picture... is always so quick to rain on the parade.),XMESS_0099,網代慎平
 XMESS_0100,"Oh, and I have something
 I want to look into too!",XMESS_0100,菱形窓
-XMESS_0101,"If I find anything, I'll let you know!
-See you then!!!",XMESS_0101,菱形窓
+XMESS_0101,"If I figure anything out, I'll let you know!!",XMESS_0101,菱形窓
 XMESS_0102,…,XMESS_0102,網代慎平
 XMESS_0103,"Yikes, a sudden shower!",XMESS_0103,小舟澪
-XMESS_0104,"The forecast is unreliable~.
-Let's take shelter here.",XMESS_0104,網代慎平
+XMESS_0104,"The forecast is really unreliable~. It's just a sudden shower, so let's take shelter here.",XMESS_0104,網代慎平
 XMESS_0105,…,XMESS_0105,小舟澪
 XMESS_0106,Shin-chan…,XMESS_0106,小舟澪
 XMESS_0107,Huh? What?,XMESS_0107,網代慎平
-XMESS_0108,S-so…,XMESS_0108,小舟澪
-XMESS_0109,"Ah, tomorrow, Karikiri…
-What time will he be free?",XMESS_0109,小舟澪
-XMESS_0110,"I don't know…
-The mikoshi parade starts in the afternoon,
-so he'll probably be busy with preparations…",XMESS_0110,網代慎平
-XMESS_0111,Maybe after the Umi-okuri.,XMESS_0111,網代慎平
+XMESS_0108,U-um...,XMESS_0108,小舟澪
+XMESS_0109,"A-About tomorrow, Karikiri-san... When do you think he'll be free?",XMESS_0109,小舟澪
+XMESS_0110,"I wonder... The mikoshi parade starts in the evening, and he'll probably be super busy with preparations before that...",XMESS_0110,網代慎平
+XMESS_0111,Probably after the Umi-okuri.,XMESS_0111,網代慎平
 XMESS_0112,"The Umi-okuri is from 8:30 PM,
 and the fireworks start at 8 PM…",XMESS_0112,小舟澪
 XMESS_0113,…,XMESS_0113,小舟澪
 XMESS_0114,Mio?,XMESS_0114,網代慎平
-XMESS_0115,"Ah, that?
-I have something to ask you.",XMESS_0115,小舟澪
+XMESS_0115,H-Hey... There's something I want to ask you.,XMESS_0115,小舟澪
 XMESS_0116,"Shin-chan…
 How long are you staying on the island?",XMESS_0116,小舟澪
-XMESS_0117,"Yeah… I thought I'd leave after the funeral,
-but I don't know…",XMESS_0117,網代慎平
+XMESS_0117,"Ah, right... I was thinking of leaving a little while after the funeral, but now, who knows...",XMESS_0117,網代慎平
 XMESS_0118,…,XMESS_0118,小舟澪
-XMESS_0119,You should've been there all along.,XMESS_0119,小舟澪
+XMESS_0119,I wish you could stay forever.,XMESS_0119,小舟澪
 XMESS_0120,…,XMESS_0120,網代慎平
-XMESS_0121,"What?
-I was just teasing!",XMESS_0121,小舟澪
-XMESS_0122,"Liar, liar!!
-Hey, show your hand!!",XMESS_0122,小舟澪
+XMESS_0121,Just kidding! I-I was just saying...,XMESS_0121,小舟澪
+XMESS_0122,"Just kidding!! Here, hold out your hand!!",XMESS_0122,小舟澪
 XMESS_0123,Hm?,XMESS_0123,網代慎平
-XMESS_0124,"This is for you.
-The necklace my older sister was wearing last.",XMESS_0124,小舟澪
-XMESS_0125,"If Shinpei has it,
-my sister would definitely be happy.",XMESS_0125,小舟澪
+XMESS_0124,I'll give this to you. The necklace my sister was wearing at the end.,XMESS_0124,小舟澪
+XMESS_0125,"My sister would definitely be happier if you had it, Shin-chan.",XMESS_0125,小舟澪
 XMESS_0126,…Thank you.,XMESS_0126,網代慎平

@@ -1,112 +1,84 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,28. The End of the World,XCHAPTITLE_0002,
-XMESS_0000,No…!,XMESS_0000,網代慎平
-XMESS_0001,"C-… No…!
-It's too late… something like that…!",XMESS_0001,網代慎平
+XMESS_0000,No...!,XMESS_0000,網代慎平
+XMESS_0001,N... no... It's not... too late...!,XMESS_0001,網代慎平
 XMESS_0002,…!?,XMESS_0002,南雲竜之介（ひづる）
-XMESS_0003,"If only I'd done it that way back then…
-Why…?
-Saying things like ""I should've done this""…",XMESS_0003,網代慎平
-XMESS_0004,"Regret… all I have…
-Always… always…",XMESS_0004,網代慎平
-XMESS_0005,"But now…
-I'm not regretting anything yet…",XMESS_0005,網代慎平
-XMESS_0006,It's not too late yet!!111,XMESS_0006,網代慎平
-XMESS_0007,Sensei!!,XMESS_0007,網代慎平
+XMESS_0003,Wishing I had done things differently back then... Or wondering why... I said those things...,XMESS_0003,網代慎平
+XMESS_0004,I'm full... of regrets... Always... always...,XMESS_0004,網代慎平
+XMESS_0005,But right now... I don't have any regrets yet...,XMESS_0005,網代慎平
+XMESS_0006,It's not too late yet!!!!,XMESS_0006,網代慎平
+XMESS_0007,Nagumo-sensei!!,XMESS_0007,網代慎平
 XMESS_0008,!?,XMESS_0008,南雲竜之介（ひづる）
 XMESS_0009,…!,XMESS_0009,四本腕の影（シデ）
 MSTD_0039-0,"""Shoot me!!""",MSTD_0039-0,
 MSTD_0039-1,"""Shoot the boss!!""",MSTD_0039-1,
-XMESS_0010,"Shoot me!!111
-Kill me, this me!!1111",XMESS_0010,網代慎平
-XMESS_0011,What… are you talking about?!,XMESS_0011,南雲竜之介（ひづる）
-XMESS_0012,"I've died so many times… 
-I'm redoing it!!",XMESS_0012,網代慎平
+XMESS_0010,Shoot me!! Kill me!!!!,XMESS_0010,網代慎平
+XMESS_0011,Wh... what are you saying!!,XMESS_0011,南雲竜之介（ひづる）
+XMESS_0012,"I've died, and started over... so many times!!",XMESS_0012,網代慎平
 XMESS_0013,!!,XMESS_0013,南雲竜之介（ひづる）
-XMESS_0014,"Shoot!!1111
-My head!!",XMESS_0014,網代慎平
+XMESS_0014,Shoot me!!!!! In the head!!,XMESS_0014,網代慎平
 XMESS_0015,Hmph…,XMESS_0015,南雲竜之介（ひづる）
-XMESS_0016,You… really say strange things.,XMESS_0016,南雲竜之介（ひづる）
-XMESS_0017,"I can go back…
-To the 22nd!!",XMESS_0017,網代慎平
-XMESS_0018,Futile…,XMESS_0018,四本腕の影（シデ）
-XMESS_0019,You know… this is the last shot.,XMESS_0019,南雲竜之介（ひづる）
-XMESS_0020,"Believe me, Sensei!!1111",XMESS_0020,網代慎平
-XMESS_0021,Be swallowed by the shadow too.,XMESS_0021,四本腕の影（シデ）
-XMESS_0022,Ko…,XMESS_0022,ウシオ
-XMESS_0023,Ko…!!1111111111,XMESS_0023,ウシオ
+XMESS_0016,You... really do say the strangest things...,XMESS_0016,南雲竜之介（ひづる）
+XMESS_0017,I can go back... To the 22nd!!!!,XMESS_0017,網代慎平
+XMESS_0018,Futile...,XMESS_0018,四本腕の影（シデ）
+XMESS_0019,"Good grief... this is my last shot, you know...",XMESS_0019,南雲竜之介（ひづる）
+XMESS_0020,"Please believe me, Sensei!!!!",XMESS_0020,網代慎平
+XMESS_0021,You will be swallowed by the Shadows too.,XMESS_0021,四本腕の影（シデ）
+XMESS_0022,You...,XMESS_0022,ウシオ
+XMESS_0023,Idiooooooooot!!!!!!!!,XMESS_0023,ウシオ
 XMESS_0024,What…!?,XMESS_0024,四本腕の影（シデ）
 XMESS_0025,…!,XMESS_0025,網代慎平
-XMESS_0026,If you… really could go back--,XMESS_0026,南雲竜之介（ひづる）
-XMESS_0027,"Tell me your name.
-I'll definitely save you.",XMESS_0027,南雲竜之介（ひづる）
+XMESS_0026,If you... really can go back--,XMESS_0026,南雲竜之介（ひづる）
+XMESS_0027,Tell me... your name. I will definitely help you.,XMESS_0027,南雲竜之介（ひづる）
 XMESS_0028,(…),XMESS_0028,網代慎平
 XMESS_0029,(…),XMESS_0029,網代慎平
-XMESS_0030,(…Dark…),XMESS_0030,網代慎平
-XMESS_0031,(No one's here… everyone's gone…),XMESS_0031,網代慎平
+XMESS_0030,(...It's dark...),XMESS_0030,網代慎平
+XMESS_0031,(They're gone... no one is here... They disappeared...),XMESS_0031,網代慎平
 XMESS_0032,(What is this scene…?),XMESS_0032,網代慎平
 XMESS_0033,(I'm… again…),XMESS_0033,網代慎平
-XMESS_0034,(Why am I…?),XMESS_0034,網代慎平
+XMESS_0034,(Am I looking at the big picture again--),XMESS_0034,網代慎平
 XMESS_0035,(…),XMESS_0035,網代慎平
 XMESS_0036,(Stop… stop…),XMESS_0036,網代慎平
 XMESS_0037,(Stop it!!),XMESS_0037,網代慎平
-XMESS_0038,"(!
-The island…!!)",XMESS_0038,網代慎平
-XMESS_0039,"What…?
-That red light…",XMESS_0039,網代慎平
+XMESS_0038,(! The island is...!!),XMESS_0038,網代慎平
+XMESS_0039,(What is...? That red light...),XMESS_0039,網代慎平
 XMESS_0040,…!!,XMESS_0040,赤い着物の少女（ハイネ）
-XMESS_0041,(<color=#GF_TIPS_018>Girl</color>!?),XMESS_0041,網代慎平
-XMESS_0042,(Now… our eyes met--),XMESS_0042,網代慎平
+XMESS_0041,(A <color=#GF_TIPS_018>girl</color>!?),XMESS_0041,網代慎平
+XMESS_0042,(Just now... our eyes met--),XMESS_0042,網代慎平
 XMESS_0043,Shinpei…,XMESS_0043,？？？（ウシオ）
-XMESS_0044,"…Ushio!?
-It's Ushio!",XMESS_0044,網代慎平
-XMESS_0045,"Be careful.
-There's a limit to your power…",XMESS_0045,ウシオ
-XMESS_0046,Everyone will die at the summer festival…,XMESS_0046,ウシオ
-XMESS_0047,"This time, I clearly heard it!!111
-Ushio! Where are you!?",XMESS_0047,網代慎平
-XMESS_0048,Only you can stop it.,XMESS_0048,ウシオ
+XMESS_0044,"...Ushio!? Is that you, Ushio!?",XMESS_0044,網代慎平
+XMESS_0045,Be careful. Your power has a limit...,XMESS_0045,ウシオ
+XMESS_0046,Everyone will die at the summer festival...,XMESS_0046,ウシオ
+XMESS_0047,Th-This time I can hear you clearly!! Ushio!! Where are you!?,XMESS_0047,網代慎平
+XMESS_0048,"Only you can stop it, Shinpei.",XMESS_0048,ウシオ
 XMESS_0049,!,XMESS_0049,網代慎平
-XMESS_0050,Protect Mio…,XMESS_0050,ウシオ
-XMESS_0051,KEY TIPS[<color=#GF_KEY_LOOPEND_03>3rd END</color>] obtained.,XMESS_0051,（ト書き）
-XMESS_0052,"Shoot the boss!!111
-If I can take down that four-armed shadow,
-I can fix this situation!",XMESS_0052,網代慎平
-XMESS_0053,"Right?!
-Sensei!?",XMESS_0053,網代慎平
+XMESS_0050,Protect Mio...,XMESS_0050,ウシオ
+XMESS_0051,KEY TIPS [<color=#GF_KEY_LOOPEND_03>3rd END</color>] obtained.,XMESS_0051,（ト書き）
+XMESS_0052,"Shoot the boss!! If we can just take down that four-armed one, we can do something about this situation!",XMESS_0052,網代慎平
+XMESS_0053,Right!? Sensei!?,XMESS_0053,網代慎平
 XMESS_0054,…,XMESS_0054,南雲竜之介（ひづる）
-XMESS_0055,"Mother…
-Please eat this…
-And the shadow in the sky… Haine…",XMESS_0055,南雲竜之介（ひづる）
+XMESS_0055,Mother... Please enjoy your meal... And... the Shadow in the sky-- Haine...,XMESS_0055,南雲竜之介（ひづる）
 XMESS_0056,…Huh?,XMESS_0056,網代慎平
-XMESS_0057,"I see… that's what it is…
-Then it's a really strange fate.",XMESS_0057,南雲竜之介（ひづる）
+XMESS_0057,"I see... so that's what this is... If so, it's an awfully strange fate...",XMESS_0057,南雲竜之介（ひづる）
 XMESS_0058,S-Sensei…?,XMESS_0058,網代慎平
-XMESS_0059,"""As truth is stranger than fiction""…
-That's a well-said thing…",XMESS_0059,南雲竜之介（ひづる）
-XMESS_0060,It was decided back then…,XMESS_0060,南雲竜之介（ひづる）
+XMESS_0059,"""Truth is stranger than fiction"", as they say...",XMESS_0059,南雲竜之介（ひづる）
+XMESS_0060,That things would end up like this... It was probably decided back then.,XMESS_0060,南雲竜之介（ひづる）
 XMESS_0061,"Sensei, what are you talking about--",XMESS_0061,網代慎平
-XMESS_0062,"Look up, Shinpei.",XMESS_0062,南雲竜之介（ひづる）
+XMESS_0062,"Look up, Shinpei Ajiro-kun.",XMESS_0062,南雲竜之介（ひづる）
 XMESS_0063,…,XMESS_0063,赤い着物の少女（ハイネ）
-XMESS_0064,"W-what…?
-That's… a girl…!?",XMESS_0064,網代慎平
-XMESS_0065,"That's the mother of all shadows…
-The literal ""boss"" shadow…",XMESS_0065,南雲竜之介（ひづる）
+XMESS_0064,Wh-What...? Is that... a girl...!?,XMESS_0064,網代慎平
+XMESS_0065,"That is the mother of all Shadows... The literal ""boss""...",XMESS_0065,南雲竜之介（ひづる）
 XMESS_0066,"Eh, no… Sensei…
 What does that mean--",XMESS_0066,網代慎平
 XMESS_0067,…The four-armed one isn't the boss.,XMESS_0067,南雲竜之介（ひづる）
 XMESS_0068,…,XMESS_0068,網代慎平
-XMESS_0069,"Sorry, Shinpei…
-I'd like to explain more…",XMESS_0069,南雲竜之介（ひづる）
+XMESS_0069,"Sorry, Shinpei-kun... I'd like to explain things to you, but--",XMESS_0069,南雲竜之介（ひづる）
 XMESS_0070,"Unfortunately, time's up.",XMESS_0070,四本腕の影（シデ）
 XMESS_0071,"…S-Sensei!!
 Run--",XMESS_0071,網代慎平
 XMESS_0072,Ah… ah…,XMESS_0072,網代慎平
-XMESS_0073,"You're sharp, I'll admit.
-Unlike you, Shinpei…",XMESS_0073,四本腕の影（シデ）
-XMESS_0074,U…,XMESS_0074,網代慎平
-XMESS_0075,"Well, you might be curious…
-But this conversation's pointless.",XMESS_0075,四本腕の影（シデ）
-XMESS_0076,"Game over, Shinpei.",XMESS_0076,四本腕の影（シデ）
-XMESS_0077,"U…
-Aaaaaa!!!1111111111",XMESS_0077,網代慎平
+XMESS_0073,"Well, well, she certainly is sharp... Unlike you, Shinpei-kun.",XMESS_0073,四本腕の影（シデ）
+XMESS_0074,Ugh...,XMESS_0074,網代慎平
+XMESS_0075,"Well, I'm sure you're curious about many things, but... Talking any further would be pointless.",XMESS_0075,四本腕の影（シデ）
+XMESS_0076,"Game over, Shinpei-kun.",XMESS_0076,四本腕の影（シデ）
+XMESS_0077,Ugh... Uwaaaaaaaaaaah!!!!,XMESS_0077,網代慎平

@@ -1,214 +1,128 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,7. Scouring the Island,XCHAPTITLE_0002,
-XMESS_0000,"Finally made it to Mt. Takanosu!
-That memo's location,
-It's definitely here!",XMESS_0000,小舟潮
-XMESS_0001,"You always say the same thing
-When you go somewhere else.",XMESS_0001,網代慎平（収録）
-XMESS_0002,"When we went to Alain's field,
-When we went to Tiger Island,
-Even when we went to Shinja Marsh.",XMESS_0002,網代慎平（収録）
-XMESS_0003,"I'm totally exhausted from walking
-All over the island…
-Hey, Kaori.",XMESS_0003,小舟澪
-XMESS_0004,"Hehe…
-We really walked all over the place.",XMESS_0004,小弓場かおり
-XMESS_0005,"So this time, it's the real deal!
-Look at this memo!",XMESS_0005,小舟潮
-XMESS_0006,"I just remembered.
-This cat drawing was of a black cat
-That used to live on Mt. Takanosu.",XMESS_0006,小舟潮
-XMESS_0007,"You know, back when
-We did outdoor classes, right?
-Do you remember?",XMESS_0007,小舟潮
+XMESS_0000,"We finally made it, Mt. Takanosu! The location on that memo, it's definitely here, no mistake!",XMESS_0000,小舟潮
+XMESS_0001,"You were saying the exact same thing when we went to the other places, too.",XMESS_0001,網代慎平（収録）
+XMESS_0002,"When we went to Alain's field, when we went to Torashima, and even when we went to <color=#GF_TIPS_044>Shinja Marsh</color>.",XMESS_0002,網代慎平（収録）
+XMESS_0003,"We've walked all over the island, and I'm exhausted... Right, Kaori-chan?",XMESS_0003,小舟澪
+XMESS_0004,Ahaha... We really did walk all over the place.,XMESS_0004,小弓場かおり
+XMESS_0005,"I'm telling you, this time it's the real deal! Look, take a look at this memo!",XMESS_0005,小舟潮
+XMESS_0006,I just remembered earlier. This drawing of a cat was of the black cat that used to hang around Mt. Takanosu.,XMESS_0006,小舟潮
+XMESS_0007,"See, remember when we came here for an outdoor class a long time ago? Don't you remember?",XMESS_0007,小舟潮
 XMESS_0008,"Oh…!
 I remember!",XMESS_0008,小弓場かおり
-XMESS_0009,"It was a cat sunbathing on the rocks,
-Right after I finished reading a book about cats.
-I remember that clearly.",XMESS_0009,小弓場かおり
-XMESS_0010,"That's right!
-Then I tried to pet it,
-But I slipped on the slope and fell.",XMESS_0010,小舟潮
-XMESS_0011,"…I remember.
-I went to help you then.
-We both got in trouble.",XMESS_0011,網代慎平（収録）
-XMESS_0012,"Sister,
-You always cause Shinpei trouble.",XMESS_0012,小舟澪
-XMESS_0013,"It was Shinpei who yelled ""Ushio!"" so loud
-That the teacher found out.",XMESS_0013,小舟潮
-XMESS_0014,You…,XMESS_0014,網代慎平（収録）
-XMESS_0015,"Forget that!
-Look at this stone in the memo!
-This isn't just a pebble, is it?
-It's the stone Shinpei threw!",XMESS_0015,小舟潮
-XMESS_0016,"Huh, I did?",XMESS_0016,網代慎平（収録）
-XMESS_0017,"Yeah, by those trees.
-There was a squirrel there.",XMESS_0017,小舟潮
-XMESS_0018,"A snake was approaching it,
-And Shinpei noticed.
-He threw a stone and scared it away.",XMESS_0018,小舟潮
-XMESS_0019,"Heh, that's like Shinpei.",XMESS_0019,小弓場かおり
-XMESS_0020,Hmm… I don't remember that…,XMESS_0020,網代慎平（収録）
-XMESS_0021,"So the drawing of the tree in the memo
-Means those standing trees?",XMESS_0021,小舟澪
-XMESS_0022,"Now that you mention it…
-It kind of looks like it.",XMESS_0022,網代慎平（収録）
-XMESS_0023,"That's some great deduction!
-This memo was a map of Mt. Takanosu!",XMESS_0023,小舟潮
-XMESS_0024,"You wrote the memo in the first place,
-So why do you need to deduce it?",XMESS_0024,小舟澪
-XMESS_0025,"If you had remembered earlier,
-We wouldn't have needed to go to Tiger Island…",XMESS_0025,網代慎平（収録）
-XMESS_0026,That's why there's joy in being right.,XMESS_0026,小舟潮
-XMESS_0027,"You might be right,
-But if this place doesn't work out,
-I was planning to go somewhere else.",XMESS_0027,網代慎平（収録）
+XMESS_0009,"It was the one sunbathing by the rocks, right? I had just finished reading a book with a black cat in it, so I remember it well.",XMESS_0009,小弓場かおり
+XMESS_0010,"Yeah, exactly! And when I got closer to try and pet that cat, I ended up slipping on the slope.",XMESS_0010,小舟潮
+XMESS_0011,...I remember now. I was the one who went to help you then. And then we both got scolded.,XMESS_0011,網代慎平（収録）
+XMESS_0012,"You're always causing trouble for Shin-chan, aren't you, Sis?",XMESS_0012,小舟澪
+XMESS_0013,"That was because Shinpei yelled ""Ushiooo!"" so loudly that the teacher found out.",XMESS_0013,小舟潮
+XMESS_0014,You...,XMESS_0014,網代慎平（収録）
+XMESS_0015,"More importantly, this stone here on the memo! This isn't just any pebble, either! It's the stone Shinpei threw!",XMESS_0015,小舟潮
+XMESS_0016,"Eh, I did?",XMESS_0016,網代慎平（収録）
+XMESS_0017,"Yeah, over there where the trees are lined up. There was a squirrel there.",XMESS_0017,小舟潮
+XMESS_0018,Shinpei noticed that a snake was approaching it. He threw a stone and chased the snake away.,XMESS_0018,小舟潮
+XMESS_0019,Hehe... that's so like Ajiro-kun.,XMESS_0019,小弓場かおり
+XMESS_0020,Hmmm... I don't really remember that story...,XMESS_0020,網代慎平（収録）
+XMESS_0021,"So, the drawing of the tree on this memo refers to those standing trees over there?",XMESS_0021,小舟澪
+XMESS_0022,Now that you mention it... I suppose it doesn't *not* look like that?,XMESS_0022,網代慎平（収録）
+XMESS_0023,"Great deduction, right? This memo was a map of Mt. Takanosu!",XMESS_0023,小舟潮
+XMESS_0024,"You're the one who wrote the memo in the first place, Sis. Why do you have to deduce it?",XMESS_0024,小舟澪
+XMESS_0025,"Besides, if you had remembered earlier, we wouldn't have needed to go to Torashima and all those other places...",XMESS_0025,網代慎平（収録）
+XMESS_0026,It's because of struggles like that that you can feel the joy of getting the right answer.,XMESS_0026,小舟潮
+XMESS_0027,"You're saying something that sounds plausible, but weren't you just planning to go somewhere else if this place was a bust too?",XMESS_0027,網代慎平（収録）
 XMESS_0028,"Well, I won't deny that.",XMESS_0028,小舟潮
-XMESS_0029,"You really don't think things through, sister.",XMESS_0029,小舟澪
-XMESS_0030,That's called being spontaneous!,XMESS_0030,小舟潮
-XMESS_0031,Hah… I'm the one getting dragged into this.,XMESS_0031,網代慎平（収録）
+XMESS_0029,"You really don't think things through, Sis.",XMESS_0029,小舟澪
+XMESS_0030,Call it being adaptable!,XMESS_0030,小舟潮
+XMESS_0031,*Sigh*... Try putting yourself in the shoes of the people getting dragged into it.,XMESS_0031,網代慎平（収録）
 XMESS_0032,…Hehe!,XMESS_0032,小弓場かおり
-XMESS_0033,"Hehehe, hahaha!",XMESS_0033,小弓場かおり
-XMESS_0034,Uh… Koyuba?,XMESS_0034,網代慎平（収録）
-XMESS_0035,"Hehe, sorry!
-It's so funny, I couldn't help it!
-All three of you look so happy.",XMESS_0035,小弓場かおり
-XMESS_0036,"I'm always like this, you know.
-Hey, Shinpei.",XMESS_0036,小舟潮
-XMESS_0037,"Yeah, I guess.",XMESS_0037,網代慎平（収録）
-XMESS_0038,(At least… it's good that Koyuba is enjoying herself),XMESS_0038,網代慎平（収録）
-XMESS_0039,"(At first she seemed a bit stiff,
-But now her expression looks more relaxed)",XMESS_0039,網代慎平（収録）
-XMESS_0040,"(If I think about it…
-Going back and forth across the island
-Might not have been a waste after all)",XMESS_0040,網代慎平（収録）
-XMESS_0041,"Anyway, there's definitely treasure
-Right in the middle of these three points!",XMESS_0041,小舟潮
-XMESS_0042,"Now we just need to find the time capsule's location
-And dig it up!
-Shinpei, bring out the shovel!",XMESS_0042,小舟潮
-XMESS_0043,"Yes, yes.",XMESS_0043,網代慎平（収録）
-XMESS_0044,…Oh!,XMESS_0044,小弓場かおり
-XMESS_0045,What's wrong?,XMESS_0045,網代慎平（収録）
-XMESS_0046,"U-uh, nothing…
-Let's go look for the time capsule too.",XMESS_0046,小弓場かおり
+XMESS_0033,"Haha, ahahahahaha!",XMESS_0033,小弓場かおり
+XMESS_0034,K-Koyuba-san?,XMESS_0034,網代慎平（収録）
+XMESS_0035,"Hehe, I'm sorry! It was just so funny, I couldn't help it! You three look like you're having so much fun.",XMESS_0035,小弓場かおり
+XMESS_0036,"We're always like this. Right, Shinpei?",XMESS_0036,小舟潮
+XMESS_0037,"Yeah, pretty much.",XMESS_0037,網代慎平（収録）
+XMESS_0038,(Anyway... I'm glad Koyuba-san seems to be having fun.),XMESS_0038,網代慎平（収録）
+XMESS_0039,"(She seemed a bit stiff at first, but now her expression seems much more relaxed.)",XMESS_0039,網代慎平（収録）
+XMESS_0040,(Thinking about it that way... going back and forth all over the island might not have been a waste after all.),XMESS_0040,網代慎平（収録）
+XMESS_0041,"Anyway, there's no doubt that the treasure is right in the middle of these three points!",XMESS_0041,小舟潮
+XMESS_0042,"Now all we have to do is pinpoint the location of the time capsule and dig it up! Shinpei, get out the shovel you brought!",XMESS_0042,小舟潮
+XMESS_0043,"Yeah, yeah.",XMESS_0043,網代慎平（収録）
+XMESS_0044,...Ah!,XMESS_0044,小弓場かおり
+XMESS_0045,Huh? Did something happen?,XMESS_0045,網代慎平（収録）
+XMESS_0046,"N-No, it's nothing... Let's go look for the time capsule too.",XMESS_0046,小弓場かおり
 XMESS_0047,Yeah.,XMESS_0047,網代慎平（収録）
-XMESS_0048,"Come on, we're almost there!
-The top of the hill is right there.",XMESS_0048,小舟潮
-XMESS_0049,"Everyone, watch your step!
-This area is sloped, it's slippery!",XMESS_0049,小舟潮
-XMESS_0050,Yikes!,XMESS_0050,小舟潮
-XMESS_0051,You should be the one watching out!,XMESS_0051,網代慎平（収録）
-XMESS_0052,"That was a bad example!
-Then I'll go ahead!",XMESS_0052,小舟潮
-XMESS_0053,"Ah, I feel like I'm really
-Going on an adventure.",XMESS_0053,小舟澪
-XMESS_0054,I used to play like this back then.,XMESS_0054,小舟澪
-XMESS_0055,"Yeah, we did.
-Sou joined in too, we used to
-Play around at the old cannon site and that area.",XMESS_0055,網代慎平（収録）
-XMESS_0056,Huh… So you guys used to play like that?,XMESS_0056,小弓場かおり
+XMESS_0048,"Look, we're almost there. The top of the hill is just ahead.",XMESS_0048,小舟潮
+XMESS_0049,"Everyone, watch your step. This area is a slope, and it's slippery!",XMESS_0049,小舟潮
+XMESS_0050,Hyaa!,XMESS_0050,小舟潮
+XMESS_0051,"Hey, you're the one who needs to be careful.",XMESS_0051,網代慎平（収録）
+XMESS_0052,"That was a bad example! Anyway, I'm going on ahead!",XMESS_0052,小舟潮
+XMESS_0053,"Ah~, I'm starting to feel like we're really on an expedition or something.",XMESS_0053,小舟澪
+XMESS_0054,"We used to play like this a lot in the past too, huh.",XMESS_0054,小舟澪
+XMESS_0055,"We sure did. Sou would join us too, and we'd play make-believe explorers or tag around the gun battery ruins and places like that.",XMESS_0055,網代慎平（収録）
+XMESS_0056,"Hmm... so you guys used to play like that, Ajiro-kun.",XMESS_0056,小弓場かおり
 XMESS_0057,"Mio, come here for a second!",XMESS_0057,小舟潮
-XMESS_0058,"What is it, sister?!",XMESS_0058,小舟澪
-XMESS_0059,"That girl, she's always like this.
-Saying she's making a secret base,
-And dragging us all around.",XMESS_0059,網代慎平（収録）
-XMESS_0060,"Heh, I can imagine it.",XMESS_0060,小弓場かおり
-XMESS_0061,"If only I had been as proactive
-Back then as I am now,
-I could have been with you guys…",XMESS_0061,小弓場かおり
-XMESS_0062,…Yikes!,XMESS_0062,小弓場かおり
-XMESS_0063,Dangerous!!,XMESS_0063,網代慎平（収録）
-XMESS_0064,Ah…!,XMESS_0064,小弓場かおり
+XMESS_0058,"What is it, Sis!?",XMESS_0058,小舟澪
+XMESS_0059,"Ushio was always like this, huh. Saying we were going to make a secret base, and dragging us all over the place.",XMESS_0059,網代慎平（収録）
+XMESS_0060,"Hehe, I feel like I can picture it.",XMESS_0060,小弓場かおり
+XMESS_0061,"If I... had been as proactive back then as I am now, I could have been with Ajiro-kun and the others--",XMESS_0061,小弓場かおり
+XMESS_0062,...Kya!?,XMESS_0062,小弓場かおり
+XMESS_0063,Look out!!,XMESS_0063,網代慎平（収録）
+XMESS_0064,Ah...!?,XMESS_0064,小弓場かおり
 XMESS_0065,"Phew, that was close.
 Are you okay?",XMESS_0065,網代慎平（収録）
-XMESS_0066,Y-yes… thank you.,XMESS_0066,小弓場かおり
-XMESS_0067,"You need to be careful here.
-It's muddy.",XMESS_0067,網代慎平（収録）
-XMESS_0068,"You just told me that…
-I'm sorry.",XMESS_0068,小弓場かおり
-XMESS_0069,"You don't need to apologize.
-It's muddy here.",XMESS_0069,網代慎平（収録）
-XMESS_0070,"Anyway, are you hurt?
-If you got hurt, that would be serious.",XMESS_0070,網代慎平（収録）
-XMESS_0071,"I'm fine.
-Thanks to Shinpei catching me.",XMESS_0071,小弓場かおり
-XMESS_0072,"Oh, that's good.",XMESS_0072,網代慎平（収録）
-XMESS_0073,"Ah, um…",XMESS_0073,小弓場かおり
+XMESS_0066,Y-Yeah... thank you.,XMESS_0066,小弓場かおり
+XMESS_0067,"It's slippery around here, so we have to be careful.",XMESS_0067,網代慎平（収録）
+XMESS_0068,Even though Kofune-san just warned us about it... I'm sorry.,XMESS_0068,小弓場かおり
+XMESS_0069,"You don't need to apologize. It's muddy around here, anyway.",XMESS_0069,網代慎平（収録）
+XMESS_0070,"More importantly, are you hurt? If Koyuba-san were to get hurt, it would be a huge deal.",XMESS_0070,網代慎平（収録）
+XMESS_0071,"I-I'm fine. Thanks to you catching me, Ajiro-kun.",XMESS_0071,小弓場かおり
+XMESS_0072,"I see, that's good then.",XMESS_0072,網代慎平（収録）
+XMESS_0073,"U-Um, well...",XMESS_0073,小弓場かおり
 XMESS_0074,Huh? What's wrong?,XMESS_0074,網代慎平（収録）
 XMESS_0075,"Um, thank you.",XMESS_0075,小弓場かおり
-XMESS_0076,You don't need to thank me.,XMESS_0076,網代慎平（収録）
-XMESS_0077,"I was happy, and…",XMESS_0077,小弓場かおり
-XMESS_0078,That's how it was back then too.,XMESS_0078,小弓場かおり
+XMESS_0076,It's nothing to thank me for.,XMESS_0076,網代慎平（収録）
+XMESS_0077,I was happy... and besides...,XMESS_0077,小弓場かおり
+XMESS_0078,"It was... like that back then, too.",XMESS_0078,小弓場かおり
 XMESS_0079,Huh…?,XMESS_0079,網代慎平（収録）
-XMESS_0080,"No, it's nothing!
-Anyway…",XMESS_0080,小弓場かおり
+XMESS_0080,"No, it's nothing! More importantly...",XMESS_0080,小弓場かおり
 XMESS_0081,Huh?,XMESS_0081,網代慎平（収録）
-XMESS_0082,"I'm okay now, so you can let go…",XMESS_0082,小弓場かおり
-XMESS_0083,"Ah, right! Sorry!
-Can you stand on your own?",XMESS_0083,網代慎平（収録）
-XMESS_0084,"U-um, I think so… yikes!",XMESS_0084,小弓場かおり
-XMESS_0085,"Hahaha, you're slipping again.",XMESS_0085,網代慎平（収録）
+XMESS_0082,"I'm okay now, so if you could let go...",XMESS_0082,小弓場かおり
+XMESS_0083,A-Ah! Sorry! C-Can you stand on your own?,XMESS_0083,網代慎平（収録）
+XMESS_0084,"Y-Yeah, somehow... kya!",XMESS_0084,小弓場かおり
+XMESS_0085,"Hahaha, looks like you're slipping and it's not going to work.",XMESS_0085,網代慎平（収録）
 XMESS_0086,I'm sorry.,XMESS_0086,小弓場かおり
-XMESS_0087,"Then, take my arm.",XMESS_0087,網代慎平（収録）
-XMESS_0088,"Ah, thanks…",XMESS_0088,小弓場かおり
-XMESS_0089,Hold on until we get to a flat area.,XMESS_0089,網代慎平（収録）
-XMESS_0090,"Ah, thank you…",XMESS_0090,小弓場かおり
-XMESS_0091,"Shinpei! What are you doing?
-Hurry over here!",XMESS_0091,小舟潮
-XMESS_0092,She's calling. Let's go.,XMESS_0092,網代慎平（収録）
-XMESS_0093,U-um.,XMESS_0093,小弓場かおり
-XMESS_0094,Ah… we didn't find the time capsule after all.,XMESS_0094,小舟澪
-XMESS_0095,I thought it was definitely there…,XMESS_0095,小舟潮
-XMESS_0096,"Give up already…
-If we dig more, we'll be too sore to move tomorrow.",XMESS_0096,網代慎平（収録）
-XMESS_0097,"Sorry, Kaori.
-We couldn't find the time capsule.",XMESS_0097,小舟潮
-XMESS_0098,"Plus… with the concert coming up,
-You made us too tired.",XMESS_0098,小舟澪
-XMESS_0099,"No, I'm not bothered at all!
-It was so much fun!",XMESS_0099,小弓場かおり
-XMESS_0100,But then our memories…,XMESS_0100,小舟潮
-XMESS_0101,"You said it yourself, right?
-If we don't have memories, we can make them together.",XMESS_0101,小弓場かおり
-XMESS_0102,"It really worked out that way.
-Today, we made memories together,
-And had a real adventure searching the island…",XMESS_0102,小弓場かおり
-XMESS_0103,I had so much fun!,XMESS_0103,小弓場かおり
-XMESS_0104,Kaori…,XMESS_0104,小弓場かおり
-XMESS_0105,"You know, I told you before,
-I spent a lot of time alone when I lived here.",XMESS_0105,小舟潮
-XMESS_0106,Ah… yeah.,XMESS_0106,小弓場かおり
-XMESS_0107,"When I lived on Hitogashima Island,
-I often felt lonely.",XMESS_0107,網代慎平（収録）
-XMESS_0108,But today was different.,XMESS_0108,小弓場かおり
-XMESS_0109,"Today, you, Shinpei,
-And Mio stayed with me,
-And I was really happy.",XMESS_0109,小弓場かおり
-XMESS_0110,"I felt happy exploring the island with you,
-And discovered many charms of the island I hadn't noticed before…",XMESS_0110,小弓場かおり
-XMESS_0111,"With this feeling,
-I think I can properly convey the charm of Hitogashima Island
-At the talk show.",XMESS_0111,小弓場かおり
-XMESS_0112,So… thank you!,XMESS_0112,小弓場かおり
-XMESS_0113,"Because of all of you,
-Today became a really fun and memorable day!",XMESS_0113,小弓場かおり
-XMESS_0114,Koyuba…,XMESS_0114,小弓場かおり
-XMESS_0115,(It's not my imagination),XMESS_0115,網代慎平（収録）
-XMESS_0116,"(Compared to when we first met,
-Her smile is much brighter now)",XMESS_0116,網代慎平（収録）
-XMESS_0117,"I see…
-That's good!",XMESS_0117,網代慎平（収録）
-XMESS_0118,"(If I think about it…
-Going back and forth across the island
-Might not have been a waste after all)",XMESS_0118,小舟潮
-XMESS_0119,"Well, everything went according to my calculations!
-It was worth it to roam the entire island.",XMESS_0119,小舟潮
-XMESS_0120,"Don't say it so properly.
-If I messed up, it might have just ended by dragging you around.",XMESS_0120,網代慎平（収録）
-XMESS_0121,"You're right.
-If the live was canceled,
-what were you planning to do?",XMESS_0121,小舟澪
-XMESS_0122,"Heh, that's the time, that's the time!
-Hey, Kaori-chan?",XMESS_0122,小舟潮
-XMESS_0123,Yeah! Really!,XMESS_0123,小弓場かおり
+XMESS_0087,"Then, I'll lend you a hand.",XMESS_0087,網代慎平（収録）
+XMESS_0088,"Ah, thank you...",XMESS_0088,小弓場かおり
+XMESS_0089,Hold onto my arm until we get somewhere easier to walk.,XMESS_0089,網代慎平（収録）
+XMESS_0090,Th-Thank you...,XMESS_0090,小弓場かおり
+XMESS_0091,"Shinpei, what are you doing! Hurry up and come over here!",XMESS_0091,小舟潮
+XMESS_0092,Ushio is calling. Let's go.,XMESS_0092,網代慎平（収録）
+XMESS_0093,Y-Yeah.,XMESS_0093,小弓場かおり
+XMESS_0094,"*Sigh*~, we couldn't find it in the end, huh. The time capsule.",XMESS_0094,小舟澪
+XMESS_0095,I was sure it was around there...,XMESS_0095,小舟潮
+XMESS_0096,"Just give up already... If we dig any more holes, I won't be able to move tomorrow from full-body muscle soreness.",XMESS_0096,網代慎平（収録）
+XMESS_0097,"Sorry, Kaori-chan. We couldn't find the time capsule.",XMESS_0097,小舟潮
+XMESS_0098,"Plus... even though it's before your live performance, we ended up making you unnecessarily tired.",XMESS_0098,小舟澪
+XMESS_0099,"No, I don't mind at all! It was so much fun.",XMESS_0099,小弓場かおり
+XMESS_0100,"But, at this rate, your memories...",XMESS_0100,小舟潮
+XMESS_0101,"Kofune-san, you said it yourself, didn't you? If you don't have any memories, we can just make them together.",XMESS_0101,小弓場かおり
+XMESS_0102,It really turned out just like that. I was able to properly make memories with everyone today.,XMESS_0102,小弓場かおり
+XMESS_0103,"Exploring all over the island together, going on an adventure like a treasure hunt...",XMESS_0103,小弓場かおり
+XMESS_0104,I had so much fun!!,XMESS_0104,小弓場かおり
+XMESS_0105,Kaori-chan...,XMESS_0105,小舟潮
+XMESS_0106,"You know... I said earlier that when I lived on this island, I spent a lot of time alone, right.",XMESS_0106,小弓場かおり
+XMESS_0107,Ah... yeah.,XMESS_0107,網代慎平（収録）
+XMESS_0108,"When I lived on Hitogashima, I often felt lonely.",XMESS_0108,小弓場かおり
+XMESS_0109,"But, today was different.",XMESS_0109,小弓場かおり
+XMESS_0110,"I was really happy that Kofune-san, Ajiro-kun, and Mio-chan kept me company all day today.",XMESS_0110,小弓場かおり
+XMESS_0111,"I was able to tour the island with a happy feeling, and learn about various charms of the island that I hadn't noticed in the past...",XMESS_0111,小弓場かおり
+XMESS_0112,"With these feelings, I think I'll be able to properly convey the charm of Hitogashima at the talk show.",XMESS_0112,小弓場かおり
+XMESS_0113,So... thank you!,XMESS_0113,小弓場かおり
+XMESS_0114,"Thanks to everyone, today has become a very fun and memorable day!",XMESS_0114,小弓場かおり
+XMESS_0115,Koyuba-san...,XMESS_0115,網代慎平（収録）
+XMESS_0116,(It's not just my imagination.),XMESS_0116,網代慎平（収録）
+XMESS_0117,(Her smile looks so much brighter than when we first met.),XMESS_0117,網代慎平（収録）
+XMESS_0118,I see... I'm glad to hear that!,XMESS_0118,小舟潮
+XMESS_0119,"Well, it was all according to my calculations! It was worth going out of our way to tour the whole island.",XMESS_0119,小舟潮
+XMESS_0120,"Don't make it sound so good. If things had gone wrong, it might have just ended with us dragging her around.",XMESS_0120,網代慎平（収録）
+XMESS_0121,Seriously. What were you planning to do if the live performance ended up getting canceled?,XMESS_0121,小舟澪
+XMESS_0122,"Ahaha, we'd cross that bridge when we come to it! Right, Kaori-chan?",XMESS_0122,小舟潮
+XMESS_0123,Yeah! Exactly!,XMESS_0123,小弓場かおり

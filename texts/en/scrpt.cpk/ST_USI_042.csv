@@ -1,190 +1,120 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,39. Responsibility,XCHAPTITLE_0002,
-XMESS_0000,"First, clean the wound.
-Extend your arm.",XMESS_0000,南方ひづる
+XMESS_0000,"First, we wash the wound. Hold out your arm.",XMESS_0000,南方ひづる
 XMESS_0001,…!,XMESS_0001,ウシオ
-XMESS_0002,"Ah…!!?
-What the!?!?",XMESS_0002,ウシオ
-XMESS_0003,"Wait~~~~!?
-My arm's gone!!???",XMESS_0003,ウシオ
-XMESS_0004,"Ugh, Ushio…!?",XMESS_0004,網代慎平
-XMESS_0005,"…What?
-It doesn't hurt…",XMESS_0005,ウシオ
-XMESS_0006,"My arm's gone, and the pain's gone too.",XMESS_0006,ウシオ
-XMESS_0007,"This wound is probably a projection of the Shadow's actual damage.
-It's different from Ajiro's wound.",XMESS_0007,南方ひづる
-XMESS_0008,"I don't think it'll heal
-with regular treatment like disinfection or suturing.
-We mustn't let our guard down.",XMESS_0008,南方ひづる
-XMESS_0009,"Well, it's fine!!
-If it doesn't hurt, who cares!?",XMESS_0009,ウシオ
+XMESS_0002,Ah...!!? No way! Eh...!?,XMESS_0002,ウシオ
+XMESS_0003,Wait~~~~!? My arm disappeared!!!!,XMESS_0003,ウシオ
+XMESS_0004,U-Ushio...!?,XMESS_0004,網代慎平
+XMESS_0005,...Huh? I-It doesn't hurt...,XMESS_0005,ウシオ
+XMESS_0006,"Once the arm disappeared, the pain vanished too.",XMESS_0006,ウシオ
+XMESS_0007,That wound is likely a projection of the damage taken by the <color=#GF_TIPS_077>Shadow</color>'s main body. It's different from Shinpei Ajiro's wound.,XMESS_0007,南方ひづる
+XMESS_0008,I doubt it will heal with normal treatments like disinfection or suturing. We must not let our guard down.,XMESS_0008,南方ひづる
+XMESS_0009,"Weeeell, whatever!! As long as it doesn't hurt!",XMESS_0009,ウシオ
 XMESS_0010,…,XMESS_0010,南方ひづる
-XMESS_0011,You changed too fast!!,XMESS_0011,網代慎平
-XMESS_0012,"But you've grown, you know.",XMESS_0012,南方ひづる
+XMESS_0011,Y-You switched gears way too fast!!,XMESS_0011,網代慎平
+XMESS_0012,"However, you've grown quite a bit...",XMESS_0012,南方ひづる
 XMESS_0013,Huh?,XMESS_0013,ウシオ
 XMESS_0014,I'm Hizuru Minakata.,XMESS_0014,南方ひづる
-XMESS_0015,"You probably don't remember, but I used to come here often
-to eat at Kofune.",XMESS_0015,南方ひづる
+XMESS_0015,"You probably don't remember, but I used to come eat at Kofune quite often in the past.",XMESS_0015,南方ひづる
 XMESS_0016,"Huh, really!?",XMESS_0016,ウシオ
-XMESS_0017,"Sorry…I don't remember…
-I've never seen someone with such big chest…",XMESS_0017,ウシオ
-XMESS_0018,"You were three then,
-and I had an A-cup back then…it's understandable.",XMESS_0018,南方ひづる
+XMESS_0017,Sorry... I don't remember... Someone with such big boobs...,XMESS_0017,ウシオ
+XMESS_0018,"You were three years old, and I was an A-cup back then... It's understandable.",XMESS_0018,南方ひづる
 XMESS_0019,What are you talking about!?,XMESS_0019,根津銀次郎
 XMESS_0020,"Ushio…
 Listen to this.",XMESS_0020,南方ひづる
-XMESS_0021,"24th…Summer Festival…
-Everyone was killed by the Shadows…
-The whole island…everyone…",XMESS_0021,？？？（ウシオ）
+XMESS_0021,24th... Summer Festival... Everyone gets killed by Shadows... The whole island... Everyone...,XMESS_0021,？？？（ウシオ）
 XMESS_0022,!?,XMESS_0022,ウシオ
-XMESS_0023,…What.,XMESS_0023,網代慎平
-XMESS_0024,"It can be stopped…
-Only that person…Ajiro…",XMESS_0024,？？？（ウシオ）
-XMESS_0025,"So I'm begging…
-Please come to Hitogashima…
-Save Shinpei…",XMESS_0025,？？？（ウシオ）
-XMESS_0026,"I beg you…use your power, Sir…
-Please…",XMESS_0026,？？？（ウシオ）
-XMESS_0027,"What is this…
-This is my voice…",XMESS_0027,ウシオ
-XMESS_0028,This…what is this…,XMESS_0028,網代慎平
-XMESS_0029,Do you remember this message?,XMESS_0029,南方ひづる
-XMESS_0030,"This is why I came to this island.
-…You don't remember, do you?",XMESS_0030,南方ひづる
+XMESS_0023,...Huh.,XMESS_0023,網代慎平
+XMESS_0024,The only one who can stop it... is... someone named Shinpei Ajiro...,XMESS_0024,？？？（ウシオ）
+XMESS_0025,So I beg... you... Please come to Hitogashima...! Please save... Shinpei...,XMESS_0025,？？？（ウシオ）
+XMESS_0026,"I beg you to use your power, Nagumo-sensei... Please...",XMESS_0026,？？？（ウシオ）
+XMESS_0027,"What is this... It's my voice, isn't it...",XMESS_0027,ウシオ
+XMESS_0028,Wh-What on earth is this...,XMESS_0028,網代慎平
+XMESS_0029,Do you recall this message?,XMESS_0029,南方ひづる
+XMESS_0030,"This is the reason I came to this island. ...You don't remember it, do you?",XMESS_0030,南方ひづる
 XMESS_0031,Yes…,XMESS_0031,ウシオ
-XMESS_0032,So be it…Then forget it.,XMESS_0032,南方ひづる
-XMESS_0033,"That's not the issue.
-Why did the Shadow Mio
-enter the Kofune house, contradicting Ajiro's premonition!?",XMESS_0033,根津銀次郎
-XMESS_0034,Mio seems to know about Shiori's death.,XMESS_0034,網代慎平
-XMESS_0035,"They're clearly sharing information…
-This has never happened before!?",XMESS_0035,網代慎平
+XMESS_0032,"I see... That's fine, then. Please forget about it.",XMESS_0032,南方ひづる
+XMESS_0033,"More importantly, the problem is why Shadow Mio broke into the Kofune house, unlike in Shinpei's premonition!!",XMESS_0033,根津銀次郎
+XMESS_0034,Mio seemed to know that Shiori had been defeated.,XMESS_0034,網代慎平
+XMESS_0035,They're clearly sharing information... Has anything like this happened before!?,XMESS_0035,網代慎平
 XMESS_0036,"No, it hasn't.",XMESS_0036,根津銀次郎
-XMESS_0037,"I encountered the Shadow
-after 14 years, two months ago.",XMESS_0037,根津銀次郎
-XMESS_0038,"I caught the Shadow,
-but it doesn't seem to have been discovered…",XMESS_0038,根津銀次郎
-XMESS_0039,"I think Mio recognizes us as killers
-and is coming to eliminate us.",XMESS_0039,南方ひづる
-XMESS_0040,"In other words, up until Ajiro's previous experience,
-Mio's target was me and Nezu…",XMESS_0040,南方ひづる
-XMESS_0041,"But now, the Shadows know
-that Ajiro is one of us…",XMESS_0041,南方ひづる
-XMESS_0042,"So Mio came in
-to kill Ajiro…",XMESS_0042,南方ひづる
-XMESS_0043,Because I went to the convenience store with her…,XMESS_0043,網代慎平
-XMESS_0044,"But why was it discovered?
-Everyone there was…
-I thought we'd already defeated them…",XMESS_0044,網代慎平
-XMESS_0045,"Either way…I can't continue
-to act with you any longer.",XMESS_0045,南方ひづる
-XMESS_0046,"If you're going to move
-with her——Ushio——then…",XMESS_0046,南方ひづる
+XMESS_0037,It was two months ago that I encountered a Shadow for the first time in 14 years.,XMESS_0037,根津銀次郎
+XMESS_0038,"I killed that Shadow, but it doesn't seem like they've found out about it...",XMESS_0038,根津銀次郎
+XMESS_0039,"It's likely that Mio recognized us as the ones killing Shadows, deemed us enemies, and came to eliminate us.",XMESS_0039,南方ひづる
+XMESS_0040,"In other words, up until the ""previous time"" Shinpei experienced, Mio's targets were probably just me and Nezu, but...",XMESS_0040,南方ひづる
+XMESS_0041,"However, ""this time,"" the Shadows learned that Shinpei Ajiro is also our ally...",XMESS_0041,南方ひづる
+XMESS_0042,"Therefore, Mio broke in to kill Shinpei Ajiro...",XMESS_0042,南方ひづる
+XMESS_0043,Is it because I accompanied you to Koba Mart...?,XMESS_0043,網代慎平
+XMESS_0044,But how did they find out? All the Shadows that were there... we should have defeated them...,XMESS_0044,網代慎平
+XMESS_0045,In any case... I can no longer act together with you.,XMESS_0045,南方ひづる
+XMESS_0046,"That is, if you intend to act alongside her—alongside Ushio.",XMESS_0046,南方ひづる
 XMESS_0047,…!!,XMESS_0047,ウシオ
-XMESS_0048,…What!?,XMESS_0048,網代慎平
-XMESS_0049,"Ushio did help you, I suppose,
-and doesn't seem to have hostility toward us…but…",XMESS_0049,南方ひづる
-XMESS_0050,"Even if Ushio is ""malfunctioning,""
-as you say,
-there's no guarantee it'll ""fix"" anytime soon.",XMESS_0050,南方ひづる
-XMESS_0051,"Without knowing how the Shadows share information…
-Ushio could become a spy.",XMESS_0051,南方ひづる
-XMESS_0052,(That kind of…),XMESS_0052,網代慎平
-XMESS_0053,"If you kill her,
-we'll go our separate ways…",XMESS_0053,根津銀次郎
-XMESS_0054,"No more contact after that…!!
-That's the maximum we can offer.",XMESS_0054,根津銀次郎
+XMESS_0048,...Huh!?,XMESS_0048,網代慎平
+XMESS_0049,"Ushio did indeed save you, and she doesn't appear to have any hostility towards us... however.",XMESS_0049,南方ひづる
+XMESS_0050,"Even if Ushio is ""broken"" like you say. There's no guarantee she won't be ""fixed"" at any moment.",XMESS_0050,南方ひづる
+XMESS_0051,"As long as the Shadows' method of sharing information remains unclear... there's a risk that Ushio could become a ""spy.""",XMESS_0051,南方ひづる
+XMESS_0052,(No way...),XMESS_0052,網代慎平
+XMESS_0053,"If you ain't gonna kill her, we're parting ways here...",XMESS_0053,根津銀次郎
+XMESS_0054,We're cutting off all contact from here on out...!! That's the biggest concession we can make.,XMESS_0054,根津銀次郎
 XMESS_0055,But…,XMESS_0055,網代慎平
 XMESS_0056,…,XMESS_0056,根津銀次郎
-XMESS_0057,"You decided, didn't you?
-""To save"" it…!!",XMESS_0057,根津銀次郎
-XMESS_0058,"You weren't told to do this
-by others, were you…?",XMESS_0058,根津銀次郎
+XMESS_0057,"You're the one who decided. To ""let her live""...!!",XMESS_0057,根津銀次郎
+XMESS_0058,It's not like someone else told you to do this or that...,XMESS_0058,根津銀次郎
 XMESS_0059,…Yes.,XMESS_0059,網代慎平
-XMESS_0060,"Then don't regret it!!
-No matter the outcome…",XMESS_0060,根津銀次郎
-XMESS_0061,"But!
-You'll bear the responsibility.",XMESS_0061,根津銀次郎
+XMESS_0060,Then don't regret it!! No matter the outcome...,XMESS_0060,根津銀次郎
+XMESS_0061,However! You will bear the responsibility.,XMESS_0061,根津銀次郎
 XMESS_0062,…!!,XMESS_0062,網代慎平
-XMESS_0063,"An adult's decision comes with responsibility.
-Are you an adult?",XMESS_0063,根津銀次郎
+XMESS_0063,An adult's decisions come with responsibility. Are you an adult?,XMESS_0063,根津銀次郎
 XMESS_0064,…,XMESS_0064,網代慎平
-XMESS_0065,I hope I am…,XMESS_0065,網代慎平
-XMESS_0066,Sir!!,XMESS_0066,網代慎平
-XMESS_0067,"The teacher was killed by Mio
-at the shrine at 3 PM tomorrow——the 23rd.",XMESS_0067,網代慎平
-XMESS_0068,"I defeated Mio,
-but other pursuers might come…",XMESS_0068,網代慎平
-XMESS_0069,"Please, don't die…!!",XMESS_0069,網代慎平
+XMESS_0065,I'd like to think so...,XMESS_0065,網代慎平
+XMESS_0066,Nagumo-sensei!!,XMESS_0066,網代慎平
+XMESS_0067,"You were killed by Mio on the 23rd—meaning tomorrow, just past 3 PM... in the forest by the shrine.",XMESS_0067,網代慎平
+XMESS_0068,"I defeated Mio, but other pursuers might come...",XMESS_0068,網代慎平
+XMESS_0069,Please... absolutely do not die...!!,XMESS_0069,網代慎平
 XMESS_0070,…,XMESS_0070,南方ひづる
-XMESS_0071,"""Destiny can be changed.""
-This is another opportunity to prove it.",XMESS_0071,南方ひづる
+XMESS_0071,"""Fate can be changed."" This is a perfect opportunity to prove it.",XMESS_0071,南方ひづる
 XMESS_0072,…,XMESS_0072,網代慎平
-XMESS_0073,"(If this is really it…
-I hope it's the right choice…)",XMESS_0073,網代慎平
-XMESS_0074,"(But I defeated the Shadow Mio…
-She should be safe for now…)",XMESS_0074,網代慎平
+XMESS_0073,(Was this really... the right choice...?),XMESS_0073,網代慎平
+XMESS_0074,"(But I defeated Shadow Mio... With this, Mio should be safe for now.)",XMESS_0074,網代慎平
 XMESS_0075,Huh!?,XMESS_0075,ウシオ
-XMESS_0076,"You…
-You're way too relaxed!",XMESS_0076,網代慎平
-XMESS_0077,"S-since when did you get
-so much curry…?!",XMESS_0077,ウシオ
-XMESS_0078,"You ate so much already!
-Honestly…",XMESS_0078,網代慎平
-XMESS_0079,"It's fine.
-I suddenly got hungry.",XMESS_0079,ウシオ
-XMESS_0080,"Anyway, go to Sou's place tomorrow.
-I want to check the Hishigata Clinic.",XMESS_0080,網代慎平
+XMESS_0076,You know... You have absolutely no sense of tension!,XMESS_0076,網代慎平
+XMESS_0077,B-But I haven't even had seconds of curry yet!!,XMESS_0077,ウシオ
+XMESS_0078,You've eaten enough already! Good grief...,XMESS_0078,網代慎平
+XMESS_0079,I can't help it. I just suddenly got really hungry.,XMESS_0079,ウシオ
+XMESS_0080,"Anyway, we're going to Sou's place tomorrow. I want to investigate the Hishigata Clinic.",XMESS_0080,網代慎平
 XMESS_0081,Why the Hishigata Clinic?,XMESS_0081,ウシオ
-XMESS_0082,"I'm curious about what Tokiko said
-when you heard it.",XMESS_0082,網代慎平
-XMESS_0083,"Could it be that the Hishigata Clinic
-is connected to the Shadows?",XMESS_0083,ウシオ
-XMESS_0084,Ah…,XMESS_0084,網代慎平
-XMESS_0085,"Tomorrow's early.
-Let's go to sleep now.",XMESS_0085,網代慎平
-XCOMMENTVIEW_0303,Nezu Ginjiro,XCOMMENTVIEW_0303,
+XMESS_0082,Because I'm curious about what you heard Toki-chan say.,XMESS_0082,網代慎平
+XMESS_0083,You mean... the Hishigata Clinic might be secretly connected to the Shadows?,XMESS_0083,ウシオ
+XMESS_0084,Yeah...,XMESS_0084,網代慎平
+XMESS_0085,Tomorrow's an early day. Let's go to sleep for today.,XMESS_0085,網代慎平
+XCOMMENTVIEW_0303,Ginjiro Nezu,XCOMMENTVIEW_0303,
 XMESS_0086,…!,XMESS_0086,根津銀次郎
 XMESS_0087,…,XMESS_0087,根津銀次郎
 XMESS_0088,Responsibility…,XMESS_0088,根津銀次郎
 XMESS_0089,…,XMESS_0089,根津銀次郎
-XMESS_0090,"You…
-Don't drink so much…",XMESS_0090,根津薫
+XMESS_0090,Dear... Please go easy on the alcohol...,XMESS_0090,根津薫
 XMESS_0091,…,XMESS_0091,根津銀次郎
-XMESS_0092,"Hahhah, hahhah…!",XMESS_0092,根津銀次郎
-XMESS_0093,…You bastard…,XMESS_0093,根津銀次郎
-XCOMMENTVIEW_0354,Hishigata Sou,XCOMMENTVIEW_0354,
-XMESS_0094,"Father really…!
-Did you think Ushio died in an accident!?",XMESS_0094,菱形窓
-XMESS_0095,The scar on Ushio's neck…!!!,XMESS_0095,菱形窓
+XMESS_0092,"Hah, hah, hah, hah...!",XMESS_0092,根津銀次郎
+XMESS_0093,...Damn it...,XMESS_0093,根津銀次郎
+XCOMMENTVIEW_0354,Sou Hishigata,XCOMMENTVIEW_0354,
+XMESS_0094,Does Dad really...! Think Ushio died in an accident!?,XMESS_0094,菱形窓
+XMESS_0095,That scar... on Ushio's neck!!!,XMESS_0095,菱形窓
 XMESS_0096,…I said this conversation is over.,XMESS_0096,菱形青銅
-XMESS_0097,"It's strange, right!?!?
-No investigation, just that diagnosis!!!",XMESS_0097,菱形窓
-XMESS_0098,"Kofune Ushio was unfortunate.
-There's nothing more to say.",XMESS_0098,菱形青銅
-XMESS_0099,"…If I had…
-been saved…
-If I had swum faster that day…!",XMESS_0099,菱形窓
-XMESS_0100,I'm disappointed in you.,XMESS_0100,菱形青銅
-XMESS_0101,Give up on medicine right now.,XMESS_0101,菱形青銅
+XMESS_0097,"It's weird, isn't it!!!! Making a diagnosis like that without even properly investigating!!",XMESS_0097,菱形窓
+XMESS_0098,What happened to Ushio Kofune was unfortunate. There is nothing more to say.,XMESS_0098,菱形青銅
+XMESS_0099,...If I had... been able to save her... If I had been able to swim faster back then...!,XMESS_0099,菱形窓
+XMESS_0100,Sou. I'm disappointed in you.,XMESS_0100,菱形青銅
+XMESS_0101,Give up on the path of medicine right now.,XMESS_0101,菱形青銅
 XMESS_0102,…,XMESS_0102,菱形窓
-XMESS_0103,"You fear death,
-and you're regretful for not saving her.
-That's why you're just an ordinary person who values life.",XMESS_0103,菱形青銅
-XMESS_0104,"Stop changing the subject!! 
-Father's hiding something!!!",XMESS_0104,菱形窓
-XMESS_0105,"I said, get out! The conversation is over…",XMESS_0105,菱形青銅
-XMESS_0106,"~~~~!!
-You bastard father!!!",XMESS_0106,菱形窓
-XMESS_0107,"Damn it…!
-What's with that father of mine…",XMESS_0107,菱形窓
+XMESS_0103,"You fear people's deaths, and regret that you couldn't save them. That is because you are an ordinary person who feels the weight of human life.",XMESS_0103,菱形青銅
+XMESS_0104,Don't change the subject!! Dad... you're hiding something!!,XMESS_0104,菱形窓
+XMESS_0105,How many times must I say it. Get out! This conversation is over...,XMESS_0105,菱形青銅
+XMESS_0106,~~~~!!!! Shitty old man!!!,XMESS_0106,菱形窓
+XMESS_0107,Damn it...! What the hell is with that old man...,XMESS_0107,菱形窓
 XMESS_0108,Sou.,XMESS_0108,菱形千登勢（影チトセ）
-XMESS_0109,<color=#GF_TIPS_028>Mother</color>…,XMESS_0109,菱形窓
+XMESS_0109,<color=#GF_TIPS_028>Mom</color>...,XMESS_0109,菱形窓
 XMESS_0110,You two fought again…?,XMESS_0110,菱形千登勢（影チトセ）
-XMESS_0111,"Father was harsh,
-but he's not a bad person.",XMESS_0111,菱形千登勢（影チトセ）
-XMESS_0112,Families should be close…right?,XMESS_0112,菱形千登勢（影チトセ）
-XMESS_0113,"I know…
-Go to sleep early, it's bad for your health.",XMESS_0113,菱形窓
-XMESS_0114,"Yes yes!
-You're so kind, Sou…",XMESS_0114,菱形千登勢（影チトセ）
+XMESS_0111,"Your father can be harsh with his words, but he's not a bad person, okay?",XMESS_0111,菱形千登勢（影チトセ）
+XMESS_0112,Family should get along... okay?,XMESS_0112,菱形千登勢（影チトセ）
+XMESS_0113,"I know... You should go to sleep early, or it'll be bad for your health.",XMESS_0113,菱形窓
+XMESS_0114,"Yes, yes! You're so kind, Sou...",XMESS_0114,菱形千登勢（影チトセ）

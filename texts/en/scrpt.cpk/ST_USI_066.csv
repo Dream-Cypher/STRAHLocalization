@@ -1,61 +1,36 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,56. Hero of Justice,XCHAPTITLE_0002,
 XCOMMENTVIEW_0013,Hizuru Minakata,XCOMMENTVIEW_0013,
-XMESS_0000,Hah… Zee…,XMESS_0000,南方ひづる（ポニテ）
-XMESS_0001,"(This is bad… My consciousness is fading…
-Sorry, older sister…)",XMESS_0001,南方ひづる（ポニテ）
-XMESS_0002,"Hey, are you okay?
-You're bleeding really badly…",XMESS_0002,凸村哲
-XMESS_0003,(Totsumura… Thank goodness he's human…),XMESS_0003,南方ひづる（ポニテ）
-XMESS_0004,(I've reached my limit…),XMESS_0004,南方ひづる（ポニテ）
-XMESS_0005,(Older sister… Goodbye…),XMESS_0005,南方ひづる（ポニテ）
-XMESS_0006,"Ugh!
-Ryunosuke…",XMESS_0006,南方ひづる
-XMESS_0007,"Wait!!
-You were at Shio's funeral…!",XMESS_0007,凸村哲
-XMESS_0008,"Where's Mio?
-You were with her, right?",XMESS_0008,南方ひづる
+XMESS_0000,*Pant*... *wheeze*...,XMESS_0000,南方ひづる（ポニテ）
+XMESS_0001,"(This is bad... I'm losing consciousness... Sorry, Sis...)",XMESS_0001,南方ひづる（ポニテ）
+XMESS_0002,"Hey, you... are you okay? Y-You're bleeding a lot...",XMESS_0002,凸村哲
+XMESS_0003,"(Totsumura... thank goodness, he's human...)",XMESS_0003,南方ひづる（ポニテ）
+XMESS_0004,(This is as far as I go...),XMESS_0004,南方ひづる（ポニテ）
+XMESS_0005,(Sis... good... bye...),XMESS_0005,南方ひづる（ポニテ）
+XMESS_0006,Ugh! Ryunosuke...,XMESS_0006,南方ひづる
+XMESS_0007,Ah!! You were at Ushio-chan's funeral...!,XMESS_0007,凸村哲
+XMESS_0008,"What happened to Mio Kofune...? You were supposed to be with her, right?",XMESS_0008,南方ひづる
 XMESS_0009,…,XMESS_0009,凸村哲
-XMESS_0010,A…a monster…took her…,XMESS_0010,凸村哲
-XMESS_0011,"We were chasing Shiori…
-Then a bunch of baby monsters came out.
-Mio was captured by them…",XMESS_0011,凸村哲
-XMESS_0012,"I…I was too scared…I ran away…
-I left Mio behind…",XMESS_0012,凸村哲
+XMESS_0010,A... A monster... took her...,XMESS_0010,凸村哲
+XMESS_0011,We were chasing Shiori-chan... Then a bunch of baby monsters came out. Mio-chan was captured by them...,XMESS_0011,凸村哲
+XMESS_0012,I was... scared... and I ran away... Leaving Mio-chan behind...,XMESS_0012,凸村哲
 XMESS_0013,…,XMESS_0013,南方ひづる
-XMESS_0014,Where's the pistol…?,XMESS_0014,南方ひづる
-XMESS_0015,"Probably dropped it…
-I tried to shoot them but…
-I fell…then I ran…",XMESS_0015,凸村哲
-XMESS_0016,"I don't know…
-After that…I don't remember…",XMESS_0016,凸村哲
-XMESS_0017,It was the right choice to run…,XMESS_0017,南方ひづる
-XMESS_0018,Huh!?,XMESS_0018,凸村哲
-XMESS_0019,"I have a request…
-I can't walk anymore…
-So carry me…please…",XMESS_0019,南方ひづる
-XMESS_0020,"Ah…yes!!
-Right to the hospital…!!",XMESS_0020,凸村哲
-XMESS_0021,"No.
-Deeper into this cave…the farthest part…",XMESS_0021,南方ひづる
-XMESS_0022,"What!?! You're saying what!?
-Absolutely not!! 
-I want out of here as soon as possible!!",XMESS_0022,凸村哲
-XMESS_0023,"There's no escape…
-The island…is under the shadows' control…",XMESS_0023,南方ひづる
-XMESS_0024,What!?,XMESS_0024,凸村哲
-XMESS_0025,"Listen…you idiot…
-Listen carefully…",XMESS_0025,南方ひづる
-XMESS_0026,"That thing…is a higher-dimensional being…
-Haine can see time…
-It observed Ryunosuke's…displacement…",XMESS_0026,南方ひづる
-XMESS_0027,"However…it seems it's lost the ability to interfere…
-Even gods aren't immortal, it seems…",XMESS_0027,南方ひづる
-XMESS_0028,"I can counter it…
-If it's Ajiro…",XMESS_0028,南方ひづる
-XMESS_0029,"If it's Ajiro…?
-Even if you say that, I don't know what you're talking about…",XMESS_0029,凸村哲
-XMESS_0030,"Cough…cough…
-Please…before it's too late…",XMESS_0030,南方ひづる
-XMESS_0031,You…are the Hero of Justice…right…?,XMESS_0031,南方ひづる
+XMESS_0014,What happened to your handgun...?,XMESS_0014,南方ひづる
+XMESS_0015,"I probably... dropped it... I pulled my gun... tried to shoot them, but... I fell... and I... then I... ran...",XMESS_0015,凸村哲
+XMESS_0016,"I don't know... After that, I just... I don't know...",XMESS_0016,凸村哲
+XMESS_0017,Running was the right choice.,XMESS_0017,南方ひづる
+XMESS_0018,Eh!?,XMESS_0018,凸村哲
+XMESS_0019,I have a favor to ask of you... I can no longer walk... So please... carry me...,XMESS_0019,南方ひづる
+XMESS_0020,"R-Right! To the hospital, right now...!!",XMESS_0020,凸村哲
+XMESS_0021,No. To the very deepest part... of this cave...!!,XMESS_0021,南方ひづる
+XMESS_0022,Haaah!? What are you saying!! N-No way in hell!!! I'm getting out of here as soon as possible!!,XMESS_0022,凸村哲
+XMESS_0023,There is nowhere to run... The island... is controlled by the Shadows...,XMESS_0023,南方ひづる
+XMESS_0024,Wha!?,XMESS_0024,凸村哲
+XMESS_0025,L-Listen... birdbrain... Listen... closely...,XMESS_0025,南方ひづる
+XMESS_0026,Th-That thing is a higher-dimensional being... Haine can see time... She observed Ryunosuke's... shift...,XMESS_0026,南方ひづる
+XMESS_0027,However... it seems she's lost the power... to interfere... It means that even a god is not immortal...,XMESS_0027,南方ひづる
+XMESS_0028,We can fight back...!! If it's Shinpei Ajiro...!!!,XMESS_0028,南方ひづる
+XMESS_0029,"S-Shinpei-kun...? Even if you say that, I don't know what's going on...",XMESS_0029,凸村哲
+XMESS_0030,*Cough*... *cough*... Please... before it's too late...,XMESS_0030,南方ひづる
+XMESS_0031,You're... a Hero of Justice... aren't you...?,XMESS_0031,南方ひづる
 XMESS_0032,…!!,XMESS_0032,凸村哲

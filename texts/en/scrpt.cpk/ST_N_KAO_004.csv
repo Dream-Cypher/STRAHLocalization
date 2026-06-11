@@ -1,75 +1,48 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,4. Where Is the Time Capsule?,XCHAPTITLE_0002,
 XMESS_0000,"So, where did we bury the time capsule?",XMESS_0000,網代慎平（収録）
-XMESS_0001,"Ah, that's what I wanted to talk about.
-Shinpei, listen up.",XMESS_0001,小舟潮
-XMESS_0002,"Ah, right.",XMESS_0002,網代慎平（収録）
+XMESS_0001,"Ah, about that. Shinpei, listen closely.",XMESS_0001,小舟潮
+XMESS_0002,Y-Yeah.,XMESS_0002,網代慎平（収録）
 XMESS_0003,Where did we bury it again?,XMESS_0003,小舟潮
-XMESS_0004,"Huh!?
-Hey, where the hell were you walking?",XMESS_0004,網代慎平（収録）
-XMESS_0005,"Heh heh, I thought if I just started walking,
-something might come back to me.",XMESS_0005,小舟潮
-XMESS_0006,Big sis always acts before she thinks.,XMESS_0006,小舟澪
-XMESS_0007,"So, I'm still looking for info.
-Shinpei, do you remember anything?",XMESS_0007,小舟潮
-XMESS_0008,"Hmm…?
-I probably forgot about the time capsule entirely.",XMESS_0008,網代慎平（収録）
+XMESS_0004,Hah!? Then where the heck were you walking towards!?,XMESS_0004,網代慎平（収録）
+XMESS_0005,"Ahaha, I thought if I just started walking, I might remember something.",XMESS_0005,小舟潮
+XMESS_0006,"Sis always acts before she thinks, huh.",XMESS_0006,小舟澪
+XMESS_0007,"So, we're currently looking for information. Shinpei, do you remember anything?",XMESS_0007,小舟潮
+XMESS_0008,"Hmm...? I had pretty much forgotten about the time capsule itself, so...",XMESS_0008,網代慎平（収録）
 XMESS_0009,What about Mio?,XMESS_0009,小舟潮
-XMESS_0010,"I remember we put something in together,
-but that's all…",XMESS_0010,小舟澪
-XMESS_0011,How about Kaori?,XMESS_0011,小舟潮
-XMESS_0012,"I'm sorry.
-I don't remember anything…",XMESS_0012,小弓場かおり
-XMESS_0013,"Oh, right…",XMESS_0013,小舟潮
-XMESS_0014,"Sou and Tokiko!
-Those two were there too.",XMESS_0014,小舟潮
-XMESS_0015,"Should we call them?
-Maybe they remember something.",XMESS_0015,網代慎平（収録）
+XMESS_0010,"I remember putting something in it with Sis, but beyond that...",XMESS_0010,小舟澪
+XMESS_0011,What about Kaori-chan?,XMESS_0011,小舟潮
+XMESS_0012,I'm sorry. I don't remember anything either...,XMESS_0012,小弓場かおり
+XMESS_0013,Is that so? The only other people we could ask are...,XMESS_0013,小舟潮
+XMESS_0014,Sou and Toki-chan! Those two should have been there too.,XMESS_0014,小舟潮
+XMESS_0015,"Should we try calling them? I don't know if they'll remember, though.",XMESS_0015,網代慎平（収録）
 XMESS_0016,"Yeah, let's give them a call!",XMESS_0016,小舟潮
 XMESS_0017,…,XMESS_0017,小弓場かおり
-XMESS_0018,"Hello? Sou?
-It's me, Ushio.
-I need to ask you something…",XMESS_0018,小舟潮
-XMESS_0019,"Back in elementary school, we buried a time capsule, right?
-I was thinking about digging it up,
-but I can't remember where.",XMESS_0019,小舟潮
-XMESS_0020,"Do you remember anything, Sou?
-Yeah, yeah…",XMESS_0020,小舟潮
+XMESS_0018,"Hello, Sou? It's me, Ushio. Hey, I wanted to ask you something.",XMESS_0018,小舟潮
+XMESS_0019,"We buried a time capsule back in elementary school, right? I'm thinking of digging it up, but I can't remember where it is.",XMESS_0019,小舟潮
+XMESS_0020,"Do you remember anything, Sou? Yeah, yeah...",XMESS_0020,小舟潮
 XMESS_0021,…,XMESS_0021,小弓場かおり
-XMESS_0022,"Oh, right?
-Then what about Tokiko?",XMESS_0022,小舟潮
-XMESS_0023,"…Yeah, I get it.
-See you later.",XMESS_0023,小舟潮
-XMESS_0024,D-did it go okay…?,XMESS_0024,小弓場かおり
-XMESS_0025,"Ah, he didn't remember anything either.
-Tokiko didn't know the location either.",XMESS_0025,小舟潮
+XMESS_0022,"Oh, is that so? Then Toki-chan too?",XMESS_0022,小舟潮
+XMESS_0023,"...Yeah, got it. See ya later.",XMESS_0023,小舟潮
+XMESS_0024,H-How was it...?,XMESS_0024,小弓場かおり
+XMESS_0025,"Ah, he didn't remember a thing. He said Toki-chan didn't know the location either.",XMESS_0025,小舟潮
 XMESS_0026,Phew…,XMESS_0026,小弓場かおり
-XMESS_0027,…What should we do now?,XMESS_0027,小舟潮
-XMESS_0028,"I… I just remembered something.
-Wasn't it Big Sis who buried it?",XMESS_0028,小舟澪
+XMESS_0027,...What should we do?,XMESS_0027,小舟潮
+XMESS_0028,"I... just remembered something. Wasn't it you who buried it, Sis?",XMESS_0028,小舟澪
 XMESS_0029,…Huh?,XMESS_0029,小舟潮
-XMESS_0030,"Ah… you're right.
-She said she was going alone that day…",XMESS_0030,小弓場かおり
+XMESS_0030,Ah... come to think of it. I'm pretty sure Kofune-san said she was going alone that time...,XMESS_0030,小弓場かおり
 XMESS_0031,"Ah, I remember now!",XMESS_0031,網代慎平（収録）
-XMESS_0032,"If everyone knew, someone might have dug it up already,
-so Ushio went alone to bury it.",XMESS_0032,網代慎平（収録）
+XMESS_0032,"You said that if everyone knew, someone might dig it up, so you went to bury it alone, Ushio.",XMESS_0032,網代慎平（収録）
 XMESS_0033,…,XMESS_0033,小舟潮
-XMESS_0034,That's right…?,XMESS_0034,小舟潮
-XMESS_0035,"Huh, really, Big Sis…",XMESS_0035,小舟澪
-XMESS_0036,How are we supposed to do anything if the person herself forgot?,XMESS_0036,網代慎平（収録）
-XMESS_0037,"You're right.
-Now that you mention it,
-I think I might have done it alone…",XMESS_0037,小舟潮
-XMESS_0038,"…Oh, I'm starting to remember!
-There was definitely a note!
-A note with the location where we buried it!",XMESS_0038,小舟潮
-XMESS_0039,"Of course me.
-I never leave anything to chance.",XMESS_0039,小舟潮
-XMESS_0040,"Alright!
-If that's the case, I'll go back and find that note!",XMESS_0040,小舟潮
-XMESS_0041,"Ah, she's off again without asking…",XMESS_0041,小舟澪
-XMESS_0042,"Wait, Big Sis!",XMESS_0042,小舟澪
+XMESS_0034,Was that how it was?,XMESS_0034,小舟潮
+XMESS_0035,"*Sigh*, seriously, Sis...",XMESS_0035,小舟澪
+XMESS_0036,What are we supposed to do if the person who did it forgot?,XMESS_0036,網代慎平（収録）
+XMESS_0037,"I guess so. Now that you mention it, I feel like I might have buried it alone...",XMESS_0037,小舟潮
+XMESS_0038,"...Ah, I'm starting to remember! There should definitely be a memo. A memo where I wrote down the location where I buried it!",XMESS_0038,小舟潮
+XMESS_0039,That's me for you. I don't miss a thing.,XMESS_0039,小舟潮
+XMESS_0040,"Alright! Now that we know that, I'm going home to look for that memo!",XMESS_0040,小舟潮
+XMESS_0041,"Ah, she's running off on her own again...!",XMESS_0041,小舟澪
+XMESS_0042,"Wait, Sis!",XMESS_0042,小舟澪
 XMESS_0043,Phew…,XMESS_0043,網代慎平（収録）
-XMESS_0044,"Then, Kaori.
-We should go too.",XMESS_0044,網代慎平（収録）
+XMESS_0044,"Well then, Koyuba-san. Shall we get going too?",XMESS_0044,網代慎平（収録）
 XMESS_0045,Y-yeah…,XMESS_0045,小弓場かおり

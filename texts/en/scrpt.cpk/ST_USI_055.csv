@@ -1,343 +1,207 @@
 source,target,id,developer_comments
-XCHAPTITLE_0019,47. Hishigata Clinic Old Ward,XCHAPTITLE_0019,
+XCHAPTITLE_0019,47. Hishigata Clinic Old Clinic,XCHAPTITLE_0019,
 XCOMMENTVIEW_0034,July 23,XCOMMENTVIEW_0034,
 XCOMMENTVIEW_0049,Shinpei Ajiro,XCOMMENTVIEW_0049,
-XMESS_0000,(We decided to go home first to prepare and meet at the entrance of Mt. Takanosu),XMESS_0000,網代慎平
-XMESS_0001,(I brought the nail gun Nezu left behind…),XMESS_0001,網代慎平
-XMESS_0002,"(I've practiced a bit since then,
-but it's still far from sufficient…
-Can I handle it properly in actual combat?)",XMESS_0002,網代慎平
-XMESS_0003,I kept you waiting!!,XMESS_0003,菱形窓
+XMESS_0000,"(We went home once to prepare, and agreed to meet at the entrance of Mt. Takanosu.)",XMESS_0000,網代慎平
+XMESS_0001,"(I brought the nail gun Nezu-san left for me, but...)",XMESS_0001,網代慎平
+XMESS_0002,"(Even though I practiced a little since then, it's far from enough... Can I really handle it properly in actual combat?)",XMESS_0002,網代慎平
+XMESS_0003,Kept you waiting!!,XMESS_0003,菱形窓
 XMESS_0004,…,XMESS_0004,網代慎平
-XMESS_0005,"How's it? Amazing equipment, right?!
-I used to be a catcher in the baseball club until last year!!!
-I'm wearing the gear from back then!",XMESS_0005,菱形窓
-XMESS_0006,"And a metal bat! Simple ones are the strongest!
-Defense and attack power are both top-notch!!!",XMESS_0006,菱形窓
+XMESS_0005,"How is it? Amazing equipment, right!! I was a catcher in the baseball club until last year...!! I brought the gear I used back then!",XMESS_0005,菱形窓
+XMESS_0006,And a metal bat! Simple is the strongest! Both defense and attack power are flawless~~~~...!,XMESS_0006,菱形窓
 XMESS_0007,…,XMESS_0007,網代慎平
-XMESS_0008,"…S-So, Sou!!",XMESS_0008,網代慎平
+XMESS_0008,...S... Sou!!,XMESS_0008,網代慎平
 XMESS_0009,Huh?,XMESS_0009,菱形窓
-XMESS_0010,"I'm often called an idiot…
-But maybe I should make fun of that outfit?",XMESS_0010,網代慎平
-XMESS_0011,I'm being super serious!!!,XMESS_0011,菱形窓
-XMESS_0012,"You, are you sure you can handle that outfit?!
-You're not coming empty-handed, are you?!",XMESS_0012,菱形窓
+XMESS_0010,"People often tell me I'm bad at reacting to jokes, but... Am I supposed to point out how ridiculous that outfit is?",XMESS_0010,網代慎平
+XMESS_0011,I am completely serious!!!!,XMESS_0011,菱形窓
+XMESS_0012,Are you sure you're okay with that equipment!? Don't tell me you came empty-handed!!,XMESS_0012,菱形窓
 XMESS_0013,No problem!,XMESS_0013,ウシオ
 XMESS_0014,!!?,XMESS_0014,菱形窓
-XMESS_0015,I'm with you!,XMESS_0015,ウシオ
-XMESS_0016,"Whoa!!
-That necklace…
-You're wearing Shio, aren't you?!",XMESS_0016,菱形窓
-XMESS_0017,"Ah, that's reassuring.
-Let's go to the old ward!",XMESS_0017,網代慎平
-XMESS_0018,"…Sou.
-Why were you trying to explore the old ward in the first place?",XMESS_0018,網代慎平
-XMESS_0019,Huh? Ah…,XMESS_0019,菱形窓
-XMESS_0020,I once sneaked in during the summer vacation of fourth grade…,XMESS_0020,菱形窓
-XMESS_0021,What!?,XMESS_0021,網代慎平
-XMESS_0022,I was invited by Totsumura and his friends to do a ghost hunt…,XMESS_0022,菱形窓
-XMESS_0023,"Wow, worst… He's a cop for crying out loud!
-Can't he read the ""No Trespassing"" sign?!",XMESS_0023,ウシオ
-XMESS_0024,Who are you to say that?!,XMESS_0024,網代慎平
-XMESS_0025,"But I never actually got in.
-I got caught by my dad…",XMESS_0025,菱形窓
+XMESS_0015,He's got me!,XMESS_0015,ウシオ
+XMESS_0016,Whoa!! That necklace...! You... you've got Ushio equipped!?,XMESS_0016,菱形窓
+XMESS_0017,"Yeah, with this I don't need to worry. Let's go to the old clinic!",XMESS_0017,網代慎平
+XMESS_0018,...Sou. Why were you trying to investigate the old clinic in the first place?,XMESS_0018,網代慎平
+XMESS_0019,Hm? Ah...,XMESS_0019,菱形窓
+XMESS_0020,See... I tried to sneak in just once during summer vacation in fourth grade.,XMESS_0020,菱形窓
+XMESS_0021,Huh!?,XMESS_0021,網代慎平
+XMESS_0022,"I was invited by Totsumura and his friends, they said we were doing a test of courage...",XMESS_0022,菱形窓
+XMESS_0023,"Wow, the worst... He's supposed to be a cop, right!? Can't he read the ""No Trespassing"" sign!",XMESS_0023,ウシオ
+XMESS_0024,You're one to talk!,XMESS_0024,網代慎平
+XMESS_0025,"But in the end, we didn't get inside. My dad found us...",XMESS_0025,菱形窓
 XMESS_0026,(…!),XMESS_0026,網代慎平
-XMESS_0027,(That kind of thing…),XMESS_0027,網代慎平
-XMESS_0028,"I didn't really think about it back then…
-It's our family's land after all,
-and my dad was there.",XMESS_0028,菱形窓
-XMESS_0029,"But thinking about it, it's strange.
-What was my dad doing alone in this ruin?",XMESS_0029,菱形窓
-XMESS_0030,"…I see.
-So you thought there was something hidden?",XMESS_0030,網代慎平
-XMESS_0031,"If something's hidden in a ruin, what could it be?",XMESS_0031,菱形窓
-XMESS_0032,"Shio, is the Shadow nearby?",XMESS_0032,網代慎平
-XMESS_0033,Uhhhhhhhh…,XMESS_0033,ウシオ
-XMESS_0034,"(Shio, who regained her memories,
-can now sense the Shadow's presence)",XMESS_0034,網代慎平
-XMESS_0035,(It could be in here too… How about it?),XMESS_0035,網代慎平
-XMESS_0036,"…Hey!! 
-It's safe right now!!!",XMESS_0036,ウシオ
-XMESS_0037,W-Wait! Sudden human form…!,XMESS_0037,菱形窓
-XMESS_0038,"Hey! Wait a second!
-You guys gonna wear swimsuits and mess around?!",XMESS_0038,菱形窓
-XMESS_0039,"You might have to fight a Shadow!
-Did you come here to swim?!",XMESS_0039,菱形窓
-XMESS_0040,"Huh? Did you come to play baseball?
-Ohhhhh!",XMESS_0040,ウシオ
-XMESS_0041,"The swimsuit is my battle uniform!
-Don't underestimate me!!!",XMESS_0041,ウシオ
-XMESS_0042,Yikes!!!,XMESS_0042,菱形窓
-XMESS_0043,"Scary…!! She's scary!!
-Totally different from Mio!
-What kind of place do you live in, Shinpei?!",XMESS_0043,菱形窓
-XMESS_0044,"Shut up!!!
-Shinpei, explain already!",XMESS_0044,ウシオ
-XMESS_0045,"Ah, right.
-After trying a bunch of things…",XMESS_0045,網代慎平
-XMESS_0046,"I realized that wearing real clothes or items
-would get in the way when transforming.",XMESS_0046,網代慎平
-XMESS_0047,"Even if I wear armor, my real body is a flat shadow…
-A shadow can't survive being pierced.",XMESS_0047,ウシオ
-XMESS_0048,"So if I'm fighting in my repertoire,
-the swimsuit is the best option!",XMESS_0048,ウシオ
-XMESS_0049,I can transform any copy endlessly—more copies mean broader repertoires within memory limits.,XMESS_0049,ウシオ
-XMESS_0050,"Cool, right?!",XMESS_0050,ウシオ
-XMESS_0051,"Ah… 
-But I don't know where to look now!!!",XMESS_0051,菱形窓
+XMESS_0027,(So that happened...),XMESS_0027,網代慎平
+XMESS_0028,"I didn't really pay it much mind at the time... This area is our land, so I figured my dad might be around sometimes.",XMESS_0028,菱形窓
+XMESS_0029,"But thinking about it, it's weird. What business did my dad have alone in these ruins?",XMESS_0029,菱形窓
+XMESS_0030,...I see. So you thought he was hiding something.,XMESS_0030,網代慎平
+XMESS_0031,"If you're hiding something in ruins, what could it be...",XMESS_0031,菱形窓
+XMESS_0032,"Ushio, are there Shadows nearby?",XMESS_0032,網代慎平
+XMESS_0033,Hmmmmmm...,XMESS_0033,ウシオ
+XMESS_0034,"(Ushio, having regained her memories, is supposedly able to sense the ""presence"" of Shadows.)",XMESS_0034,網代慎平
+XMESS_0035,(It wouldn't be strange if one was further inside... How is it?),XMESS_0035,網代慎平
+XMESS_0036,...Hmm~! It's fine for now!!!,XMESS_0036,ウシオ
+XMESS_0037,S-Suddenly in human form...!,XMESS_0037,菱形窓
+XMESS_0038,"Hey, wait a sec! You guys~~! Are you screwing around wearing a swimsuit!?",XMESS_0038,菱形窓
+XMESS_0039,"We might have to fight Shadows from here on out, you know!!? We didn't come here to swim~~!",XMESS_0039,菱形窓
+XMESS_0040,Huh? Did you come here to play baseball? Haaaaah!?,XMESS_0040,ウシオ
+XMESS_0041,"The swimsuit is my battle uniform!! Don't mess with me, you hear!!!!",XMESS_0041,ウシオ
+XMESS_0042,Eek!!,XMESS_0042,菱形窓
+XMESS_0043,"Scary...!! She's scary!! Completely different from Mio! How did you live with someone like that, Shinpei!",XMESS_0043,菱形窓
+XMESS_0044,"Shut up! Shinpei, just explain it to him already!",XMESS_0044,ウシオ
+XMESS_0045,"A-Ah. Umm, as a result of trying various things...",XMESS_0045,網代慎平
+XMESS_0046,We figured out that wearing real clothes or items gets in the way when transforming.,XMESS_0046,網代慎平
+XMESS_0047,"Even if I wear armor, my main body is a 2D shadow... If my shadow gets stabbed, I die.",XMESS_0047,ウシオ
+XMESS_0048,"So, if I'm fighting using my repertoire, a swimsuit is the best!",XMESS_0048,ウシオ
+XMESS_0049,"By the way, I can transform into anything I've copied once as many times as I want. As long as my brain capacity allows, I can increase my repertoire.",XMESS_0049,ウシオ
+XMESS_0050,"Amazing, right!?",XMESS_0050,ウシオ
+XMESS_0051,Yeah... But I don't know where to look!!,XMESS_0051,菱形窓
 XMESS_0052,Hey!,XMESS_0052,網代慎平
 XMESS_0053,Huh?,XMESS_0053,菱形窓
-XMESS_0054,"Huh… 
-The atmosphere is way too intense…
-It might start collapsing…",XMESS_0054,ウシオ
-XMESS_0055,"It's forbidden to enter because the building
-became dilapidated 14 years ago.
-It's not impossible.",XMESS_0055,菱形窓
+XMESS_0054,"Ugh... It's got way too much atmosphere... It's not going to collapse on us, right?",XMESS_0054,ウシオ
+XMESS_0055,"It was declared off-limits 14 years ago due to the building's deterioration, after all. It's not impossible.",XMESS_0055,菱形窓
 XMESS_0056,Wait!?,XMESS_0056,ウシオ
-XMESS_0057,"It's okay to walk around inside,
-but don't make too much noise.",XMESS_0057,菱形窓
-XMESS_0058,"(There are a lot of old furniture and books…
-It's hard to tell how old they are)",XMESS_0058,網代慎平
-XMESS_0059,"Incredible… It's still preserved like this.
-It has historical value.",XMESS_0059,網代慎平
-XMESS_0060,Ah…,XMESS_0060,菱形窓
-XMESS_0061,"They say it wasn't burned during the Wakayama air raid,
-so it's been standing since the Meiji era, over 100 years old.",XMESS_0061,菱形窓
-XMESS_0062,I heard it became a ruin around 1960.,XMESS_0062,菱形窓
+XMESS_0057,"It should be fine just walking around inside, but don't stomp around too much, okay?",XMESS_0057,菱形窓
+XMESS_0058,(There's a lot of old furniture and books... It's hard to even tell how old they are.),XMESS_0058,網代慎平
+XMESS_0059,Amazing... Is it really preserved exactly as it was back then? It looks like it has historical value.,XMESS_0059,網代慎平
+XMESS_0060,Yeah...,XMESS_0060,菱形窓
+XMESS_0061,"Apparently it didn't burn down during the Wakayama air raid either, so it's stood just as it was built in the Meiji era, making it over 100 years old...",XMESS_0061,菱形窓
+XMESS_0062,I heard it became abandoned around 1960.,XMESS_0062,菱形窓
 XMESS_0063,Hm…,XMESS_0063,網代慎平
-XMESS_0064,(…Something… Something that shows a connection to the Shadow…),XMESS_0064,網代慎平
-XMESS_0065,"…What?
-There's a big hole in the ceiling.",XMESS_0065,ウシオ
-XMESS_0066,"The stairs leading up are collapsed.
-That means going to the second floor is impossible…",XMESS_0066,網代慎平
-XMESS_0067,"Wait!
-Can't you go up with the Shadow's power, Shio?",XMESS_0067,網代慎平
-XMESS_0068,"Huh?
-That…",XMESS_0068,ウシオ
-XMESS_0069,"Oh! I remember! 
-You're scared of ghosts, right?!
-I'll go check it out!",XMESS_0069,菱形窓
-XMESS_0070,Gh… I told you not to say that…,XMESS_0070,ウシオ
-XMESS_0071,I'll do it! I'll check it out!,XMESS_0071,ウシオ
-XMESS_0072,There you go!!!,XMESS_0072,ウシオ
-XMESS_0073,Wow!! It's going through the wall!!!,XMESS_0073,菱形窓
-XMESS_0074,"I'll check it out, stay here Shinpei!!!",XMESS_0074,ウシオ
-XMESS_0075,"I'm not doing this because I'm scared!!
-If I get separated, I can't help you if something happens!!!",XMESS_0075,ウシオ
+XMESS_0064,(Is there anything... Anything that shows a connection to the Shadows...),XMESS_0064,網代慎平
+XMESS_0065,...Huh? There's a big hole in the ceiling.,XMESS_0065,ウシオ
+XMESS_0066,The stairs going up have completely collapsed. I guess that means investigating the second floor is impossible...,XMESS_0066,網代慎平
+XMESS_0067,"Can ya use shadow powers to get up there, Ushio?",XMESS_0067,網代慎平
+XMESS_0068,Huh? Well...,XMESS_0068,ウシオ
+XMESS_0069,"Ah! You're scared of ghosts, right? You've got a cute side to you~~.",XMESS_0069,菱形窓
+XMESS_0070,Gu... Nnngh... I shouldn't have said anything...,XMESS_0070,ウシオ
+XMESS_0071,"I'll do it, I'll go take a look!!",XMESS_0071,ウシオ
+XMESS_0072,How's that!!!,XMESS_0072,ウシオ
+XMESS_0073,Ooh! Amazing~~. She went right into the wall...!,XMESS_0073,菱形窓
+XMESS_0074,"I'll go investigate, so stay right there Shinpei!!",XMESS_0074,ウシオ
+XMESS_0075,"I-It's not like I'm doing this because I'm scared or anything, okay!? It's because if we get separated, I won't be able to help you guys if something happens!!!",XMESS_0075,ウシオ
 XMESS_0076,Understood.,XMESS_0076,網代慎平
-XMESS_0077,"There's no ghost, but there is a Shadow!
-Be careful!!!",XMESS_0077,菱形窓
-XMESS_0078,"I know, you idiot!!!",XMESS_0078,ウシオ
-XMESS_0079,"Wow, scary!!!",XMESS_0079,菱形窓
-XMESS_0080,"(Well, I'll check the first floor.
-Where should I start…)",XMESS_0080,網代慎平
-XMESS_0081,"(There's a medicine cabinet in front of me.
-The floor is covered in scattered papers)",XMESS_0081,網代慎平
+XMESS_0077,"There are no ghosts, but there are Shadows! Be careful!!",XMESS_0077,菱形窓
+XMESS_0078,"I know that, you idiot!!",XMESS_0078,ウシオ
+XMESS_0079,Oh~~ scary!!,XMESS_0079,菱形窓
+XMESS_0080,"(Now then, I'll investigate the first floor. Where should I start...)",XMESS_0080,網代慎平
+XMESS_0081,(There's a medicine cabinet right in front of me. And a ton of papers scattered on the floor.),XMESS_0081,網代慎平
 MSTD_0303-0,Check the medicine cabinet,MSTD_0303-0,
 MSTD_0303-1,Check the scattered papers,MSTD_0303-1,
-MSTD_0303-2,Ask Shio about the second floor,MSTD_0303-2,
-XMESS_0082,"(I'll check the medicine cabinet.
-…There might be dangerous things.
-I need to be careful when touching them)",XMESS_0082,網代慎平
-XMESS_0083,"There are so many unfamiliar medicines…
-Seems like they're all old.
-The text is in old characters, and the printing is faded…",XMESS_0083,網代慎平
+MSTD_0303-2,Ask Ushio about the second floor,MSTD_0303-2,
+XMESS_0082,(I'll investigate the medicine cabinet. ...There might be dangerous things inside. I need to be careful when touching anything.),XMESS_0082,網代慎平
+XMESS_0083,"There are nothing but unfamiliar medicines... Looks like there are a lot of old ones. The characters are in old forms, and the printing is faded...",XMESS_0083,網代慎平
 XMESS_0084,Let me see…,XMESS_0084,菱形窓
-XMESS_0085,"Ergot extract…
-This one is benzoic acid… used for preservation and sterilization.
-There's also isomine.",XMESS_0085,菱形窓
-XMESS_0086,"Hey!
-This is… mercury!",XMESS_0086,菱形窓
-XMESS_0087,Mercury?,XMESS_0087,網代慎平
-XMESS_0088,"<color=#GF_KEY_SHOUKOU>Mercury chloride</color>… a poisonous drug that's no longer used!
-This is dangerous!
-Why did we leave this lying around?!",XMESS_0088,菱形窓
-XMESS_0089,(What is this paper?),XMESS_0089,網代慎平
+XMESS_0085,Ergot extract... This one is benzoic acid... used for preservation and sterilization. There's even isomine.,XMESS_0085,菱形窓
+XMESS_0086,Oh! This is... corrosive sublimate!,XMESS_0086,菱形窓
+XMESS_0087,Corrosive sublimate?,XMESS_0087,網代慎平
+XMESS_0088,<color=#GF_KEY_SHOUKOU>Mercuric chloride</color>... a highly toxic chemical that isn't used anymore! This is bad... My family just left something like this lying around...?,XMESS_0088,菱形窓
+XMESS_0089,(I wonder what these papers are?),XMESS_0089,網代慎平
 XMESS_0090,This is…!!!,XMESS_0090,網代慎平
-XMESS_0091,"(I think these are old medical records… prescriptions?
-Why are they scattered like this on the floor?!!)",XMESS_0091,網代慎平
-XMESS_0092,"(The patient's birth dates
-include Showa, Taisho, even Meiji!!
-Clearly pre-war documents!)",XMESS_0092,網代慎平
-XMESS_0093,"(Gastritis, bronchitis, pneumonia…
-All common diseases.)",XMESS_0093,網代慎平
-XMESS_0094,"(Hishigata-sensei called the Shadow Sickness
-""Capgras syndrome,"" but I don't see that term
-in any of these records.)",XMESS_0094,網代慎平
-XMESS_0095,"(Also… mixed in with the discarded documents…
-What is this?)",XMESS_0095,網代慎平
-XMESS_0096,"(<color=#GF_TIPS_109>Panda plush</color>?
-It's pretty dirty, but this must be a recent one…)",XMESS_0096,網代慎平
-XMESS_0097,"Shio!
-How's it going over there?",XMESS_0097,網代慎平
-XMESS_0098,"Hey, don't suddenly talk to me!
-Say something before you talk!",XMESS_0098,ウシオ
-XMESS_0099,That's crazy…,XMESS_0099,菱形窓
-XMESS_0100,"Something… it seems like someone lived here!
-I found an album, I'll throw it over.",XMESS_0100,ウシオ
-XMESS_0101,Okay.,XMESS_0101,網代慎平
-XMESS_0102,"…What? This is…
-<color=#GF_TIPS_104>My album</color> isn't it?!
-Don't just toss it around carelessly!",XMESS_0102,菱形窓
-XMESS_0103,(Where else might have something?),XMESS_0103,網代慎平
-XMESS_0104,"S-Stop, Shinpei!!!",XMESS_0104,菱形窓
+XMESS_0091,(Old medical records... and prescriptions? Just casually scattered on the floor like this...!!),XMESS_0091,網代慎平
+XMESS_0092,(The patients' dates of birth include Showa... Taisho... even Meiji!! These are clearly pre-war!),XMESS_0092,網代慎平
+XMESS_0093,"(Gastroenteritis, bronchitis, pneumonia... They're all common illnesses...)",XMESS_0093,網代慎平
+XMESS_0094,"(Hishigata-sensei called the Shadow Sickness ""Capgras syndrome,"" but... I don't see those words on any of these medical records.)",XMESS_0094,網代慎平
+XMESS_0095,(Also... mixed in with the tossed documents... What is this?),XMESS_0095,網代慎平
+XMESS_0096,"(A <color=#GF_TIPS_109>stuffed panda</color>? It's pretty dirty, but this is probably recent, not from before the war...)",XMESS_0096,網代慎平
+XMESS_0097,Ushio! How are things on your end?,XMESS_0097,網代慎平
+XMESS_0098,"Hyaa, don't just suddenly talk to me! Give me a heads up before you talk!",XMESS_0098,ウシオ
+XMESS_0099,That's unreasonable...,XMESS_0099,菱形窓
+XMESS_0100,"Seems like... someone used to live up here! There was an album, so I'll toss it down to you.",XMESS_0100,ウシオ
+XMESS_0101,Got it.,XMESS_0101,網代慎平
+XMESS_0102,...Hm? This is... <color=#GF_TIPS_104>our family album</color>! Don't just toss it so casually!,XMESS_0102,菱形窓
+XMESS_0103,(Are there any other rooms that might have something...),XMESS_0103,網代慎平
+XMESS_0104,Sh... Shinpei!!!,XMESS_0104,菱形窓
 XMESS_0105,What's wrong!?,XMESS_0105,網代慎平
-XMESS_0106,W-What is that…?,XMESS_0106,菱形窓
-XMESS_0107,It seems like an operating room…,XMESS_0107,菱形窓
-XMESS_0108,"A wooden carving…?
-It's creepy…
-Seems really old.",XMESS_0108,網代慎平
-XMESS_0109,"An operating room with a statue…
-You don't usually put statues in such places.",XMESS_0109,菱形窓
-XMESS_0110,"It's holding a fish in its left side.
-Tuna…?",XMESS_0110,網代慎平
-XMESS_0111,"Hmm, I've seen this before.
-What was it… Oh! For business success!",XMESS_0111,菱形窓
-XMESS_0112,Bissho-sama! (Bishamonten)!,XMESS_0112,網代慎平
+XMESS_0106,Wh-What is... that.,XMESS_0106,菱形窓
+XMESS_0107,"It seems to be an operating room, but...",XMESS_0107,菱形窓
+XMESS_0108,A wooden carving...? It's creepy... It looks pretty old.,XMESS_0108,網代慎平
+XMESS_0109,"A statue in an operating room... Normally, you wouldn't put a statue in a place like this.",XMESS_0109,菱形窓
+XMESS_0110,It's holding a fish under its left arm. A sea bream...?,XMESS_0110,網代慎平
+XMESS_0111,"Hmm, I feel like I've seen something like this before. What was it... You know... the one for prosperous business~~.",XMESS_0111,菱形窓
+XMESS_0112,Ebisu-sama!,XMESS_0112,網代慎平
 XMESS_0113,That's it!!,XMESS_0113,菱形窓
 XMESS_0114,I'll do a quick search.,XMESS_0114,網代慎平
 XMESS_0115,…,XMESS_0115,網代慎平
-XMESS_0116,"Ebisu…?
-One of the Seven Lucky Gods, the god of fishing…?",XMESS_0116,網代慎平
-XMESS_0117,"…Ah.
-This…!",XMESS_0117,網代慎平
+XMESS_0116,"Ebisu... One of the Seven Lucky Gods, the god of fishing...",XMESS_0116,網代慎平
+XMESS_0117,...Ah. This is...!,XMESS_0117,網代慎平
 XMESS_0118,What's wrong?,XMESS_0118,菱形窓
-XMESS_0119,"Look.
-There's a website that details the god Ebisu…",XMESS_0119,網代慎平
-XMESS_0120,"There are multiple deities named Ebisu,
-and they're sometimes considered the same as the deity Hachiman.",XMESS_0120,網代慎平
+XMESS_0119,"Look. It's a site with detailed information about Ebisu-sama, but...",XMESS_0119,網代慎平
+XMESS_0120,"It says there are multiple deities called ""Ebisu,"" and they are sometimes identified with Hiruko-no-Mikoto...",XMESS_0120,網代慎平
 XMESS_0121,Could it be… Hiruko-sama…?,XMESS_0121,網代慎平
-XMESS_0122,"Hiruko-sama?!
-Is this…?!",XMESS_0122,菱形窓
-XMESS_0123,"What's going on…?
-Why is something like this here…?!",XMESS_0123,菱形窓
-XMESS_0124,I don't know… just a guess.,XMESS_0124,網代慎平
-XMESS_0125,(But… if this is really Hiruko-sama…),XMESS_0125,網代慎平
-XMESS_0126,"First of all, what does Hiruko-sama look like?
-I've never seen them… I don't even know if they're male or female.",XMESS_0126,菱形窓
-XMESS_0127,"There's no detailed description anywhere…
-They have the appearance of a serpent without limbs… 'Monstrous' is the only way to describe it…",XMESS_0127,網代慎平
-XMESS_0128,"I don't get it… why would such a deity
-be worshipped as a lucky god?!",XMESS_0128,菱形窓
+XMESS_0122,Hiruko-sama!? This is...?,XMESS_0122,菱形窓
+XMESS_0123,What does this mean... Why is something like that here...!?,XMESS_0123,菱形窓
+XMESS_0124,I don't know... it's just a guess.,XMESS_0124,網代慎平
+XMESS_0125,(But... if this really is Hiruko-sama...),XMESS_0125,網代慎平
+XMESS_0126,What does <color=#GF_TIPS_110>Hiruko-sama</color> even look like in the first place? I've never seen them... I don't even know if they're a man or a woman.,XMESS_0126,菱形窓
+XMESS_0127,"There's no detailed description anywhere... A leech-like figure without limbs... it's only described as ""grotesque""...",XMESS_0127,網代慎平
+XMESS_0128,I don't get it... why would a god like that be worshipped as an auspicious god!?,XMESS_0128,菱形窓
 XMESS_0129,…,XMESS_0129,網代慎平
-XMESS_0130,…!!?,XMESS_0130,網代慎平
-XMESS_0131,(…Wind through the cracks…?),XMESS_0131,網代慎平
-XMESS_0132,"Hey, Ushio!",XMESS_0132,網代慎平
-XMESS_0133,What's wrong?!,XMESS_0133,ウシオ
-XMESS_0134,"Wait, wow!
-What is this?!
-Creepy…!!!",XMESS_0134,ウシオ
-XMESS_0135,What about the second floor?,XMESS_0135,菱形窓
-XMESS_0136,"There were a lot of things there…
-If we're going to check properly, one day won't be enough.",XMESS_0136,ウシオ
-XMESS_0137,"So?
-Did anything happen?",XMESS_0137,ウシオ
-XMESS_0138,"Look, there's a one-centimeter gap in this wall.
-You could fit through as a shadow, right?",XMESS_0138,網代慎平
-XMESS_0139,"You're a real troublemaker with your shadow tricks…
-I'll treat you to takoyaki for the festival tomorrow!",XMESS_0139,ウシオ
-XMESS_0140,"…Okay.
-I'll buy ten or even a hundred of them.",XMESS_0140,網代慎平
-XMESS_0141,"Seriously?!
-You said it, Shinpei! It's a promise!!",XMESS_0141,ウシオ
-XMESS_0142,"…What's going on?!
-Something's happening!",XMESS_0142,網代慎平
-XMESS_0143,"Something's… what's going on with the floor?
-It's too dark to see anything!",XMESS_0143,ウシオ
-XMESS_0144,"What if it lit up with a flash?!
-You can do it now, right?
-No need to copy anything else!",XMESS_0144,網代慎平
-XMESS_0145,Oh! Right!,XMESS_0145,ウシオ
-XMESS_0146,"Wait!
-This wall… maybe it's a door?!
-There's a keyhole!!",XMESS_0146,ウシオ
+XMESS_0130,...!?,XMESS_0130,網代慎平
+XMESS_0131,(...A draft...?),XMESS_0131,網代慎平
+XMESS_0132,"H—ey, Ushio!",XMESS_0132,網代慎平
+XMESS_0133,What is it!!?,XMESS_0133,ウシオ
+XMESS_0134,"Wait, whoa! What is this!? Creepy~~~!!",XMESS_0134,ウシオ
+XMESS_0135,What'd ya find upstairs?,XMESS_0135,菱形窓
+XMESS_0136,"There were a lot of things up there... If we were to investigate properly, a single day wouldn't be enough.",XMESS_0136,ウシオ
+XMESS_0137,So? Did you find anything?,XMESS_0137,ウシオ
+XMESS_0138,"Look, there's a gap of about one centimeter in this wall. If it's you, couldn't you turn into a shadow and go in?",XMESS_0138,網代慎平
+XMESS_0139,You're really working your Shadow hard... Treat me to takoyaki at the festival tomorrow!,XMESS_0139,ウシオ
+XMESS_0140,...Sure. I'll buy you ten or a hundred.,XMESS_0140,網代慎平
+XMESS_0141,"Seriously! You said it, Shinpei. That's a promise, okay!!",XMESS_0141,ウシオ
+XMESS_0142,...Well!? Is there anything?,XMESS_0142,網代慎平
+XMESS_0143,There's something on the floor... what is this? It's so dark I can't tell anything!,XMESS_0143,ウシオ
+XMESS_0144,"Um... what if you flashed that light!? You can do it now, right? You don't have to copy anything!",XMESS_0144,網代慎平
+XMESS_0145,"Oh, right!",XMESS_0145,ウシオ
+XMESS_0146,Ah!? This wall... it might be a door!! There's a keyhole!!,XMESS_0146,ウシオ
 XMESS_0147,What?!,XMESS_0147,網代慎平
-XMESS_0148,"But I don't know where the key is.
-It doesn't seem to be around here…",XMESS_0148,ウシオ
-XMESS_0149,"Then it's my turn!
-I'll smash the door with a bat!",XMESS_0149,菱形窓
-XMESS_0150,"Okay!
-Ushio, get back for a moment!",XMESS_0150,網代慎平
+XMESS_0148,"But I don't know where the key is. It doesn't look like it's around here, though...",XMESS_0148,ウシオ
+XMESS_0149,Then it's my turn! I'll smash the door down with my bat!,XMESS_0149,菱形窓
+XMESS_0150,"Alright! Ushio, come back out for a sec!",XMESS_0150,網代慎平
 XMESS_0151,Got it!,XMESS_0151,ウシオ
-XMESS_0152,"Then, Sou, try breaking it with the bat.",XMESS_0152,網代慎平
-XMESS_0153,Here I go… YAH!!!,XMESS_0153,菱形窓
-XMESS_0154,"Grrrr…!!!
-My arm… it's numb…!!!",XMESS_0154,菱形窓
-XMESS_0155,"No good… it's way too strong…
-It's impossible to break open…",XMESS_0155,菱形窓
-XMESS_0156,We'll have to find the key…,XMESS_0156,ウシオ
-XMESS_0157,"Damn it!! 
-It's definitely suspicious…
-What can I do?!
-This is so frustrating!!!",XMESS_0157,菱形窓
-XMESS_0158,"…There must still be things to do.
-There are other suspicious places,
-let's check them out.",XMESS_0158,網代慎平
-XMESS_0159,"For now,
-that statue seems really suspicious!",XMESS_0159,ウシオ
-XMESS_0160,"But… 
-From what I can see, it's just
-resembling Ebisu-sama…",XMESS_0160,菱形窓
-XMESS_0161,"But Ebisu-sama is usually a fat old man…
-This… it's kind of feminine…",XMESS_0161,菱形窓
+XMESS_0152,"Alright, I'm counting on you, Sou. Try and see if you can break it with the bat.",XMESS_0152,網代慎平
+XMESS_0153,Here I go... Orya!!,XMESS_0153,菱形窓
+XMESS_0154,Guuuuuh...!! M-My arms... they're numb~~~...!,XMESS_0154,菱形窓
+XMESS_0155,It's no good... it's too sturdy! Breaking it open is impossible...,XMESS_0155,菱形窓
+XMESS_0156,We need to find the key after all...,XMESS_0156,ウシオ
+XMESS_0157,"Damn it!! It's definitely suspicious... Is there really nothing we can do, dammit!!!",XMESS_0157,菱形窓
+XMESS_0158,"...There must still be things we can do. There are other suspicious places, so let's check them out.",XMESS_0158,網代慎平
+XMESS_0159,"For starters, that statue is incredibly suspicious!",XMESS_0159,ウシオ
+XMESS_0160,"Even so... Just looking at it, all we can tell is that it looks like Ebisu-sama, right?",XMESS_0160,菱形窓
+XMESS_0161,"But when you think of Ebisu-sama, you think of a fat old man... This is, how should I say... kinda feminine...",XMESS_0161,菱形窓
 XMESS_0162,(Feminine…?),XMESS_0162,網代慎平
-XMESS_0163,I said it might be Hiruko-sama…,XMESS_0163,菱形窓
-XMESS_0164,"Wait!?
-This creepy thing is that?!",XMESS_0164,ウシオ
-XMESS_0165,"It's just Shinpei's guess for now.
-Hey Shinpei?",XMESS_0165,菱形窓
+XMESS_0163,"You said this might be Hiruko-sama, but...",XMESS_0163,菱形窓
+XMESS_0164,Ehhh!? This creepy thing is!?,XMESS_0164,ウシオ
+XMESS_0165,"It's just Shinpei's guess for now, though. Right, Shinpei?",XMESS_0165,菱形窓
 XMESS_0166,…,XMESS_0166,網代慎平
 XMESS_0167,"Shinpei, what's wrong?",XMESS_0167,菱形窓
-XMESS_0168,"No, earlier you said…
-You said it was feminine, right?",XMESS_0168,網代慎平
-XMESS_0169,"That made me curious,
-this Hiruko-sama statue… its belly
-is swollen, isn't it?",XMESS_0169,網代慎平
-XMESS_0170,"Could it be…?
-Is it pregnant…?",XMESS_0170,網代慎平
-XMESS_0171,"You're right… it is…
-But did Hiruko-sama grant blessings for children?",XMESS_0171,菱形窓
-XMESS_0172,"No… I don't think so.
-Then what is this…?",XMESS_0172,網代慎平
-XMESS_0173,"Wait…
-I'll check inside the statue.",XMESS_0173,ウシオ
-XMESS_0174,"Check?
-How are you going to check…?",XMESS_0174,網代慎平
-XMESS_0175,"(…!!
-The flash when copying…!)",XMESS_0175,網代慎平
-XMESS_0176,"The shadow scan can see through objects!
-It can see human skeletons and internal organs… that's why it can copy them!",XMESS_0176,ウシオ
+XMESS_0168,"No, you just said it looked feminine, right?",XMESS_0168,網代慎平
+XMESS_0169,"That made me curious. This Hiruko-sama statue... its belly is swollen, isn't it.",XMESS_0169,網代慎平
+XMESS_0170,"Could it be... that it's ""pregnant""?",XMESS_0170,網代慎平
+XMESS_0171,"N-Now that you mention it, it sure is... But did Hiruko-sama grant blessings for children?",XMESS_0171,菱形窓
+XMESS_0172,No... they shouldn't have. Then what on earth is this...,XMESS_0172,網代慎平
+XMESS_0173,Wait... I'll look inside the statue.,XMESS_0173,ウシオ
+XMESS_0174,Look? How are you going to look—,XMESS_0174,網代慎平
+XMESS_0175,(...!! The flash from when she copies...!),XMESS_0175,網代慎平
+XMESS_0176,A Shadow's scan can see through the inside of objects! It can see human skeletons and internal organs... that's why they can copy them!,XMESS_0176,ウシオ
 XMESS_0177,…!,XMESS_0177,網代慎平
 XMESS_0178,…,XMESS_0178,ウシオ
-XMESS_0179,"…It's true!
-There's something inside the belly!!",XMESS_0179,ウシオ
+XMESS_0179,...Spot on! There's something inside its belly!!,XMESS_0179,ウシオ
 XMESS_0180,Seriously?!,XMESS_0180,菱形窓
-XMESS_0181,I'll copy it to check!,XMESS_0181,ウシオ
-XMESS_0182,"Hair?
-What am I supposed to do with that?",XMESS_0182,菱形窓
-XMESS_0183,That's how!,XMESS_0183,ウシオ
-XMESS_0184,"Oh, right, using hair to copy…",XMESS_0184,網代慎平
-XMESS_0185,"This… this is…!!
-The key…!!!",XMESS_0185,菱形窓
+XMESS_0181,I'll copy it to see!!,XMESS_0181,ウシオ
+XMESS_0182,A strand of hair? What are you going to do plucking that out?,XMESS_0182,菱形窓
+XMESS_0183,This is what!,XMESS_0183,ウシオ
+XMESS_0184,"I see, using hair to copy it...",XMESS_0184,網代慎平
+XMESS_0185,Th... This is...!! A key...!!,XMESS_0185,菱形窓
 XMESS_0186,"Ushio, I'm counting on you!",XMESS_0186,網代慎平
-XMESS_0187,Got it!,XMESS_0187,ウシオ
+XMESS_0187,Yeah!,XMESS_0187,ウシオ
 XMESS_0188,"!!
 The door…!",XMESS_0188,菱形窓
 XMESS_0189,It's open!,XMESS_0189,網代慎平
-XMESS_0190,"Inside the room… there's a hole?
-It must lead underground…",XMESS_0190,網代慎平
-XMESS_0191,"Be careful, both of you…
-I can feel the presence of a shadow from down there…",XMESS_0191,ウシオ
+XMESS_0190,Inside the room... is a hole? Does it lead underground from here...,XMESS_0190,網代慎平
+XMESS_0191,"Be careful, you two... I can feel the presence of Shadows from down there...",XMESS_0191,ウシオ
 XMESS_0192,!!,XMESS_0192,網代慎平
-XMESS_0193,"The shadow scans the abdomen of the statue…
-Then, the shadow that entered through the gap in the wall
-uses the copied key to open the inside…",XMESS_0193,菱形窓
-XMESS_0194,"Without me…
-It's impossible to open this hidden door
-with the shadow's power…
-There's something like that in my house…!!!",XMESS_0194,菱形窓
-XMESS_0195,Dad…!!!,XMESS_0195,菱形窓
+XMESS_0193,"A Shadow scans the abdomen of the statue... Then, the Shadow that entered through the gap in the wall uses the copied key to unlock it from the inside...",XMESS_0193,菱形窓
+XMESS_0194,Without a Shadow... A hidden door that can't be opened without borrowing a Shadow's power... Something like that is in my house...!!,XMESS_0194,菱形窓
+XMESS_0195,Dad...,XMESS_0195,菱形窓
 XMESS_0196,…Ushio.,XMESS_0196,網代慎平
-XMESS_0197,"It's not scary.
-As long as I'm with Shinpei.",XMESS_0197,ウシオ
+XMESS_0197,I'm not scared. As long as I'm with Shinpei.,XMESS_0197,ウシオ
 XMESS_0198,Let's go.,XMESS_0198,ウシオ

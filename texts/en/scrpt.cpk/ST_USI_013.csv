@@ -1,131 +1,84 @@
 source,target,id,developer_comments
-XRETURNTODEATH_0020,3rd Round,XRETURNTODEATH_0020,
+XRETURNTODEATH_0020,3rd Loop,XRETURNTODEATH_0020,
 XCHAPTITLE_0023,12. Reunion with Kaori,XCHAPTITLE_0023,
-XMESS_0000,Hah!!!,XMESS_0000,網代慎平
-XMESS_0001,Hah… Hah… Hah… Hah. U…,XMESS_0001,網代慎平
-XMESS_0002,(Again… I've returned),XMESS_0002,網代慎平
-XMESS_0003,"Shinpei-kun!
-Are you okay??",XMESS_0003,小弓場かおり
-XMESS_0004,Kaori-san…?,XMESS_0004,網代慎平
-XMESS_0005,"I'm sorry!
-Even though you're probably not in the mood because of Kofune-san,
-I forced myself on you.",XMESS_0005,小弓場かおり
-XMESS_0006,"(With Kaori-san and the harbor… When I was approached back then,
-I did exchange contact info…)",XMESS_0006,網代慎平
-XMESS_0007,"Um… Sorry.
-Honestly, I'm still not fully over it.",XMESS_0007,網代慎平
-XMESS_0008,"It's okay!
-I don't mind at all.",XMESS_0008,小弓場かおり
+XMESS_0000,*Gasp*!!!!,XMESS_0000,網代慎平
+XMESS_0001,*Pant*... *pant*... *pant*... *pant*. Ugh...,XMESS_0001,網代慎平
+XMESS_0002,(I've... returned again),XMESS_0002,網代慎平
+XMESS_0003,Ajiro-kun! Are you okay!?,XMESS_0003,小弓場かおり
+XMESS_0004,Koyuba-san...?,XMESS_0004,網代慎平
+XMESS_0005,"I-I'm sorry! I know you're dealing with Kofune-san's passing, and I'm just bothering you.",XMESS_0005,小弓場かおり
+XMESS_0006,"(Koyuba-san and the harbor... She called out to me back then, and I think we exchanged contact info...)",XMESS_0006,網代慎平
+XMESS_0007,"Um... sorry. Honestly, my feelings haven't caught up yet.",XMESS_0007,網代慎平
+XMESS_0008,It's okay! Please don't worry about it at all.,XMESS_0008,小弓場かおり
 XMESS_0009,"I'm planning to stay on the island a bit longer.
 I'd be happy if we could talk again somewhere.",XMESS_0009,小弓場かおり
-XMESS_0010,"Well… I should be going soon.
-See you, Shinpei-kun!",XMESS_0010,小弓場かおり
+XMESS_0010,"Well then... I should be going soon. See you, Ajiro-kun!",XMESS_0010,小弓場かおり
 XMESS_0011,Thank you for boarding.,XMESS_0011,船内アナウンス（船長）
 XMESS_0012,…,XMESS_0012,網代慎平
-XMESS_0013,"(Just… wait, wait…
-Calm down…)",XMESS_0013,網代慎平
-XMESS_0014,(But… wasn't I just saying it was a dream?),XMESS_0014,網代慎平
-XMESS_0015,"(But… why does this feel like…
-Something that happened just yesterday?)",XMESS_0015,網代慎平
-XMESS_0016,"(Calm down, calm down… This is how I do it.
-Look at myself in the mirror and calm down…)",XMESS_0016,網代慎平
-XMESS_0017,…Hey.,XMESS_0017,さっきの少女（小弓場かおり）
+XMESS_0013,"(W... wait, wait... Calm down...)",XMESS_0013,網代慎平
+XMESS_0014,"(Didn't I just confidently declare that ""it has to be a dream"" a moment ago?)",XMESS_0014,網代慎平
+XMESS_0015,(So then... what is this... This feeling that the exact same thing happened just yesterday--),XMESS_0015,網代慎平
+XMESS_0016,"(Calm down, calm down... This is what I do at times like this. Look at the big picture and calm down...)",XMESS_0016,網代慎平
+XMESS_0017,...Um.,XMESS_0017,さっきの少女（小弓場かおり）
 XMESS_0018,Y-yes?!,XMESS_0018,網代慎平
-XMESS_0019,"…I'm sorry.
-I startled you.",XMESS_0019,さっきの少女（小弓場かおり）
-XMESS_0020,"(The person who was next to me earlier.
-What does she want?)",XMESS_0020,網代慎平
-XMESS_0021,"Um… If I'm mistaken, I'm sorry.
-Maybe you're not Shinpei-kun…?",XMESS_0021,さっきの少女（小弓場かおり）
-XMESS_0022,"Eh…?
-Y-yes, you're right.",XMESS_0022,網代慎平
-XMESS_0023,"Exactly!
-I'm glad it's you.",XMESS_0023,さっきの少女（小弓場かおり）
-XMESS_0024,Why do you know my name?,XMESS_0024,網代慎平
-XMESS_0025,"…Shinpei-kun.
-You don't remember me, do you?",XMESS_0025,さっきの少女（小弓場かおり）
-XMESS_0026,"!!
-I'm sorry…!",XMESS_0026,網代慎平
-XMESS_0027,…Hey…!,XMESS_0027,網代慎平
-XMESS_0028,"Well…
-It's been seven years, after all.
-We didn't really talk much either.",XMESS_0028,さっきの少女（小弓場かおり）
-XMESS_0029,"Don't you remember, Shinpei-kun?
-We went to the same elementary school…",XMESS_0029,さっきの少女（小弓場かおり）
+XMESS_0019,...I-I'm sorry. I didn't mean to startle you.,XMESS_0019,さっきの少女（小弓場かおり）
+XMESS_0020,(She was sitting next to me earlier. What does she want?),XMESS_0020,網代慎平
+XMESS_0021,Um... I'm sorry if I'm mistaken. But are you... Ajiro-kun?,XMESS_0021,さっきの少女（小弓場かおり）
+XMESS_0022,"Eh...? Y-yes, I am.",XMESS_0022,網代慎平
+XMESS_0023,I knew it! I'm so glad I was right.,XMESS_0023,さっきの少女（小弓場かおり）
+XMESS_0024,How do you know my name?,XMESS_0024,網代慎平
+XMESS_0025,...Ajiro-kun. You don't know who I am... do you?,XMESS_0025,さっきの少女（小弓場かおり）
+XMESS_0026,!! I-I'm sorry...,XMESS_0026,網代慎平
+XMESS_0027,...Ummmm?,XMESS_0027,網代慎平
+XMESS_0028,"...I guess it can't be helped. It's been seven years, and we didn't talk that much back then anyway.",XMESS_0028,さっきの少女（小弓場かおり）
+XMESS_0029,"Do you remember, Ajiro-kun? We used to go to the same <color=#GF_TIPS_123>elementary school</color>...",XMESS_0029,さっきの少女（小弓場かおり）
 XMESS_0030,The same elementary school…?,XMESS_0030,網代慎平
-XMESS_0031,"Oh! 
-Is it you, Kaori-san!?",XMESS_0031,網代慎平
-XMESS_0032,"(I remember! 
-Kaori-san… a classmate from elementary school!)",XMESS_0032,網代慎平
-XMESS_0033,"Yes!
-I'm glad you remembered.",XMESS_0033,小弓場かおり
+XMESS_0031,Ah! Are you... Koyuba-san!?,XMESS_0031,網代慎平
+XMESS_0032,(I remember! <color=#GF_TIPS_009>Kaori Koyuba</color>-san... a classmate from elementary school!),XMESS_0032,網代慎平
+XMESS_0033,Yes! I'm so glad you remembered.,XMESS_0033,小弓場かおり
 XMESS_0034,"I transferred schools in the middle, so
 I thought you'd have forgotten me.",XMESS_0034,小弓場かおり
-XMESS_0035,"Sorry I couldn't remember right away!
-Kaori-san, you were the library duty…",XMESS_0035,網代慎平
-XMESS_0036,"That's right, that's me!
-It's been so long… Shinpei-kun!",XMESS_0036,小弓場かおり
-XMESS_0037,"Since I left this island,
-It's been seven years already.",XMESS_0037,小弓場かおり
-XMESS_0038,"Ah. Thinking back, 
-We haven't kept in touch at all…",XMESS_0038,網代慎平
-XMESS_0039,"…Still, I was surprised.
-You've changed a lot since then.",XMESS_0039,網代慎平
+XMESS_0035,"Sorry I couldn't remember right away! Koyuba-san, you were on library duty...",XMESS_0035,網代慎平
+XMESS_0036,"Yes, that Koyuba! It's really been a long time... Ajiro-kun!",XMESS_0036,小弓場かおり
+XMESS_0037,It's already been seven years since I left this island.,XMESS_0037,小弓場かおり
+XMESS_0038,"Yeah. Come to think of it, we haven't kept in touch at all since then...",XMESS_0038,網代慎平
+XMESS_0039,"...Still, I'm surprised. You've really changed since back then.",XMESS_0039,網代慎平
 XMESS_0040,"Eh, really?",XMESS_0040,小弓場かおり
-XMESS_0041,"Back then, Kaori-san seemed
-Like a more quiet girl.",XMESS_0041,網代慎平
-XMESS_0042,"I might be making an excuse,
-But the reason I didn't realize it
-Was because of that…",XMESS_0042,網代慎平
-XMESS_0043,It feels like I've become more cheerful…,XMESS_0043,網代慎平
-XMESS_0044,"Really?!
-I'm happy to hear that… hehe.",XMESS_0044,小弓場かおり
-XMESS_0045,"By the way.
-Since you have a suitcase,
-Are you back from a trip?",XMESS_0045,小弓場かおり
+XMESS_0041,"Back then, my impression of you was that you were a much quieter girl, Koyuba-san.",XMESS_0041,網代慎平
+XMESS_0042,"It might sound like an excuse, but that's the reason why I didn't recognize you earlier...",XMESS_0042,網代慎平
+XMESS_0043,It's like you've become more cheerful...,XMESS_0043,網代慎平
+XMESS_0044,Really!? I'm happy to hear you say that... hehe.,XMESS_0044,小弓場かおり
+XMESS_0045,"Oh, right. Since you have a suitcase, are you on your way back from a trip or something?",XMESS_0045,小弓場かおり
 XMESS_0046,"No, I'm living in Tokyo now.",XMESS_0046,網代慎平
-XMESS_0047,"Oh, really?
-So am I…!",XMESS_0047,小弓場かおり
-XMESS_0048,"Are you visiting home today?
-Or is it for something else?",XMESS_0048,小弓場かおり
+XMESS_0047,"Oh, really? Same as me...!",XMESS_0047,小弓場かおり
+XMESS_0048,Are you visiting home today? Or are you here for something else?,XMESS_0048,小弓場かおり
 XMESS_0049,Ah… um…,XMESS_0049,網代慎平
 XMESS_0050,…?,XMESS_0050,小弓場かおり
 XMESS_0051,(…),XMESS_0051,網代慎平
 XMESS_0052,Actually…,XMESS_0052,網代慎平
-XMESS_0053,"…I see.
-Kofune-san passed away.",XMESS_0053,小弓場かおり
+XMESS_0053,...I see. Kofune-san passed away...,XMESS_0053,小弓場かおり
 XMESS_0054,Yeah…,XMESS_0054,網代慎平
-XMESS_0055,"Ah, I'm sorry for asking such a tactless question.",XMESS_0055,小弓場かおり
-XMESS_0056,"It's fine, I don't mind.",XMESS_0056,網代慎平
-XMESS_0057,"I used to look up to Kofune-san
-Back when I was in elementary school.",XMESS_0057,小弓場かおり
-XMESS_0058,"You were a completely different type…
-So cheerful and strong-hearted.",XMESS_0058,小弓場かおり
-XMESS_0059,"I used to think it'd be great
-To be like that.",XMESS_0059,小弓場かおり
-XMESS_0060,"That's a shame.
-Truly, that's a shame…",XMESS_0060,小弓場かおり
+XMESS_0055,"U-Um, I'm sorry for asking such an insensitive question.",XMESS_0055,小弓場かおり
+XMESS_0056,Don't worry about it.,XMESS_0056,網代慎平
+XMESS_0057,"You know... back in elementary school, I used to look up to Kofune-san.",XMESS_0057,小弓場かおり
+XMESS_0058,"She was a completely different type from me... Endlessly cheerful, and strong-willed too.",XMESS_0058,小弓場かおり
+XMESS_0059,I secretly used to think... how nice it would be to be like her.,XMESS_0059,小弓場かおり
+XMESS_0060,It's a shame. It really is...,XMESS_0060,小弓場かおり
 XMESS_0061,…,XMESS_0061,網代慎平
-XMESS_0062,I'll try to visit and pay my respects too.,XMESS_0062,小弓場かおり
+XMESS_0062,I'll find some time to go pay my respects too.,XMESS_0062,小弓場かおり
 XMESS_0063,"…Yeah, thanks.",XMESS_0063,網代慎平
 XMESS_0064,Ah… right.,XMESS_0064,小弓場かおり
-XMESS_0065,"Um… If you don't mind, 
-Can we exchange contact info?",XMESS_0065,小弓場かおり
+XMESS_0065,"Um... if it's alright with you, could we... exchange contact info?",XMESS_0065,小弓場かおり
 XMESS_0066,"Sure, that's fine.",XMESS_0066,網代慎平
-XMESS_0067,"Shinpei Ajiro-kun… 
-Okay, registered.",XMESS_0067,小弓場かおり
-XMESS_0068,I've got it too.,XMESS_0068,網代慎平
-XMESS_0069,"Ah, um, if you don't mind,
-Can we contact each other later… Ah…",XMESS_0069,小弓場かおり
+XMESS_0067,"Shinpei Ajiro-kun... there. Yep, registered.",XMESS_0067,小弓場かおり
+XMESS_0068,Got it on my end too.,XMESS_0068,網代慎平
+XMESS_0069,"Um, i-i-if you'd like, we could get in touch later... ah...",XMESS_0069,小弓場かおり
 XMESS_0070,Something wrong?,XMESS_0070,網代慎平
-XMESS_0071,About the contact…,XMESS_0071,小弓場かおり
+XMESS_0071,About... keeping in touch.,XMESS_0071,小弓場かおり
 MSTD_0271-0,"""Once I've sorted my feelings…""",MSTD_0271-0,
-MSTD_0271-1,"""it's fine if you treat me normally""",MSTD_0271-1,
-XMESS_0072,"Ah… sorry.
-Can you wait a little?",XMESS_0072,網代慎平
-XMESS_0073,"Honestly, I'm still not fully sorted out.
-Can we do it after the funeral?",XMESS_0073,網代慎平
+MSTD_0271-1,"""It's fine if you treat me normally.""",MSTD_0271-1,
+XMESS_0072,Ah... sorry. Could you wait a little bit for that?,XMESS_0072,網代慎平
+XMESS_0073,"Honestly, I still haven't fully sorted out my feelings. Is it okay if we do it after the funeral?",XMESS_0073,網代慎平
 XMESS_0074,Yeah… I understand.,XMESS_0074,小弓場かおり
-XMESS_0075,"Ah, I should be going soon.
-See you, Shinpei-kun!",XMESS_0075,小弓場かおり
+XMESS_0075,"Ah, I should get going soon. See you later, Ajiro-kun!",XMESS_0075,小弓場かおり
 XMESS_0076,Yeah. Be careful.,XMESS_0076,網代慎平

@@ -1,40 +1,28 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,8. Talks from Years Ahead,XCHAPTITLE_0002,
-XMESS_0000,"Ah~ I'm hungry~
-I'll make Shinpei's curry when I get back.",XMESS_0000,小舟潮
-XMESS_0001,"Hey, I just got back today, you know?
-You dragged me all over the island and now you want me to make food?",XMESS_0001,網代慎平（収録）
-XMESS_0002,"That's nothing. You're just tired from leaving the island, right?",XMESS_0002,小舟潮
-XMESS_0003,You know…,XMESS_0003,網代慎平（収録）
-XMESS_0004,"Well, if you don't want to, that's fine.
-Ah, I've been wanting to eat Shinpei's curry again.",XMESS_0004,小舟潮
-XMESS_0005,"Okay, okay.
-But you should help out too.",XMESS_0005,網代慎平（収録）
-XMESS_0006,"Yay~!
-I'll look forward to it~",XMESS_0006,小舟潮
-XMESS_0007,"She's really spoiled by her older sister.
-Hey, Kaori-chan.",XMESS_0007,小舟澪
+XCHAPTITLE_0002,8. Years From Now,XCHAPTITLE_0002,
+XMESS_0000,"Ah~, I'm hungry~. Let me eat your curry when we get back, Shinpei.",XMESS_0000,小舟潮
+XMESS_0001,"Hey, I just got back today, you know? After dragging me all over the island, you're going to make me cook on top of that?",XMESS_0001,網代慎平（収録）
+XMESS_0002,What are you saying over something like this. Didn't your stamina drop after leaving the island?,XMESS_0002,小舟潮
+XMESS_0003,You...,XMESS_0003,網代慎平（収録）
+XMESS_0004,"Well, if you don't want to, that's fine. Ah~, I really wanted to eat Shinpei's curry for the first time in a while.",XMESS_0004,小舟潮
+XMESS_0005,"Alright, alright. But you have to help too.",XMESS_0005,網代慎平（収録）
+XMESS_0006,Yay~! I'm going to look forward to it~!,XMESS_0006,小舟潮
+XMESS_0007,"He's really soft on Sis. Right, Kaori-chan.",XMESS_0007,小舟澪
 XMESS_0008,"Hehe, that's true…",XMESS_0008,小弓場かおり
-XMESS_0009,"(Yes, ever since that time…)",XMESS_0009,小弓場かおり
-XMESS_0010,"(That's why… today was good.
-The time capsule wasn't found…)",XMESS_0010,小弓場かおり
-XMESS_0011,(But…),XMESS_0011,小弓場かおり
-XMESS_0012,(That time capsule contained a… <color=#GF_TIPS_074>love letter</color> for Shinpei.),XMESS_0012,小弓場かおり
-XMESS_0013,"(I wrote it with all my heart, but in the end, I couldn't deliver it.
-I didn't have the courage back then.)",XMESS_0013,小弓場かおり
-XMESS_0014,"(Now that I've grown up, maybe I can deliver it…
-That's why I put it in that box.)",XMESS_0014,小弓場かおり
-XMESS_0015,"(But… I already knew, me.)",XMESS_0015,小弓場かおり
-XMESS_0016,"(It's certain that even when I grow up, that day will never come.
-Because…)",XMESS_0016,小弓場かおり
-XMESS_0017,(Because Shinpei's eyes were always on Ushio.),XMESS_0017,小弓場かおり
-XMESS_0018,"(I think I knew that even when I grew up, it wouldn't change…)",XMESS_0018,小弓場かおり
-XMESS_0019,"(If by some chance, the day comes to open the time capsule…)",XMESS_0019,小弓場かおり
-XMESS_0020,(What would I say to Shinpei then?),XMESS_0020,小弓場かおり
+XMESS_0009,"(Yes, ever since back then...)",XMESS_0009,小弓場かおり
+XMESS_0010,(That's why... it's a good thing that we didn't find the time capsule today.),XMESS_0010,小弓場かおり
+XMESS_0011,(Because...),XMESS_0011,小弓場かおり
+XMESS_0012,(What I put in that time capsule was... a <color=#GF_TIPS_074>love letter</color> to Ajiro-kun.),XMESS_0012,小弓場かおり
+XMESS_0013,"(A letter I wrote with all my might, but couldn't give to him in the end. I couldn't muster up that kind of courage back then.)",XMESS_0013,小弓場かおり
+XMESS_0014,"(I thought that maybe the adult me, after time had passed, would be able to give it to him... And that's why I put it in that box.)",XMESS_0014,小弓場かおり
+XMESS_0015,(But... I actually already knew.),XMESS_0015,小弓場かおり
+XMESS_0016,"(The day I can give it to him will surely never come, even when I'm an adult. Because...)",XMESS_0016,小弓場かおり
+XMESS_0017,(Because Kofune-san was always at the end of Ajiro-kun's gaze.),XMESS_0017,小弓場かおり
+XMESS_0018,(I think I knew... that wouldn't change even when we became adults...),XMESS_0018,小弓場かおり
+XMESS_0019,(If the day ever truly comes when we open the time capsule...),XMESS_0019,小弓場かおり
+XMESS_0020,(What will I tell Ajiro-kun then?),XMESS_0020,小弓場かおり
 XMESS_0021,…,XMESS_0021,小弓場かおり
-XMESS_0022,"This feeling…
-How many more years will it take to let it go?",XMESS_0022,小弓場かおり
+XMESS_0022,I wonder how many more years it will take... for me to shake off these feelings.,XMESS_0022,小弓場かおり
 XMESS_0023,"Huh, did you say something?",XMESS_0023,網代慎平（収録）
 XMESS_0024,"Nope, nothing at all!",XMESS_0024,小弓場かおり
-XMESS_0025,"Key Tips [<color=#GF_KEY_EPILOGIE_KAO>epilogue: Kaori Koyuba</color>]
-was acquired.",XMESS_0025,（ト書き）
+XMESS_0025,Key TIPS [<color=#GF_KEY_EPILOGIE_KAO>epilogue: Kaori Koyuba</color>] obtained.,XMESS_0025,（ト書き）

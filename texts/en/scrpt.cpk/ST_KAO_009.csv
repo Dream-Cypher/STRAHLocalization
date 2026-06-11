@@ -1,552 +1,326 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,9. Island Stroll,XCHAPTITLE_0002,
-XMESS_0000,"Koyuba-san, I'm sorry to keep you waiting.",XMESS_0000,網代慎平
-XMESS_0001,"I'm sorry, I got held up with the preparations.",XMESS_0001,小舟澪
-XMESS_0002,"No, don't worry about it.
-It's my fault for coming so suddenly.",XMESS_0002,小弓場かおり
-XMESS_0003,"No way, it was so sudden, I was shocked.",XMESS_0003,網代慎平
-XMESS_0004,"I'm sorry, I'm sorry.
-I actually wanted to ask you something
-before we left…",XMESS_0004,小弓場かおり
-XMESS_0005,You wanted to ask me something?,XMESS_0005,小舟澪
-XMESS_0006,"I thought I should wait until I was calmer,
-but I have to go back to Tokyo right after the festival
-because of my own schedule…",XMESS_0006,小弓場かおり
-XMESS_0007,"It's all my own selfishness,
-I'm really sorry about that--",XMESS_0007,小弓場かおり
-XMESS_0008,"I wanted to greet Alain-san
-and also… Ushio.",XMESS_0008,小弓場かおり
-XMESS_0009,"Ah, okay, thanks.
-Alain's already at the store, let's go see him.",XMESS_0009,網代慎平
-XMESS_0010,Yeah…,XMESS_0010,小弓場かおり
+XMESS_0000,"Koyuba-san, sorry to keep you waiting.",XMESS_0000,網代慎平
+XMESS_0001,"I'm sorry, getting ready took a little longer than expected.",XMESS_0001,小舟澪
+XMESS_0002,"No, don't worry about it. It's my fault for showing up so suddenly.",XMESS_0002,小弓場かおり
+XMESS_0003,"Yeah, I was really surprised by how sudden it was.",XMESS_0003,網代慎平
+XMESS_0004,I-I'm sorry. There was actually something I wanted to ask before we go...,XMESS_0004,小弓場かおり
+XMESS_0005,Something you wanted to ask?,XMESS_0005,小舟澪
+XMESS_0006,"I originally thought I should wait until things settled down, but I have to go back to Tokyo right after the festival...",XMESS_0006,小弓場かおり
+XMESS_0007,"I'm really sorry for being so selfish, but...",XMESS_0007,小弓場かおり
+XMESS_0008,"I wanted to say hello to Alain-san, and also... to Ushio.",XMESS_0008,小弓場かおり
+XMESS_0009,"Ah, yeah, thanks. Alain's already at the cafe, so let's go see him.",XMESS_0009,網代慎平
+XMESS_0010,Yeah...,XMESS_0010,小弓場かおり
 XMESS_0011,"Good morning, Alain.",XMESS_0011,網代慎平
-XMESS_0012,"Good morning.
-You're going out with Mio too?",XMESS_0012,小舟アラン
-XMESS_0013,"Ah, that's right, but…",XMESS_0013,網代慎平
-XMESS_0014,"Ah, good morning.",XMESS_0014,小弓場かおり
-XMESS_0015,"Ah, good morning.
-Is this your friend, Shinpei and Mio?",XMESS_0015,小舟アラン
-XMESS_0016,"Ah, this girl
-is Koyuba-san, who went to the same elementary school as me and Ushio.
-She's back on the island after seven years.",XMESS_0016,網代慎平
-XMESS_0017,"I'm sorry for disturbing you during your busy time.
-I'm Kaori Koyuba.",XMESS_0017,小弓場かおり
-XMESS_0018,"Ah, Koyuba-san! 
-Thank you so much for the courtesy.",XMESS_0018,小舟アラン
-XMESS_0019,"I'm Alain, her father.
-I own this Western-style cafe.",XMESS_0019,小舟アラン
-XMESS_0020,"Yes, I remember!
-When I lived on this island,
-my parents and I used to come here to eat.",XMESS_0020,小弓場かおり
-XMESS_0021,"Haha, that's right.
-I remember that too.",XMESS_0021,小舟アラン
-XMESS_0022,"Really?!
-That makes me so happy…",XMESS_0022,小弓場かおり
-XMESS_0023,"Mio, are you three going out now?",XMESS_0023,小舟アラン
-XMESS_0024,"Yeah, but before that,
-Kaori wanted to visit her sister…",XMESS_0024,小舟澪
-XMESS_0025,"Ah… I wanted to offer incense to Ushio.
-Is that okay?",XMESS_0025,小弓場かおり
-XMESS_0026,"Ah, of course.
-Ushio would be happy too.",XMESS_0026,小舟アラン
+XMESS_0012,Good morning. You're heading out somewhere with Mio?,XMESS_0012,小舟アラン
+XMESS_0013,"Ah, yeah, but...",XMESS_0013,網代慎平
+XMESS_0014,"Um, good morning.",XMESS_0014,小弓場かおり
+XMESS_0015,"Ah, good morning. A friend of Shinpei or Mio's?",XMESS_0015,小舟アラン
+XMESS_0016,"Ah, this is Koyuba-san. She went to the same elementary school as me and Ushio. She's back on the island for the first time in seven years.",XMESS_0016,網代慎平
+XMESS_0017,I'm sorry for disturbing you while you're busy getting ready. My name is Kaori Koyuba.,XMESS_0017,小弓場かおり
+XMESS_0018,"Ah, the Koyuba family's! Well, well, thank you for the polite greeting.",XMESS_0018,小舟アラン
+XMESS_0019,"I'm her father, Alain. I'm the owner of this Cafe Kofune.",XMESS_0019,小舟アラン
+XMESS_0020,"Yes, I remember! When I lived on this island, my parents and I used to come eat here!",XMESS_0020,小弓場かおり
+XMESS_0021,"Haha, that's right. I remember that well too.",XMESS_0021,小舟アラン
+XMESS_0022,Really?! I'm so happy...,XMESS_0022,小弓場かおり
+XMESS_0023,"Mio, are the three of you heading out now?",XMESS_0023,小舟アラン
+XMESS_0024,"Yeah, but before that, Kaori-chan wanted to see Sis...",XMESS_0024,小舟澪
+XMESS_0025,Um... I wanted to offer some incense to Ushio-san. Is that alright?,XMESS_0025,小弓場かおり
+XMESS_0026,"Ah, of course. Ushio will be happy too.",XMESS_0026,小舟アラン
 XMESS_0027,"Mio, can you show her the way?",XMESS_0027,小舟アラン
 XMESS_0028,Yeah.,XMESS_0028,小舟澪
-XMESS_0029,"Thank you.
-I'll be a bother.",XMESS_0029,小弓場かおり
-XMESS_0030,"Koyuba-san and this girl…
-You've really grown up nicely.",XMESS_0030,小舟アラン
-XMESS_0031,She's been doing idol activities in Tokyo.,XMESS_0031,網代慎平
-XMESS_0032,"Wow, really?!
-That's amazing.",XMESS_0032,小舟アラン
-XMESS_0033,"I was asked to be your guide
-to show you the island's famous spots.
-After this, I'll go with Mio.",XMESS_0033,網代慎平
-XMESS_0034,"Ah, go ahead.
-Don't worry about the store.",XMESS_0034,小舟アラン
-XMESS_0035,"Thanks.
-Ah, but before that, I might want to talk to Alain.",XMESS_0035,網代慎平
-XMESS_0036,Talk? What talk?,XMESS_0036,小舟アラン
-XMESS_0037,"Koyuba-san's doing a talk show
-at the festival about Hitogashima.",XMESS_0037,網代慎平
-XMESS_0038,"Because of that, she's planning to visit
-the island's famous spots.
-I'll be asking people along the way.",XMESS_0038,網代慎平
-XMESS_0039,"So, you're starting with me?",XMESS_0039,小舟アラン
-XMESS_0040,Oh no… What should I talk about?!,XMESS_0040,小舟アラン
-XMESS_0041,"She said she wanted to hear your voice,
-so just answer casually.",XMESS_0041,網代慎平
-XMESS_0042,"(I'm sure Koyuba-san really wanted to
-offer incense to Ushio…)",XMESS_0042,網代慎平
-XMESS_0043,"(She's really a good kid…
-That's why I have to prevent her
-from suffering a tragic fate)",XMESS_0043,網代慎平
-XMESS_0044,"(After talking to Alain,
-I'm touring the island's famous spots
-with Koyuba-san's requests in mind…)",XMESS_0044,網代慎平
-XMESS_0045,"Wow, there's a spot
-where you can have the view all to yourself?
-That's amazing!",XMESS_0045,小弓場かおり
-XMESS_0046,…,XMESS_0046,網代慎平
-XMESS_0047,"That's right.
-It's a secret from others!",XMESS_0047,地元の女性
-XMESS_0048,"Thank you!
-It seems like there are
-quite a few hidden spots only locals know about.",XMESS_0048,小弓場かおり
-XMESS_0049,"Note, note…",XMESS_0049,小弓場かおり
-XMESS_0050,…,XMESS_0050,小舟澪
-XMESS_0051,"That's what I wanted to hear.
-It was a good idea to approach you.",XMESS_0051,小弓場かおり
-XMESS_0052,"Haha…
-Feel free to come anytime.",XMESS_0052,地元の女性
-XMESS_0053,"Yes!
-Thank you very much!",XMESS_0053,小弓場かおり
-XMESS_0054,Hmm…,XMESS_0054,小舟澪
-XMESS_0055,"…Sorry!
-Can I ask you a question?",XMESS_0055,小弓場かおり
-XMESS_0056,You're a bit different from the Kaori I knew before…,XMESS_0056,小舟澪
-XMESS_0057,"Ah, that's the idol mode.",XMESS_0057,網代慎平
-XMESS_0058,"Actually, I wanted to learn more about this island,
-so I've been asking locals about it…",XMESS_0058,小弓場かおり
-XMESS_0059,"But… isn't that amazing?
-So energetic, you know?",XMESS_0059,小舟澪
-XMESS_0060,"Ah, right…
-Did I really need to come along?",XMESS_0060,網代慎平
-XMESS_0061,"Well, for now,
-there's not much we can do…",XMESS_0061,小舟澪
+XMESS_0029,Thank you. Excuse me.,XMESS_0029,小弓場かおり
+XMESS_0030,That Koyuba girl... She's grown into quite the beauty.,XMESS_0030,小舟アラン
+XMESS_0031,Apparently she's working as an idol in Tokyo.,XMESS_0031,網代慎平
+XMESS_0032,"Oh, is that so?! That's amazing.",XMESS_0032,小舟アラン
+XMESS_0033,She asked me to be her guide to show her around the island's famous spots. I'll be heading out with Mio after this.,XMESS_0033,網代慎平
+XMESS_0034,"Ah, have fun. You don't need to worry about the cafe.",XMESS_0034,小舟アラン
+XMESS_0035,"Thanks. Ah, but before we go, we might want to talk to you, Alain.",XMESS_0035,網代慎平
+XMESS_0036,Talk? About what?,XMESS_0036,小舟アラン
+XMESS_0037,Koyuba-san is doing a presentation on Hitogashima at a talk show during the festival.,XMESS_0037,網代慎平
+XMESS_0038,"Because of that, we're going to tour the island's famous spots. She'll be asking the locals for stories wherever we go.",XMESS_0038,網代慎平
+XMESS_0039,"S-So, you're starting by hearing a story from me?!",XMESS_0039,小舟アラン
+XMESS_0040,Oh boy... What should I even talk about?!,XMESS_0040,小舟アラン
+XMESS_0041,"She said she wants to hear raw opinions, so just answering casually should be fine.",XMESS_0041,網代慎平
+XMESS_0042,(I'm sure Koyuba-san really wanted to offer incense to Ushio...),XMESS_0042,網代慎平
+XMESS_0043,(She's really a good kid... That's exactly why I have to at least prevent her from meeting a tragic fate.),XMESS_0043,網代慎平
+XMESS_0044,"(After hearing Alain's stories, we visited a few famous spots based on Koyuba-san's requests...)",XMESS_0044,網代慎平
+XMESS_0045,"Wow, there's a spot where you can have such a beautiful view all to yourself? That's amazing!",XMESS_0045,小弓場かおり
+XMESS_0046,...,XMESS_0046,網代慎平
+XMESS_0047,Right? Keep it a secret from everyone else!,XMESS_0047,地元の女性
+XMESS_0048,Thank you! I guess there really are quite a few hidden spots that only the locals know about.,XMESS_0048,小弓場かおり
+XMESS_0049,Jotting this down...,XMESS_0049,小弓場かおり
+XMESS_0050,...,XMESS_0050,小舟澪
+XMESS_0051,That's exactly the kind of story I wanted to hear. I'm glad I reached out to you.,XMESS_0051,小弓場かおり
+XMESS_0052,Hehehe... Feel free to talk to me anytime.,XMESS_0052,地元の女性
+XMESS_0053,Yes! Thank you very much!,XMESS_0053,小弓場かおり
+XMESS_0054,Somehow...,XMESS_0054,小舟澪
+XMESS_0055,"...Ah, excuse me! Do you mind if I ask you a few questions?",XMESS_0055,小弓場かおり
+XMESS_0056,She's a bit different from the Kaori-chan I used to know...,XMESS_0056,小舟澪
+XMESS_0057,"Yeah, that's her \""idol mode.\""",XMESS_0057,網代慎平
+XMESS_0058,"Actually, I want to learn more about this island right now, so I've been going around asking the locals various things--",XMESS_0058,小弓場かおり
+XMESS_0059,"But... isn't she amazing? She's super energetic, or rather...",XMESS_0059,小舟澪
+XMESS_0060,Y-Yeah... Did I really need to tag along?,XMESS_0060,網代慎平
+XMESS_0061,"Well, for now, it doesn't look like there's any room for us to step in...",XMESS_0061,小舟澪
 XMESS_0062,"Ah, Shinpei-kun!",XMESS_0062,男の声（凸村哲）
 XMESS_0063,Whoa!?,XMESS_0063,網代慎平
-XMESS_0064,"What's with the report yesterday!?
-It was all a lie, wasn't it!?",XMESS_0064,凸村哲
-XMESS_0065,"Ah, that was…",XMESS_0065,網代慎平
-XMESS_0066,"Tetsu-san, hello!
-Are you selling oil again?",XMESS_0066,小舟澪
-XMESS_0067,"Don't say such a harsh thing with that smile.
-I'm working properly now.
-You can see the patrol, can't you?",XMESS_0067,凸村哲
-XMESS_0068,"Huh, Tetsu-san, going on patrol in this heat?
-That's rare.
-Was something wrong?",XMESS_0068,小舟澪
-XMESS_0069,"Ah, that's right.
-I got a report from Shiomi just now--",XMESS_0069,凸村哲
-XMESS_0070,"Shinpei-kun, Mio-chan!
-I'm sorry I'm late.",XMESS_0070,小弓場かおり
-XMESS_0071,"What, you weren't with Mio-chan?",XMESS_0071,凸村哲
-XMESS_0072,"Ah, hello.
-Are you the police officer?",XMESS_0072,小弓場かおり
-XMESS_0073,"Ah, that's right.
-The Hero of Justice… that thing?",XMESS_0073,凸村哲
-XMESS_0074,"This is Tetsu-san.
-He's the police officer who calls himself the Hero of Justice.",XMESS_0074,網代慎平
-XMESS_0075,Tetsu-san… I remember now.,XMESS_0075,小弓場かおり
-XMESS_0076,"Nice to meet you, Tetsu-san.
-I'm Kaori.",XMESS_0076,小弓場かおり
-XMESS_0077,Please take care of me!,XMESS_0077,小弓場かおり
-XMESS_0078,…,XMESS_0078,凸村哲
+XMESS_0064,"What was with that report yesterday!? It was a complete lie, wasn't it!?",XMESS_0064,凸村哲
+XMESS_0065,A-About that...!,XMESS_0065,網代慎平
+XMESS_0066,"Tetsu-san, hello! Are you slacking off again?",XMESS_0066,小舟澪
+XMESS_0067,Don't say such harsh things with a smile. I'm working properly right now. Can't you tell I'm on patrol?,XMESS_0067,凸村哲
+XMESS_0068,"Huh, Tetsu-san going on patrol in this heat is pretty rare. Did something happen?",XMESS_0068,小舟澪
+XMESS_0069,"Ah, about that. I just got a report from Shiomi-san--",XMESS_0069,凸村哲
+XMESS_0070,"Shinpei-kun, Mio-chan! Sorry to keep you waiting.",XMESS_0070,小弓場かおり
+XMESS_0071,"What, you weren't just here with Mio-chan?",XMESS_0071,凸村哲
+XMESS_0072,"Ah, hello. Are you the local police officer?",XMESS_0072,小弓場かおり
+XMESS_0073,"Ah, that's right. I'm this island's Hero of Justice... wait, huh?",XMESS_0073,凸村哲
+XMESS_0074,This is Totsumura-san. The local police officer who calls himself a Hero of Justice.,XMESS_0074,網代慎平
+XMESS_0075,"Totsumura-san... yeah, I remember.",XMESS_0075,小弓場かおり
+XMESS_0076,"Nice to meet you, Totsumura-san. I'm Koyuba.",XMESS_0076,小弓場かおり
+XMESS_0077,It's a pleasure to meet you!,XMESS_0077,小弓場かおり
+XMESS_0078,...,XMESS_0078,凸村哲
 XMESS_0079,Idol mode.,XMESS_0079,小舟澪
-XMESS_0080,"Mio, shut up…",XMESS_0080,網代慎平
-XMESS_0081,"Kaori, you seem to have
-gotten a lot of information.",XMESS_0081,小舟澪
-XMESS_0082,"Yeah!
-I've taken thorough notes.",XMESS_0082,小弓場かおり
-XMESS_0083,"Ah, that's good.",XMESS_0083,網代慎平
-XMESS_0084,"By the way, Tetsu-san,
-you just stood there in silence after Kaori greeted you.
-That's rude, isn't it?",XMESS_0084,小舟澪
-XMESS_0085,"C-c-come on… here, here, here, here…",XMESS_0085,凸村哲
-XMESS_0086,"Shin-chan, what should we do?
-Tetsu-san's gone crazy.",XMESS_0086,小舟澪
-XMESS_0087,"Ah, Tetsu-san?",XMESS_0087,網代慎平
-XMESS_0088,Y-you! You're Koyuba!,XMESS_0088,凸村哲
-XMESS_0089,"Ah, yes.
-Did you know me?",XMESS_0089,小弓場かおり
-XMESS_0090,"I know you, I'm a huge fan!",XMESS_0090,凸村哲
-XMESS_0091,"Haha, it's really you!
-Why is such a popular idol
-coming to such a remote place?!",XMESS_0091,凸村哲
-XMESS_0092,"Actually, I'm from Hitogashima,
-and I'm visiting my hometown now.",XMESS_0092,小弓場かおり
-XMESS_0093,"I wanted to learn more about the island
-I haven't been to in a while,
-so I'm having Shinpei-kun show me around.",XMESS_0093,小弓場かおり
-XMESS_0094,"H-hometown in Hitogashima…?
-Shinpei-kun's classmate…?",XMESS_0094,凸村哲
-XMESS_0095,"M-maybe it's true…!
-This is a chance!",XMESS_0095,凸村哲
-XMESS_0096,Y-yeah… take it…!,XMESS_0096,凸村哲
-XMESS_0097,(Why is he suddenly tidying up?!),XMESS_0097,網代慎平
-XMESS_0098,"Nice to meet you, Koyuba.",XMESS_0098,凸村哲
-XMESS_0099,"I'm Tetsu, the only police officer
-on this island, or rather,
-the Hero of Justice.
-Please take care of me.",XMESS_0099,凸村哲
-XMESS_0100,"Haha, nice to meet you, Hero of Justice.",XMESS_0100,小弓場かおり
-XMESS_0101,"It makes me feel safe
-knowing that my hometown is protected
-by someone like you, the Hero of Justice.",XMESS_0101,小弓場かおり
-XMESS_0102,"Hahahaha!
-What a nice thing to say!",XMESS_0102,凸村哲
-XMESS_0103,"Leave it to me!
-If there's a Hero of Justice like me,
-this island will be safe!",XMESS_0103,凸村哲
-XMESS_0104,"Something about his movements feels
-a bit too exaggerated.",XMESS_0104,網代慎平
-XMESS_0105,He's trying too hard to look cool…,XMESS_0105,小舟澪
-XMESS_0106,I'll let you see Koyuba's activities!,XMESS_0106,凸村哲
-XMESS_0107,"Not just on TV, but magazines, radio, and the internet!
-She's getting a lot of attention everywhere!",XMESS_0107,凸村哲
-XMESS_0108,"Wow, that makes me happy!",XMESS_0108,小弓場かおり
-XMESS_0109,"Ah, right!
-Sign!
-Sign this notebook!",XMESS_0109,凸村哲
-XMESS_0110,"That's a work notebook, isn't it?",XMESS_0110,小舟澪
-XMESS_0111,"Mio, remember this.
-There are many important things
-more important than work in the world.",XMESS_0111,凸村哲
-XMESS_0112,Even if he says that with that smug face…,XMESS_0112,網代慎平
-XMESS_0113,"It was great talking to you, Tetsu-san.
-You let me do an interview…
-Thank you so much.",XMESS_0113,小弓場かおり
-XMESS_0114,"I should be thanking you!
-It was a dream come true!
-I'll treasure this signature!",XMESS_0114,凸村哲
-XMESS_0115,"Well, I'm off!",XMESS_0115,凸村哲
-XMESS_0116,Please work hard!,XMESS_0116,小弓場かおり
-XMESS_0117,"(Seeing Koyuba-san's fan service
-like this makes me realize she's really an idol)",XMESS_0117,網代慎平
-XMESS_0118,"(It's like she's a different person
-from the shy, quiet Koyuba-san I knew before)",XMESS_0118,網代慎平
-XMESS_0119,Uu… My stomach…,XMESS_0119,小弓場かおり
-XMESS_0120,(…Huh?),XMESS_0120,網代慎平
-XMESS_0121,Where should I take you next?,XMESS_0121,小舟澪
-XMESS_0122,"Ah… Mio, wait a second.
-I'm thirsty. Let's take a break here.",XMESS_0122,網代慎平
-XMESS_0123,Huh…?,XMESS_0123,小舟澪
-XMESS_0124,…,XMESS_0124,小弓場かおり
-XMESS_0125,Ah… right!,XMESS_0125,小舟澪
-XMESS_0126,"I've been outside all this time,
-so I should probably hydrate soon.
-Hey, Kaori-chan.",XMESS_0126,小舟澪
-XMESS_0127,"Uh, yeah, I agree.",XMESS_0127,小弓場かおり
-XMESS_0128,"I'll go buy something from the vending machine.
-What do you two want?",XMESS_0128,網代慎平
-XMESS_0129,"Ah… since I'm being treated, I'll buy it.",XMESS_0129,小弓場かおり
+XMESS_0080,"Mio, keep quiet...",XMESS_0080,網代慎平
+XMESS_0081,"Kaori-chan, looks like you were able to ask a lot of things.",XMESS_0081,小舟澪
+XMESS_0082,Yeah! I made sure to take perfect notes.,XMESS_0082,小弓場かおり
+XMESS_0083,"Ah, that's good then.",XMESS_0083,網代慎平
+XMESS_0084,"More importantly, Totsumura-san, Kaori-chan greeted you but you're just standing there silently. Isn't that rude?",XMESS_0084,小舟澪
+XMESS_0085,K-K-Koy... Koyukoyukoyu...,XMESS_0085,凸村哲
+XMESS_0086,"Shin-chan, what should we do? Totsumura-san broke.",XMESS_0086,小舟澪
+XMESS_0087,"Um, Totsumura-san?",XMESS_0087,網代慎平
+XMESS_0088,"K-Koyuba, you mean, could it be Kaori Koyuba-chan!?",XMESS_0088,凸村哲
+XMESS_0089,"Ah, yes. Did you happen to know me?",XMESS_0089,小弓場かおり
+XMESS_0090,Know you? I'm a massive fan!!,XMESS_0090,凸村哲
+XMESS_0091,I-I-It's the real deal!! Why is a super popular idol in a place like this...!?,XMESS_0091,凸村哲
+XMESS_0092,"Actually, I'm from Hitogashima... and I'm currently visiting my hometown.",XMESS_0092,小弓場かおり
+XMESS_0093,"I wanted to learn more about the island since it's been a while, so I was just having my classmate Shinpei-kun show me around.",XMESS_0093,小弓場かおり
+XMESS_0094,F-From Hitogashima...? Shinpei-kun's classmate...?,XMESS_0094,凸村哲
+XMESS_0095,A-Are you serious...! This is my chance!!,XMESS_0095,凸村哲
+XMESS_0096,"Yo... ho, hiyah...!",XMESS_0096,凸村哲
+XMESS_0097,(W-Why is he suddenly fixing his appearance!?),XMESS_0097,網代慎平
+XMESS_0098,"Nice to meet you, Kaori Koyuba-chan.",XMESS_0098,凸村哲
+XMESS_0099,"I am the only police officer on this island... or rather, the Hero of Justice, Tetsu Totsumura. A pleasure to make your acquaintance.",XMESS_0099,凸村哲
+XMESS_0100,"Hehe, nice to meet you, Hero of Justice.",XMESS_0100,小弓場かおり
+XMESS_0101,"Knowing that my hometown island is protected by a Hero of Justice like you, Totsumura-san, makes me feel very relieved.",XMESS_0101,小弓場かおり
+XMESS_0102,Nwahahaha~n! What incredibly kind words!,XMESS_0102,凸村哲
+XMESS_0103,"Leave it to me! As long as this Totsumura, the Hero of Justice, is here, this island is safe and sound!",XMESS_0103,凸村哲
+XMESS_0104,His movements are all squirmy.,XMESS_0104,網代慎平
+XMESS_0105,He's probably trying to look cool...,XMESS_0105,小舟澪
+XMESS_0106,"I've been closely following all your activities, Kaori-chan!",XMESS_0106,凸村哲
+XMESS_0107,"TV of course, but also magazines, radio, and the internet...! You're getting massive attention everywhere!",XMESS_0107,凸村哲
+XMESS_0108,"Wow, I'm so happy!",XMESS_0108,小弓場かおり
+XMESS_0109,"Ah, that's right! An autograph! Please sign this notepad!",XMESS_0109,凸村哲
+XMESS_0110,Isn't that your notepad for work?,XMESS_0110,小舟澪
+XMESS_0111,"Mio-chan, remember this well. There are mountains of things in this world that are far more important than work.",XMESS_0111,凸村哲
+XMESS_0112,Even if you say that with such a smug look...,XMESS_0112,網代慎平
+XMESS_0113,"It was great talking to you, Totsumura-san. Thank you so much for letting me interview you...",XMESS_0113,小弓場かおり
+XMESS_0114,"No, thank YOU! You gave me a dream-like experience! I'll make this autograph a family heirloom!",XMESS_0114,凸村哲
+XMESS_0115,"Well then, I'll be taking my leave!",XMESS_0115,凸村哲
+XMESS_0116,"Yes, good luck with your work!",XMESS_0116,小弓場かおり
+XMESS_0117,"(Seeing Koyuba-san do fan service like that, it really hits me that she's an actual idol.)",XMESS_0117,網代慎平
+XMESS_0118,(She's like a completely different person from the rather introverted Koyuba-san she used to be.),XMESS_0118,網代慎平
+XMESS_0119,U-Ugh... my stomach...,XMESS_0119,小弓場かおり
+XMESS_0120,(...Huh?),XMESS_0120,網代慎平
+XMESS_0121,Where should we guide you to next?,XMESS_0121,小舟澪
+XMESS_0122,"Ah... Mio, hold on a sec. I'm thirsty, let's take a break around here.",XMESS_0122,網代慎平
+XMESS_0123,Eh...?,XMESS_0123,小舟澪
+XMESS_0124,...,XMESS_0124,小弓場かおり
+XMESS_0125,Ah... right!,XMESS_0125,小舟澪
+XMESS_0126,"We've been outside this whole time, we should probably hydrate soon. Right, Kaori-chan?",XMESS_0126,小舟澪
+XMESS_0127,"Y-Yeah, I agree.",XMESS_0127,小弓場かおり
+XMESS_0128,I'll go buy something from that vending machine. What do you two want?,XMESS_0128,網代慎平
+XMESS_0129,"Ah... since you're keeping me company, I'll buy them.",XMESS_0129,小弓場かおり
 XMESS_0130,"It's fine, it's fine.",XMESS_0130,網代慎平
-XMESS_0131,I'll have a soda.,XMESS_0131,小舟澪
-XMESS_0132,"That's straightforward.
-What about you, Kaori?",XMESS_0132,網代慎平
-XMESS_0133,"Ah, um…
-Then, I'll have iced tea.",XMESS_0133,小弓場かおり
-XMESS_0134,"Understood.
-Wait for me in the shade over there.",XMESS_0134,網代慎平
-XMESS_0135,Yes!,XMESS_0135,小舟澪
-XMESS_0136,( Kaori seems a bit tired…),XMESS_0136,網代慎平
-XMESS_0137,"(Hey, earlier she said her stomach…)",XMESS_0137,網代慎平
-XMESS_0138,(Maybe she's uncomfortable interacting with people?),XMESS_0138,網代慎平
-XMESS_0139,"(No, she's an idol. She should be used to it…)",XMESS_0139,網代慎平
-XMESS_0140,"Here you go, sorry for the wait.",XMESS_0140,網代慎平
+XMESS_0131,Something refreshing for me.,XMESS_0131,小舟澪
+XMESS_0132,"That's pretty vague. What about you, Koyuba-san?",XMESS_0132,網代慎平
+XMESS_0133,"Ah, um... Then, iced tea for me.",XMESS_0133,小弓場かおり
+XMESS_0134,Got it. Then wait for me in the shade over there.,XMESS_0134,網代慎平
+XMESS_0135,Okaaay.,XMESS_0135,小舟澪
+XMESS_0136,(Koyuba-san seems a bit tired...),XMESS_0136,網代慎平
+XMESS_0137,"(I mean, I think I heard her say her stomach... earlier...)",XMESS_0137,網代慎平
+XMESS_0138,"(Could it be, she's actually not good at interacting with people like this?)",XMESS_0138,網代慎平
+XMESS_0139,"(No, she's an idol so she should be used to it...)",XMESS_0139,網代慎平
+XMESS_0140,"Here, sorry for the wait.",XMESS_0140,網代慎平
 XMESS_0141,"Thank you, Shinpei-kun.",XMESS_0141,小弓場かおり
-XMESS_0142,Thank you!,XMESS_0142,小舟澪
-XMESS_0143,"Kaori, you're writing notes again?",XMESS_0143,網代慎平
-XMESS_0144,"Yes, I want to write down what I heard from Totsumura-san
-before I forget.",XMESS_0144,小弓場かおり
-XMESS_0145,"You're really dedicated, Kaori-chan.
-I'm really impressed.",XMESS_0145,小舟澪
-XMESS_0146,"No, it's not like that.",XMESS_0146,小弓場かおり
-XMESS_0147,"That's how it is.
-Shinpei-kun, you think so too, right?",XMESS_0147,小舟澪
+XMESS_0142,Thanks for the drink~.,XMESS_0142,小舟澪
+XMESS_0143,"Koyuba-san, you were taking notes again?",XMESS_0143,網代慎平
+XMESS_0144,"Yeah, I figured I should write down what I heard from Totsumura-san before I forget.",XMESS_0144,小弓場かおり
+XMESS_0145,"You're so diligent, Kaori-chan. I'm honestly impressed.",XMESS_0145,小舟澪
+XMESS_0146,"No, it's nothing like that.",XMESS_0146,小弓場かおり
+XMESS_0147,"It definitely is. Shin-chan, you think so too, right?",XMESS_0147,小舟澪
 MSTD_0488-0,I think so too.,MSTD_0488-0,
-MSTD_0488-1,How do you take notes?,MSTD_0488-1,
-XMESS_0148,"Ah, I think so too.",XMESS_0148,網代慎平
-XMESS_0149,"S-so, even Shinpei-kun…?",XMESS_0149,小弓場かおり
-XMESS_0150,"Even though the talk show is happening,
-I think it's fine to have just basic knowledge.",XMESS_0150,網代慎平
-XMESS_0151,"But you're organizing it so well,
-I really think you're amazing.",XMESS_0151,網代慎平
-XMESS_0152,"It's not like I'm doing something special.
-I can't remember anything without taking notes.",XMESS_0152,小弓場かおり
-XMESS_0153,"You don't find it troublesome,
-and you're still doing it?
-You're really amazing.",XMESS_0153,網代慎平
-XMESS_0154,"S-so… is that how you see it?
-Thank you.",XMESS_0154,小弓場かおり
-XMESS_0155,"How do you take notes, Kaori?",XMESS_0155,網代慎平
-XMESS_0156,Eh… can I show you?,XMESS_0156,小弓場かおり
+MSTD_0488-1,How do you take your notes?,MSTD_0488-1,
+XMESS_0148,"Yeah, I think so too.",XMESS_0148,網代慎平
+XMESS_0149,"W-Wow, even you, Shinpei-kun...",XMESS_0149,小弓場かおり
+XMESS_0150,"Even though you have a talk show, just having some general knowledge should be enough.",XMESS_0150,網代慎平
+XMESS_0151,"To organize it all so properly, I really think that's impressive.",XMESS_0151,網代慎平
+XMESS_0152,"It's nothing to be praised for. If I don't take notes, I just can't remember things...",XMESS_0152,小弓場かおり
+XMESS_0153,"And you're doing it properly without finding it a hassle, right? That's definitely impressive.",XMESS_0153,網代慎平
+XMESS_0154,Y... you think so? Thank you.,XMESS_0154,小弓場かおり
+XMESS_0155,"How do you take your notes, Koyuba-san?",XMESS_0155,網代慎平
+XMESS_0156,Eh... y-you want to see?,XMESS_0156,小弓場かおり
 XMESS_0157,"Yeah, if possible.",XMESS_0157,網代慎平
 XMESS_0158,"Ah, I want to see too!",XMESS_0158,小舟澪
-XMESS_0159,It's okay… but don't expect too much.,XMESS_0159,小弓場かおり
-XMESS_0160,"Here you go.
-You just write down what you heard
-like this.",XMESS_0160,小弓場かおり
-XMESS_0161,"Wow, it's so neat!",XMESS_0161,小舟澪
-XMESS_0162,"Ah, and it's really easy to understand.",XMESS_0162,網代慎平
-XMESS_0163,"(Back when I was in elementary school,
-the teacher also praised my notes…)",XMESS_0163,網代慎平
-XMESS_0164,"Based on these notes,
-I'll introduce the good parts of the island
-during the talk show.",XMESS_0164,小弓場かおり
-XMESS_0165,"I want everyone to fall in love
-with my favorite Hitogashima Island.",XMESS_0165,小弓場かおり
-XMESS_0166,That's really appreciated.,XMESS_0166,網代慎平
+XMESS_0159,"Sure, but... don't expect too much, okay?",XMESS_0159,小弓場かおり
+XMESS_0160,Here you go. See... I just <color=#GF_TIPS_073>note</color> down what I hear exactly as it is.,XMESS_0160,小弓場かおり
+XMESS_0161,"Wow, it's super neat!",XMESS_0161,小舟澪
+XMESS_0162,"Yeah, and it's really easy to understand.",XMESS_0162,網代慎平
+XMESS_0163,"(Come to think of it, I feel like the teacher praised her notes back in elementary school too...)",XMESS_0163,網代慎平
+XMESS_0164,"Based on these notes, I'm going to introduce all the great things about the island at the talk show...",XMESS_0164,小弓場かおり
+XMESS_0165,I want everyone to come to love my favorite Hitogashima too.,XMESS_0165,小弓場かおり
+XMESS_0166,That's really something to be grateful for.,XMESS_0166,網代慎平
 XMESS_0167,Yeah!,XMESS_0167,小舟澪
-XMESS_0168,"Hey, this notebook…?",XMESS_0168,網代慎平
-XMESS_0169,"Isn't it the same character
-as the keychain you showed me before?",XMESS_0169,網代慎平
-XMESS_0170,"Yeah, that's right.
-I also have a book cover and a card case…
-I can't help but buy them when I see them.",XMESS_0170,小弓場かおり
-XMESS_0171,You've liked them since long ago.,XMESS_0171,網代慎平
-XMESS_0172,"You remembered?!
-That makes me happy.",XMESS_0172,小弓場かおり
-XMESS_0173,Mm…,XMESS_0173,小舟澪
-XMESS_0174,"(Kaori… even though she seems different from before,
-her core hasn't changed…)",XMESS_0174,網代慎平
-XMESS_0175,"(Though she's not really good at talking to people,
-she still tried hard to gather information about the island…)",XMESS_0175,網代慎平
-XMESS_0176,"(After taking a break for a while,
-we'll continue visiting various places on the island
-and conduct interviews…)",XMESS_0176,網代慎平
+XMESS_0168,Huh? This notepad...?,XMESS_0168,網代慎平
+XMESS_0169,Isn't this character the same one as the keychain you showed me before?,XMESS_0169,網代慎平
+XMESS_0170,"Yeah, that's right. I also have a book cover and a card case... I end up buying them whenever I see them.",XMESS_0170,小弓場かおり
+XMESS_0171,"You've liked that since a long time ago, huh.",XMESS_0171,網代慎平
+XMESS_0172,You remembered!? ...I'm glad.,XMESS_0172,小弓場かおり
+XMESS_0173,Muu...,XMESS_0173,小舟澪
+XMESS_0174,"(Koyuba-san... she might seem different from before, but her core really hasn't changed.)",XMESS_0174,網代慎平
+XMESS_0175,"(Even though she's not that good at talking to people, she still worked hard to gather information about the island...)",XMESS_0175,網代慎平
+XMESS_0176,"(After resting for a while, we went around to various other places on the island and continued our interviews...)",XMESS_0176,網代慎平
 XMESS_0177,"(Finally, we arrived at Hitogashima Shrine.)",XMESS_0177,網代慎平
-XMESS_0178,"Of course, when it comes to Hitogashima Island,
-it's the Hiruko-sama.",XMESS_0178,小弓場かおり
-XMESS_0179,"Yeah, the summer festival is also held here.",XMESS_0179,小舟澪
-XMESS_0180,"(Actually, I wanted to avoid coming here on the 23rd…
-But the time is later than that now.
-Also, this time, Mio doesn't know about the Kobayakawa family yet.)",XMESS_0180,網代慎平
-XMESS_0181,"(If I see Shiori's shadow, I probably won't chase after it…
-)",XMESS_0181,網代慎平
-XMESS_0182,"(If something happens, as long as I don't go to secluded places
-or dig too deep, it should be fine.)",XMESS_0182,網代慎平
-XMESS_0183,"(This time, Kaori is also here…
-I need to stay alert.)",XMESS_0183,網代慎平
-XMESS_0184,"Hello, nice to meet you.
-It's an unexpected combination.",XMESS_0184,網代慎平
-XMESS_0185,"Good to see you, Karikiri-san.",XMESS_0185,雁切真砂人
-XMESS_0186,"Hello.
-Thank you very much for yesterday!",XMESS_0186,網代慎平
-XMESS_0187,"Huh, yesterday?",XMESS_0187,小弓場かおり
-XMESS_0188,"You participated in the live concert rehearsal,
-Karikiri-san.",XMESS_0188,網代慎平
-XMESS_0189,"Ah, that's right.",XMESS_0189,小弓場かおり
-XMESS_0190,I joined in the middle.,XMESS_0190,網代慎平
-XMESS_0191,"Well, since the live concert is also held here,
-the shrine master was called too.",XMESS_0191,雁切真砂人
-XMESS_0192,"I see, so you're the one in charge of this shrine.",XMESS_0192,雁切真砂人
-XMESS_0193,(That means… you came here after the funeral?),XMESS_0193,網代慎平
-XMESS_0194,"But thinking about it, is it okay
-to have a live concert at the shrine?",XMESS_0194,網代慎平
-XMESS_0195,"It's fine, fine.
-The gods aren't that narrow-minded.",XMESS_0195,小舟澪
-XMESS_0196,"Also, it's all about enjoying it.",XMESS_0196,雁切真砂人
-XMESS_0197,That's very Karikiri-san's way of thinking.,XMESS_0197,雁切真砂人
-XMESS_0198,"Actually, it was me who suggested
-to the chamber of commerce to invite her for the live concert.",XMESS_0198,小舟澪
-XMESS_0199,Huh?,XMESS_0199,雁切真砂人
-XMESS_0200,"You know, I was in Tokyo back then.",XMESS_0200,網代慎平
-XMESS_0201,"One day, I saw an idol from a certain production
-performing outdoors surrounded by fans.",XMESS_0201,雁切真砂人
-XMESS_0202,"Do you know about that?
-That person called ""God"" is the producer!",XMESS_0202,雁切真砂人
-XMESS_0203,"I couldn't forget that feeling,
-so after returning to the island, I've been keeping an eye on that production's idols.",XMESS_0203,雁切真砂人
-XMESS_0204,"That's how I learned of Kaori Koyuba, a wonderful idol—popular and island-born. So she should come…",XMESS_0204,雁切真砂人
-XMESS_0205,"Kaori-chan!! 
-You wanted to ask Karikiri-san something, right?!",XMESS_0205,雁切真砂人
-XMESS_0206,"Huh, really?
-What is it?",XMESS_0206,小舟澪
-XMESS_0207,"Y-yes!
-Actually… I wanted to hear about the stories
-related to this Hitogashima Shrine.",XMESS_0207,雁切真砂人
-XMESS_0208,"I thought it would be a good topic
-for the talk show.",XMESS_0208,小弓場かおり
-XMESS_0209,"Of course, I can tell you.
-Where should I start?",XMESS_0209,小弓場かおり
-XMESS_0210,"Ah, yes, then…",XMESS_0210,雁切真砂人
-XMESS_0211,"(Mio, great job!
-I was about to get stuck in a long conversation…)",XMESS_0211,小弓場かおり
-XMESS_0212,"Thank you very much.
-It was fun hearing all those stories.",XMESS_0212,網代慎平
-XMESS_0213,"I also enjoyed it,
-since you were so interested.",XMESS_0213,小弓場かおり
-XMESS_0214,"I guess I wasn't wrong
-when I introduced you to the chamber of commerce.",XMESS_0214,雁切真砂人
-XMESS_0215,That makes me happy!,XMESS_0215,雁切真砂人
-XMESS_0216,"By the way, the live stream yesterday was great.",XMESS_0216,小弓場かおり
-XMESS_0217,(Wha…?),XMESS_0217,雁切真砂人
-XMESS_0218,"Kaori-chan, you did a live stream
-yesterday night, right?",XMESS_0218,網代慎平
-XMESS_0219,"Yeah, it's my personal live stream channel.
-I did a stream from my room
-about the upcoming live concert.",XMESS_0219,小舟澪
-XMESS_0220,"Oh right, the live concert on the festival day
-is also going to be streamed online.",XMESS_0220,小弓場かおり
-XMESS_0221,"Yeah, that's right.",XMESS_0221,網代慎平
-XMESS_0222,"I was planning to announce the URL
-right before the secret live concert,
-but I thought some people might miss it.",XMESS_0222,小弓場かおり
-XMESS_0223,"So I'm gradually hinting
-that there's an event coming up
-through my live stream channel.",XMESS_0223,小弓場かおり
-XMESS_0224,"Of course, I'm keeping it a secret
-that it's happening on Hitogashima Island.",XMESS_0224,小弓場かおり
-XMESS_0225,"Hmm, that's interesting.
-It'll probably raise the fans' expectations.",XMESS_0225,小弓場かおり
-XMESS_0226,"But now, maybe it's okay
-to say it's happening on Hitogashima Island?",XMESS_0226,網代慎平
-XMESS_0227,"The festival is tomorrow,
-and at this point, not many fans
-are likely to come here.",XMESS_0227,網代慎平
-XMESS_0228,"Hah… Shinpei-kun,
-you really don't get it, do you?",XMESS_0228,網代慎平
-XMESS_0229,Huh…?,XMESS_0229,小舟澪
-XMESS_0230,"You can't be so naive!
-If it's for your favorite idol,
-they'll come to the island no matter what!",XMESS_0230,網代慎平
-XMESS_0231,"Huh, what?",XMESS_0231,小舟澪
-XMESS_0232,"You're being way too naive, Shinpei-kun.
-If a lot of people come to the shrine,
-it could lead to a big accident.",XMESS_0232,網代慎平
-XMESS_0233,"S-so, is it that big of a deal?",XMESS_0233,雁切真砂人
-XMESS_0234,"Of course it is.
-Kaori isn't just an idol.
-She's a popular idol.",XMESS_0234,網代慎平
-XMESS_0235,"According to rumors, fans who saw
-the live stream yesterday already
-figured out it's on Hitogashima Island.",XMESS_0235,雁切真砂人
-XMESS_0236,"According to rumors,
-there were fans who identified it as Hitogashima Island based solely on yesterday's live stream information.",XMESS_0236,雁切真砂人
-XMESS_0237,Eh…!?,XMESS_0237,小弓場かおり
-XMESS_0238,"Huh, you didn't know?",XMESS_0238,雁切真砂人
-XMESS_0239,"This morning, the official SNS of the agency had something like that written.
-It seems that was posted in the comment section.",XMESS_0239,雁切真砂人
-XMESS_0240,"R-really?!
-I'm sorry, I never thought I'd be identified!",XMESS_0240,小弓場かおり
-XMESS_0241,"Don't worry about it.
-It'll probably only be a few people.
-I'm looking forward to the live show.",XMESS_0241,雁切真砂人
-XMESS_0242,Y-yes.,XMESS_0242,小弓場かおり
-XMESS_0243,It seems like a live show's a lot more work than I thought.,XMESS_0243,網代慎平
-XMESS_0244,"If we had more time, there would've been ways to handle it…",XMESS_0244,小弓場かおり
-XMESS_0245,"This was a last-minute offer, so
-the staff and the islanders
-couldn't prepare perfectly…",XMESS_0245,小弓場かおり
-XMESS_0246,The staff can't come to the island until tomorrow.,XMESS_0246,小弓場かおり
-XMESS_0247,So that's the situation…,XMESS_0247,網代慎平
-XMESS_0248,"Yeah, this is my first time.",XMESS_0248,小弓場かおり
-XMESS_0249,"But I was careless.
-I thought it'd be impossible to be found on Hitogashima.",XMESS_0249,小弓場かおり
-XMESS_0250,"In the stream, only your room and the window outside
-were shown, right?",XMESS_0250,網代慎平
-XMESS_0251,"If someone could identify you from that,
-that fan's just really good at it.",XMESS_0251,網代慎平
-XMESS_0252,Don't worry about it too much.,XMESS_0252,網代慎平
-XMESS_0253,I guess…,XMESS_0253,小弓場かおり
-XMESS_0254,"Right now, just focus on the live show.
-Mio and I are looking forward to it.",XMESS_0254,網代慎平
-XMESS_0255,"Y-yeah… thanks.
-I feel a bit better now.",XMESS_0255,小弓場かおり
-XMESS_0256,Muu…,XMESS_0256,小舟澪
-XMESS_0257,"Hey, Mio.
-Why are you walking so far away?
-Come over here.",XMESS_0257,網代慎平
-XMESS_0258,"It's fine.
-I'm keeping my distance so I don't bother you two.",XMESS_0258,小舟澪
-XMESS_0259,"Huh?
-What did you say? I couldn't hear.",XMESS_0259,網代慎平
-XMESS_0260,"I said, it's fine!
-It doesn't matter anyway!",XMESS_0260,小舟澪
-XMESS_0261,…Ugh.,XMESS_0261,網代慎平
-XMESS_0262,"It's not nothing.
-Since we don't know when the Shadow will come,
-don't go too far from me.",XMESS_0262,網代慎平
-XMESS_0263,"W-wait, I get it.
-Can you give me a little more space?",XMESS_0263,小舟澪
-XMESS_0264,"Ah, right.",XMESS_0264,網代慎平
-XMESS_0265,…Huh.,XMESS_0265,小弓場かおり
-XMESS_0266,"Watching that exchange between the two of you
-made me feel nostalgic.",XMESS_0266,小弓場かおり
+XMESS_0178,"After all, when you think of Hitogashima, you think of Hiruko-sama.",XMESS_0178,小弓場かおり
+XMESS_0179,"Yeah, the summer festival is held here too.",XMESS_0179,小舟澪
+XMESS_0180,"(To be honest, I really wanted to avoid coming here on the 23rd...)",XMESS_0180,網代慎平
+XMESS_0181,"(But it's later than it was back then. Plus, this time, Mio doesn't know about the Kobayakawa family yet.)",XMESS_0181,網代慎平
+XMESS_0182,"(Even if she sees Shiori-chan's shadow, she probably won't chase after it immediately... I think.)",XMESS_0182,網代慎平
+XMESS_0183,"(Even if something happens, as long as we don't chase too far or go anywhere deserted, we should be fine.)",XMESS_0183,網代慎平
+XMESS_0184,"(Plus, Koyuba-san is with us this time... I need to stay on my guard.)",XMESS_0184,網代慎平
+XMESS_0185,"Oh, hello there. What an unexpected combination.",XMESS_0185,雁切真砂人
+XMESS_0186,"Hello, Karikiri-san.",XMESS_0186,網代慎平
+XMESS_0187,Hello. Thank you so much for yesterday!,XMESS_0187,小弓場かおり
+XMESS_0188,"Eh, yesterday?",XMESS_0188,網代慎平
+XMESS_0189,Karikiri-san also participated in the meeting for the live show.,XMESS_0189,小弓場かおり
+XMESS_0190,"Ah, is that so.",XMESS_0190,網代慎平
+XMESS_0191,"I only joined halfway through, though.",XMESS_0191,雁切真砂人
+XMESS_0192,"Well, since the live show is being held here at Hitogashima Shrine just like the festival, I was called in as the head priest.",XMESS_0192,雁切真砂人
+XMESS_0193,"I see, since you're the one in charge of this shrine.",XMESS_0193,網代慎平
+XMESS_0194,(If that's the case... does that mean he rushed to that meeting right after the funeral?),XMESS_0194,網代慎平
+XMESS_0195,"But now that I think about it, is it really okay to hold a live show at a shrine?",XMESS_0195,小舟澪
+XMESS_0196,"It's fine, it's fine. The gods aren't that narrow-minded.",XMESS_0196,雁切真砂人
+XMESS_0197,"Besides, for things like this, the ones who have fun win.",XMESS_0197,雁切真砂人
+XMESS_0198,That's a very Karikiri-san way of thinking.,XMESS_0198,小舟澪
+XMESS_0199,"To begin with, I was actually the one who proposed inviting her for a live show to everyone at the Chamber of Commerce.",XMESS_0199,雁切真砂人
+XMESS_0200,Eh?,XMESS_0200,網代慎平
+XMESS_0201,"You see, back in my college days, I was in Tokyo, right?",XMESS_0201,雁切真砂人
+XMESS_0202,"One time, I saw an idol belonging to a certain production agency performing outdoors while surrounded by a huge crowd of fans.",XMESS_0202,雁切真砂人
+XMESS_0203,"Do you know it? The one where that man called ""God"" is the general producer!",XMESS_0203,雁切真砂人
+XMESS_0204,"I couldn't forget how moved I was, so even after returning to the island, I kept checking up on the idols belonging to that agency.",XMESS_0204,雁切真砂人
+XMESS_0205,"That's when I learned of a wonderful idol named Kaori Koyuba-san. Seeing her immense popularity, and finding out she was from this island, I thought we absolutely had to invite her here--",XMESS_0205,雁切真砂人
+XMESS_0206,"K-Kaori-chan!! You had something you wanted to ask Karikiri-san, right!?",XMESS_0206,小舟澪
+XMESS_0207,"Oh, is that so? What might it be?",XMESS_0207,雁切真砂人
+XMESS_0208,Y-Yes! Actually... I was hoping you could tell me some stories related to Hitogashima Shrine.,XMESS_0208,小弓場かおり
+XMESS_0209,I thought it could serve as one of the topics for the talk show.,XMESS_0209,小弓場かおり
+XMESS_0210,"Of course, that's perfectly fine. Where should I start?",XMESS_0210,雁切真砂人
+XMESS_0211,"Ah, yes, well then--",XMESS_0211,小弓場かおり
+XMESS_0212,"(Nice one, Mio! We were dangerously close to being dragged into a really long story...)",XMESS_0212,網代慎平
+XMESS_0213,Thank you very much. It was fun getting to hear so many different stories.,XMESS_0213,小弓場かおり
+XMESS_0214,"You listened with such deep interest, it was fun for me to talk about it too.",XMESS_0214,雁切真砂人
+XMESS_0215,It seems I wasn't wrong to introduce you to the Chamber of Commerce after all.,XMESS_0215,雁切真砂人
+XMESS_0216,I'm so happy to hear you say that!,XMESS_0216,小弓場かおり
+XMESS_0217,"Oh right, your stream last night was wonderful.",XMESS_0217,雁切真砂人
+XMESS_0218,(Eh...?),XMESS_0218,網代慎平
+XMESS_0219,"Kaori-chan, did you do some kind of stream last night?",XMESS_0219,小舟澪
+XMESS_0220,"Yeah, it's on my personal live streaming channel, but yesterday I did a stream from my room about the upcoming live show.",XMESS_0220,小弓場かおり
+XMESS_0221,"Come to think of it, you did mention that the live show on the day of the festival would be streamed online too.",XMESS_0221,網代慎平
+XMESS_0222,"Yeah, that's right.",XMESS_0222,小弓場かおり
+XMESS_0223,"I'm planning to announce the URL right before the secret live show, but I thought some people might end up missing it.",XMESS_0223,小弓場かおり
+XMESS_0224,"So, on my live streaming channel, I've been slowly dropping hints like ""there's an event coming up soon.""",XMESS_0224,小弓場かおり
+XMESS_0225,"Of course, the fact that it's on Hitogashima is kept a secret.",XMESS_0225,小弓場かおり
+XMESS_0226,"Oh, that's interesting. It'll probably build up the fans' anticipation too.",XMESS_0226,網代慎平
+XMESS_0227,"But at this point, wouldn't it be fine to just announce that it's being held on Hitogashima?",XMESS_0227,網代慎平
+XMESS_0228,"The festival is already tomorrow, so even if fans try to come to the island at this timing, I don't think there would be that many.",XMESS_0228,網代慎平
+XMESS_0229,"Haa... Shin-chan, you really don't get it at all, do you.",XMESS_0229,小舟澪
+XMESS_0230,Eh...?,XMESS_0230,網代慎平
+XMESS_0231,"You can't underestimate idol fans! If it's for the idol they love, they'll use any means necessary to get to the island!",XMESS_0231,小舟澪
+XMESS_0232,E-Eh?,XMESS_0232,網代慎平
+XMESS_0233,"You really are too naive, Shinpei-kun. If a massive crowd of people were to surge into Hitogashima Shrine, it could easily lead to a major accident.",XMESS_0233,雁切真砂人
+XMESS_0234,I-Is it really that crazy?,XMESS_0234,網代慎平
+XMESS_0235,"Of course it is. Koyuba-san isn't just any idol. She's a famous, highly popular idol.",XMESS_0235,雁切真砂人
+XMESS_0236,"According to rumors, there were even fans who managed to pinpoint that it was Hitogashima using only the information from last night's live stream.",XMESS_0236,雁切真砂人
+XMESS_0237,Eh...!?,XMESS_0237,小弓場かおり
+XMESS_0238,"Oh, you didn't know?",XMESS_0238,雁切真砂人
+XMESS_0239,"Apparently, something like that was written in the comment section of your agency's official SNS account this morning.",XMESS_0239,雁切真砂人
+XMESS_0240,"I-Is that true...!? I'm so sorry, I never imagined they'd figure it out!",XMESS_0240,小弓場かおり
+XMESS_0241,"Please don't worry about it. Even if they do come, it'll likely only be a small fraction. I'm looking forward to the live show on the day.",XMESS_0241,雁切真砂人
+XMESS_0242,Y... Yes.,XMESS_0242,小弓場かおり
+XMESS_0243,Man... doing a live show seems a lot tougher than I thought.,XMESS_0243,網代慎平
+XMESS_0244,"If we had more time, I think there would've been ways to handle it, but...",XMESS_0244,小弓場かおり
+XMESS_0245,"Since this was such a sudden offer, neither the agency staff nor the islanders could prepare perfectly... you know?",XMESS_0245,小弓場かおり
+XMESS_0246,"Plus, the staff won't be able to make it to the island until tomorrow.",XMESS_0246,小弓場かおり
+XMESS_0247,So that was the situation...,XMESS_0247,網代慎平
+XMESS_0248,"Yeah, this is a first for me.",XMESS_0248,小弓場かおり
+XMESS_0249,But I was careless. I thought they'd never figure out it was Hitogashima.,XMESS_0249,小弓場かおり
+XMESS_0250,"In the stream, it only showed a bit of your room and outside the window, right?",XMESS_0250,網代慎平
+XMESS_0251,"If they could figure it out from just that, then that fan is just way too incredible.",XMESS_0251,網代慎平
+XMESS_0252,You really shouldn't worry about it too much.,XMESS_0252,網代慎平
+XMESS_0253,You think so...?,XMESS_0253,小弓場かおり
+XMESS_0254,"For now, just focus on the live show. Mio and I are both really looking forward to it.",XMESS_0254,網代慎平
+XMESS_0255,Yeah... thank you. I feel a bit more energized now.,XMESS_0255,小弓場かおり
+XMESS_0256,Muu...,XMESS_0256,小舟澪
+XMESS_0257,"Hey, Mio. Why are you walking so far away? Come over here.",XMESS_0257,網代慎平
+XMESS_0258,It's fine. I'm just making sure I don't get in your way.,XMESS_0258,小舟澪
+XMESS_0259,Huh? I couldn't hear what you said.,XMESS_0259,網代慎平
+XMESS_0260,I said it's fine! It's nothing!,XMESS_0260,小舟澪
+XMESS_0261,...Jeez.,XMESS_0261,網代慎平
+XMESS_0262,"It's not nothing. We don't know when a Shadow might show up, so don't wander away from me.",XMESS_0262,網代慎平
+XMESS_0263,"I-I get it, so... could you step back a little bit?",XMESS_0263,小舟澪
+XMESS_0264,A-Ah.,XMESS_0264,網代慎平
+XMESS_0265,...Hehe.,XMESS_0265,小弓場かおり
+XMESS_0266,Watching you two interact just now made me feel a bit nostalgic.,XMESS_0266,小弓場かおり
 XMESS_0267,What do you mean?,XMESS_0267,網代慎平
-XMESS_0268,"When the little Mio would step out of the group,
-Shinpei would run over and pull her over here.",XMESS_0268,小弓場かおり
-XMESS_0269,I think it's the same now.,XMESS_0269,小弓場かおり
-XMESS_0270,S-so you remember that from long ago…,XMESS_0270,小舟澪
-XMESS_0271,"Yeah, I remember well.
-Um… also…",XMESS_0271,小弓場かおり
-XMESS_0272,"Right, when we were in elementary school,
-we sometimes walked home together with Shinpei and Mio.",XMESS_0272,小弓場かおり
-XMESS_0273,"At that time, Mio in front suddenly fell.",XMESS_0273,小弓場かおり
-XMESS_0274,"Eh, me?",XMESS_0274,小舟澪
-XMESS_0275,"Then Shinpei and Mio both ran over
-to see who could pick her up first.",XMESS_0275,小弓場かおり
-XMESS_0276,"After that, they started fighting again
-over who would carry her home.",XMESS_0276,小弓場かおり
-XMESS_0277,So… what happened?,XMESS_0277,小舟澪
-XMESS_0278,"In the end, Mio didn't want to be carried,
-so the three of us held hands with her in the middle
-and walked home.",XMESS_0278,小弓場かおり
-XMESS_0279,S-so that happened?,XMESS_0279,網代慎平
-XMESS_0280,"Ah, that sounds like something that could've happened…
-I don't remember at all.",XMESS_0280,小舟澪
-XMESS_0281,"Huh… it's strange.
-I have memories that no one else does.",XMESS_0281,小弓場かおり
-XMESS_0282,"When I was on Hitogashima…
-Everything I saw seemed to sparkle.",XMESS_0282,小弓場かおり
-XMESS_0283,…,XMESS_0283,小舟澪
-XMESS_0284,"When I came back to this island,
-I felt that sparkle had returned to me.",XMESS_0284,小弓場かおり
-XMESS_0285,"Then I thought,
-this island is really amazing…",XMESS_0285,小弓場かおり
-XMESS_0286,I really like this island.,XMESS_0286,小弓場かおり
-XMESS_0287,"That's why, being able to spend these ordinary moments
-while touring the island,
-makes me really happy.",XMESS_0287,小弓場かおり
-XMESS_0288,Yeah… I think we all understand that feeling.,XMESS_0288,網代慎平
+XMESS_0268,"Whenever little Mio-chan would wander away from the group, Shinpei-kun would run over to her and pull her by the hand, telling her to come back.",XMESS_0268,小弓場かおり
+XMESS_0269,I was just thinking how it hasn't really changed.,XMESS_0269,小弓場かおり
+XMESS_0270,Y-You remember something from that long ago so well...,XMESS_0270,小舟澪
+XMESS_0271,"Yeah, I remember it well. Let's see, what else...",XMESS_0271,小弓場かおり
+XMESS_0272,"Oh right, back in elementary school, there was a time I happened to walk home together with Shinpei-kun and Kofune-san.",XMESS_0272,小弓場かおり
+XMESS_0273,"At that time, Mio-chan was walking in front and suddenly tripped and fell.",XMESS_0273,小弓場かおり
+XMESS_0274,"Eh, I did?",XMESS_0274,小舟澪
+XMESS_0275,"And seeing that, Shinpei-kun and Kofune-san started competing to see who could help Mio-chan up faster.",XMESS_0275,小弓場かおり
+XMESS_0276,"Once that was settled, the two of them started clashing again over who would get to give Mio-chan a piggyback ride home.",XMESS_0276,小弓場かおり
+XMESS_0277,And then... what happened?,XMESS_0277,小舟澪
+XMESS_0278,"In the end, Mio-chan didn't want a piggyback ride, so we walked home holding hands with Mio-chan in the middle.",XMESS_0278,小弓場かおり
+XMESS_0279,D-Did that really happen?,XMESS_0279,網代慎平
+XMESS_0280,T-That does sound like something that could've happened... But I don't remember it at all.,XMESS_0280,小舟澪
+XMESS_0281,Hehe... it's kind of strange. To think I'm the only one who remembers that.,XMESS_0281,小弓場かおり
+XMESS_0282,Back when I was on Hitogashima... Everything reflected in my eyes looked so sparkling and bright.,XMESS_0282,小弓場かおり
+XMESS_0283,...,XMESS_0283,小舟澪
+XMESS_0284,"You know, when I came back to this island, I felt like that sparkle returned to me.",XMESS_0284,小弓場かおり
+XMESS_0285,And then I thought to myself. This island really is wonderful...,XMESS_0285,小弓場かおり
+XMESS_0286,"And I really, really love this island.",XMESS_0286,小弓場かおり
+XMESS_0287,"That's why, being able to spend this casual time touring the island like this makes me incredibly happy.",XMESS_0287,小弓場かおり
+XMESS_0288,Yeah... those feelings of yours have definitely reached us too.,XMESS_0288,網代慎平
 XMESS_0289,"You really do love Hitogashima, Kaori-chan.",XMESS_0289,小舟澪
-XMESS_0290,"Yeah, that's why I want to make tomorrow's event
-a complete success.",XMESS_0290,小弓場かおり
-XMESS_0291,I see…,XMESS_0291,網代慎平
-XMESS_0292,…I'll help too.,XMESS_0292,小舟澪
+XMESS_0290,"Yeah, and that's exactly why I want to make tomorrow's event a definite success.",XMESS_0290,小弓場かおり
+XMESS_0291,I see...,XMESS_0291,網代慎平
+XMESS_0292,...I'll help too.,XMESS_0292,小舟澪
 XMESS_0293,Eh?,XMESS_0293,小弓場かおり
-XMESS_0294,I'll help with the live show!,XMESS_0294,小舟澪
-XMESS_0295,"I don't know what I can do,
-but I'll do anything.
-Please don't hesitate to use me.",XMESS_0295,小舟澪
-XMESS_0296,"I'm happy, but… why all of a sudden?",XMESS_0296,小弓場かおり
-XMESS_0297,"After hearing that, I just couldn't stay silent.",XMESS_0297,小舟澪
-XMESS_0298,Mio…,XMESS_0298,小弓場かおり
-XMESS_0299,"It's not just Mio.
-I feel the same way too.",XMESS_0299,網代慎平
-XMESS_0300,"If there's anything I can do,
-let me know.",XMESS_0300,網代慎平
-XMESS_0301,"That's right!
-I'll help out!",XMESS_0301,小舟澪
-XMESS_0302,"Both of you…
-Thank you!!",XMESS_0302,小弓場かおり
-XMESS_0303,Thanks for spending time with me today.,XMESS_0303,小弓場かおり
-XMESS_0304,It was really fun!,XMESS_0304,小舟澪
-XMESS_0305,Be careful on the way home.,XMESS_0305,網代慎平
-XMESS_0306,"See you later!
-See you tomorrow!",XMESS_0306,小弓場かおり
-XMESS_0307,"Ah!
-See you tomorrow!",XMESS_0307,網代慎平
-XMESS_0308,"Well, let's head home early
-for the live show tomorrow.",XMESS_0308,小舟澪
-XMESS_0309,"Ah, by the way, seeing the live rehearsal
-is something I've never done before.",XMESS_0309,網代慎平
-XMESS_0310,"It's not something ordinary people see often,
-so it'll probably be a good memory.",XMESS_0310,小舟澪
-XMESS_0311,A memory…,XMESS_0311,網代慎平
-XMESS_0312,What's wrong?,XMESS_0312,小舟澪
-XMESS_0313,"No…
-It's just that story about Mio falling.",XMESS_0313,網代慎平
-XMESS_0314,"Kaori,
-you remember things I don't even remember.",XMESS_0314,網代慎平
-XMESS_0315,…,XMESS_0315,小舟澪
-XMESS_0316,So Kaori-chan really…,XMESS_0316,小舟澪
-XMESS_0317,Huh…?,XMESS_0317,網代慎平
-XMESS_0318,"So that's how it is…
-She's been like that since long ago…",XMESS_0318,小舟澪
-XMESS_0319,"So what?
-If you have something to say, just say it clearly.",XMESS_0319,網代慎平
-XMESS_0320,"It's nothing!
-You're just too slow to catch on!",XMESS_0320,小舟澪
-XMESS_0321,…?,XMESS_0321,網代慎平
+XMESS_0294,I'll help out with the live show too!,XMESS_0294,小舟澪
+XMESS_0295,"I don't know what I can do, but I'll do anything, so please don't hesitate to put me to work!",XMESS_0295,小舟澪
+XMESS_0296,"I-I'm happy to hear that, but... why so suddenly?",XMESS_0296,小弓場かおり
+XMESS_0297,After hearing what you just said... I just couldn't stay quiet.,XMESS_0297,小舟澪
+XMESS_0298,Mio-chan...,XMESS_0298,小弓場かおり
+XMESS_0299,It's not just Mio. I feel the same way.,XMESS_0299,網代慎平
+XMESS_0300,"If there's anything we can do to help, just let us know.",XMESS_0300,網代慎平
+XMESS_0301,"Yeah, exactly! We'll lend you a hand!",XMESS_0301,小舟澪
+XMESS_0302,You two... Thank you!!,XMESS_0302,小弓場かおり
+XMESS_0303,Thanks for keeping me company today.,XMESS_0303,小弓場かおり
+XMESS_0304,It was super fun!,XMESS_0304,小舟澪
+XMESS_0305,Be careful on your way back.,XMESS_0305,網代慎平
+XMESS_0306,Byeee! See you tomorrow!,XMESS_0306,小弓場かおり
+XMESS_0307,Yeah! See you tomorrow!,XMESS_0307,網代慎平
+XMESS_0308,"Well, let's head home early today to prepare for tomorrow's live show.",XMESS_0308,小舟澪
+XMESS_0309,"Yeah. Still, this was my first time seeing a live rehearsal.",XMESS_0309,網代慎平
+XMESS_0310,"It's not something ordinary people get to see very often, so it'll probably make for a good memory.",XMESS_0310,小舟澪
+XMESS_0311,"A memory, huh...",XMESS_0311,網代慎平
+XMESS_0312,Did something happen?,XMESS_0312,小舟澪
+XMESS_0313,No... Just thinking about that story of you falling earlier.,XMESS_0313,網代慎平
+XMESS_0314,"Koyuba-san really remembers things well, even the stuff I've completely forgotten.",XMESS_0314,網代慎平
+XMESS_0315,...,XMESS_0315,小舟澪
+XMESS_0316,"As I thought, Kaori-chan really does... have feelings for Shin-chan...",XMESS_0316,小舟澪
+XMESS_0317,Eh...?,XMESS_0317,網代慎平
+XMESS_0318,I see... Since that long ago...,XMESS_0318,小舟澪
+XMESS_0319,"What is it? If you have something to say, just say it clearly.",XMESS_0319,網代慎平
+XMESS_0320,I said it's nothing! You're seriously so dense...,XMESS_0320,小舟澪
+XMESS_0321,...?,XMESS_0321,網代慎平

@@ -1,141 +1,93 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,17. Infected from the Beginning…,XCHAPTITLE_0002,
 XMESS_0000,…,XMESS_0000,網代慎平
-XMESS_0001,"(The time before last—
-meaning the day before I experienced the loop, July 23rd,
-when I heard from Totsumura-san)",XMESS_0001,網代慎平
-XMESS_0002,"(At 8 AM, the Koba Mart was still closed
-and the Kobayakawa family had vanished entirely)",XMESS_0002,網代慎平
-XMESS_0003,8:10 AM…?,XMESS_0003,網代慎平
-XMESS_0004,"(…The store is still closed.
-No good… nothing has changed…)",XMESS_0004,網代慎平
-XMESS_0005,"Hey!!
-Shinpei-kun, is that you?!",XMESS_0005,汐見静
-XMESS_0006,<color=#GF_TIPS_010>Shizuka</color>-san… good morning.,XMESS_0006,網代慎平
-XMESS_0007,"I really am sorry about… 
-Shio-chan's situation, you know…",XMESS_0007,汐見静
+XMESS_0001,"(The loop before last-- meaning on July 23rd, before I experienced the loops, I heard from Totsumura-san.)",XMESS_0001,網代慎平
+XMESS_0002,"(That Koba Mart still wasn't open at 8 AM, and the entire Kobayakawa family had vanished.)",XMESS_0002,網代慎平
+XMESS_0003,"8:10, huh...",XMESS_0003,網代慎平
+XMESS_0004,"(...The store is closed, as expected. Damn it... nothing has changed...)",XMESS_0004,網代慎平
+XMESS_0005,Oh my!! If it isn't Shinpei-kun!,XMESS_0005,汐見静
+XMESS_0006,<color=#GF_TIPS_010>Shiomi</color>-san... good morning.,XMESS_0006,網代慎平
+XMESS_0007,My deepest condolences... It's such a shame about Ushio-chan...,XMESS_0007,汐見静
 XMESS_0008,Yes…,XMESS_0008,網代慎平
-XMESS_0009,"…Don't push yourself.
-Take your time and relax.",XMESS_0009,汐見静
-XMESS_0010,Thank you…,XMESS_0010,網代慎平
+XMESS_0009,...Don't push yourself. Just take it easy until things settle down.,XMESS_0009,汐見静
+XMESS_0010,Thank you...,XMESS_0010,網代慎平
 XMESS_0011,"By the way, Shinpei-kun, you're out shopping this early?",XMESS_0011,汐見静
 XMESS_0012,Ah… yes.,XMESS_0012,網代慎平
-XMESS_0013,"(That's right, I remember…
-the Kobayakawa family's disappearance was noticed by Shizuka-san…)",XMESS_0013,網代慎平
-XMESS_0014,"There's no convenience store on this island, you know!
-You'll find it inconvenient after Tokyo!",XMESS_0014,汐見静
+XMESS_0013,"(Come to think of it, Totsumura-san said it was Shiomi-san who noticed the Kobayakawa family's disappearance...)",XMESS_0013,網代慎平
+XMESS_0014,"This island doesn't have any convenience stores. Must be inconvenient after getting used to Tokyo, huh!?",XMESS_0014,汐見静
 XMESS_0015,"No… I actually like the selection here.
 They even have matcha soft-serve…",XMESS_0015,網代慎平
-XMESS_0016,"Haha!
-Taste of home!",XMESS_0016,汐見静
-XMESS_0017,But today seems to be a holiday…,XMESS_0017,網代慎平
-XMESS_0018,"No way, it's closed!
-That's strange~!
-I don't mind taking a break…",XMESS_0018,汐見静
+XMESS_0016,"Haha! A taste of home, eh!",XMESS_0016,汐見静
+XMESS_0017,But it looks like they're closed today...,XMESS_0017,網代慎平
+XMESS_0018,"No, they shouldn't be closed! That's strange~. I haven't heard anything about them taking a day off...",XMESS_0018,汐見静
 XMESS_0019,…,XMESS_0019,網代慎平
-XMESS_0020,"Something happened?
-I'll go check it out.",XMESS_0020,汐見静
-XMESS_0021,"Ah, then I'll go too.
-I'm worried.",XMESS_0021,網代慎平
-XMESS_0022,"Okay.
-Is anyone home?",XMESS_0022,汐見静
+XMESS_0020,I wonder if something happened. Maybe I'll go take a look.,XMESS_0020,汐見静
+XMESS_0021,"Ah, then I'll come too. I'm worried about them.",XMESS_0021,網代慎平
+XMESS_0022,It won't open. Are they not home?,XMESS_0022,汐見静
 XMESS_0023,Ah.,XMESS_0023,網代慎平
-XMESS_0024,"What? It's open!
-Koba-chan isn't here~?!",XMESS_0024,汐見静
-XMESS_0025,"S, Shizuka-san?",XMESS_0025,網代慎平
-XMESS_0026,"Koba-chan, go in!",XMESS_0026,汐見静
-XMESS_0027,"Is it okay?
-Just barging in like this…?!",XMESS_0027,網代慎平
-XMESS_0028,"No problem!
-Koba-chan~?",XMESS_0028,汐見静
+XMESS_0024,"What, it is open! Koba-chan, are you here~!?",XMESS_0024,汐見静
+XMESS_0025,Sh-Shiomi-san?,XMESS_0025,網代慎平
+XMESS_0026,"Koba-chan, I'm coming in!",XMESS_0026,汐見静
+XMESS_0027,Is that okay? Just letting ourselves in...!?,XMESS_0027,網代慎平
+XMESS_0028,It's fine! Koba-chan~?,XMESS_0028,汐見静
 XMESS_0029,Koba-chan~?,XMESS_0029,汐見静
 XMESS_0030,…,XMESS_0030,網代慎平
-XMESS_0031,"(The TV is still on, the meal is untouched…
-it's clearly too suspicious…)",XMESS_0031,網代慎平
+XMESS_0031,"(The TV is left on, and the food is untouched... To be blunt, it's way too unnatural...)",XMESS_0031,網代慎平
 XMESS_0032,Hmm… this is…,XMESS_0032,網代慎平
-XMESS_0033,"(There's a human-shaped stain on the floor…
-like when Totsumura-san was taken by the shadow…)",XMESS_0033,網代慎平
-XMESS_0034,(A shadow… this is the shadow's doing!!),XMESS_0034,網代慎平
+XMESS_0033,(A human-shaped stain on the floor... Just like when Totsumura-san was erased by the Shadow...),XMESS_0033,網代慎平
+XMESS_0034,(A Shadow... this is the work of a Shadow!!),XMESS_0034,網代慎平
 XMESS_0035,"Damn it, I couldn't make it in time!",XMESS_0035,網代慎平
-XMESS_0036,"(The worst scenario was already imagined.
-There were other ways.
-There should have been a way to save them…)",XMESS_0036,網代慎平
-XMESS_0037,"(…Idiot! 
-It's a monster we're dealing with!
-I'm done being killed!!)",XMESS_0037,網代慎平
-XMESS_0038,(The only thing I can do is warn and…),XMESS_0038,網代慎平
-XMESS_0039,(…carefully observe the situation…),XMESS_0039,網代慎平
-XMESS_0040,(…and what exactly can be learned from that observation?),XMESS_0040,網代慎平
-XMESS_0041,"(The food is untouched and cold…
-from the beer, it seems they were attacked yesterday…
-during dinner time…)",XMESS_0041,網代慎平
-XMESS_0042,(Other than that…),XMESS_0042,網代慎平
+XMESS_0036,"(I imagined the worst-case scenario, didn't I? There had to be other ways to handle this. There should have been a way to save them...)",XMESS_0036,網代慎平
+XMESS_0037,(...You idiot! We're dealing with monsters here!? I don't want to get killed again!!),XMESS_0037,網代慎平
+XMESS_0038,"(All I can do is warn them, and...)",XMESS_0038,網代慎平
+XMESS_0039,(carefully observe the situation that has unfolded...),XMESS_0039,網代慎平
+XMESS_0040,(...And? What can I learn from observing this?),XMESS_0040,網代慎平
+XMESS_0041,"(The food is completely cold and untouched... Judging by the beer, they were probably attacked yesterday... during dinnertime...)",XMESS_0041,網代慎平
+XMESS_0042,(What else...),XMESS_0042,網代慎平
 XMESS_0043,…!?,XMESS_0043,網代慎平
-XMESS_0044,"(A depression in the floor?
-…There's one over there too?!",XMESS_0044,網代慎平
-XMESS_0045,"(There are multiple marks that look like they were punched with great force.
-What the hell happened here?)",XMESS_0045,網代慎平
-XMESS_0046,"(…There are two black stains.
-Judging by their size, they're adults…)",XMESS_0046,網代慎平
-XMESS_0047,(It's probably Shiori-chan's parents),XMESS_0047,網代慎平
-XMESS_0048,(Then… where is Shiori-chan?!,XMESS_0048,網代慎平
-XMESS_0049,"Shizuka-san!
-I'll check the upper floor for a bit!",XMESS_0049,網代慎平
-XMESS_0050,"Huh~!
-I'm counting on you!!",XMESS_0050,汐見静
-XMESS_0051,"(It's dark…
-are the shutters closed?)",XMESS_0051,網代慎平
-XMESS_0052,"The lights are…
-there they are--",XMESS_0052,網代慎平
+XMESS_0044,(Marks on the floor like it's been caved in...? ...Over there too!?),XMESS_0044,網代慎平
+XMESS_0045,(There are multiple marks that look like they were smashed with incredible force... What on earth happened here...?),XMESS_0045,網代慎平
+XMESS_0046,"(...There are two black stains. Judging from their size, they're adults...)",XMESS_0046,網代慎平
+XMESS_0047,"(Most likely, they're Shiori-chan's parents.)",XMESS_0047,網代慎平
+XMESS_0048,(Then... where did Shiori-chan go!?),XMESS_0048,網代慎平
+XMESS_0049,Shiomi-san! I'm going to go check upstairs for a bit!,XMESS_0049,網代慎平
+XMESS_0050,Oka~~y. I'm counting on you!!,XMESS_0050,汐見静
+XMESS_0051,(It's dark... Are the shutters closed?),XMESS_0051,網代慎平
+XMESS_0052,The light switch is... over there--,XMESS_0052,網代慎平
 XMESS_0053,…!,XMESS_0053,網代慎平
 XMESS_0054,Hey.,XMESS_0054,小早川しおり（シオリ）
-XMESS_0055,"Tt!!!
-↓",XMESS_0055,網代慎平
-XMESS_0056,(…This… this voice…),XMESS_0056,網代慎平
-XMESS_0057,"Why yesterday…
-did you say that?",XMESS_0057,小早川しおり（シオリ）
-XMESS_0058,(…Ah… I see… …),XMESS_0058,網代慎平
-XMESS_0059,"(The first and second funerals, I didn't do it
-but the third time, I finally did it--)",XMESS_0059,網代慎平
-XMESS_0060,(It was… telling Shiori-chan about the shadow…),XMESS_0060,網代慎平
-XMESS_0061,"Stare at me…
-did something stick to my face?",XMESS_0061,小早川しおり（シオリ）
-XMESS_0062,Or is my body different somewhere?,XMESS_0062,小早川しおり（シオリ）
-XMESS_0063,(…Confirmed… it's her…),XMESS_0063,網代慎平
-XMESS_0064,"(…The shadow that sneaked into the funeral…
-its true form was… <color=#GF_TIPS_005>Shiori</color>…)",XMESS_0064,網代慎平
-XMESS_0065,"Th… this voice is coming out…
-has it healed…?",XMESS_0065,網代慎平
-XMESS_0066,"(…What an idiot, me.
-What a ridiculous question…)",XMESS_0066,網代慎平
+XMESS_0055,!!!!,XMESS_0055,網代慎平
+XMESS_0056,(...Th... this voice is...),XMESS_0056,網代慎平
+XMESS_0057,Why did you... say that yesterday?,XMESS_0057,小早川しおり（シオリ）
+XMESS_0058,(Ah... I... see...),XMESS_0058,網代慎平
+XMESS_0059,"(Something I didn't do at the first or second funeral, but did for the first time at the third--)",XMESS_0059,網代慎平
+XMESS_0060,(That was... telling Shiori-chan about the Shadows...),XMESS_0060,網代慎平
+XMESS_0061,You were staring right at me... Was there something on my face?,XMESS_0061,小早川しおり（シオリ）
+XMESS_0062,Or is there something weird about my body?,XMESS_0062,小早川しおり（シオリ）
+XMESS_0063,(...It's... confirmed...),XMESS_0063,網代慎平
+XMESS_0064,(The Shadow that slipped into Ushio's funeral... Its true identity was... <color=#GF_TIPS_005>Shiori Kobayakawa</color>...),XMESS_0064,網代慎平
+XMESS_0065,Y... your voice is coming out... Did you get... better?,XMESS_0065,網代慎平
+XMESS_0066,(...I'm such an idiot. What a stupid question...),XMESS_0066,網代慎平
 XMESS_0067,…Ah…,XMESS_0067,シオリ
-XMESS_0068,"My dad and mom…
-they told me to shut up…
-Anyway, about my question--",XMESS_0068,シオリ
+XMESS_0068,"My mom and dad... told me to stay quiet... More importantly, about my question--",XMESS_0068,シオリ
 XMESS_0069,"…Well, whatever.",XMESS_0069,シオリ
 XMESS_0070,…!!,XMESS_0070,網代慎平
-XMESS_0071,"Even if you don't answer, I'll ask later…",XMESS_0071,シオリ
-XMESS_0072,(The shadow… same as when it impersonated Totsumura-san!),XMESS_0072,網代慎平
-XMESS_0073,"(Same as Totsumura-san, a shadow that looks just like me…?)",XMESS_0073,網代慎平
-XMESS_0074,"(I've been infected with the Shadow Sickness…
-no… I was already infected!)",XMESS_0074,網代慎平
-XMESS_0075,(From the first funeral… <color=#GF_KEY_SNP_KANSEN>many times</color>…),XMESS_0075,網代慎平
-XMESS_0076,Shinpei-kun?,XMESS_0076,汐見静
+XMESS_0071,"Even if you don't answer, I'll ask you later...",XMESS_0071,シオリ
+XMESS_0072,(That Shadow-- It's the same as when one took over Totsumura-san...!),XMESS_0072,網代慎平
+XMESS_0073,"(Just like Totsumura-san, there's a Shadow that looks exactly like me...?)",XMESS_0073,網代慎平
+XMESS_0074,(I've been infected by the Shadow Sickness... No... I was already infected!),XMESS_0074,網代慎平
+XMESS_0075,"(Ever since the first funeral, <color=#GF_KEY_SNP_KANSEN>over and over</color>...!)",XMESS_0075,網代慎平
+XMESS_0076,Shinpei-ku~n?,XMESS_0076,汐見静
 XMESS_0077,!!!!,XMESS_0077,網代慎平
-XMESS_0078,"What's wrong?!
-Was someone up there?",XMESS_0078,汐見静
+XMESS_0078,What's wrong!? Was someone up there?,XMESS_0078,汐見静
 XMESS_0079,…!?,XMESS_0079,網代慎平
-XMESS_0080,(It disappeared…?!,XMESS_0080,網代慎平
+XMESS_0080,(She disappeared...!?),XMESS_0080,網代慎平
 XMESS_0081,What happened?,XMESS_0081,汐見静
-XMESS_0082,"Ah… no, that is…",XMESS_0082,網代慎平
+XMESS_0082,"Ah... no, um...",XMESS_0082,網代慎平
 XMESS_0083,…!,XMESS_0083,網代慎平
-XMESS_0084,"(The door behind the shadow is open…
-is someone there…?)",XMESS_0084,網代慎平
+XMESS_0084,(The door behind where the Shadow was is open... Is she... in there...?),XMESS_0084,網代慎平
 XMESS_0085,"That's the toilet, right?
 Did you get a stomachache?",XMESS_0085,汐見静
-XMESS_0086,"Ah, no.
-I'm fine…",XMESS_0086,網代慎平
-XMESS_0087,"(No one's here…
-the window is open, but…
-could they have left through that gap?)",XMESS_0087,網代慎平
-XMESS_0088,"(Anyway… thanks to Shizuka-san, I seem to have escaped with my life…)",XMESS_0088,網代慎平
+XMESS_0086,"Ah, no. I'm fine...",XMESS_0086,網代慎平
+XMESS_0087,"(No one's here... The window is open, but... Could she have squeezed out through a gap like that?)",XMESS_0087,網代慎平
+XMESS_0088,"(Anyway... thanks to Shiomi-san, it looks like I just barely escaped with my life...)",XMESS_0088,網代慎平

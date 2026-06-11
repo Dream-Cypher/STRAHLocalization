@@ -1,159 +1,102 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,7. Koyuba Channel ①,XCHAPTITLE_0002,
 XMESS_0000,…,XMESS_0000,網代慎平
-XMESS_0001,"Y-yes, this is Kaori!",XMESS_0001,小弓場かおり
-XMESS_0002,"Ah, Kaori-san.
-I'm sorry, calling this late at night.",XMESS_0002,網代慎平
+XMESS_0001,"Y-Yes, this is Koyuba!",XMESS_0001,小弓場かおり
+XMESS_0002,"Ah, Koyuba-san. Sorry for calling so late at night.",XMESS_0002,網代慎平
 XMESS_0003,"No, don't worry!",XMESS_0003,小弓場かおり
 XMESS_0004,What's wrong? You seem flustered.,XMESS_0004,網代慎平
-XMESS_0005,"Eh, I didn't expect a call from Shinpei-kun,
-so I got nervous…",XMESS_0005,小弓場かおり
-XMESS_0006,"(Being this nervous over something so small,
-you're amazing for being an idol…)",XMESS_0006,網代慎平
+XMESS_0005,"U-Um, I wasn't expecting a call from Ajiro-kun, so I got a little nervous...",XMESS_0005,小弓場かおり
+XMESS_0006,"(If she gets nervous over something like this, how does she even manage to be an idol...)",XMESS_0006,網代慎平
 XMESS_0007,"Yeah, I'm fine now. I've calmed down.",XMESS_0007,小弓場かおり
 XMESS_0008,Do you have time right now?,XMESS_0008,網代慎平
-XMESS_0009,"I'm sorry. I can't talk long.
-I have things to do soon.",XMESS_0009,小弓場かおり
-XMESS_0010,"Eh…?
-Are you going somewhere?",XMESS_0010,網代慎平
-XMESS_0011,"No, it's not that!
-I have some work left…
-I'll just prepare in my room.",XMESS_0011,小弓場かおり
-XMESS_0012,"I see.
-You're working late again.",XMESS_0012,網代慎平
+XMESS_0009,I'm sorry. I can't talk for very long. I have something to do right after this.,XMESS_0009,小弓場かおり
+XMESS_0010,Huh...? Don't tell me you're going out somewhere now?,XMESS_0010,網代慎平
+XMESS_0011,"Ah, no! I just have a little work left... I'm just going to prepare for it in my room.",XMESS_0011,小弓場かおり
+XMESS_0012,I see. Must be tough working so late.,XMESS_0012,網代慎平
 XMESS_0013,"No…
 I'm doing this because I want to.",XMESS_0013,小弓場かおり
-XMESS_0014,"You really don't need to worry, right?
-Following what you said, I'm not going out
-after dark, so it's fine.",XMESS_0014,小弓場かおり
+XMESS_0014,"You really don't need to worry, okay? Just like Ajiro-kun told me, I'm making sure not to go out after dark.",XMESS_0014,小弓場かおり
 XMESS_0015,"Thank you.
 That's good then.",XMESS_0015,網代慎平
-XMESS_0016,"Actually, I was thinking of going out
-to take some photos for SNS…
-Stargazing and…",XMESS_0016,小弓場かおり
+XMESS_0016,"Actually, I was thinking about going to take some photos for social media. Like the starry sky or--",XMESS_0016,小弓場かおり
 XMESS_0017,"Ah, that's…!",XMESS_0017,網代慎平
 XMESS_0018,"Yeah, I know.
 I was just thinking about it,
 but I'm not going out.",XMESS_0018,小弓場かおり
 XMESS_0019,I see…,XMESS_0019,網代慎平
-XMESS_0020,"I'm sorry.
-I didn't think you'd get so worried.",XMESS_0020,小弓場かおり
-XMESS_0021,"Haha… I'm the one who's sorry.
-I just couldn't help but worry.",XMESS_0021,網代慎平
+XMESS_0020,Sorry. I didn't think you'd panic that much.,XMESS_0020,小弓場かおり
+XMESS_0021,Ahaha... sorry about that. I just couldn't help but worry.,XMESS_0021,網代慎平
 XMESS_0022,"Thank you.
 I definitely won't go out, so please rest easy.",XMESS_0022,小弓場かおり
 XMESS_0023,"Ah, yeah.",XMESS_0023,網代慎平
 XMESS_0024,"Ah, it's about time…",XMESS_0024,小弓場かおり
-XMESS_0025,"Sorry for calling during your busy time.
-Then, see you later.",XMESS_0025,網代慎平
+XMESS_0025,"Sorry for bothering you when you're busy. Well then, see ya.",XMESS_0025,網代慎平
 XMESS_0026,"Yeah, goodnight.",XMESS_0026,小弓場かおり
 XMESS_0027,"(Alright, next…)",XMESS_0027,網代慎平
 XMESS_0028,"Hey, this is the Hero of Justice!",XMESS_0028,凸村哲
 XMESS_0029,Hello? Totsumura-san?,XMESS_0029,網代慎平
-XMESS_0030,"Ah, Shinpei-kun!
-What is it? I'm busy reading right now.",XMESS_0030,凸村哲
+XMESS_0030,"Ah, Shinpei-kun! What is it? I'm busy reading.",XMESS_0030,凸村哲
 XMESS_0031,Reading… What are you reading?,XMESS_0031,網代慎平
-XMESS_0032,"Huh? This month's game playboy.
-There's a photo of Kaori-chan…",XMESS_0032,凸村哲
-XMESS_0033,"Eh!!?
-That's what you're reading…?",XMESS_0033,網代慎平
-XMESS_0034,"(If he found out the real one was on the island,
-he'd be super shocked…)",XMESS_0034,網代慎平
-XMESS_0035,"So? What's the reason?
-You didn't call just to chat, did you?",XMESS_0035,凸村哲
-XMESS_0036,"Ah, um…!
-Actually, there's a fight at the port.",XMESS_0036,網代慎平
-XMESS_0037,"…What?!
-A fight?!",XMESS_0037,凸村哲
-XMESS_0038,"Got it, I'm coming right away!
-Take care, Shinpei-kun!",XMESS_0038,凸村哲
-XMESS_0039,…Please be careful!!,XMESS_0039,網代慎平
+XMESS_0032,Hm? This month's Weekly Playboy. It's got a gravure spread of Kaori-chan in it...,XMESS_0032,凸村哲
+XMESS_0033,Eh!! I-I see...,XMESS_0033,網代慎平
+XMESS_0034,"(If he knew the real one was on the island, he'd be completely blown away...)",XMESS_0034,網代慎平
+XMESS_0035,"So? What do you want? You didn't just call to chat, did you?",XMESS_0035,凸村哲
+XMESS_0036,"Ah, umm...! Actually, there's a brawl happening down at the harbor.",XMESS_0036,網代慎平
+XMESS_0037,...Wh-What did you say!? A brawl!!?,XMESS_0037,凸村哲
+XMESS_0038,"Got it, I'm heading there right away! You be careful too, Shinpei-kun!",XMESS_0038,凸村哲
+XMESS_0039,...I'm counting on you!,XMESS_0039,網代慎平
 XMESS_0040,Phew…,XMESS_0040,網代慎平
-XMESS_0041,"(Is it okay now?
-I hope it's fine with Totsumura-san…)",XMESS_0041,網代慎平
-XMESS_0042,"…Was that a bad idea?
-I lied about the report…",XMESS_0042,網代慎平
-XMESS_0043,"But this way, Totsumura-san won't come here,
-so it's a relief.",XMESS_0043,網代慎平
-XMESS_0044,(Already told the window to contact me tomorrow),XMESS_0044,網代慎平
-XMESS_0045,"(Delete any unnecessary apps and photos.
-Free up storage…)",XMESS_0045,網代慎平
-XMESS_0046,"(Enable airplane mode to avoid calls.
-Full charge. Connect to mobile battery)",XMESS_0046,網代慎平
-XMESS_0047,"(Luckily, I know when he'll arrive)",XMESS_0047,網代慎平
-XMESS_0048,"(Hide the phone in the plant to stay hidden,
-start recording)",XMESS_0048,網代慎平
-XMESS_0049,(I'll film the Shadow of Mio and get evidence…!!),XMESS_0049,網代慎平
-XMESS_0050,"(Then… even if I feel awful,
-I won't go out to breathe fresh air.
-That'll be okay…)",XMESS_0050,網代慎平
-XMESS_0051,(What should I do next… Stop it…!),XMESS_0051,網代慎平
+XMESS_0041,"(Is this okay? I'd like to think so, as far as Totsumura-san goes...)",XMESS_0041,網代慎平
+XMESS_0042,"...Is this bad? I made a fake report, but...",XMESS_0042,網代慎平
+XMESS_0043,"But with this, Totsumura-san won't come here, so he should be saved.",XMESS_0043,網代慎平
+XMESS_0044,(I already told Sou I'd contact him tomorrow.),XMESS_0044,網代慎平
+XMESS_0045,(Now I just need to delete unnecessary apps and photos. To free up storage space...),XMESS_0045,網代慎平
+XMESS_0046,"(Airplane mode, just in case a call comes in. Fully charged. And I'll connect it to a mobile battery.)",XMESS_0046,網代慎平
+XMESS_0047,"(Luckily, I know what time she'll come.)",XMESS_0047,網代慎平
+XMESS_0048,"(Hide the smartphone in the potted plant so she doesn't find it, and start recording.)",XMESS_0048,網代慎平
+XMESS_0049,(I'll film Mio's Shadow and get the evidence...!!),XMESS_0049,網代慎平
+XMESS_0050,"(After that... no matter how sick I feel, I absolutely won't go outside for fresh air. Then it'll be fine...)",XMESS_0050,網代慎平
+XMESS_0051,(What should I do next... look at the big picture...!),XMESS_0051,網代慎平
 XMESS_0052,…,XMESS_0052,網代慎平
 XMESS_0053,"(Oh right, Mio… is she in her room?)",XMESS_0053,網代慎平
 XMESS_0054,(Is she taking a bath?),XMESS_0054,網代慎平
 XMESS_0055,"Mio!
 You're there, right?",XMESS_0055,網代慎平
-XMESS_0056,"Huh?
-What's wrong, Shin-chan?",XMESS_0056,小舟澪
+XMESS_0056,"Hmm? What's wrong, Shin-chan?",XMESS_0056,小舟澪
 XMESS_0057,Ah…,XMESS_0057,網代慎平
-XMESS_0058,"I mean, if you're there, that's good.
-Make sure to soak up to your shoulders.",XMESS_0058,網代慎平
-XMESS_0059,"Y-yeah…
-I was going to anyway.",XMESS_0059,小舟澪
+XMESS_0058,"No, if you're there, that's fine. Make sure you soak up to your shoulders, okay?",XMESS_0058,網代慎平
+XMESS_0059,Y-Yeah... I was going to do that even if you didn't tell me.,XMESS_0059,小舟澪
 XMESS_0060,(…Mio is safe),XMESS_0060,網代慎平
-XMESS_0061,"(I've taken as much precaution as possible…
-But I need to stay alert)",XMESS_0061,網代慎平
+XMESS_0061,(I've taken as many countermeasures as possible... But I shouldn't let my guard down.),XMESS_0061,網代慎平
 XCOMMENTVIEW_0244,Kaori Koyuba,XCOMMENTVIEW_0244,
 XMESS_0062,Is the mic on?,XMESS_0062,小弓場かおり
-XMESS_0063,"…Okay?
-Thank you.",XMESS_0063,小弓場かおり
-XMESS_0064,"Then, let's start!",XMESS_0064,小弓場かおり
-XMESS_0065,Hello everyone~!,XMESS_0065,小弓場かおり
-XMESS_0066,"This is Kaori Koyuba's '<color=#GF_TIPS_088>Koyuba Channel</color>'!
-Tonight, I'm staying up a little late,
-let's chat together!",XMESS_0066,小弓場かおり
-XMESS_0067,"Hi~! Please take care of me!
-Thank you so much for all the comments!",XMESS_0067,小弓場かおり
-XMESS_0068,"I'll answer as many comments as I can,
-so please send lots!",XMESS_0068,小弓場かおり
+XMESS_0063,...Is it okay? Thanks.,XMESS_0063,小弓場かおり
+XMESS_0064,"Well then, let's start~!",XMESS_0064,小弓場かおり
+XMESS_0065,"Good evening, everyone~~~!",XMESS_0065,小弓場かおり
+XMESS_0066,It's Kaori Koyuba's '<color=#GF_TIPS_088>Koyuba Channel</color>'! Let's stay up a little late again tonight and chat together!,XMESS_0066,小弓場かおり
+XMESS_0067,"Yeees, thanks for having me~! Thanks for all the reply comments~!",XMESS_0067,小弓場かおり
+XMESS_0068,"I'll try to answer as many comments as I can, so I'd be happy if you sent a lot~.",XMESS_0068,小弓場かおり
 XMESS_0069,"By the way, everyone.
 Tonight's stream is a bit different from usual,
 do you know what's different?",XMESS_0069,小弓場かおり
 XMESS_0070,"…That's right, the location!",XMESS_0070,小弓場かおり
-XMESS_0071,"I'm currently at a certain place.
-Where could it be?",XMESS_0071,小弓場かおり
-XMESS_0072,"Any guesses from the comments?
-Let me see~",XMESS_0072,小弓場かおり
-XMESS_0073,"Haha, that's right.
-It's a hotel room!
-Which hotel is it?",XMESS_0073,小弓場かおり
-XMESS_0074,"…Sharp! It's near the sea.
-So, the Japan Sea? Pacific?
-Or maybe the Seto Inland Sea?",XMESS_0074,小弓場かおり
-XMESS_0075,"Eh, you want me to say quickly?
-Ugh, there are impatient people.",XMESS_0075,小弓場かおり
-XMESS_0076,"Then, I'll tell the answer.
-The answer is…",XMESS_0076,小弓場かおり
+XMESS_0071,"Right now, I'm at a certain place~. Where could it be?",XMESS_0071,小弓場かおり
+XMESS_0072,I wonder if anyone can guess in the comments? Let's see~,XMESS_0072,小弓場かおり
+XMESS_0073,"Hehe, that's right. It's an 'inn room'! I wonder where this inn is~?",XMESS_0073,小弓場かおり
+XMESS_0074,"...Sharp! It is near the sea. So, the Sea of Japan? The Pacific Ocean? Or maybe the Seto Inland Sea?",XMESS_0074,小弓場かおり
+XMESS_0075,"Eh, you want me to just say the answer already? Jeez, we have some impatient people here.",XMESS_0075,小弓場かおり
+XMESS_0076,Then maybe I'll just give the correct answer. The answer is...,XMESS_0076,小弓場かおり
 XMESS_0077,…A secret.,XMESS_0077,小弓場かおり
-XMESS_0078,"Wahhh~! I'm sorry!
-It's really ""Oh no~""!",XMESS_0078,小弓場かおり
+XMESS_0078,"Waaaah, I'm sorry! I know, right, 'Eeeeh!'?",XMESS_0078,小弓場かおり
 XMESS_0079,"Actually, I'm here to
 carry out a certain plan.",XMESS_0079,小弓場かおり
-XMESS_0080,"The details are still a secret,
-but I'll definitely report to everyone
-through this channel, so please wait a bit!",XMESS_0080,小弓場かおり
-XMESS_0081,"Eh, ""Are you trying to boost PVs?""
-Hmm, not exactly…",XMESS_0081,小弓場かおり
+XMESS_0080,"The details are still a secret, but I'll definitely announce it to everyone on this channel, so please wait just a little longer!",XMESS_0080,小弓場かおり
+XMESS_0081,"Eh, 'Are you just trying to get more views?' Hmm, that's not really it, but...",XMESS_0081,小弓場かおり
 XMESS_0082,"Haha, maybe a little.",XMESS_0082,小弓場かおり
-XMESS_0083,"What I'm doing here,
-of course for my listeners,
-I want as many people as possible to watch.",XMESS_0083,小弓場かおり
-XMESS_0084,"So everyone!
-Please spread the channel on official SNS
-and send lots of supportive comments!",XMESS_0084,小弓場かおり
+XMESS_0083,"What I'm doing here, I want my listeners to see it, of course, but I also want as many people as possible to see it.",XMESS_0083,小弓場かおり
+XMESS_0084,So everyone! Please share the channel's official social media and send lots of supportive comments!,XMESS_0084,小弓場かおり
 XMESS_0085,"Eh, you already did?",XMESS_0085,小弓場かおり
-XMESS_0086,"Ah… really!
-The PVs and likes are rising!",XMESS_0086,小弓場かおり
+XMESS_0086,Ah... you really did! The views and likes are going up and up!,XMESS_0086,小弓場かおり
 XMESS_0087,"Wahhh~!
 Thank you all!",XMESS_0087,小弓場かおり
 XMESS_0088,"I'll do my best to meet your expectations!

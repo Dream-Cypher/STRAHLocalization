@@ -1,134 +1,90 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,2. Hoine's Guide to Hitogashima Island,XCHAPTITLE_0002,
-XMESS_0000,"Hey, big sister!",XMESS_0000,南方竜之介（大人）
+XMESS_0000,"Heeeey, Sis!",XMESS_0000,南方竜之介（大人）
 XMESS_0001,"Hizuru-chan, welcome back~!!",XMESS_0001,南方波稲
-XMESS_0002,I'm five minutes late for our meeting.,XMESS_0002,南方ひづる
-XMESS_0003,"Sorry, I had to go to the bathroom on my way out.
-I felt like I needed to go.
-But I rushed as hard as I could, right?",XMESS_0003,南方竜之介（大人）
-XMESS_0004,"I see.
-That was unnecessary effort.",XMESS_0004,南方ひづる
-XMESS_0005,Eh…?,XMESS_0005,南方竜之介（大人）
-XMESS_0006,It would've been fine if you'd arrived a little later.,XMESS_0006,南方ひづる
-XMESS_0007,"These seemingly pointless moments are actually
-precious time for a novelist to build ideas.",XMESS_0007,南方ひづる
+XMESS_0002,You're five minutes late for our meeting.,XMESS_0002,南方ひづる
+XMESS_0003,"Sorry, I suddenly had to go to the bathroom right as I was heading out. But I hurried here as fast as I could, you know?",XMESS_0003,南方竜之介（大人）
+XMESS_0004,I see. That was a pointless effort.,XMESS_0004,南方ひづる
+XMESS_0005,Huh...?,XMESS_0005,南方竜之介（大人）
+XMESS_0006,I mean that it would have been fine if you arrived a little later.,XMESS_0006,南方ひづる
+XMESS_0007,Because it's exactly this kind of seemingly wasted time that is precious time for a novelist to construct ideas.,XMESS_0007,南方ひづる
 XMESS_0008,Hizuru-chan!,XMESS_0008,南方波稲
-XMESS_0009,"Hn… Ah, Hoine.",XMESS_0009,南方ひづる
-XMESS_0010,"Hizuru-chan!
-What should I say if someone tells me you're back?",XMESS_0010,南方波稲
+XMESS_0009,"Hm... Ah, Hoine.",XMESS_0009,南方ひづる
+XMESS_0010,"Hizuru-chan! When someone says ""welcome back"", what are you supposed to say?",XMESS_0010,南方波稲
 XMESS_0011,…,XMESS_0011,南方ひづる
 XMESS_0012,…I'm home.,XMESS_0012,南方ひづる
 XMESS_0013,"Hehe.
 Welcome back, Hizuru-chan.",XMESS_0013,南方波稲
-XMESS_0014,"Also, Ryunosuke.",XMESS_0014,南方ひづる
-XMESS_0015,"This is what you wanted.
-Take it home gratefully.",XMESS_0015,南方ひづる
-XMESS_0016,"Wah, wah…!?",XMESS_0016,南方竜之介（大人）
-XMESS_0017,"Is this a souvenir?
-You bought this for me?!",XMESS_0017,南方竜之介（大人）
-XMESS_0018,"What are you talking about…?
-You told me to buy it.",XMESS_0018,南方ひづる
-XMESS_0019,"No, I didn't say to buy it! I just said I'd be happy if there was a souvenir.",XMESS_0019,南方竜之介（大人）
-XMESS_0020,"You're right.
-If you hadn't bought anything, you'd have complained.",XMESS_0020,南方ひづる
-XMESS_0021,"Even though you complain like that,
-it's just like you to actually buy it.",XMESS_0021,南方竜之介（大人）
-XMESS_0022,"Thanks a lot.
-Come on, Hoine, say thanks too.",XMESS_0022,南方竜之介（大人）
+XMESS_0014,And Ryunosuke.,XMESS_0014,南方ひづる
+XMESS_0015,Here is what you requested. Take it home with gratitude.,XMESS_0015,南方ひづる
+XMESS_0016,"Whoa, whoa...!?",XMESS_0016,南方竜之介（大人）
+XMESS_0017,Are these souvenirs? You bought all this for me!?,XMESS_0017,南方竜之介（大人）
+XMESS_0018,Stop playing dumb... You're the one who demanded I buy them.,XMESS_0018,南方ひづる
+XMESS_0019,"No no, I never told you to buy them! I just said I'd be happy if there were souvenirs.",XMESS_0019,南方竜之介（大人）
+XMESS_0020,"Yeah, right. If I hadn't bought anything and come home, you would have complained.",XMESS_0020,南方ひづる
+XMESS_0021,"The fact that you still properly bought them even while complaining like that is so like you, Sis.",XMESS_0021,南方竜之介（大人）
+XMESS_0022,"Thanks. Come on, Hoine, you say thanks too.",XMESS_0022,南方竜之介（大人）
 XMESS_0023,"Thank you~!
 I love Hizuru-chan~!",XMESS_0023,南方波稲
-XMESS_0024,"Don't mention it, Hoine.",XMESS_0024,南方ひづる
-XMESS_0025,"So, what are we doing next?
-Since it's been a while since I came back,
-I was going to relax at home, right?",XMESS_0025,南方竜之介（大人）
-XMESS_0026,"No, I don't have time for that.
-I told you, I'm back to prepare my new work
-and do research.",XMESS_0026,南方ひづる
-XMESS_0027,"Ah, that's why you've been so tense.",XMESS_0027,南方竜之介（大人）
-XMESS_0028,…That's not the only reason.,XMESS_0028,南方ひづる
+XMESS_0024,"No need for thanks, Hoine.",XMESS_0024,南方ひづる
+XMESS_0025,"So, what are you doing after this? It's been a while since you came back, so you're going to relax at home, right?",XMESS_0025,南方竜之介（大人）
+XMESS_0026,"No, I don't have the time for that. I told you, I'm preparing for my new work and came back to do research as well.",XMESS_0026,南方ひづる
+XMESS_0027,"Ah, so that's why you're so on edge.",XMESS_0027,南方竜之介（大人）
+XMESS_0028,"...That's not the only reason, though.",XMESS_0028,南方ひづる
 XMESS_0029,Huh? Did something happen?,XMESS_0029,南方竜之介（大人）
-XMESS_0030,"You didn't tell anyone about me, did you?",XMESS_0030,南方ひづる
-XMESS_0031,"About you…?
-About 'Ryunosuke Nagumo'?",XMESS_0031,南方竜之介（大人）
-XMESS_0032,You're kidding me! I'd never tell anyone!,XMESS_0032,南方竜之介（大人）
-XMESS_0033,…I hope so.,XMESS_0033,南方ひづる
-XMESS_0034,"(There's no sign of deception.
-So Ryunosuke is clean… 
-Where did that boy get the information from?)",XMESS_0034,南方ひづる
+XMESS_0030,"You haven't been leaking information about me to the people around you, have you?",XMESS_0030,南方ひづる
+XMESS_0031,"Information about you...? You mean about ""Ryunosuke Nagumo""?",XMESS_0031,南方竜之介（大人）
+XMESS_0032,"No way, I haven't told anyone!",XMESS_0032,南方竜之介（大人）
+XMESS_0033,...Then that's fine.,XMESS_0033,南方ひづる
+XMESS_0034,(He doesn't seem to be hiding anything. Which means Ryunosuke is innocent... Where did that boy get his information from?),XMESS_0034,南方ひづる
 XMESS_0035,Hizuru-chan~! Let's play~!,XMESS_0035,南方波稲
-XMESS_0036,"I'd love to play, but I have research to do.",XMESS_0036,南方ひづる
-XMESS_0037,Hey~! Let's play~!,XMESS_0037,南方波稲
-XMESS_0038,"Persistent, just like a child.",XMESS_0038,南方ひづる
-XMESS_0039,"That's right, Hoine's still a kid who wants to play.
-So, right?",XMESS_0039,南方竜之介（大人）
-XMESS_0040,You should at least listen to your cute niece's request.,XMESS_0040,南方竜之介（大人）
+XMESS_0036,"I'd love to play with you, but I have research to do.",XMESS_0036,南方ひづる
+XMESS_0037,"C'mon~, let's play~!",XMESS_0037,南方波稲
+XMESS_0038,Pushing her demands until she gets her way... She truly is a child.,XMESS_0038,南方ひづる
+XMESS_0039,"Exactly, Hoine is still a kid at the age where she wants to play. So, y'know?",XMESS_0039,南方竜之介（大人）
+XMESS_0040,You should at least indulge your cute niece's selfishness a little.,XMESS_0040,南方竜之介（大人）
 XMESS_0041,I want to play with Hizuru-chan!,XMESS_0041,南方波稲
-XMESS_0042,"…I came here to work.
-I didn't come back just to play with Hoine.",XMESS_0042,南方ひづる
-XMESS_0043,"Just a little bit, okay?
-I can spare some time.",XMESS_0043,南方竜之介（大人）
-XMESS_0044,"Hoine, I know you've been waiting
-for your big sister to come back.",XMESS_0044,南方竜之介（大人）
-XMESS_0045,"That's right!
-I was waiting!",XMESS_0045,南方波稲
+XMESS_0042,"...I came here to work. I didn't come back to play with you, Hoine.",XMESS_0042,南方ひづる
+XMESS_0043,"Even just a little bit is fine, so couldn't you give her some attention?",XMESS_0043,南方竜之介（大人）
+XMESS_0044,"Hoine was really looking forward to you coming back, Sis.",XMESS_0044,南方竜之介（大人）
+XMESS_0045,Yeah! I was waiting!,XMESS_0045,南方波稲
 XMESS_0046,"If you want to play, play with Ryunosuke--",XMESS_0046,南方ひづる
-XMESS_0047,It's not dad! I want to play with Hizuru-chan!,XMESS_0047,南方波稲
-XMESS_0048,"Ah, heh heh…",XMESS_0048,南方竜之介（大人）
-XMESS_0049,"Dah~! You know~!
-Play with me, Hizuru-chan!",XMESS_0049,南方波稲
-XMESS_0050,"I'll say it again, so listen carefully.
-I came to the island to work.",XMESS_0050,南方ひづる
+XMESS_0047,Not Papa! I want to play with Hizuru-chan!,XMESS_0047,南方波稲
+XMESS_0048,A-Ahaha...,XMESS_0048,南方竜之介（大人）
+XMESS_0049,"Sooo~, c'mon! Let's play, Hizuru-chan!",XMESS_0049,南方波稲
+XMESS_0050,"I'll explain it one more time, so listen carefully. I came to the island to work.",XMESS_0050,南方ひづる
 XMESS_0051,"Yeah!
 So let's play!",XMESS_0051,南方波稲
-XMESS_0052,"…Your use of 'so' is off. 
-That's why kids' thinking is so frustrating.",XMESS_0052,南方ひづる
-XMESS_0053,"Then, after work?
-You can spare a little time, right?",XMESS_0053,南方竜之介（大人）
+XMESS_0052,"...Your use of ""so"" is incorrect. This is why children's thinking is so incomprehensible.",XMESS_0052,南方ひづる
+XMESS_0053,"Then, what about after work? You'll have a little bit of time, right?",XMESS_0053,南方竜之介（大人）
 XMESS_0054,"Hizuru-chan, when will your work end?",XMESS_0054,南方波稲
-XMESS_0055,"I don't know either.
-So give up and go home.",XMESS_0055,南方ひづる
-XMESS_0056,"No way! I want to be with Hizuru-chan!
-If that's the case, I can play right after your work ends!",XMESS_0056,南方波稲
-XMESS_0057,"…My work is something I do alone.
-Having someone around distracts me.",XMESS_0057,南方ひづる
-XMESS_0058,"What's your job, Hizuru-chan?
-I'll help you!",XMESS_0058,南方波稲
-XMESS_0059,Listen to me…,XMESS_0059,南方ひづる
-XMESS_0060,"Big sister, you're going to do research, right?
-Hoine, big sister has to walk around the island
-after this.",XMESS_0060,南方竜之介（大人）
-XMESS_0061,"Ah!
-Then I'll be the island's guide!",XMESS_0061,南方波稲
-XMESS_0062,"Not needed.
-I was born on this island, after all.",XMESS_0062,南方ひづる
-XMESS_0063,"But, you know, the island has changed a bit.",XMESS_0063,南方竜之介（大人）
-XMESS_0064,"There are places that aren't the same as when you were here,
-so having a guide would be helpful, don't you think?",XMESS_0064,南方竜之介（大人）
-XMESS_0065,I can't deny that…,XMESS_0065,南方ひづる
-XMESS_0066,"Hear that, Hoine!
-You'll be the island's guide!",XMESS_0066,南方竜之介（大人）
+XMESS_0055,Even I don't know. So give up and go home.,XMESS_0055,南方ひづる
+XMESS_0056,"No! I'm staying with Hizuru-chan! That way, we can play as soon as your work is done, right!?",XMESS_0056,南方波稲
+XMESS_0057,...My work is something I do alone. Having someone by my side distracts me.,XMESS_0057,南方ひづる
+XMESS_0058,"What is your job, Hizuru-chan? I'll help you out!",XMESS_0058,南方波稲
+XMESS_0059,Listen to what people are saying...,XMESS_0059,南方ひづる
+XMESS_0060,"Sis, you're going to do research now, right? Hoine, Sis has to walk around the island after this.",XMESS_0060,南方竜之介（大人）
+XMESS_0061,"Ah! If that's the case, I'll be your guide to the island!",XMESS_0061,南方波稲
+XMESS_0062,"Unnecessary. I was born on this island, you know?",XMESS_0062,南方ひづる
+XMESS_0063,"Well, even so, this island has changed a bit too.",XMESS_0063,南方竜之介（大人）
+XMESS_0064,"There are quite a few places that aren't the same as when you were here, so wouldn't having a guide be convenient in many ways?",XMESS_0064,南方竜之介（大人）
+XMESS_0065,"I can't deny that, but...",XMESS_0065,南方ひづる
+XMESS_0066,"Hear that, Hoine! Do your best as the island guide!",XMESS_0066,南方竜之介（大人）
 XMESS_0067,Yeah!,XMESS_0067,南方波稲
-XMESS_0068,"Hey, I didn't agree to you being the guide yet--",XMESS_0068,南方ひづる
+XMESS_0068,"Hey, I haven't agreed to having a guide yet--",XMESS_0068,南方ひづる
 XMESS_0069,"Come on, Hizuru-chan!
 Let's go already!",XMESS_0069,南方波稲
-XMESS_0070,Hah…,XMESS_0070,南方ひづる
-XMESS_0071,(Children are really hard. Their actions are too unpredictable.),XMESS_0071,南方ひづる
-XMESS_0072,"Ryunosuke.
-You're being too lenient with Hoine.",XMESS_0072,南方ひづる
-XMESS_0073,Eh? Do I seem like that?,XMESS_0073,南方竜之介（大人）
-XMESS_0074,"If you keep this up, she'll grow up thinking
-that if she's stubborn, the other person will obey her.",XMESS_0074,南方ひづる
-XMESS_0075,"It's okay.
-Hoine isn't being stubborn, you know.",XMESS_0075,南方竜之介（大人）
-XMESS_0076,She's just being demanding because it's you.,XMESS_0076,南方竜之介（大人）
+XMESS_0070,*Sigh*...,XMESS_0070,南方ひづる
+XMESS_0071,(I really am bad with children. Their words and actions are too unpredictable to handle.),XMESS_0071,南方ひづる
+XMESS_0072,Ryunosuke. You spoil Hoine too much.,XMESS_0072,南方ひづる
+XMESS_0073,Huh? Does it look that way?,XMESS_0073,南方竜之介（大人）
+XMESS_0074,"If this keeps up, she'll grow up mistakenly believing that if she's just stubborn enough, people will do whatever she says.",XMESS_0074,南方ひづる
+XMESS_0075,It's fine. It's not like Hoine is just being stubborn.,XMESS_0075,南方竜之介（大人）
+XMESS_0076,"She's just acting spoiled because she's dealing with you, Sis.",XMESS_0076,南方竜之介（大人）
 XMESS_0077,Because it's me?,XMESS_0077,南方ひづる
-XMESS_0078,"Naaa~!
-Let's go already~!",XMESS_0078,南方波稲
+XMESS_0078,C'mooon~! I said let's gooo~!,XMESS_0078,南方波稲
 XMESS_0079,…,XMESS_0079,南方ひづる
-XMESS_0080,"(…If this continues, the most efficient thing
-is to just get my goal done quickly.)",XMESS_0080,南方ひづる
-XMESS_0081,"Okay.
-But first, let me put my luggage in the inn.",XMESS_0081,南方ひづる
-XMESS_0082,"Yay!
-Then, let's go!",XMESS_0082,南方波稲
+XMESS_0080,"(...Since it's come to this, letting her accomplish her goal quickly is the most efficient option.)",XMESS_0080,南方ひづる
+XMESS_0081,"Understood. But before that, at least let me leave my luggage at the inn.",XMESS_0081,南方ひづる
+XMESS_0082,"Yay! Alright then, let's gooo!",XMESS_0082,南方波稲
 XMESS_0083,"Hey, are you even listening?!?",XMESS_0083,南方ひづる

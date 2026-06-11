@@ -1,110 +1,76 @@
 source,target,id,developer_comments
-XCHAPTITLE_0002,4. Complicating Relationships,XCHAPTITLE_0002,
-XCOMMENTVIEW_0016,July 23,XCOMMENTVIEW_0016,
-XMESS_0000,Fah~…,XMESS_0000,網代慎平（収録）
-XMESS_0001,"(Morning already…?
-Mio and Ushio are up already?)",XMESS_0001,網代慎平（収録）
+XCHAPTITLE_0002,4. A Complicated Relationship,XCHAPTITLE_0002,
+XCOMMENTVIEW_0016,July 23rd,XCOMMENTVIEW_0016,
+XMESS_0000,*Yawn*...,XMESS_0000,網代慎平（収録）
+XMESS_0001,"(Morning, huh... Are Ushio and Mio already awake?)",XMESS_0001,網代慎平（収録）
 XMESS_0002,"Good morning, Shin-chan.
 Did you sleep well?",XMESS_0002,小舟澪
-XMESS_0003,"Good morning.
-Thanks for setting up the room.
-I slept really well because of that.",XMESS_0003,網代慎平（収録）
+XMESS_0003,Good morning. Thanks for getting the room ready. I slept great.,XMESS_0003,網代慎平（収録）
 XMESS_0004,…Where's Ushio?,XMESS_0004,網代慎平（収録）
-XMESS_0005,She seems to still be asleep.,XMESS_0005,小舟澪
-XMESS_0006,Hmm…,XMESS_0006,網代慎平（収録）
-XMESS_0007,You should make up with your sister soon.,XMESS_0007,小舟澪
-XMESS_0008,"(It's not really making up…
-Ushio just got angry on her own)",XMESS_0008,網代慎平（収録）
+XMESS_0005,Seems like she's still sleeping.,XMESS_0005,小舟澪
+XMESS_0006,I see...,XMESS_0006,網代慎平（収録）
+XMESS_0007,I hope you can make up with big sister soon.,XMESS_0007,小舟澪
+XMESS_0008,(It's not really making up... Ushio just got mad on her own.),XMESS_0008,網代慎平（収録）
 XMESS_0009,"Hey, Shin-chan.
 What are you going to do after breakfast?",XMESS_0009,小舟澪
-XMESS_0010,"Since it's been a while, maybe we should walk around the island a bit?",XMESS_0010,小舟澪
+XMESS_0010,"Since it's been a while, why don't you take a walk around the island?",XMESS_0010,小舟澪
 XMESS_0011,"No, I think I'll help out at Kofune today.",XMESS_0011,網代慎平（収録）
 XMESS_0012,"Huh, really!?",XMESS_0012,小舟澪
-XMESS_0013,"It's lunchtime, and the tourists are increasing, right?",XMESS_0013,網代慎平（収録）
-XMESS_0014,"Yeah, thanks.
-It'll make me happy if you're there with me…
-Yeah, it'll be reassuring!",XMESS_0014,小舟澪
-XMESS_0015,"I don't know.
-I'll try not to hold you back.",XMESS_0015,網代慎平（収録）
-XMESS_0016,"It's okay.
-You know our store well, Shin-chan.",XMESS_0016,小舟澪
-XMESS_0017,…Fah~…!,XMESS_0017,小舟潮
-XMESS_0018,"Ah, good morning, sister.",XMESS_0018,小舟澪
+XMESS_0013,"With lunch and all, it's a busy time with more tourists, right?",XMESS_0013,網代慎平（収録）
+XMESS_0014,"Yeah, thank you. I'd be happy if Shin-chan was there with―― No, I mean it would be reassuring!",XMESS_0014,小舟澪
+XMESS_0015,We'll see about that. I'll do my best not to drag you down.,XMESS_0015,網代慎平（収録）
+XMESS_0016,"It's fine. You know our shop well, Shin-chan.",XMESS_0016,小舟澪
+XMESS_0017,...*Yaaaawn*.,XMESS_0017,小舟潮
+XMESS_0018,"Ah, good morning, big sister.",XMESS_0018,小舟澪
 XMESS_0019,Ah… good morning.,XMESS_0019,小舟潮
 XMESS_0020,"Good morning, Ushio.",XMESS_0020,網代慎平（収録）
 XMESS_0021,"Good morning, Shinpei.",XMESS_0021,小舟潮
-XMESS_0022,"Huh?
-Did your mood get better after sleeping all night?",XMESS_0022,小舟澪
+XMESS_0022,"Huh? Big sister, did you get in a better mood after sleeping on it?",XMESS_0022,小舟澪
 XMESS_0023,…!,XMESS_0023,小舟潮
-XMESS_0024,"Y-You're joking, right!?
-Seeing Shinpei's face first thing in the morning
-ruins the whole day!",XMESS_0024,小舟潮
-XMESS_0025,"But today, Shin-chan's coming with us, right?
-You said you'd help out at the store.",XMESS_0025,小舟澪
-XMESS_0026,"Hmph! If Shinpei's around, I don't need to be there!
-I'm going to skip helping out today.",XMESS_0026,小舟潮
+XMESS_0024,O-Of course not! Seeing Shinpei's face first thing in the morning ruins the start of my day.,XMESS_0024,小舟潮
+XMESS_0025,"But Shin-chan is going to be with us all day today, you know? He said he'd help out at the shop.",XMESS_0025,小舟澪
+XMESS_0026,"Hmph, if Shinpei's there, you don't need me, right? I'll pass on helping at the shop today.",XMESS_0026,小舟潮
 XMESS_0027,"Ushio…
 Are you still angry?",XMESS_0027,網代慎平（収録）
 XMESS_0028,"Hmph!!
 Of course I am!!",XMESS_0028,小舟潮
-XMESS_0029,"I really don't get it, but what
-were you so upset about--",XMESS_0029,網代慎平（収録）
-XMESS_0030,"I don't get it!
-You should think about it more carefully,
-and you'll understand!",XMESS_0030,小舟潮
-XMESS_0031,If I think about it--,XMESS_0031,網代慎平（収録）
-XMESS_0032,I actually wanted to hit you once!,XMESS_0032,小舟潮
-XMESS_0033,"Plus, suddenly hugging me? I can't believe it!
-I feel like adding two or three more!",XMESS_0033,小舟潮
-XMESS_0034,(Oh! Maybe it's about that thing!?),XMESS_0034,網代慎平（収録）
-XMESS_0035,"What's with that?
-Sudden thinking--",XMESS_0035,小舟潮
+XMESS_0029,"I seriously don't get it, but what are you so――",XMESS_0029,網代慎平（収録）
+XMESS_0030,"What do you mean you don't get it! If you actually think about it, you should be able to figure it out!",XMESS_0030,小舟潮
+XMESS_0031,"Think about it, you say――",XMESS_0031,網代慎平（収録）
+XMESS_0032,I was actually planning to punch you once.,XMESS_0032,小舟潮
+XMESS_0033,"Plus, I can't believe you suddenly hugged me! I feel like adding two or three more punches!",XMESS_0033,小舟潮
+XMESS_0034,"(Wait, could it be about that!?)",XMESS_0034,網代慎平（収録）
+XMESS_0035,What is it? Suddenly lost in thought...,XMESS_0035,小舟潮
 XMESS_0036,"Ushio, I'm sorry.",XMESS_0036,網代慎平（収録）
 XMESS_0037,Huh?,XMESS_0037,小舟潮
-XMESS_0038,"That, I was wrong.",XMESS_0038,網代慎平（収録）
+XMESS_0038,"Um, my bad.",XMESS_0038,網代慎平（収録）
 XMESS_0039,W-What…?,XMESS_0039,小舟潮
-XMESS_0040,"Um… you know, I couldn't
-understand your feelings properly.",XMESS_0040,網代慎平（収録）
-XMESS_0041,"S-So that's it?
-So you finally understand a little?",XMESS_0041,小舟潮
-XMESS_0042,"I don't want you to hug me.
-I'm sorry, Ushio.",XMESS_0042,網代慎平（収録）
+XMESS_0040,Um... how do I say this... I couldn't really understand... how you felt.,XMESS_0040,網代慎平（収録）
+XMESS_0041,"I-Is that so? I see, so you understand a little bit now.",XMESS_0041,小舟潮
+XMESS_0042,"You don't want to hug a guy like me, right. Sorry, Ushio.",XMESS_0042,網代慎平（収録）
 XMESS_0043,…,XMESS_0043,小舟潮
-XMESS_0044,That's not what it's about!!,XMESS_0044,小舟潮
-XMESS_0045,W-What!?,XMESS_0045,網代慎平（収録）
-XMESS_0046,"Ah~! This is hopeless!
-You didn't understand at all!",XMESS_0046,小舟潮
+XMESS_0044,That's not what this is about!!,XMESS_0044,小舟潮
+XMESS_0045,Eh!!??,XMESS_0045,網代慎平（収録）
+XMESS_0046,"Ah~~, there's no talking to you! In the end, you didn't understand at all!",XMESS_0046,小舟潮
 XMESS_0047,"Wait, wait!
 Then why are you angry!?",XMESS_0047,網代慎平（収録）
-XMESS_0048,"That's why!
-You should figure it out yourself!",XMESS_0048,小舟潮
-XMESS_0049,Maybe my conclusion was wrong!,XMESS_0049,網代慎平（収録）
-XMESS_0050,"I don't know! I don't care!
-I don't know you anymore!",XMESS_0050,小舟潮
-XMESS_0051,"Ah!
-Sister, where are you going!?",XMESS_0051,小舟澪
-XMESS_0052,"I'm going back to my room to sleep!
-Stop bothering me!",XMESS_0052,小舟潮
-XMESS_0053,O-Oh… wait…,XMESS_0053,網代慎平（収録）
-XMESS_0054,"Ah, it's lively this early.",XMESS_0054,小舟アラン
-XMESS_0055,"Good morning, Dad!
-Well, good night!",XMESS_0055,小舟潮
-XMESS_0056,"Good night? It's morning!
-Are you going to sleep now?",XMESS_0056,小舟アラン
+XMESS_0048,I'm telling you! Figure that out for yourself!,XMESS_0048,小舟潮
+XMESS_0049,But the conclusion I came to was wrong!,XMESS_0049,網代慎平（収録）
+XMESS_0050,"I don't care! I don't care! I don't care about you anymore, Shinpei!",XMESS_0050,小舟潮
+XMESS_0051,"Ah! Big sister, where are you going!?",XMESS_0051,小舟澪
+XMESS_0052,I'm going back to sleep in my room! Don't bother me!,XMESS_0052,小舟潮
+XMESS_0053,H-Hey...,XMESS_0053,網代慎平（収録）
+XMESS_0054,"Oh, it's lively this early in the morning.",XMESS_0054,小舟アラン
+XMESS_0055,"Good morning, Dad! Alright, good night!",XMESS_0055,小舟潮
+XMESS_0056,"Good night? It's morning, you know? You're going to sleep now?",XMESS_0056,小舟アラン
 XMESS_0057,I'm going back to sleep!,XMESS_0057,小舟潮
 XMESS_0058,…,XMESS_0058,網代慎平（収録）
-XMESS_0059,What's wrong with that guy?,XMESS_0059,小舟アラン
-XMESS_0060,"She seemed in a bad mood last night too,
-did you two fight again?",XMESS_0060,小舟アラン
-XMESS_0061,"Ah, maybe…
-Honestly, I don't get it.",XMESS_0061,網代慎平（収録）
-XMESS_0062,"Haha, this one's going to last.",XMESS_0062,小舟アラン
-XMESS_0063,"I'm sorry, Shin-chan.
-Maybe I teased you too much.",XMESS_0063,小舟澪
-XMESS_0064,"Don't worry.
-It'll be okay, somehow.",XMESS_0064,網代慎平（収録）
-XMESS_0065,(Though I'm not sure…),XMESS_0065,網代慎平（収録）
-XMESS_0066,"(This time, I can't seem to figure out
-what she's thinking)",XMESS_0066,網代慎平（収録）
-XMESS_0067,"(That girl…
-Why is she so angry?)",XMESS_0067,網代慎平（収録）
+XMESS_0059,What's wrong with her?,XMESS_0059,小舟アラン
+XMESS_0060,"She wasn't in a good mood last night either, did you guys fight again?",XMESS_0060,小舟アラン
+XMESS_0061,"Ah, probably... Honestly, I don't really get it, though.",XMESS_0061,網代慎平（収録）
+XMESS_0062,"Hahaha, looks like this one is going to drag on.",XMESS_0062,小舟アラン
+XMESS_0063,"Sorry, Shin-chan. Maybe I teased her too much.",XMESS_0063,小舟澪
+XMESS_0064,"Don't worry about it. It's fine, I'll figure something out.",XMESS_0064,網代慎平（収録）
+XMESS_0065,(Even though I said that...),XMESS_0065,網代慎平（収録）
+XMESS_0066,"(This time, I really can't seem to figure out what Ushio is thinking.)",XMESS_0066,網代慎平（収録）
+XMESS_0067,(That idiot... Why is she so angry?),XMESS_0067,網代慎平（収録）

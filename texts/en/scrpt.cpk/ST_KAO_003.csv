@@ -1,116 +1,84 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,3. Deja Vu,XCHAPTITLE_0002,
-XMESS_0000,"Dad!
-Shinpei's back!",XMESS_0000,小舟澪
+XMESS_0000,Dad! Shin-chan is back!,XMESS_0000,小舟澪
 XMESS_0001,I'm home.,XMESS_0001,網代慎平
 XMESS_0002,"Wow… Shinpei…
 You've grown so much…",XMESS_0002,小舟アラン
-XMESS_0003,You've gotten a bit thinner…,XMESS_0003,網代慎平
-XMESS_0004,"We'll talk later…
-Go see Mio.",XMESS_0004,小舟アラン
+XMESS_0003,"Alain, you've gotten a bit thinner...",XMESS_0003,網代慎平
+XMESS_0004,We can catch up later... Go see Ushio.,XMESS_0004,小舟アラン
 XMESS_0005,Yeah…,XMESS_0005,網代慎平
-XMESS_0006,"(It's the same after all.
-It was like this when I got off the ferry earlier,
-and when I saw Mio's bicycle…)",XMESS_0006,網代慎平
+XMESS_0006,"(It really is the same. On the ferry earlier, and with Mio's bicycle too...)",XMESS_0006,網代慎平
 XMESS_0007,(Everyone's moving and talking the same way as in my dream…),XMESS_0007,網代慎平
-XMESS_0008,"(This isn't just deja vu or a prophetic dream…
-It's something way beyond that)",XMESS_0008,網代慎平
-XMESS_0009,(I'm reliving July 22nd…),XMESS_0009,網代慎平
-XMESS_0010,(Once again… repeating…),XMESS_0010,網代慎平
-XMESS_0011,"(If this keeps going like this…
-It means that shadow exists…)",XMESS_0011,網代慎平
-XMESS_0012,(Those who see the shadow die…),XMESS_0012,網代慎平
-XMESS_0013,"(What if Ushio was killed by a shadow?!
-And Mio too…)",XMESS_0013,網代慎平
-XMESS_0014,…Shinpei?,XMESS_0014,網代慎平
-XMESS_0015,"Huh!?
-What's wrong?",XMESS_0015,小舟アラン
-XMESS_0016,"You okay?
-Your face is all pale…",XMESS_0016,網代慎平
-XMESS_0017,Oh… right…,XMESS_0017,小舟澪
-XMESS_0018,"Sorry…
-I'll go get some fresh air…",XMESS_0018,網代慎平
-XMESS_0019,"(The bicycle Mio fell into the sea with
-had a broken brake…)",XMESS_0019,網代慎平
-XMESS_0020,"(The brake wire had a cut mark…
-Like someone tampered with it)",XMESS_0020,網代慎平
-XMESS_0021,"(If that was done to kill Mio…
-What if it was someone's trap?)",XMESS_0021,網代慎平
-XMESS_0022,"(This is crazy… I can't understand…
-I can't handle this!)",XMESS_0022,網代慎平
-XMESS_0023,(I'm gonna throw up…),XMESS_0023,網代慎平
-XMESS_0024,…Huh?,XMESS_0024,網代慎平
-XMESS_0025,"(Wait… Did I just hear something
-from the house…?)",XMESS_0025,網代慎平
-XMESS_0026,"(Mio…?
-Why is she wearing a uniform…)",XMESS_0026,網代慎平
-XMESS_0027,!!,XMESS_0027,網代慎平
-XMESS_0028,"(Totsumura's collapsed!
-Could it be…)",XMESS_0028,網代慎平
-XMESS_0029,"(Mio…!
-Did she stab Totsumura!?)",XMESS_0029,網代慎平
-XMESS_0030,(That's not Mio!!!),XMESS_0030,網代慎平
-XMESS_0031,(It's a shadow!!!),XMESS_0031,網代慎平
-XMESS_0032,…,XMESS_0032,網代慎平
-XMESS_0033,(Th-that light…!?),XMESS_0033,ミオ
-XMESS_0034,…,XMESS_0034,網代慎平
+XMESS_0008,(This isn't just deja vu or a prophetic dream... It's not on that level.),XMESS_0008,網代慎平
+XMESS_0009,(I'm reliving July 22nd...),XMESS_0009,網代慎平
+XMESS_0010,(all over again...),XMESS_0010,網代慎平
+XMESS_0011,(If the exact same things keep repeating like this...),XMESS_0011,網代慎平
+XMESS_0012,(Doesn't that mean... that shadow really exists?),XMESS_0012,網代慎平
+XMESS_0013,(...Those who see the shadow will die.),XMESS_0013,網代慎平
+XMESS_0014,(Was Ushio killed by a shadow!? And Mio too...),XMESS_0014,網代慎平
+XMESS_0015,...Shinpei?,XMESS_0015,小舟アラン
+XMESS_0016,Huh!? W-What?,XMESS_0016,網代慎平
+XMESS_0017,Are you okay? Your face is completely pale...,XMESS_0017,小舟澪
+XMESS_0018,I-Is it...?,XMESS_0018,網代慎平
+XMESS_0019,Sorry... I'm gonna go get some fresh air...,XMESS_0019,網代慎平
+XMESS_0020,(The bicycle Mio fell into the sea with... its brakes were broken...),XMESS_0020,網代慎平
+XMESS_0021,"(There was a mark on the brake wire like it had been cut, wasn't there.)",XMESS_0021,網代慎平
+XMESS_0022,(What if that was a trap meant to kill someone... meant to kill Mio?),XMESS_0022,網代慎平
+XMESS_0023,(Dammit... I don't understand any of this... I can't look at the big picture with this!),XMESS_0023,網代慎平
+XMESS_0024,(I feel like I'm gonna throw up...),XMESS_0024,網代慎平
+XMESS_0025,...Huh?,XMESS_0025,網代慎平
+XMESS_0026,(Did I just hear something coming from the house...?),XMESS_0026,網代慎平
+XMESS_0027,(Mio...!? Why is she wearing her uniform...),XMESS_0027,網代慎平
+XMESS_0028,!!,XMESS_0028,網代慎平
+XMESS_0029,(Totsumura-san is collapsed...! Don't tell me--),XMESS_0029,網代慎平
+XMESS_0030,(Mio... stabbed Totsumura-san!?),XMESS_0030,網代慎平
+XMESS_0031,(That's not Mio!!),XMESS_0031,網代慎平
+XMESS_0032,(It's a shadow...!!),XMESS_0032,網代慎平
+XMESS_0033,...,XMESS_0033,ミオ
+XMESS_0034,(Th-This light is...!?),XMESS_0034,網代慎平
 XMESS_0035,…,XMESS_0035,ミオ
-XMESS_0036,"(Wh-what the hell was that…?
-The shadow got up!!!)",XMESS_0036,ミオ
-XMESS_0037,…,XMESS_0037,網代慎平
-XMESS_0038,(A shadow!?),XMESS_0038,トツムラ
-XMESS_0039,"Alright, let's go.",XMESS_0039,網代慎平
-XMESS_0040,"(Totsumura…!
-Totsumura was erased!?)",XMESS_0040,トツムラ
-XMESS_0041,You're currently Inspector Totsumura.,XMESS_0041,網代慎平
-XMESS_0042,"Hm…
-I'm Totsumura Tetsu… 34 years old…",XMESS_0042,ミオ
-XMESS_0043,(That's impossible…!),XMESS_0043,トツムラ
-XMESS_0044,(This is real…?),XMESS_0044,網代慎平
-XMESS_0045,Whoa!?,XMESS_0045,網代慎平
-XMESS_0046,!?,XMESS_0046,女の子の声（かおり）
-XMESS_0047,(That's…!),XMESS_0047,網代慎平
-XMESS_0048,"What…?
-What was that just now!?",XMESS_0048,網代慎平
-XMESS_0049,(Kaori!),XMESS_0049,小弓場かおり
-XMESS_0050,…Who?,XMESS_0050,網代慎平
-XMESS_0051,(Oh no! They found us…),XMESS_0051,ミオ
-XMESS_0052,Kaori! Run!!!,XMESS_0052,網代慎平
-XMESS_0053,Shin…chan?,XMESS_0053,網代慎平
-XMESS_0054,"Huh…?
-Shinpei-kun--",XMESS_0054,ミオ
-XMESS_0055,…!?,XMESS_0055,小弓場かおり
-XMESS_0056,Kaori!!!,XMESS_0056,小弓場かおり
-XMESS_0057,"You're in trouble, Shinpei-kun.
-When did you get here?",XMESS_0057,網代慎平
-XMESS_0058,Gah…!!,XMESS_0058,トツムラ
-XMESS_0059,"Alright, caught.
-Mio, take care of her too.",XMESS_0059,網代慎平
-XMESS_0060,"You're so cruel.
-You should do it yourself.",XMESS_0060,トツムラ
-XMESS_0061,Guh…!,XMESS_0061,ミオ
-XMESS_0062,"Eavesdropping's not allowed, Shinpei-kun.
-You're sentenced to death!",XMESS_0062,網代慎平
-XMESS_0063,"(This blood… mine…?
-It's really red)",XMESS_0063,トツムラ
-XMESS_0064,"(But I'm dying…!
-This is…)",XMESS_0064,網代慎平
-XMESS_0065,"Take that girl to the mother.
-She's a cute girl, she might like it.",XMESS_0065,網代慎平
-XMESS_0066,Then let's do that.,XMESS_0066,ミオ
-XMESS_0067,Alright… let's go!,XMESS_0067,トツムラ
-XMESS_0068,"Stop…
-Don't leave Kaori behind.",XMESS_0068,トツムラ
-XMESS_0069,Bye. Shin-chan.,XMESS_0069,網代慎平
-XMESS_0070,…,XMESS_0070,ミオ
-XMESS_0071,(What…?),XMESS_0071,網代慎平
-XMESS_0072,(What is this…?),XMESS_0072,網代慎平
-XMESS_0073,Shinpei…,XMESS_0073,網代慎平
-XMESS_0074,Who the hell are you!?,XMESS_0074,小舟潮
-XMESS_0075,Be… careful… for… her…,XMESS_0075,網代慎平
-XMESS_0076,"What!?
-I can't hear you…!",XMESS_0076,小舟潮
-XMESS_0077,About Mio…,XMESS_0077,網代慎平
-XMESS_0078,Please protect her…,XMESS_0078,小舟潮
-XMESS_0079,(That's not Mio!!!),XMESS_0079,小舟潮
-XMESS_0080,KEY TIPS[<color=#GF_KEY_KAO_MAKIKOMI>Kaori gets involved…</color>] was acquired.,XMESS_0080,（ト書き）
+XMESS_0036,...,XMESS_0036,ミオ
+XMESS_0037,(Wh... what is that... The shadow is getting up...!!),XMESS_0037,網代慎平
+XMESS_0038,...,XMESS_0038,トツムラ
+XMESS_0039,(A shadow...!?),XMESS_0039,網代慎平
+XMESS_0040,Heave-ho.,XMESS_0040,トツムラ
+XMESS_0041,(Totsumura-san... was erased by Totsumura-san!?),XMESS_0041,網代慎平
+XMESS_0042,"From now on, you are the local police officer, Tetsu Totsumura.",XMESS_0042,ミオ
+XMESS_0043,"Hmm... Ah, I am Tetsu Totsumura... 34 years old...",XMESS_0043,トツムラ
+XMESS_0044,(Th... that's impossible...!),XMESS_0044,網代慎平
+XMESS_0045,(Is this reality--),XMESS_0045,網代慎平
+XMESS_0046,Whoa!?,XMESS_0046,女の子の声（かおり）
+XMESS_0047,!?,XMESS_0047,網代慎平
+XMESS_0048,(Th-That's...),XMESS_0048,網代慎平
+XMESS_0049,What...? What was that just now!?,XMESS_0049,小弓場かおり
+XMESS_0050,(Koyuba-san!),XMESS_0050,網代慎平
+XMESS_0051,...Who?,XMESS_0051,ミオ
+XMESS_0052,(This is bad! They spotted us...!),XMESS_0052,網代慎平
+XMESS_0053,Koyuba-san! Run!!,XMESS_0053,網代慎平
+XMESS_0054,Shin... chan?,XMESS_0054,ミオ
+XMESS_0055,Huh...? A-Ajiro-ku--,XMESS_0055,小弓場かおり
+XMESS_0056,...!?,XMESS_0056,小弓場かおり
+XMESS_0057,Koyuba-san!!!,XMESS_0057,網代慎平
+XMESS_0058,"That's no good, Shinpei-kun. Since when were you here?",XMESS_0058,トツムラ
+XMESS_0059,Gah...!!,XMESS_0059,網代慎平
+XMESS_0060,"Alright, capture complete. Mio-cha~n, take care of this one too.",XMESS_0060,トツムラ
+XMESS_0061,Aren't you working me too hard? You should just do it yourself.,XMESS_0061,ミオ
+XMESS_0062,"Guh, gah...!",XMESS_0062,網代慎平
+XMESS_0063,"Eavesdropping is a no-no, Shinpei-ku~n. That's a death sentence!",XMESS_0063,トツムラ
+XMESS_0064,(This blood... is mine...? It's so red.),XMESS_0064,網代慎平
+XMESS_0065,(But I'm... dying...! Like this...),XMESS_0065,網代慎平
+XMESS_0066,"I'll take that girl to Mother. She's a cute girl, so she might be happy.",XMESS_0066,ミオ
+XMESS_0067,"Alright, let's do that.",XMESS_0067,トツムラ
+XMESS_0068,Heave... ho!,XMESS_0068,トツムラ
+XMESS_0069,Stop... Leave... Koyuba-san... alone.,XMESS_0069,網代慎平
+XMESS_0070,See ya. Shin-chan.,XMESS_0070,ミオ
+XMESS_0071,...,XMESS_0071,網代慎平
+XMESS_0072,(Huh...?),XMESS_0072,網代慎平
+XMESS_0073,(What is... this...),XMESS_0073,網代慎平
+XMESS_0074,Shinpei...,XMESS_0074,小舟潮
+XMESS_0075,Wh... Who is it!?,XMESS_0075,網代慎平
+XMESS_0076,Be... careful... of...,XMESS_0076,小舟潮
+XMESS_0077,What!? I can't hear you...!,XMESS_0077,網代慎平
+XMESS_0078,About Mio...,XMESS_0078,小舟潮
+XMESS_0079,"Protect her, okay...",XMESS_0079,小舟潮
+XMESS_0080,KEY TIPS [<color=#GF_KEY_KAO_MAKIKOMI>Kaori Gets Involved...</color>] acquired.,XMESS_0080,（ト書き）

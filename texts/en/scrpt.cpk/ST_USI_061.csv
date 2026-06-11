@@ -1,81 +1,45 @@
 source,target,id,developer_comments
 XCHAPTITLE_0002,51. Unexpected Person,XCHAPTITLE_0002,
 XCOMMENTVIEW_0013,Shinpei Ajiro,XCOMMENTVIEW_0013,
-XMESS_0000,"Hah! Hah!… Hah…!!
-Whew… managed to escape…!!",XMESS_0000,網代慎平
-XMESS_0001,"Hah! Hah!…
-Hey…",XMESS_0001,菱形窓
-XMESS_0002,"S-sorry… What's this…?
-This place looks weird again…",XMESS_0002,菱形窓
-XMESS_0003,"Hey, look! This is impossible!
-Corals stuck to the rocks?!
-Why are marine life surviving on land?!",XMESS_0003,網代慎平
-XMESS_0004,Shadows…,XMESS_0004,ウシオ
-XMESS_0005,"Even this coral… anemones… barnacles…
-All of them… shadows!!",XMESS_0005,ウシオ
-XMESS_0006,W-who in the world would do this?!,XMESS_0006,菱形窓
-XMESS_0007,"I don't know…
-But someone printed the sea here…",XMESS_0007,ウシオ
-XMESS_0008,"(Printing the sea…
-What an impossible scale…)",XMESS_0008,網代慎平
-XMESS_0009,The water gathering here…,XMESS_0009,菱形窓
-XMESS_0010,"Tastes salty… seawater.
-So this cave is definitely connected to the sea somewhere.",XMESS_0010,網代慎平
-XMESS_0011,"If there's another exit, that's good news.",XMESS_0011,菱形窓
-XMESS_0012,"But this is too dangerous, Shinpei.
-We've used up all the spray.
-If we're attacked again, we're done…",XMESS_0012,菱形窓
-XMESS_0013,"Hah! Hah…
-Ugh…",XMESS_0013,ウシオ
-XMESS_0014,"Your arm?
-You were hurting earlier too, right?",XMESS_0014,網代慎平
-XMESS_0015,"That arm you got from Shadow Mio
-isn't healed yet, is it?",XMESS_0015,網代慎平
-XMESS_0016,"Yeah…
-I could print it back, but it's not really healed…",XMESS_0016,ウシオ
-XMESS_0017,"This is the damage to my real body…
-Like data corruption…",XMESS_0017,ウシオ
-XMESS_0018,"To fix the damaged data of my right arm,
-I need to scan the real one again…",XMESS_0018,ウシオ
-XMESS_0019,!!,XMESS_0019,網代慎平
+XMESS_0000,"*Pant, pant*… *pant*…!! We… somehow… managed to escape…!!",XMESS_0000,網代慎平
+XMESS_0001,"*Pant, pant*…! Yeah…",XMESS_0001,菱形窓
+XMESS_0002,B-But what is this… place? The scenery is getting weird again…,XMESS_0002,菱形窓
+XMESS_0003,"Yeah, look… this is impossible! There's coral stuck to the rocks! Why are marine creatures living on land…!?",XMESS_0003,網代慎平
+XMESS_0004,They're Shadows...,XMESS_0004,ウシオ
+XMESS_0005,This coral... the sea anemones and barnacles too... They're all Shadows...!!,XMESS_0005,ウシオ
+XMESS_0006,W-Who on earth would do this!?,XMESS_0006,菱形窓
+XMESS_0007,I don't know... But someone printed the sea here...,XMESS_0007,ウシオ
+XMESS_0008,(Printing the sea... What a ridiculous scale...),XMESS_0008,網代慎平
+XMESS_0009,The water pooled up here is...,XMESS_0009,菱形窓
+XMESS_0010,"It tastes salty... it's seawater. Just as I thought, this cave must be connected to the sea somewhere.",XMESS_0010,網代慎平
+XMESS_0011,"If there's another exit, that'd be good news.",XMESS_0011,菱形窓
+XMESS_0012,"But going any further is dangerous, Shinpei. We used up all the bug spray too. If we get attacked again, we're done for...",XMESS_0012,菱形窓
+XMESS_0013,"*Pant, pant*... Ugh...",XMESS_0013,ウシオ
+XMESS_0014,"Your arm? It was hurting earlier too, right...?",XMESS_0014,網代慎平
+XMESS_0015,"The right arm that Shadow Mio got, it hasn't healed yet, has it?",XMESS_0015,網代慎平
+XMESS_0016,"Yeah... I could print the outward appearance, but it's not really healed...",XMESS_0016,ウシオ
+XMESS_0017,This is damage... to my main body... It's like data corruption...,XMESS_0017,ウシオ
+XMESS_0018,"To fix my right arm—the corrupted data, I have to scan the real one again...",XMESS_0018,ウシオ
+XMESS_0019,...!!,XMESS_0019,網代慎平
 XMESS_0020,But the real Ushio is already…,XMESS_0020,網代慎平
-XMESS_0021,"…Yeah, the real Ushio turned to ash.
-So there's no way to heal this wound…",XMESS_0021,ウシオ
-XMESS_0022,No way…!,XMESS_0022,菱形窓
-XMESS_0023,"All this time…?
-From when I was hurt by Mio last night…
-You've been keeping your cool the whole time!?",XMESS_0023,網代慎平
-XMESS_0024,I only became sure just now…,XMESS_0024,ウシオ
-XMESS_0025,"I didn't want to worry you,
-so I just fixed the appearance…
-But it's obvious I'm still hurt…",XMESS_0025,ウシオ
-XMESS_0026,"Why didn't you say anything?!
-That's such a big deal!!",XMESS_0026,網代慎平
-XMESS_0027,"I'm sorry…
-I'll just remove the arm…
-The pain will go away that way…",XMESS_0027,ウシオ
-XMESS_0028,"(No way to heal?!
-That's crazy!!)",XMESS_0028,網代慎平
-XMESS_0029,"(She's getting weaker…
-If we leave this alone, Ushio will…
-)",XMESS_0029,網代慎平
-XMESS_0030,"(Shoot!!
-I won't let you die again!!)",XMESS_0030,網代慎平
-XMESS_0031,"(If I can loop…
-If I can rewind time, will the wounds heal?!",XMESS_0031,網代慎平
+XMESS_0021,"...Yeah, the real Ushio turned to ash. So there's no way... to heal this wound...",XMESS_0021,ウシオ
+XMESS_0022,A-Are you serious......,XMESS_0022,菱形窓
+XMESS_0023,All this time...? Ever since you were hit by Mio yesterday... Have you been enduring it this whole time!?,XMESS_0023,網代慎平
+XMESS_0024,I wasn't sure until just now.,XMESS_0024,ウシオ
+XMESS_0025,"I didn't want to worry you, so I just fixed the appearance... But I guess you found out...",XMESS_0025,ウシオ
+XMESS_0026,Why didn't you say anything!! Something that important!!,XMESS_0026,網代慎平
+XMESS_0027,Sorry... I'll just erase my right arm for now... The pain will go away if I do that—,XMESS_0027,ウシオ
+XMESS_0028,(There's no way to heal it!? That's ridiculous!!!),XMESS_0028,網代慎平
+XMESS_0029,"(She's getting weaker and weaker... If we leave it like this, Ushio will...!!)",XMESS_0029,網代慎平
+XMESS_0030,(Damn it!! I won't let her die a second time!!!),XMESS_0030,網代慎平
+XMESS_0031,"(Should I loop? If I rewind time, will the wound heal!?)",XMESS_0031,網代慎平
 XMESS_0032,(But… how…?),XMESS_0032,網代慎平
 XMESS_0033,…,XMESS_0033,網代慎平
-XMESS_0034,"Sou, that backpack of yours…
-Can you wrap something from Ushio's arm?",XMESS_0034,網代慎平
-XMESS_0035,"Right!
-I've got disinfectant and bandages!
-Leave the treatment to me!",XMESS_0035,菱形窓
+XMESS_0034,"Sou, that backpack... What else is in there? Can you wrap something around Ushio's arm...?",XMESS_0034,網代慎平
+XMESS_0035,Yeah! I brought some disinfectant and bandages just in case! Leave the first aid to me!,XMESS_0035,菱形窓
 XMESS_0036,Don't move.,XMESS_0036,女の子の声（菱形朱鷺子）
 XMESS_0037,!?,XMESS_0037,網代慎平
-XMESS_0038,"Slowly turn around.
-Both of you… if you make the slightest odd move,
-Ushio's life is over.",XMESS_0038,女の子の声（菱形朱鷺子）
-XMESS_0039,"W-why…?
-Why are you here…?!",XMESS_0039,菱形窓
-XMESS_0040,Tokiko!!,XMESS_0040,菱形窓
+XMESS_0038,"Slowly turn around. Both of you... if you make the slightest funny move, Ushio-san's life is over.",XMESS_0038,女の子の声（菱形朱鷺子）
+XMESS_0039,Wh... Why... Why are you... here...!?,XMESS_0039,菱形窓
+XMESS_0040,Tokiko!!!,XMESS_0040,菱形窓
 XMESS_0041,…,XMESS_0041,菱形朱鷺子

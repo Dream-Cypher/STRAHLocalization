@@ -28,6 +28,12 @@ out/
 # python venv (deps live in requirements.txt; not committed)
 .venv/
 
+# tools/ = prebuilt helper mirrored from ..\STRAHLocalizationHelper\dist\ by its
+# build.ps1 (117 MB self-contained exe + native dll + config.json + pdbs). It's a
+# build artifact, NOT committed here — produce it by building the sibling helper repo
+# (needs .NET 8 SDK). See BUILD_ENGLISH_PATCH.txt "REBUILDING THE HELPER".
+tools/
+
 # local-scripts/ = translation grunt-work + QA tooling (LLM calls, cleanup
 # passes, the review/audit/sheet pipeline). NOT needed to build the patch and
 # changes frequently, so kept local-only. The repo ships only the build

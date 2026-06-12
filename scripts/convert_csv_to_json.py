@@ -37,6 +37,109 @@ _CLAUSE_ENDERS = (",", "、", ";", ":")
 _OPEN = "\"'“‘「『（([ "
 _CLOSE = "\"'”’」』）)] "
 
+# TIPS/keyword highlight: <color=#GF_TIPS_NNN> / <color=#GF_KEY_*> are symbolic color NAMES the game
+# resolves at runtime via a special keyword-highlight pass positioned by char-index * fixed advance.
+# That positioning matches the full-width CJK grid (zh_Hans/ja look fine) but drifts against
+# proportional Latin glyphs, producing a misaligned duplicate "ghost" of the keyword (e.g. "ocean"
+# shows once correctly inline and again, offset, further right).
+#
+# *** DO NOT replace #GF_* with a literal hex color (e.g. "#6FC44F"). This was tried (patch v0.05) and
+# *** IT BREAKS THE GAME: the text component's color resolver only recognizes the symbolic #GF_* NAMES
+# *** (the original game data uses 171 such tags and ZERO real-hex colors, and no other rich-text tags
+# *** like <b>/<i>/<size> appear anywhere). A literal hex is rejected, the line fails to render, TIPS
+# *** pages go blank, and the game eventually locks. There is also no separate position field to move
+# *** the ghost copy -- its offset is derived purely from the keyword's char index in this same string.
+#
+# *** ALSO: <color=#GF_TIPS_NNN> is not purely cosmetic -- NNN is the TIPS entry id, and the tag's
+# *** presence is what makes the engine fire the "new tip found" popup / register the entry in the
+# *** in-game TIPS encyclopedia on first encounter (patch v0.06, which stripped the tag entirely,
+# *** confirmed on-device that the popup stops firing without it). Note there's ALSO a separate
+# *** `FSG ['GF_TIPS_NNN']` script command right before the dialogue line (untouched by this script,
+# *** since it's structural script data, not translated text) -- if re-emitting the tag empty turns
+# *** out not to be enough, the FSG command is the next place to look, though editing it is out of
+# *** this script's scope (would need helper/scrpt-structure changes, not just text normalization).
+#
+# So on Latin builds we replace the keyword span `<color=#GF_...>keyword</color>` with plain text for
+# display, but RE-EMIT the original `<color=#GF_...>` tag EMPTY (no content) right after it: the
+# engine's ghost-duplicate pass draws the tag's *content* a second time, so an empty tag has nothing
+# to ghost-draw, while the `#GF_TIPS_NNN`/`#GF_KEY_*` reference itself survives for whatever fires the
+# popup. HIGHLIGHT_MODE picks the display form:
+#   "mark"  (default) -- wrap the keyword in HL_OPEN/HL_CLOSE for visual emphasis without color.
+#   "strip"           -- drop the tags entirely, leaving the bare keyword (no emphasis).
+#   "keep"            -- leave the original <color=#GF_...> tags untouched. KNOWN BROKEN on Latin
+#                         (misaligned ghost duplicate, as in v0.04); kept only as an escape hatch /
+#                         for comparing against the CJK behavior. TIP_TRIGGER has no effect here.
+# Override from the command line with --highlight {mark,strip,keep}, --highlight-marker "OPENCLOSE",
+# and --tip-trigger {keep,drop}.
+HIGHLIGHT_MODE = "mark"
+
+# TIP_TRIGGER: when True (default), re-emit the original <color=#GF_...></color> tag (now empty)
+# after the marked/stripped keyword, so the in-game TIPS "new tip" popup still fires. Set to False
+# (--tip-trigger drop) to omit it entirely (v0.06 behavior: marker only, no popup). No effect on CJK
+# builds or in HIGHLIGHT_MODE "keep".
+#
+# This is a HYPOTHESIS pending on-device confirmation: if an empty tag turns out not to be enough to
+# fire the popup (the engine might require non-empty content), the fallback is a single space inside
+# the tag (`<color=#GF_...> </color>` -- the space's ghost-copy is invisible). That would be a
+# one-line tweak to the f-string in _replace_gf_span below.
+TIP_TRIGGER = True
+
+# HL_OPEN/HL_CLOSE are the "mark" wrapper chars -- single outward-pointing guillemets by default
+# (U+2039 SINGLE LEFT-POINTING ANGLE QUOTATION MARK, U+203A SINGLE RIGHT-POINTING ANGLE QUOTATION
+# MARK), e.g. "It's a ‹present›". Both are confirmed present in the in-game fonts (fonts.unity3d:
+# "Default Font" and "FOT-NewRodin Pro DB"), so there's no tofu risk. Other glyphs from the same fonts
+# that work as drop-in replacements via --highlight-marker, if you want a different look:
+#   "»«"   double angle quotes, inward
+#   "›‹"   single angle quotes, inward (used by v0.06)
+#   "→←"   arrows pointing at the keyword (U+2192/U+2190, confirmed present)
+#   "⇒⇐"   double arrows (U+21D2/U+21D0, confirmed present, bolder)
+#   "[]"   plain brackets
+#   "【】"  CJK black lenticular brackets (heavier, very visible)
+#   "§§"   section signs (used in the original "could we use § »«" suggestion)
+#   "**"   asterisks (markdown-style emphasis)
+#   "★★" / "◆◆"  star / diamond bullets (decorative)
+# NOTE: the halfwidth arrows "￫￩" (U+FFEB/U+FFE9) are MISSING from both in-game fonts -- do not use.
+# Any 2-character string works via --highlight-marker "OPENCLOSE"; the script does not check the
+# target font for the chosen chars, so pick something you've confirmed renders (no tofu prevention).
+HL_OPEN, HL_CLOSE = "‹", "›"
+
+# Captures the opener tag (group 1, e.g. "<color=#GF_TIPS_058>") and the keyword text (group 2) so
+# the opener can be re-emitted empty for TIP_TRIGGER. Non-greedy (.*?) so a line with two keywords
+# pairs each opener with its own closer rather than spanning across both.
+_GF_SPAN = re.compile(r"(<color=#GF_(?:TIPS|KEY)_[A-Za-z0-9_]+>)(.*?)</color>")
+
+
+def _replace_gf_span(m: re.Match) -> str:
+  opener, keyword = m.group(1), m.group(2)
+  trigger = f"{opener}</color>" if TIP_TRIGGER else ""
+  if HIGHLIGHT_MODE == "strip":
+    return f"{keyword}{trigger}"
+  if HIGHLIGHT_MODE == "mark":
+    return f"{HL_OPEN}{keyword}{HL_CLOSE}{trigger}"
+  return m.group(0)  # "keep": leave the original tag untouched (known-broken ghost on Latin)
+
+# Japanese wave-dash (～ U+FF5E, the glyph the original game data uses 800x and the default JP
+# dialogue font renders natively) reads as cheerful/sing-song/teasing elongation. The CSVs carry it
+# over as ASCII '~' (or occasionally '〜' U+301C), which looks like noise in English -- normalize back
+# to '～'. Digit~digit ("1~9") is a Japanese-style range, not elongation -> hyphenate instead.
+WAVE = "～"
+_TILDE_RANGE = re.compile(r"(?<=\d)\s*[~〜～]+\s*(?=\d)")
+_TILDE_RUN = re.compile(r"[~〜～]+")
+
+
+def normalize_latin(text: str, sheet_name: str) -> str:
+  """Build-time cosmetic fixes for Latin-script languages (no-op for CJK languages, whose source
+  data already uses the correct glyphs/colors)."""
+  if LANGUAGE in ("ja", "zh_Hans", "zh_Hant"):
+    return text
+  if HIGHLIGHT_MODE in ("mark", "strip"):
+    text = _GF_SPAN.sub(_replace_gf_span, text)
+  # "keep": leave <color=#GF_...> tags untouched (known-broken on Latin, see comment above)
+  if sheet_name != "Metadata":  # global-metadata.dat slots are fixed-width; '～' is multi-byte vs '~'
+    text = _TILDE_RANGE.sub("-", text)
+    text = _TILDE_RUN.sub(WAVE, text)
+  return text
+
 
 def _visible_len(s: str) -> int:
   return len(_RICH_TAG.sub("", s))
@@ -158,7 +261,7 @@ def handle_json(sheet_name: str, handler: Callable[[dict[str, str], Any], Any]) 
     translations: dict[str, str] = {}
     for row in row_iter:
       item_dict = dict(zip(headers, row))
-      translations[item_dict["id"]] = item_dict["target"].replace("\\r", "\r")
+      translations[item_dict["id"]] = normalize_latin(item_dict["target"].replace("\\r", "\r"), sheet_name)
 
   if not handler(translations, data):
     return False
@@ -258,11 +361,29 @@ def metadata_handler(translations: dict[str, str], data: dict[str, dict[str, int
 
 
 def main() -> None:
-  global LANGUAGE, DIR_JSON_TRANSLATED, DIR_CSV_TRANSLATED, SPEAKER_NAMES
+  global LANGUAGE, DIR_JSON_TRANSLATED, DIR_CSV_TRANSLATED, SPEAKER_NAMES, HIGHLIGHT_MODE, HL_OPEN, HL_CLOSE, TIP_TRIGGER
 
   parser = argparse.ArgumentParser(description="Convert translated CSVs to JSON for the patch build.")
   parser.add_argument("--language", "-l", default=None, help="Target language (e.g. en, zh_Hans). "
                        "Overrides $XZ_LANGUAGE; defaults to en.")
+  parser.add_argument("--highlight", choices=["mark", "strip", "keep"], default="mark",
+                       help="TIPS/keyword color spans (<color=#GF_TIPS_*>/<color=#GF_KEY_*>) on Latin "
+                            "builds: 'mark' (default) replaces the span with the keyword wrapped in "
+                            "--highlight-marker chars; 'strip' replaces it with the bare keyword (no "
+                            "tags, no emphasis); 'keep' leaves the original symbolic color tags "
+                            "untouched (KNOWN BROKEN on Latin -- misaligned ghost duplicate, see the "
+                            "comment above HIGHLIGHT_MODE in this file). No effect on CJK builds.")
+  parser.add_argument("--highlight-marker", default="‹›", metavar="OPENCLOSE",
+                       help="Two characters (opener then closer) used by --highlight mark. Default "
+                            "'‹›' (single outward-pointing guillemets). Other font-verified "
+                            "options: '»«', '›‹', '→←', '⇒⇐', '[]', '【】', '§§'. "
+                            "Any 2-char string is accepted; font coverage for the chosen chars is not "
+                            "checked (no tofu prevention).")
+  parser.add_argument("--tip-trigger", choices=["keep", "drop"], default="keep",
+                       help="On Latin builds with --highlight mark/strip, 'keep' (default) re-emits "
+                            "an EMPTY <color=#GF_...></color> after the marked keyword so the in-game "
+                            "TIPS 'new tip' popup still fires; 'drop' omits it (marker only, v0.06 "
+                            "behavior, no popup). No effect on CJK builds or --highlight keep.")
   args = parser.parse_args()
 
   language = args.language or os.getenv("XZ_LANGUAGE") or "en"
@@ -271,6 +392,12 @@ def main() -> None:
     DIR_JSON_TRANSLATED = f"texts/{LANGUAGE}"
     DIR_CSV_TRANSLATED = f"texts/{LANGUAGE}"
     SPEAKER_NAMES = _load_speaker_names(DIR_CSV_TRANSLATED)
+
+  HIGHLIGHT_MODE = args.highlight
+  if len(args.highlight_marker) != 2:
+    parser.error("--highlight-marker must be exactly 2 characters (opener then closer)")
+  HL_OPEN, HL_CLOSE = args.highlight_marker[0], args.highlight_marker[1]
+  TIP_TRIGGER = args.tip_trigger == "keep"
 
   print(f"Language: {LANGUAGE}")
 

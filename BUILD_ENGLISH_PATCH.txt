@@ -72,7 +72,7 @@ INPUT STATUS (as of last check)
   & "tools\STRAHLocalizationHelper.exe"
 
   # 4. Zip the patch into a versioned deliverable. Prompts to increment / enter /
-  #    reuse the version (latest is auto-detected from out\). No timestamped
+  #    reuse the version (latest is auto-detected from dist\). No timestamped
   #    archive copies are kept - the versioned zips ARE the history.
   scripts\zip_patch.ps1
   #    Non-interactive: scripts\zip_patch.ps1 -Version 0.05
@@ -81,8 +81,10 @@ INPUT STATUS (as of last check)
 
 OUTPUT
 ------
-  out\01005940182ec000\               <- the patch folder (LayeredFS)
-  out\STRAH_en_patch_switch_<ver>.zip <- the VERSIONED deliverable (the only zip kept)
+  out\01005940182ec000\                <- the patch folder (LayeredFS); also where
+                                           the helper writes its build-time scratch
+                                           files (.csv/.json) — transient working area
+  dist\STRAH_en_patch_switch_<ver>.zip <- the VERSIONED deliverable (the only zip kept)
 
 INSTALL (Switch + Atmosphere CFW)
 ----------------------------------

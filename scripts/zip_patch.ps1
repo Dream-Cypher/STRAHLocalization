@@ -9,7 +9,7 @@ param([string]$Version)
 
 $ErrorActionPreference = "Stop"
 $patchDir = "out\01005940182ec000"
-$prefix   = "out\STRAH_en_patch_switch_"
+$prefix   = "dist\STRAH_en_patch_switch_"
 
 if (-not (Test-Path $patchDir)) {
     throw "Patch folder not found: $patchDir  (run tools\STRAHLocalizationHelper.exe first)"
@@ -41,6 +41,7 @@ if (-not $Version) {
 }
 
 $dest = "$prefix$Version.zip"
+New-Item -ItemType Directory -Force -Path "dist" | Out-Null
 if (Test-Path $dest) { Write-Host "Overwriting $dest" -ForegroundColor Yellow }
 Compress-Archive -Path $patchDir -DestinationPath $dest -Force
 Write-Host "Wrote $dest" -ForegroundColor Green

@@ -24,6 +24,7 @@ _translations/
 _chunks/
 
 out/
+dist/
 
 # python venv (deps live in requirements.txt; not committed)
 .venv/
@@ -42,19 +43,7 @@ local-scripts/
 
 # issues/ is a local working area for the translation-review pipeline. None of
 # it is the source of truth (apply_review_fixes.py writes fixes into texts/en/,
-# and git history of texts/en/ is the authoritative change record):
-#   - translation_review.xlsx : regenerable working doc / shared via OneDrive
-#   - gender_audit_*.csv       : regenerable analysis reports (audit_gender.py)
-#   - applied_fixes_*.csv      : per-run change logs (redundant with git diff)
-issues/*.xlsx
-issues/~$*
-issues/gender_audit_*.csv
-issues/applied_fixes_*.csv
-issues/gemini_applied_*.csv
-issues/anchor_align_flags.csv
-issues/align_verdicts_*.csv
-issues/align_boundary_flags.csv
-issues/_align/
-#   - subs_fuzzy_candidates.csv : anime-sub phrasing candidates (DERIVED from the
-#     copyrighted anime subs via local-scripts/subs_fuzzy_poc.py; regenerable).
-issues/subs_fuzzy_candidates.csv
+# and git history of texts/en/ is the authoritative change record) -- the whole
+# folder (review sheets, alignment QA dumps, gender audits, etc.) is regenerable
+# scratch and is never committed.
+issues/

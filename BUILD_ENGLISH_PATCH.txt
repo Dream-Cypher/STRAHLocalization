@@ -84,15 +84,17 @@ OUTPUT
   out\01005940182ec000\                <- the patch folder (LayeredFS); also where
                                            the helper writes its build-time scratch
                                            files (.csv/.json) — transient working area
-  dist\STRAH_en_patch_switch_<ver>.zip <- the VERSIONED deliverable (the only zip kept)
+  dist\STRAH_en_patch_switch_<ver>.zip <- the VERSIONED deliverable (the only zip kept),
+                                           laid out as atmosphere\contents\01005940182ec000\...
+                                           ready to extract to the SD card root
 
 INSTALL (Switch + Atmosphere CFW)
 ----------------------------------
-  1. Unzip  STRAH_en_patch_switch_<ver>.zip.
-  2. (Updating?) Delete any existing  SD:/atmosphere/contents/01005940182ec000  first.
-  3. Copy the  01005940182ec000  folder to:  SD:/atmosphere/contents/
+  1. (Updating?) Delete any existing  SD:/atmosphere/contents/01005940182ec000  first.
+  2. Extract  STRAH_en_patch_switch_<ver>.zip  directly to the ROOT of the SD card
+     (it already contains the atmosphere\contents\... folder structure).
      Final path:  SD:/atmosphere/contents/01005940182ec000/
-  4. Boot/reboot the Switch into Atmosphere CFW (hold Volume-Up if needed).
+  3. Boot/reboot the Switch into Atmosphere CFW (hold Volume-Up if needed).
 
 FONT NOTE  (font replacement is OPTIONAL — default is OFF)
 ---------

@@ -1,4 +1,5 @@
 from collections.abc import Callable
+import argparse
 import csv
 import hashlib
 import json
@@ -7,7 +8,7 @@ import re
 import textwrap
 from typing import Any
 
-LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
+LANGUAGE = os.getenv("XZ_LANGUAGE") or "en"
 
 # The original CJK wrap (11 full-width chars/line) doesn't translate to a
 # proportional Latin font; this is a starting character budget per line for
@@ -130,11 +131,15 @@ def wrap_dialogue(text: str, width: int = DIALOGUE_WIDTH) -> list[str]:
 
 # Speaker-name map (JA name -> localized name) for the dialogue `name` field.
 # Built by scripts/build_speaker_names (saved to texts/<lang>/_speaker_names.json).
-try:
-  with open(f"{DIR_CSV_TRANSLATED}/_speaker_names.json", "r", encoding="utf-8") as _f:
-    SPEAKER_NAMES = json.load(_f)
-except FileNotFoundError:
-  SPEAKER_NAMES = {}
+def _load_speaker_names(dir_csv_translated: str) -> dict[str, str]:
+  try:
+    with open(f"{dir_csv_translated}/_speaker_names.json", "r", encoding="utf-8") as _f:
+      return json.load(_f)
+  except FileNotFoundError:
+    return {}
+
+
+SPEAKER_NAMES = _load_speaker_names(DIR_CSV_TRANSLATED)
 
 
 def handle_json(sheet_name: str, handler: Callable[[dict[str, str], Any], Any]) -> bool:
@@ -253,6 +258,22 @@ def metadata_handler(translations: dict[str, str], data: dict[str, dict[str, int
 
 
 def main() -> None:
+  global LANGUAGE, DIR_JSON_TRANSLATED, DIR_CSV_TRANSLATED, SPEAKER_NAMES
+
+  parser = argparse.ArgumentParser(description="Convert translated CSVs to JSON for the patch build.")
+  parser.add_argument("--language", "-l", default=None, help="Target language (e.g. en, zh_Hans). "
+                       "Overrides $XZ_LANGUAGE; defaults to en.")
+  args = parser.parse_args()
+
+  language = args.language or os.getenv("XZ_LANGUAGE") or "en"
+  if language != LANGUAGE:
+    LANGUAGE = language
+    DIR_JSON_TRANSLATED = f"texts/{LANGUAGE}"
+    DIR_CSV_TRANSLATED = f"texts/{LANGUAGE}"
+    SPEAKER_NAMES = _load_speaker_names(DIR_CSV_TRANSLATED)
+
+  print(f"Language: {LANGUAGE}")
+
   os.makedirs(f"{DIR_JSON_TRANSLATED}/scrpt.cpk", exist_ok=True)
   for file_name in os.listdir(f"{DIR_JSON_ORIGINAL}/scrpt.cpk"):
     if not file_name.endswith(".json"):

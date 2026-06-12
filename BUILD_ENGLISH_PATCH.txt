@@ -23,14 +23,13 @@ KEY PATHS
 
 TWO CRITICAL ENGLISH SPECIFICS
 ------------------------------
-  1. The HELPER EXE defaults to English now: it reads tools\config.json
-     (next to the exe), which ships with "language": "en", so you normally
-     do NOT need to set XZ_LANGUAGE for step 3. It's still honored as an
-     override if set (e.g. for the Chinese build, XZ_LANGUAGE=zh_Hans).
-     CONVERT_CSV_TO_JSON.PY IS DIFFERENT: it has no --language flag and reads
-     ONLY $env:XZ_LANGUAGE, defaulting to "zh_Hans" (Chinese) if unset. You
-     MUST set $env:XZ_LANGUAGE = "en" before step 2, or it will silently
-     regenerate the Chinese texts/zh_Hans/*.json instead of texts/en/*.json.
+  1. Both the HELPER EXE and convert_csv_to_json.py default to English now.
+     The HELPER EXE reads tools\config.json (next to the exe), which ships
+     with "language": "en". CONVERT_CSV_TO_JSON.PY defaults to "en" and also
+     accepts a --language/-l flag (e.g. --language zh_Hans). For both tools,
+     $env:XZ_LANGUAGE is still honored as an override if set (e.g. for the
+     Chinese build, XZ_LANGUAGE=zh_Hans) -- for convert_csv_to_json.py the
+     precedence is: --language flag > $env:XZ_LANGUAGE > "en".
   2. Run everything with the WORKING DIRECTORY set to the localization repo
      (<STRAHLocalization repo>). All paths are relative to it.
 
@@ -65,9 +64,8 @@ INPUT STATUS (as of last check)
   #    (revert anytime by deleting files\fonts\*.ttf)
 
   # 2. CSV -> JSON  (regenerates texts/en/*.json from the CSVs)
-  #    REQUIRED: convert_csv_to_json.py reads ONLY $env:XZ_LANGUAGE (no
-  #    --language flag) and defaults to zh_Hans (Chinese) if unset.
-  $env:XZ_LANGUAGE = "en"
+  #    Defaults to English; no env var needed. (For Chinese: add
+  #    --language zh_Hans or set $env:XZ_LANGUAGE = "zh_Hans".)
   python scripts\convert_csv_to_json.py
 
   # 3. Build the patch (the EXE uses THIS repo as its working directory)
@@ -188,9 +186,10 @@ MOVING TO ANOTHER PC
 TROUBLESHOOTING
 ---------------
   * Got the Chinese patch?  -> Two possible causes:
-                                (a) step 2: $env:XZ_LANGUAGE wasn't "en" when you ran
+                                (a) step 2: $env:XZ_LANGUAGE or a --language flag was set
+                                    to something other than "en" when you ran
                                     convert_csv_to_json.py, so it wrote texts/zh_Hans/
-                                    instead of texts/en/ — re-run step 2 with it set.
+                                    instead of texts/en/ — re-run step 2 without it.
                                 (b) step 3: tools\config.json "language" isn't "en", or
                                     XZ_LANGUAGE is set to something other than "en"
                                     (env var overrides config.json).

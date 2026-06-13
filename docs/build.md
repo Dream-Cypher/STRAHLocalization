@@ -171,34 +171,6 @@ You do **not** need a C compiler / .NET SDK to **run** the helper at all —
 download the Release (option a) or copy an existing `tools\` (option c). The
 SDK is only needed to **produce** `tools\` yourself from source (option b).
 
-**Not needed for the default build:** network, Ollama, or any pip install.
-Optional extras and their deps:
-
-- **Re-translate dialogue**: an Ollama server. NOTE the scripts target
-  `10.219.72.133` (a specific LAN). Elsewhere, run Ollama and set the
-  `OLLAMA_IP` env var. The translation/QA tooling lives in `local-scripts\`
-  (gitignored, not part of the repo) — e.g. `local-scripts\translate_files.py`.
-  (Stdlib only.)
-- **Regenerate sprites**: `pip install -r requirements.txt` (UnityPy + Pillow)
-  for `scripts\make_overlays.py` / `scripts\make_sprites.py`
-- **Recompile the helper**: .NET 8+ SDK
-
-### Paths are relative (helper is a sibling repo, `..\STRAHLocalizationHelper`)
-
-The helper's internal paths are all relative to its working directory, so the
-only things to update are the absolute paths in this guide and in the build
-command:
-
-- the `cd` target → your new localization-repo path
-- the path to `STRAHLocalizationHelper.exe` in step 3 (`tools\...` here)
-
-Rule stays the same: run the exe with the working directory = localization repo.
-
-**Setup recap:** install Python → get `tools\` (download the helper repo's
-GitHub Release, build it via `build.ps1`, or copy an existing one) → run the
-[Commands](#commands-powershell--run-from-the-localization-repo) section from
-the localization-repo directory.
-
 ## Troubleshooting
 
 - **Got the Chinese patch?** → Two possible causes:

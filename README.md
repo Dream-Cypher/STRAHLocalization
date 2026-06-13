@@ -36,8 +36,8 @@ A few places where this translation works a little differently from the original
   with English text. The "new TIPS entry found" popup still works as normal.
 - **A few of the longest TIPS entries are shortened**, since the TIPS encyclopedia's
   text box can only show so many lines. These end with "[Summarized - see notes]". The
-  full, unabridged text of **every** TIPS entry is included with this patch as
-  **TIPS_full_text.html**.
+  full, unabridged text of **every** TIPS entry is available online at the
+  [**TIPS Reference**](https://dream-cypher.github.io/STRAHLocalization/TIPS_reference.html).
 - **Three tabs on the Settings screen (Sound/System/Voice) remain in Japanese.**
   Everything else on that screen is in English — these three labels are built into
   the game's program itself rather than its translatable files, so this patch can't
@@ -70,7 +70,14 @@ tools\STRAHLocalizationHelper.exe
 # then zip out/01005940182ec000/
 ```
 
-Full step-by-step guide: **BUILD_ENGLISH_PATCH.txt**.
+Full step-by-step guide: [**docs/build.md**](docs/build.md) (also published as the
+[**Build Guide**](https://dream-cypher.github.io/STRAHLocalization/build.html)).
+
+## Documentation
+
+The **[documentation site](https://dream-cypher.github.io/STRAHLocalization/)**
+(built from [`docs/`](docs/)) has the full TIPS reference, build guide, and
+glossary in a readable web format.
 
 ## Credits
 

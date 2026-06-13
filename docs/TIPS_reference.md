@@ -1,4 +1,4 @@
-# STRAH: Another Horizon -- TIPS full text
+# STRAH: Another Horizon -- TIPS Reference (full text)
 
 This file contains the **complete, full text** of every TIPS encyclopedia entry, as translated for this localization. The in-game TIPS box clips long entries past a fixed number of lines (see `local-scripts/tips_fit.py`); entries shortened in-game are marked there with a trailing `[Summarized - see notes]` -- this file always shows the full original wording regardless.
 

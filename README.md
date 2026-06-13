@@ -17,44 +17,60 @@ All in-game **dialogue, tips, chapter intros, the flowchart, and menus** are ful
 Unlike the original (which left some image-based text in Japanese), this fork also localizes the
 **image-form text**:
 
-- **Speaker name plates** (the `talker_*` images) — English over the dimmed original art
-- **QTE / action prompts** (the `adv_action_*` images)
+- **Speaker name plates** — English text over the dimmed original artwork
+- **QTE / action prompts** — the on-screen button prompts during quick-time events
 - The in-game **manual** pages
 
 Character-name spellings follow the official *Summer Time Rendering* romanizations
 (e.g. Kofune, Minakata, Sou Hishigata). The full glossary is in
-[`texts/en/GLOSSARY.md`](texts/en/GLOSSARY.md).
+[**texts/en/GLOSSARY.md**](texts/en/GLOSSARY.md).
 
 Nintendo Switch version only — it cannot be used on other platforms.
 
+## Major changes & accepted limitations
+
+A few places where this translation works a little differently from the original:
+
+- **TIPS glossary terms are marked with ‹guillemets›** (e.g. "the ‹Hiruko Cave›")
+  instead of the original's gold highlight color, which didn't display correctly
+  with English text. The "new TIPS entry found" popup still works as normal.
+- **A few of the longest TIPS entries are shortened**, since the TIPS encyclopedia's
+  text box can only show so many lines. These end with "[Summarized - see notes]". The
+  full, unabridged text of **every** TIPS entry is included with this patch as
+  **TIPS_full_text.html**.
+- **Three tabs on the Settings screen (Sound/System/Voice) remain in Japanese.**
+  Everything else on that screen is in English — these three labels are built into
+  the game's program itself rather than its translatable files, so this patch can't
+  change them.
+
 ## Install
 
-You need a Switch running [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) custom
-firmware (CFW). Download or build the patch, then:
+You need a Switch running Atmosphere custom firmware (CFW). Download or build the
+patch, then:
 
 1. Unzip the patch.
-2. Move the `01005940182ec000` folder into `SD:/atmosphere/contents/`.
+2. Move the **01005940182ec000** folder into **SD:/atmosphere/contents/**.
 3. Launch the game.
 
-> If your console has no `atmosphere` folder and you don't know what CFW is, this patch is not for you.
+> If your console has no **atmosphere** folder and you don't know what CFW is, this patch is not for you.
 
 ## Build from source
 
-Requires **Windows x64**, **Python 3.10+** (the pipeline is stdlib-only), **.NET 8** (only if you
-recompile the helper), and `pip install UnityPy Pillow` for the image work. The patch tool,
-[`STRAHLocalizationHelper`](https://github.com/Dream-Cypher/STRAHLocalizationHelper) (our fork,
-with the language fix described in its `CLAUDE.md`), must be cloned as a **sibling** folder. You
-also need your own dump of the game under `original_files/Switch/` (not included — copyrighted).
+Requires **Windows x64**, **Python 3.10+** (the pipeline is stdlib-only), and
+**pip install UnityPy Pillow** for the image work. The patch tool,
+[**STRAHLocalizationHelper**](https://github.com/Dream-Cypher/STRAHLocalizationHelper) (our
+fork, with a small language fix), can be downloaded as a prebuilt release — no need to clone or
+compile anything. You also need your own dump of the game under **original_files/Switch/** (not
+included).
 
 ```powershell
 $env:XZ_LANGUAGE = "en"           # default is Chinese (zh_Hans)!
 python scripts/convert_csv_to_json.py
-..\STRAHLocalizationHelper\STRAHLocalizationHelper\bin\Release\net8.0-windows\win-x64\publish\STRAHLocalizationHelper.exe
+tools\STRAHLocalizationHelper.exe
 # then zip out/01005940182ec000/
 ```
 
-Full step-by-step guide: **[`BUILD_ENGLISH_PATCH.txt`](BUILD_ENGLISH_PATCH.txt)**.
-Project/architecture map (scripts, overlay pipeline, gotchas): **`CLAUDE.md`**.
+Full step-by-step guide: **BUILD_ENGLISH_PATCH.txt**.
 
 ## Credits
 
@@ -73,5 +89,5 @@ the same license as the upstream project. If you build on this work, you must:
 - **NonCommercial** — do not use it for commercial purposes.
 - **ShareAlike** — license your derivative under the same terms.
 
-See the [`LICENSE`](LICENSE) file for the full text. The original Chinese README is preserved as
-[`README.zh.md`](README.zh.md).
+See the [**LICENSE**](LICENSE) file for the full text. The original Chinese README is preserved as
+[**README.zh.md**](README.zh.md).

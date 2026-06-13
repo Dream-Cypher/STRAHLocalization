@@ -3,7 +3,7 @@ layout: default
 title: Build Guide
 ---
 
-# Building the English patch — STRAH: Another Horizon (Switch)
+# Building the English patch — Summer Time Rendering: Another Horizon (Switch)
 
 ## What "compile" means here
 

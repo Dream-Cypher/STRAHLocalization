@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Home
+title: "Summer Time Rendering: Another Horizon"
 ---
 
-# STRAH: Another Horizon — English Localization
+# Summer Time Rendering: Another Horizon — English Localization
 
 Documentation for the **English fan-localization patch** of the Nintendo
-Switch visual novel *STRAH: Another Horizon* (サマータイムレンダ Another
-Horizon).
+Switch visual novel "Summer Time Rendering: Another Horizon".
 
 For the patch itself, installation instructions, and credits, see the
 [**project README**](https://github.com/Dream-Cypher/STRAHLocalization#readme)

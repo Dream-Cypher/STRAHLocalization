@@ -3,7 +3,7 @@
 [![CC-BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 An **English** fan-translation patch for the Nintendo Switch visual novel
-*STRAH: Another Horizon* (<span lang="ja">サマータイムレンダ Another Horizon</span>).
+"Summer Time Rendering: Another Horizon".
 
 This project is an English adaptation built on top of
 **[Xzonn's Simplified-Chinese localization](https://github.com/Xzonn/STRAHChsLocalization)**

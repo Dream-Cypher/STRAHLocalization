@@ -7,7 +7,7 @@ title: Glossary
 > in the repo — used in-place by the translation pipeline. This page is a
 > read-only mirror for the web.
 
-# STRAH: Another Horizon — English Localization Glossary (finalized for pasting)
+# Summer Time Rendering: Another Horizon — English Localization Glossary (finalized for pasting)
 
 The three code blocks below (Characters / Places / Terminology) are ready to
 copy-paste as-is into the translation prompt's `[PASTE YOUR GLOSSARY HERE]`

@@ -136,6 +136,7 @@ since these exact terms recur throughout the dialogue.
 カプグラ症候群 = Capgras syndrome           [real psychological condition]
 惨劇の夜 = the Night of the Tragedy
 正義の味方 = Hero of Justice / Champion of Justice
+フカン / 俯瞰 = bird's-eye view            [Shinpei's signature technique (TIPS #129) — always "bird's-eye view", never "big picture"/"objective"]
 ```
 
 ## 4. Decisions made for you (so you don't have to call these yourself)

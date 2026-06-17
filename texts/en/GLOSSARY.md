@@ -80,8 +80,8 @@ script CSVs). Top ~10 cover the large majority of all dialogue.
 トキコ = Tokiko
 小舟アラン = Alain Kofune
   小舟アラン（影アラン） = Alain Kofune (Shadow Alain)
-南方波稲 = Hoine Minakata
-  波稲 = Hoine
+南方波稲 = Haine Minakata
+  波稲 = Haine
 小早川朝子 = Asako Kobayakawa
   小早川朝子（影アサコ） = Asako Kobayakawa (Shadow Asako)
 小早川しおり = Shiori Kobayakawa

@@ -301,6 +301,9 @@ def scripts_handler(translations: dict[str, str], data: dict[str, Any]) -> bool:
         text_id = f"{function}_{i:04d}-{choice_i}"
         line, _ = choice.split(",", 1)
         translation = translations[text_id]
+        if "," in translation:
+          print(f"  WARNING: MSTD choice '{text_id}' contains a comma — this WILL break "
+                f"the game's argument parser. Remove the comma: {translation!r}")
         item["argument"][3 + choice_i] = f"{translation},{_}"
       continue
     else:

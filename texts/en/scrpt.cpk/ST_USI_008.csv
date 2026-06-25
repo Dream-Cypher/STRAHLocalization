@@ -60,14 +60,14 @@ XMESS_0053,Oh right!,XMESS_0053,凸村哲
 XMESS_0054,"(Oops, we spoke at the same time. What should I do?)",XMESS_0054,網代慎平
 MSTD_0257-0,"""There's something I'd like to consult with you about.""",MSTD_0257-0,
 MSTD_0257-1,"""I'd like you to make some time for me.""",MSTD_0257-1,
-MSTD_0257-2,"""Totsumura-san, you go first.""",MSTD_0257-2,
+MSTD_0257-2,"""Totsumura-san should go first.""",MSTD_0257-2,
 XMESS_0055,There's something I'd like to consult with you about...,XMESS_0055,網代慎平
 XMESS_0056,"What is it, so formally.",XMESS_0056,凸村哲
 XMESS_0057,I'd like you to make some time for me...,XMESS_0057,網代慎平
 XMESS_0058,"That's fine, but... if it's something like you got involved with some dangerous folks in Tokyo, save that kind of talk for another time.",XMESS_0058,凸村哲
 XMESS_0059,Like hell it is! ...I just have something I want to consult with you about.,XMESS_0059,網代慎平
 XMESS_0060,"Hmm, what kind of talk?",XMESS_0060,凸村哲
-XMESS_0061,"Totsumura-san, you go first.",XMESS_0061,網代慎平
+XMESS_0061,Totsumura-san should go first.,XMESS_0061,網代慎平
 XMESS_0062,"Ah, is that alright? Then...",XMESS_0062,凸村哲
 XMESS_0063,I have something I need to give to you! Here!,XMESS_0063,凸村哲
 XMESS_0064,A <color=#GF_KEY_USI_SMARTPHONE>smartphone</color>...?,XMESS_0064,網代慎平

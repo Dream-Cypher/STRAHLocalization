@@ -64,10 +64,9 @@ compile anything. You also need your own dump of the game under **original_files
 included).
 
 ```powershell
-$env:XZ_LANGUAGE = "en"           # default is Chinese (zh_Hans)!
-python scripts/convert_csv_to_json.py
+python scripts/convert_csv_to_json.py   # English is the default; -l zh_Hans for Chinese
 tools\STRAHLocalizationHelper.exe
-# then zip out/01005940182ec000/
+scripts\zip_patch.ps1                   # packages out/ into dist/STRAH_en_patch_switch_<ver>.zip
 ```
 
 Full step-by-step guide: [**docs/build.md**](docs/build.md) (also published as the

@@ -12,6 +12,10 @@ For the patch itself, installation instructions, and credits, see the
 [**project README**](https://github.com/Dream-Cypher/STRAHLocalization#readme)
 on GitHub.
 
+[![Dialogue from the English patch](screenshots/dialogue.png)](screenshots.html)
+
+*More on the [Screenshots](screenshots.html) page.*
+
 ## Pages
 
 - [**TIPS Reference**](TIPS_reference.html) — the complete, unabridged text of
@@ -27,6 +31,8 @@ on GitHub.
 
 - [**Glossary**](glossary.html) — official name readings and terminology used
   throughout the translation.
+
+- [**Screenshots**](screenshots.html) — the patch running on a Switch.
 
 ## License
 

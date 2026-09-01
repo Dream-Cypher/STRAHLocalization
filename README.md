@@ -11,6 +11,15 @@ and its patch tool. It reuses that framework and translates the game into Englis
 
 > **For technical and educational exchange only. Please use it only with a legally-owned copy of the game.**
 
+## Screenshots
+
+| | |
+|---|---|
+| [![Title screen](docs/screenshots/title-screen.png)](docs/screenshots/title-screen.png) | [![Dialogue with English name plate](docs/screenshots/dialogue.png)](docs/screenshots/dialogue.png) |
+| **Title screen** | **Dialogue** — the speaker name plate is an English image drawn over the dimmed original |
+| [![TIPS encyclopedia](docs/screenshots/tips-screen.png)](docs/screenshots/tips-screen.png) | [![TIPS keyword highlighted in dialogue](docs/screenshots/tips-highlight.png)](docs/screenshots/tips-highlight.png) |
+| **TIPS encyclopedia** — entries shortened to fit the box end with `[Summarized - see notes]` | **TIPS keywords** are marked with ‹guillemets› in dialogue |
+
 ## What's translated
 
 All in-game **dialogue, tips, chapter intros, the flowchart, and menus** are fully translated.
